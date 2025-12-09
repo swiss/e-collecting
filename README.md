@@ -61,9 +61,7 @@ Eine längere Timeline mit weiter zurück liegenden Ereignissen findet sich FIXM
 
 ### Umfassende Liste mit Dokumenten und Protokollen
 
-**Ein umfassende Liste mit Dokumenten und Protokollen findet sich unter folgenden Link.**
-
-FIXME:Link komplette Liste (inkl. Ratsprotokolle, Motionen, etc.)
+Ein umfassendes Verzeichnis mit Dokumenten und Protokollen findet sich auf einer separaten [Liste](docs/admin/documents-and-protocols.md).
 
 ## Verschiedene thematische Zugänge
 

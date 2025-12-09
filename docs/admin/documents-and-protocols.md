@@ -6,3 +6,4 @@
 * Leitfaden für Teilnahme am E-Collecting Hackathon (2025-10-23): [PDF](https://www.bk.admin.ch/dam/bk/de/dokumente/pore/E-Collecting/hackathon2025/E-Collecting%20Hackathon%20Leitfaden.pdf.download.pdf/E-Collecting%20Hackathon%20Leitfaden.pdf)
 * E-Collecting Hackathon mit Lösungsvarianten (2025-10-31/2025-11-01): [Webseite](https://www.github.com/swiss/e-collecting-hackathon)
 
+Weitere Dokumente folgen in Kürze.
