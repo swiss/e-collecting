@@ -41,6 +41,7 @@ Eine umfassende Liste dieser und weiterer geplanter Diskussionen wird in den nä
 ## Timeline
 
 ![Grafische Darstellung der Timeline mit den Stationen Eröffnungsevent, Hackathon, 2. Online-Veranstaltung, Bilanz schriftlicher Dialog, weiterer partizipativer Prozess und Variantenentscheid Bundeskanzler](docs/timeline/timeline.png)
+
 _Bildbeschreibung: Grafische Darstellung der Timeline mit den Stationen Eröffnungsevent, Hackathon, 2. Online-Veranstaltung, Bilanz schriftlicher Dialog, weiterer partizipativer Prozess und Variantenentscheid Bundeskanzler_
 
 ## Dokumente und Protokolle
