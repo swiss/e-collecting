@@ -6,20 +6,19 @@ E-Collecting bezeichnet ein digitales Verfahren, das von der Unterstützung eine
 
 Mehr dazu auf der [Webseite der Bundeskanzlei](https://www.bk.admin.ch/bk/de/home/politische-rechte/e-collecting.html).
 
-Der Bundesrat hat die Bundeskanzlei mit Versuchen zu E-Collecting beauftragt. Die
-Bundeskanzlei wiederum hat dazu einen partizipativen Prozess lanciert. Das verfolgt zunächst das Ziel,
-die verschiedenen Umsetzungsvarianten zu erheben, zu beschrieben und zu besprechen.
+Das Parlament hat den Bundesrat mit Versuchen mit E-Collecting beauftragt. Er hat die Federführung der 
+Bundeskanzlei übertragen. Sie hat dazu einen partizipativen Prozess lanciert. Damit verfolgt sie das Ziel,
+die wichtigen Fragen und die verschiedenen Umsetzungsvarianten zu erheben, zu beschreiben und zu besprechen.
 
-Die E-Collecting Plattform dient dabei als Ort der Diskussion und als Sammelplatz für Informationen
-zu den E-Collecting Versuchen und den angesprochenen Umsetzungsvarianten.
+Die E-Collecting Plattform dient der Diskussion zu den E-Collecting Versuchen und den möglichen Umsetzungsvarianten.
 
 Die Plattform steht allen Interessierten offen und lädt dazu ein, die Unterlagen zu
 studieren und sich in die Diskussionen einzubringen.
 
-Die Darstellung der Plattform im Browser kann etwas einschüchternd wirken. Es steht
-deshalb eine separate [Anleitung zur Verfügung FIXME]() .
+Die Darstellung der Plattform im Browser weicht von gängigen Standards ab. Es steht
+deshalb eine separate [Anleitung zur Verfügung FIXME]().
 
-Der E-Collecting Newsletter der Bundeskanzlei informiert regelmässig über Neuigkeiten zum partizipativen Prozess. [Registration](https://www.bk.admin.ch/bk/de/home/politische-rechte/e-collecting/newsletter.html)
+Die Bundeskanzlei informiert mit ihrem E-Collecting Newsletter regelmässig über Neuigkeiten zum partizipativen Prozess. [Registration](https://www.bk.admin.ch/bk/de/home/politische-rechte/e-collecting/newsletter.html)
 
 * FIXME: Mehrsprachigkeit
 
@@ -27,7 +26,7 @@ Der E-Collecting Newsletter der Bundeskanzlei informiert regelmässig über Neui
 
 Die 2. Partizipationsveranstaltung 10.12.2025: [Teams-Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmFmNThmMTEtNjY3OS00YTMxLTg5ODgtNGI2NzdkM2EyNzk5%40thread.v2/0?context=%7b%22Tid%22%3a%226ae27add-8276-4a38-88c1-3a9c1f973767%22%2c%22Oid%22%3a%227887f44d-8227-43b2-9c01-25317146e9e3%22%7d)
 
-Die Präsentation der Veranstaltung werden wir in Bälde hier verlinken.
+Die Präsentation der Veranstaltung werden wir hier verlinken.
 
 **Diskussionbedarf für die E-Collecting Umsetzungsvarianten**
 
@@ -44,9 +43,9 @@ Eine umfassende Liste dieser und weiterer geplanter Diskussionen wird in den nä
 
 _Bildbeschreibung: Grafische Darstellung der Timeline mit den Stationen Eröffnungsevent, Hackathon, 2. Online-Veranstaltung, Bilanz schriftlicher Dialog, weiterer partizipativer Prozess und Variantenentscheid Bundeskanzler_
 
-## Dokumente und Protokolle
+## Dokumente
 
-### Dokumente und Protokolle des partizipativen Prozesses E-Collecting
+### Dokumente des partizipativen Prozesses E-Collecting
 
 * Postulatsbericht E-Collecting (2024-11-20): [PDF](https://www.newsd.admin.ch/newsd/message/attachments/90667.pdf)
 * Teilrevision des Bundesgesetzes über die politischen Recht mit neuer E-Collecting Versuchsnorm (2025-04-30): [Webseite](https://www.news.admin.ch/de/newnsb/oAsAOWHCOpvBMZavKcq_e)
@@ -54,9 +53,9 @@ _Bildbeschreibung: Grafische Darstellung der Timeline mit den Stationen Eröffnu
 * Leitfaden für Teilnahme am E-Collecting Hackathon (2025-10-23): [PDF](https://www.bk.admin.ch/dam/bk/de/dokumente/pore/E-Collecting/hackathon2025/E-Collecting%20Hackathon%20Leitfaden.pdf.download.pdf/E-Collecting%20Hackathon%20Leitfaden.pdf)
 * E-Collecting Hackathon mit Lösungsvarianten (2025-10-31/2025-11-01): [Webseite](https://www.github.com/swiss/e-collecting-hackathon)
 
-### Umfassende Liste mit Dokumenten und Protokollen zu E-Collecting
+### Weitere Dokumente zu E-Collecting
 
-Ein umfassendes Verzeichnis mit Dokumenten und Protokollen findet sich auf einer separaten [Liste](docs/admin/documents-and-protocols.md).
+Ein umfassenderess Verzeichnis mit Dokumenten findet sich auf einer separaten [Liste](docs/admin/documents-and-protocols.md).
 
 ## Verschiedene thematische Zugänge
 
