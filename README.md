@@ -2,21 +2,15 @@
 
 ## Einführung zur Plattform
 
-E-Collecting bezeichnet ein digitales Verfahren für
-* das Unterstützen eines Volksbegehrens durch die eigene Unterschrift
-* das Übermitteln der Unterschriften an die Gemeinden
-* das Bescheinigen der Stimmberechtigung durch die Gemeinde
-* das Retournieren der Unterschriftendaten durch die Gemeinde
-* das Einreichen der Daten bei der Kanzlei, auf nationaler Ebene der Bundeskanzlei
-* das Zählen der eingegangenen Unterschriften
+E-Collecting bezeichnet ein digitales Verfahren, das von der Unterstützung eines Volksbegehrens durch die eigene Unterschrift bis zur Zählung der eingegangenen Unterschriften reicht.
 
 Mehr dazu auf der [Webseite der Bundeskanzlei](https://www.bk.admin.ch/bk/de/home/politische-rechte/e-collecting.html).
 
 Der Bundesrat hat die Bundeskanzlei mit Versuchen zu E-Collecting beauftragt. Die
-Bundeskanzlei hat dazu einen partizipativen Prozess lanciert. Dies verfolgt zunächst das Ziel,
-die verschiedenen Umsetzungsvarianten zu erhoben, zu beschrieben und zu besprechen.
+Bundeskanzlei wiederum hat dazu einen partizipativen Prozess lanciert. Das verfolgt zunächst das Ziel,
+die verschiedenen Umsetzungsvarianten zu erheben, zu beschrieben und zu besprechen.
 
-Diese E-Collecting Plattform dient dabei als Ort der Diskussion und als Sammelplatz für Informationen
+Die E-Collecting Plattform dient dabei als Ort der Diskussion und als Sammelplatz für Informationen
 zu den E-Collecting Versuchen und den angesprochenen Umsetzungsvarianten.
 
 Die Plattform steht allen Interessierten offen und lädt dazu ein, die Unterlagen zu
@@ -25,33 +19,32 @@ studieren und sich in die Diskussionen einzubringen.
 Die Darstellung der Plattform im Browser kann etwas einschüchternd wirken. Es steht
 deshalb eine separate [Anleitung zur Verfügung FIXME]() .
 
-Der E-Collecting Newsletter der Bundeskanzlei informiert regelmässig über Neuigkeiten zum partizipativen Prozess.
-
+Der E-Collecting Newsletter der Bundeskanzlei informiert regelmässig über Neuigkeiten zum partizipativen Prozess. [Registration](https://www.bk.admin.ch/bk/de/home/politische-rechte/e-collecting/newsletter.html)
 
 * FIXME: Mehrsprachigkeit
 
 ## Aktuell
 
-Die 2. Partizipationsveranstaltung 10.12.2025: *FIXME: Link*
+Die 2. Partizipationsveranstaltung 10.12.2025: [Teams-Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmFmNThmMTEtNjY3OS00YTMxLTg5ODgtNGI2NzdkM2EyNzk5%40thread.v2/0?context=%7b%22Tid%22%3a%226ae27add-8276-4a38-88c1-3a9c1f973767%22%2c%22Oid%22%3a%227887f44d-8227-43b2-9c01-25317146e9e3%22%7d)
 
-**Grundfragen für die E-Collecting Umsetzungsvarianten**
+Die Präsentation der Veranstaltung werden wir in Bälde hier verlinken.
 
-Zur Zeit laufen die Diskussionen zu folgenden Fragen:
+**Diskussionbedarf für die E-Collecting Umsetzungsvarianten**
 
-* Lässt sich auf einen Opt-Out für den Papierprozess verzichten? ([Grundfrage Opt-Out - Issue 1](https://github.com/swiss/e-collecting/issues/1))
-* An welchen Orten manifestiert sich die politische Ausgewogenheit? ([Grundfrage Politische-Ausgewogenheit - Issue 2](https://github.com/swiss/e-collecting/issues/2))
+Zur Zeit laufen die Diskussionen zu folgenden Themen:
 
-Eine umfassende Liste dieser und weiterer Grundfragen findet sich [FIXME:Link]().
+* An welchen Orten manifestiert sich die politische Ausgewogenheit? ([Diskussion Politische-Ausgewogenheit - Issue 1](https://github.com/swiss/e-collecting/issues/2))
+* Lässt sich wirklich auf einen Opt-Out für den Papierprozess verzichten? ([Diskussion Opt-Out - Issue 2](https://github.com/swiss/e-collecting/issues/1))
+
+Eine umfassende Liste dieser und weiterer geplanter Diskussionen wird in den nächsten Tagen publiziert werden.
 
 ## Timeline
 
-*FIXME: Mermaid chart (?) (Dargestellt werden sollen die vergangenen 12 Monate, der aktuelle Stand und ein knapper Ausblick in die Zukunft)*
-
-Eine längere Timeline mit weiter zurück liegenden Ereignissen findet sich FIXME:Link.
+![Grafische Darstellung der Timeline mit den Stationen Eröffnungsevent, Hackathon, 2. Online-Veranstaltung, Bilanz schriftlicher Dialog, weiterer partizipativer Prozess und Variantenentscheid Bundeskanzler](docs/timeline/timeline.png)
 
 ## Dokumente und Protokolle
 
-### Dokumente und Protokolle des partizipativen Prozesses E-Collecting
+-### Dokumente und Protokolle des partizipativen Prozesses E-Collecting
 
 * Postulatsbericht E-Collecting (2024-11-20): [PDF](https://www.newsd.admin.ch/newsd/message/attachments/90667.pdf)
 * Teilrevision des Bundesgesetzes über die politischen Recht mit neuer E-Collecting Versuchsnorm (2025-04-30): [Webseite](https://www.news.admin.ch/de/newnsb/oAsAOWHCOpvBMZavKcq_e)
