@@ -33,8 +33,8 @@ Die Präsentation der Veranstaltung werden wir in Bälde hier verlinken.
 
 Zur Zeit laufen die Diskussionen zu folgenden Themen:
 
-* An welchen Orten manifestiert sich die politische Ausgewogenheit? ([Diskussion Politische-Ausgewogenheit - Issue 1](https://github.com/swiss/e-collecting/issues/2))
-* Lässt sich wirklich auf einen Opt-Out für den Papierprozess verzichten? ([Diskussion Opt-Out - Issue 2](https://github.com/swiss/e-collecting/issues/1))
+* An welchen Orten manifestiert sich die politische Ausgewogenheit? ([Diskussion Politische-Ausgewogenheit - Issue 1](https://github.com/swiss/e-collecting/issues/1))
+* Lässt sich wirklich auf einen Opt-Out für den Papierprozess verzichten? ([Diskussion Opt-Out - Issue 2](https://github.com/swiss/e-collecting/issues/2))
 
 Eine umfassende Liste dieser und weiterer geplanter Diskussionen wird in den nächsten Tagen publiziert werden.
 
