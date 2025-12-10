@@ -1,4 +1,4 @@
-# Umfassende Liste mit Dokumenten und Protokollen des partizipativen Prozesses E-Collecting
+# Umfassende Liste mit Dokumenten zu E-Collecting
 
 * Postulatsbericht E-Collecting (2024-11-20): [PDF](https://www.newsd.admin.ch/newsd/message/attachments/90667.pdf)
 * Teilrevision des Bundesgesetzes über die politischen Recht mit neuer E-Collecting Versuchsnorm (2025-04-30): [Webseite](https://www.news.admin.ch/de/newnsb/oAsAOWHCOpvBMZavKcq_e)

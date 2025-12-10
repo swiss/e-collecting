@@ -20,8 +20,6 @@ deshalb eine separate [Anleitung zur Verfügung](docs/admin/github-tutorial.md).
 
 Die Bundeskanzlei informiert mit ihrem E-Collecting Newsletter regelmässig über Neuigkeiten zum partizipativen Prozess. [Registration](https://www.bk.admin.ch/bk/de/home/politische-rechte/e-collecting/newsletter.html)
 
-* FIXME: Mehrsprachigkeit
-
 ## Aktuell
 
 Die 2. Partizipationsveranstaltung 10.12.2025: [Teams-Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmFmNThmMTEtNjY3OS00YTMxLTg5ODgtNGI2NzdkM2EyNzk5%40thread.v2/0?context=%7b%22Tid%22%3a%226ae27add-8276-4a38-88c1-3a9c1f973767%22%2c%22Oid%22%3a%227887f44d-8227-43b2-9c01-25317146e9e3%22%7d)
@@ -55,7 +53,7 @@ _Bildbeschreibung: Grafische Darstellung der Timeline mit den Stationen Eröffnu
 
 ### Weitere Dokumente zu E-Collecting
 
-Ein umfassenderess Verzeichnis mit Dokumenten findet sich auf einer separaten [Liste](docs/admin/documents-and-protocols.md).
+Ein umfassenderess Verzeichnis mit Dokumenten findet sich auf einer separaten [Liste](docs/admin/document-list.md).
 
 ## Verschiedene thematische Zugänge
 
