@@ -1,4 +1,4 @@
-# E-Collecting Plattform
+# E-Collecting-Plattform
 
 ## Einführung zur Plattform
 
