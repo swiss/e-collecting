@@ -16,7 +16,7 @@ Die Plattform steht allen Interessierten offen und lädt dazu ein, die Unterlage
 studieren und sich in die Diskussionen einzubringen.
 
 Die Darstellung der Plattform im Browser weicht von gängigen Standards ab. Es steht
-deshalb eine separate [Anleitung zur Verfügung FIXME]().
+deshalb eine separate [Anleitung zur Verfügung](docs/admin/github-tutorial.md).
 
 Die Bundeskanzlei informiert mit ihrem E-Collecting Newsletter regelmässig über Neuigkeiten zum partizipativen Prozess. [Registration](https://www.bk.admin.ch/bk/de/home/politische-rechte/e-collecting/newsletter.html)
 
