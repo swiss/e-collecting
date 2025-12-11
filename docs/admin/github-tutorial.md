@@ -53,14 +53,6 @@ Um an einer Diskussion teilzunehmen, benötigen Sie einen Account.
 4. Wählen Sie einen Benutzernamen und ein sicheres Passwort
 5. Bestätigen Sie Ihre E-Mail-Adresse über den Link, den GitHub Ihnen schickt
 
-## An Diskussionen aktiv teilnehmen
-
-1. Loggen Sie sich auf der Plattform ein.
-2. Öffnen Sie die Diskussion (Issue), zu der Sie etwas beitragen möchten
-3. Scrollen Sie nach unten bis zum Kommentarfeld
-4. Schreiben Sie Ihren Beitrag im Textfeld
-5. Klicken Sie auf **Comment**, um ihn zu veröffentlichen. Ihr Kommentar ist nun sofort öffentkich sichtbar.
-
 ## Participer activement aux discussions
 
 1.	Connectez-vous à la plateforme.
@@ -69,6 +61,14 @@ Um an einer Diskussion teilzunehmen, benötigen Sie einen Account.
 4.	Écrivez votre contribution dans le champ de texte.
    
 Cliquez sur Comment afin de la publier. Votre commentaire est désormais visible par tous.
+
+## An Diskussionen aktiv teilnehmen
+
+1. Loggen Sie sich auf der Plattform ein.
+2. Öffnen Sie die Diskussion (Issue), zu der Sie etwas beitragen möchten
+3. Scrollen Sie nach unten bis zum Kommentarfeld
+4. Schreiben Sie Ihren Beitrag im Textfeld
+5. Klicken Sie auf **Comment**, um ihn zu veröffentlichen. Ihr Kommentar ist nun sofort öffentkich sichtbar.
 
 ## Être informés de nouveaux commentaires
 
