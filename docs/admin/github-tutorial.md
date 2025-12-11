@@ -59,8 +59,7 @@ Um an einer Diskussion teilzunehmen, benötigen Sie einen Account.
 2.	Ouvrez la discussion (Issue) à laquelle vous souhaitez contribuer.
 3.	Faites défiler vers le bas jusqu'au champ de commentaire.
 4.	Écrivez votre contribution dans le champ de texte.
-   
-Cliquez sur Comment afin de la publier. Votre commentaire est désormais visible par tous.
+5.	Cliquez sur Comment afin de la publier. Votre commentaire est désormais visible par tous.
 
 ## An Diskussionen aktiv teilnehmen
 
