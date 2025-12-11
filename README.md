@@ -41,13 +41,13 @@ Die Bundeskanzlei informiert mit ihrem E-Collecting Newsletter regelmässig übe
 
 La deuxième manifestation participative aura lieu le 10.12.2025: [Teams-Link](https://teams.microsoft.com/meet/37248906692933?p=0RKV9LClB8eNwGx4MB) 
 
-Nous mettrons ici le lien vers la présentation de l’événement. 
+[Ici](https://www.bk.admin.ch/bk/fr/home/droits-politiques/e-collecting/partizipativer_prozess.html) le lien vers la présentation de l’événement. 
 
 ## Aktuell
 
 Die 2. Partizipationsveranstaltung 10.12.2025: [Teams-Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmFmNThmMTEtNjY3OS00YTMxLTg5ODgtNGI2NzdkM2EyNzk5%40thread.v2/0?context=%7b%22Tid%22%3a%226ae27add-8276-4a38-88c1-3a9c1f973767%22%2c%22Oid%22%3a%227887f44d-8227-43b2-9c01-25317146e9e3%22%7d)
 
-Die Präsentation der Veranstaltung werden wir hier verlinken.
+[Hier](https://www.bk.admin.ch/bk/de/home/politische-rechte/e-collecting/partizipativer_prozess.html) der Link zur Präsentation der Veranstaltung.
 
 ## Nécessité de discuter des variantes de mise en œuvre de l'E-Collecting**
 
