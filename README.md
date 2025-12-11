@@ -49,7 +49,7 @@ Die 2. Partizipationsveranstaltung 10.12.2025: [Teams-Link](https://teams.micros
 
 Die Präsentation der Veranstaltung werden wir hier verlinken.
 
-**Nécessité de discuter des variantes de mise en œuvre de l'E-Collecting**
+## Nécessité de discuter des variantes de mise en œuvre de l'E-Collecting**
 
 Les discussions portent actuellement sur les thèmes suivants :
 
@@ -58,7 +58,7 @@ Les discussions portent actuellement sur les thèmes suivants :
 
 Une liste complète de ces discussions et des autres discussions prévues seront publiées dans les prochains jours.
 
-**Diskussionbedarf für die E-Collecting Umsetzungsvarianten**
+## Diskussionbedarf für die E-Collecting Umsetzungsvarianten**
 
 Zur Zeit laufen die Diskussionen zu folgenden Themen:
 
