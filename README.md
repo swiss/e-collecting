@@ -69,7 +69,7 @@ Eine umfassende Liste dieser und weiterer geplanter Diskussionen wird in den nä
 
 ## Chronologie
 
-![Représentation graphique de la chronologie avec les étapes suivantes : événement d'ouverture, hackathon, 2e événement en ligne, bilan du dialogue écrit, poursuite du processus participatif et décision du chancelier fédéral sur les variantes](docs/timeline/timeline.png)
+![Représentation graphique de la chronologie avec les étapes suivantes : événement d'ouverture, hackathon, 2e événement en ligne, bilan du dialogue écrit, poursuite du processus participatif et décision du chancelier fédéral sur les variantes](docs/timeline/Chronologie.png)
 
 _Description de l'image : représentation graphique du calendrier avec les étapes suivantes : événement d'ouverture, hackathon, 2e événement en ligne, bilan du dialogue écrit, poursuite du processus participatif et décision du chancelier fédéral sur les variantes_
 
