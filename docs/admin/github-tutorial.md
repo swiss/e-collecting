@@ -1,8 +1,25 @@
+# Instructions relatives à la plateforme E-Collecting
+
+## Quelle est cette plateforme?
+
+La plateforme est basée sur GitHub, une plateforme permettant de rédiger, discuter et améliorer ensemble des textes, mais aussi des logiciels.
+
 # Anleitung E-Collecting-Plattform
 
 ## Was ist das für eine Plattform?
 
 Die Plattform basiert auf GitHub, einer Plattform um gemeinsam Texte, aber auch Software zu schreiben, zu diskutieren und zu verbessern. 
+
+## Lecture des discussions
+
+Les discussions écrites sur le sujet de l’E-Collecting ont lieu dans le cadre de ce que l'on appelle des « Issues ».
+
+**Vous trouvez les « Issues » en suivant les étapes ci-dessous :**
+1.	Accédez à la plateforme E-Collecting à l'adresse https://github.com/swiss/e-collecting 
+2.	Cliquez sur l'onglet « Issues » (généralement en haut à gauche).
+3.	Vous voyez alors apparaître une liste de tous les sujets ouverts.
+4.	Cliquez sur un titre pour lire l'intégralité de la discussion.
+5.	Les nouveaux commentaires sont ajoutés au bas de la discussion. Vous lisez donc toujours de haut en bas.
 
 ## Diskussionen lesen
 
@@ -15,6 +32,16 @@ Die schriftlichen Diskussionen zu E-Collecting finden innerhalb von sogenannten 
 3. Sie sehen nun eine Liste aller offenen Themen
 4. Klicken Sie auf einen Titel, um die vollständige Diskussion zu lesen
 5. Neue Kommentare werden unten an die Diskussion angehängt. Sie lesen also immer von oben nach unten.
+
+## Créer un compte
+
+Afin de prendre part à une discussion, vous avez besoin d’un compte. 
+
+1.	Accédez à la plateforme E-Collecting à l'adresse https://github.com/swiss/e-collecting
+2.	Cliquez sur Sign up en haut à droite.
+3.	Saisissez votre adresse e-mail et suivez les étapes.
+4.	Choisissez un nom d'utilisateur et un mot de passe sécurisé.
+5.	Confirmez votre adresse e-mail via le lien que GitHub vous envoie.
 
 ## Account erstellen
 
@@ -33,6 +60,22 @@ Um an einer Diskussion teilzunehmen, benötigen Sie einen Account.
 3. Scrollen Sie nach unten bis zum Kommentarfeld
 4. Schreiben Sie Ihren Beitrag im Textfeld
 5. Klicken Sie auf **Comment**, um ihn zu veröffentlichen. Ihr Kommentar ist nun sofort öffentkich sichtbar.
+
+## Participer activement aux discussions
+
+1.	Connectez-vous à la plateforme.
+2.	Ouvrez la discussion (Issue) à laquelle vous souhaitez contribuer.
+3.	Faites défiler vers le bas jusqu'au champ de commentaire.
+4.	Écrivez votre contribution dans le champ de texte.
+   
+Cliquez sur Comment afin de la publier. Votre commentaire est désormais visible par tous.
+
+## Être informés de nouveaux commentaires
+
+Il est possible d'être informé par e-mail lorsqu'un nouveau commentaire apparaît dans une discussion.
+
+1.	Ouvrez la discussion (Issue) sur laquelle vous souhaitez être informé.
+2.	Cliquez sur le bouton « Subscribe » (S'abonner) en bas à droite.
 
 ## Über neue Kommentare informiert werden
 
