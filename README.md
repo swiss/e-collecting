@@ -41,7 +41,7 @@ La deuxième manifestation participative aura lieu le 10.12.2025: [Teams-Link](h
 Les discussions portent actuellement sur les thèmes suivants :
 
 * À quels endroits l'équilibre politique se manifeste-t-il ? ([Discussion Équilibre politique - Question 1](https://github.com/swiss/e-collecting/issues/1)). 
-* Peut-on vraiment se passer d'une option de refus concernant le processus papier ? ([Discussion Option de refus - Question 2](https://github.com/swiss/e-collecting/issues/1)). 
+* Peut-on vraiment se passer d'une option de refus concernant le processus papier ? ([Discussion Option de refus - Question 2](https://github.com/swiss/e-collecting/issues/2)). 
 
 Une liste complète de ces discussions et des autres discussions prévues seront publiées dans les prochains jours.
 
