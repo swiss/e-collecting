@@ -115,7 +115,7 @@ Die 2. Partizipationsveranstaltung 10.12.2025: [Teams-Link](https://teams.micros
 Zur Zeit laufen die Diskussionen zu folgenden Themen:
 
 * An welchen Orten manifestiert sich die politische Ausgewogenheit? ([Diskussion Politische-Ausgewogenheit - Issue 1](https://github.com/swiss/e-collecting/issues/1))
-* Lässt sich wirklich auf einen Opt-Out für den Papierprozess verzichten? ([Diskussion Opt-Out - Issue 2](https://github.com/swiss/e-collecting/issues/1iss/e-collecting/issues/2))
+* Lässt sich wirklich auf einen Opt-Out für den Papierprozess verzichten? ([Diskussion Opt-Out - Issue 2](https://github.com/swiss/e-collecting/issues/2))
 
 Eine umfassende Liste dieser und weiterer geplanter Diskussionen wird in den nächsten Tagen publiziert werden.
 
