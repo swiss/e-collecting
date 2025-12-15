@@ -405,7 +405,7 @@ Ja, also ich glaube, das ist im Postulatsbericht als offene Frage diskutiert. Da
 Das tatsächlich zu beeinflussen, kann es einfach schwieriger oder einfacher machen. Ich sehe jetzt noch eine Wortmeldung von Philippe Page de Genêve,.  Philippe tu veux la parole?
 Tu es sur mute.
 
-### <a name="1-09-38"> philippe Page - Genève    1:09:38
+### <a name="1-09-38"> Philippe Page - Genève    1:09:38
 Oui oui oui, merci Christian. Oui, de mon point de vue, je pense que c'est la question fondamentale du processus de e-collecting. Dès qu'on numérise un processus, on change un équilibre. C'est illusoire de penser qu'il y aura pas de changement dans l'équilibre, qu'il soit politique, économique.
 Facilité d'accès à tous ces problèmes d'inclusivité. Donc je pense, je voulais juste commenter que la numérisation du processus de récolte de signature va amener des déséquilibres et ça doit être la question fondamentale qu'on se pose avant de regarder à des.
 Aux différents aspects opérationnels et ces déséquilibres. Et c'est pas simplement par rapport au au citoyen et ses droits, c'est aussi à la structure institutionnelle en Suisse, entre les différents cantons où il y a certaines, il ne faut pas que la numérisation introduise des biais qui n'étaient pas.
@@ -424,7 +424,7 @@ Vielen Dank.
 Für diese verschiedenen Wortmeldungen, ich glaube, damit ist das Problem umrissen. Wir werden das auf der Plattform weiter diskutieren und wie ich gesagt habe, dass das Thema wird uns nicht so schnell verlassen.
 
 
-### <a name="1-02-19"> Folini Christian BK    1:02:19
+### <a name="1-12-19"> Folini Christian BK    1:12:19
 Wir gehen weiter zur nächsten Frage.
 Da werden wir jetzt etwas stärker technisch. Das ist ein Thema, das im Hackathon bearbeitet wurde. Ich stelle es Ihnen hier vor. Wir glauben, wir haben bereits eine Antwort darauf. Wir möchten aber sichergehen, dass das tatsächlich so ist.
 Es geht um den Opt-Out für Papierprozess, das ist ein technischer Begriff. Ich erkläre es Ihnen wie folgt: Jetzt laufen sämtliche Unterschriften für Volksbegehren auf Papier, neu soll es auch möglich sein, elektronisch zu unterschreiben. Das heißt, eine
