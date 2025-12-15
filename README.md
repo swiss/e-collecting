@@ -58,10 +58,11 @@ _Description de l'image : représentation graphique du calendrier avec les étap
 ### <a name="f5-1">Document du processus participatif à l’E-Collecting</a>
 
 * Rapport de postulat E-Collecting  (2024-11-20): [PDF](https://www.newsd.admin.ch/newsd/message/attachments/90667.pdf)
-* Révision partielle de la loi fédérale sur les droits politiques avec nouvelle norme expérimentale relative à la collecte électronique (30 avril 2025): [Webseite](https://www.news.admin.ch/fr/newnsb/oAsAOWHCOpvBMZavKcq_e)
+* Révision partielle de la loi fédérale sur les droits politiques avec nouvelle norme expérimentale relative à la récolte électronique (30 avril 2025): [Site web](https://www.news.admin.ch/fr/newnsb/oAsAOWHCOpvBMZavKcq_e)
 * Événement inaugural du processus participatif (27 août 2025): [Video](https://www.youtube.com/watch?v=WGUTi2jSaYw) / [Slides]((https://www.news.admin.ch/fr/newnsb/oAsAOWHCOpvBMZavKcq_e)
 * Guide pour participer au hackathon E-Collecting (23/10/2025): [PDF]((https://www.bk.admin.ch/dam/bk/fr/dokumente/pore/e-collecting/hackathon2025/E-Collecting%20Hackathon%20guide.pdf.download.pdf/E-Collecting%20Hackathon%20guide.pdf)
-* Hackathon E-Collecting avec plusieurs solutions (31/10/2025-01/11/2025): [Webseite](https://www.github.com/swiss/e-collecting-hackathon)
+* Hackathon E-Collecting avec plusieurs solutions (31/10/2025-01/11/2025): [Site web](https://www.github.com/swiss/e-collecting-hackathon)
+* 2e événement en ligne du processus participatif (2025-12-10): [Diapositives](https://www.bk.admin.ch/dam/bk/it/dokumente/pore/e-collecting/Pr%C3%A9sentation%20E-Collecting%20-%20Deuxi%C3%A8me%20manifestation%20en%20ligne.pdf.download.pdf/Pr%C3%A9sentation%20E-Collecting%20-%20Deuxi%C3%A8me%20manifestation%20en%20ligne.pdf) / [Registration Youtube](https://www.youtube.com/watch?v=UJGfUZ5F4yY) / [Chat](https://github.com/swiss/e-collecting/blob/main/docs/transcripts/2025-12-10-2nd-participation-event-chat.md) / [Transcription IA](https://github.com/swiss/e-collecting/blob/main/docs/transcripts/2025-12-10-2nd-participation-event-ai-transcript.md)
 
 ### <a name="f5-2">Autres documents sur l’E-Collecting</a>
 
@@ -135,6 +136,7 @@ _Bildbeschreibung: Grafische Darstellung der Timeline mit den Stationen Eröffnu
 * Eröffnungsveranstaltung des partizipativen Prozesses (2025-08-27):  [Video](https://www.youtube.com/watch?v=WGUTi2jSaYw) / [Slides](https://www.bk.admin.ch/bk/de/home/politische-rechte/e-collecting/partizipativer_prozess.html#accordion1765290960539)
 * Leitfaden für Teilnahme am E-Collecting Hackathon (2025-10-23): [PDF](https://www.bk.admin.ch/dam/bk/de/dokumente/pore/E-Collecting/hackathon2025/E-Collecting%20Hackathon%20Leitfaden.pdf.download.pdf/E-Collecting%20Hackathon%20Leitfaden.pdf)
 * E-Collecting Hackathon mit Lösungsvarianten (2025-10-31/2025-11-01): [Webseite](https://www.github.com/swiss/e-collecting-hackathon)
+* 2\. Online-Veranstaltung des partizipativen Prozesses (2025-12-10): [Slides](https://www.bk.admin.ch/dam/bk/de/dokumente/pore/E-Collecting/ZweiteOnlineVeranstaltung/Pr%C3%A4sentation%20E-Collecting%20-%20Zweite%20Online-Veranstaltung.pdf.download.pdf/Pr%C3%A4sentation%20E-Collecting%20-%20Zweite%20Online-Veranstaltung.pdf) / [Youtube Aufzeichnung](https://www.youtube.com/watch?v=UJGfUZ5F4yY) / [Chat](https://github.com/swiss/e-collecting/blob/main/docs/transcripts/2025-12-10-2nd-participation-event-chat.md) / [KI Transkript](https://github.com/swiss/e-collecting/blob/main/docs/transcripts/2025-12-10-2nd-participation-event-ai-transcript.md)
 
 ### <a name="d5-2">Weitere Dokumente zu E-Collecting</a>
 
