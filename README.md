@@ -5,7 +5,7 @@ _[Deutsche Version](#d0-0)_
 **Table des matières**
 
 * [Introduction à la platforme](#f1-0)
-* [Actualités](#f2-0)
+* [Actualités - 🗨️ Les discussions en cours 🗨️](#f2-0)
 * [Nécessité de discuter des variantes de mise en œuvre de l'E-Collecting](#f3-0)
 * [Chronologie](#f4-0)
 * [Documentation](#f5-0)
@@ -29,14 +29,7 @@ La présentation de la plateforme dans le navigateur diffère des normes habitue
 La Chancellerie fédérale informe régulièrement quelles sont les nouveautés relatives au processus participatif dans sa newsletter E-Collecting. [Inscription](https://www.bk.admin.ch/bk/fr/home/droits-politiques/e-collecting/newsletter.html) 
 
 
-## <a name="f2-0">Actualités</a>
-
-La deuxième manifestation participative aura lieu le 10.12.2025: [Teams-Link](https://teams.microsoft.com/meet/37248906692933?p=0RKV9LClB8eNwGx4MB) 
-
-[Ici](https://www.bk.admin.ch/bk/fr/home/droits-politiques/e-collecting/partizipativer_prozess.html) le lien vers la présentation de l’événement. 
-
-
-## <a name="f3-0">Nécessité de discuter des variantes de mise en œuvre de l'E-Collecting</a>
+## <a name="f2-0">Actualités- 🗨️ Les discussions en cours 🗨️</a>
 
 Les discussions portent actuellement sur les thèmes suivants :
 
@@ -75,8 +68,7 @@ Une liste complète des documents est disponible dans un fichier séparé. [List
 **Inhaltsverzeichnis**
 
 * [Einführung zur Plattform](#d1-0)
-* [Aktuell](#d2-0)
-* [Diskussionbedarf für die E-Collecting Umsetzungsvarianten](#d3-0)
+* [Aktuell - 🗨️ Laufende Diskussionen 🗨️](#d2-0)
 * [Timeline](#d4-0)
 * [Dokumente](#d5-0)
   * [Dokumente des partizipativen Prozesses E-Collecting](#d5-1)
@@ -104,14 +96,7 @@ deshalb eine separate [Anleitung zur Verfügung](docs/admin/github-tutorial.md).
 Die Bundeskanzlei informiert mit ihrem E-Collecting Newsletter regelmässig über Neuigkeiten zum partizipativen Prozess. [Registration](https://www.bk.admin.ch/bk/de/home/politische-rechte/e-collecting/newsletter.html)
 
 
-## <a name="d2-0">Aktuell</a>
-
-Die 2. Partizipationsveranstaltung 10.12.2025: [Teams-Link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmFmNThmMTEtNjY3OS00YTMxLTg5ODgtNGI2NzdkM2EyNzk5%40thread.v2/0?context=%7b%22Tid%22%3a%226ae27add-8276-4a38-88c1-3a9c1f973767%22%2c%22Oid%22%3a%227887f44d-8227-43b2-9c01-25317146e9e3%22%7d)
-
-[Hier](https://www.bk.admin.ch/bk/de/home/politische-rechte/e-collecting/partizipativer_prozess.html) der Link zur Präsentation der Veranstaltung.
-
-
-## <a name="d3-0">Diskussionbedarf für die E-Collecting Umsetzungsvarianten</a>
+## <a name="d2-0">Aktuell</a> - 🗨️ Laufende Diskussionen 🗨️
 
 Zur Zeit laufen die Diskussionen zu folgenden Themen:
 
