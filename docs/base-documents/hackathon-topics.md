@@ -4,6 +4,8 @@
 
 _Le guide complet du hackathon est disponible [ici](https://www.bk.admin.ch/dam/bk/fr/dokumente/pore/e-collecting/E-Collecting%20Hackathon%20guide.pdf.download.pdf/E-Collecting%20Hackathon%20guide.pdf)._
 
+Le hackathon était consacré à plusieurs questions ou défis (appelés « topics »). Les équipes devaient apporter des réponses à toutes ces questions.
+
 * [Hackathon Topic 1: De la volonté de soutien à la déclaration de soutien](https://github.com/swiss/e-collecting/blob/main/docs/base-documents/hackathon-topics/hackathon-topic-1.md)
 * [Hackathon Topic 2: Accès aux informations concernant les déclarations de soutien déposées](https://github.com/swiss/e-collecting/blob/main/docs/base-documents/hackathon-topics/hackathon-topic-2.md)
 * [Hackathon Topic 3 : Attribution des attestations de soutien aux comités et aux entreprises de récolte](https://github.com/swiss/e-collecting/blob/main/docs/base-documents/hackathon-topics/hackathon-topic-3.md)
