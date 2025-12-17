@@ -116,7 +116,7 @@ _Bildbeschreibung: Grafische Darstellung der Timeline mit den Stationen Eröffnu
 
 ### <a name="d5-1">Dokumente des partizipativen Prozesses E-Collecting</a>
 
-* Postulatsbericht E-Collecting (2024-11-20): [PDF]((https://www.bk.admin.ch/dam/bk/fr/dokumente/pore/e-collecting/rapport%20en%20r%C3%A9ponse%20au%20postulat%20e-collecting.pdf.download.pdf/rapport%20en%20r%C3%A9ponse%20au%20postulat%20e-collecting.pdf))
+* Postulatsbericht E-Collecting (2024-11-20): [PDF](https://www.bk.admin.ch/dam/bk/fr/dokumente/pore/e-collecting/rapport%20en%20r%C3%A9ponse%20au%20postulat%20e-collecting.pdf.download.pdf/rapport%20en%20r%C3%A9ponse%20au%20postulat%20e-collecting.pdf)
 * Teilrevision des Bundesgesetzes über die politischen Recht mit neuer E-Collecting Versuchsnorm (2025-04-30): [Webseite](https://www.news.admin.ch/de/newnsb/oAsAOWHCOpvBMZavKcq_e)
 * Eröffnungsveranstaltung des partizipativen Prozesses (2025-08-27):  [Video](https://www.youtube.com/watch?v=WGUTi2jSaYw) / [Slides](https://www.bk.admin.ch/bk/de/home/politische-rechte/e-collecting/partizipativer_prozess.html#accordion1765290960539)
 * Leitfaden für Teilnahme am E-Collecting Hackathon (2025-10-23): [PDF](https://www.bk.admin.ch/dam/bk/de/dokumente/pore/E-Collecting/hackathon2025/E-Collecting%20Hackathon%20Leitfaden.pdf.download.pdf/E-Collecting%20Hackathon%20Leitfaden.pdf) / [Liste der Hackathon "Topics"](https://github.com/swiss/e-collecting/blob/main/docs/base-documents/hackathon-topics.md#d-0)
