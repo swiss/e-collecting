@@ -55,6 +55,13 @@ Il est possible d'être informé par e-mail lorsqu'un nouveau commentaire appara
 1. Ouvrez la discussion (Issue) sur laquelle vous souhaitez être informé.
 2. Cliquez sur le bouton « Subscribe » (S'abonner) en bas à droite.
 
+## <a name="f6-0">Être informé des nouvelles discussions</a>
+
+Il est possible d'être informé par e-mail lorsque quelque chose est modifié sur la plateforme ou lorsqu'une nouvelle discussion est lancée.
+
+1. Rendez-vous sur la page d'accueil de la plateforme (https://github.com/swiss/e-collecting)
+2. En haut, à droite du centre, se trouve un bouton «Watch». Derrière celui-ci se cache un menu dans lequel vous pouvez configurer les notifications de la plateforme à votre adresse e-mail.
+
 
 
 # <a name="d0-0">Deutsch: Anleitung E-Collecting-Plattform</a>
@@ -66,6 +73,7 @@ Il est possible d'être informé par e-mail lorsqu'un nouveau commentaire appara
 * [Account erstellen](#d3-0)
 * [An Diskussionen aktiv teilnehmen](#d4-0)
 * [Über neue Kommentare informiert werden](#d5-0)
+* [Über neue Diskussionen informiert werden](#d6-0)
 
 
 ## <a name="d1-0">Was ist das für eine Plattform?</a>
@@ -113,3 +121,12 @@ erscheint.
 
 1. Öffnen Sie die Diskussion (Issue), über die sie informiert werden möchten.
 2. Klicken Sie auf der rechten Seite unten auf den Button "Subscribe"
+
+## <a name="d6-0">Über neue Diskussionen informiert werden</a>
+
+Es ist möglich, sich per Email informieren zu lassen, wenn auf der Plattform irgendetwas geändert wird oder wenn eine neue Diskussion lanciert wird.
+
+1. Gehen Sie zur Startseite der Plattform (https://github.com/swiss/e-collecting).
+2. Oben, rechts von der Mitte befindet sich ein Button "Watch". Dahinter verbirgt sich ein Menu in dem die Benachrichtigungen der Plattform an die eigene Emailadresse konfiguriert werden können.
+
+
