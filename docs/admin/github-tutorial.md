@@ -9,6 +9,7 @@ _[Deutsche Version](#d0-0)_
 * [Créer un compte](#f3-0)
 * [Participer activement aux discussions](#f4-0)
 * [Être informés de nouveaux commentaires](#f5-0)
+* [Être informé des nouvelles discussions](#f6-0)
 
 
 ## <a name="f1-0">Quelle est cette plateforme?</a>
