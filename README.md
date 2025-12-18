@@ -5,7 +5,6 @@ _[Deutsche Version](#d0-0)_
 **Table des matières**
 
 * [Introduction à la platforme](#f1-0)
-* [Actualités - 🗨️ Les discussions en cours 🗨️](#f2-0)
 * [Actualités- 🗨️ Les discussions en cours 🗨️](#f3-0)
 * [Chronologie](#f4-0)
 * [Documentation](#f5-0)
