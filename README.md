@@ -6,7 +6,7 @@ _[Deutsche Version](#d0-0)_
 
 * [Introduction à la platforme](#f1-0)
 * [Actualités - 🗨️ Les discussions en cours 🗨️](#f2-0)
-* [Nécessité de discuter des variantes de mise en œuvre de l'E-Collecting](#f3-0)
+* [Actualités- 🗨️ Les discussions en cours 🗨️](#f3-0)
 * [Chronologie](#f4-0)
 * [Documentation](#f5-0)
   * [Document du processus participatif à l’E-Collecting](#f5-1)
