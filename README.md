@@ -32,11 +32,11 @@ La Chancellerie fédérale informe régulièrement quelles sont les nouveautés 
 
 Les discussions portent actuellement sur les thèmes suivants :
 
-* À quels endroits l'équilibre politique se manifeste-t-il ? ([Discussion Équilibre politique - Question 1](https://github.com/swiss/e-collecting/issues/1)). 
-* Peut-on vraiment se passer d'une option de refus concernant le processus papier ? ([Discussion Option de refus - Question 2](https://github.com/swiss/e-collecting/issues/2)). 
-
-Une liste complète de ces discussions et des autres discussions prévues seront publiées dans les prochains jours.
-
+* Quelle est la priorité : la sécurité ou un démarrage aussi rapide que possible ? ([Discussion Sécurité et vitesse - Issue 5](https://github.com/swiss/e-collecting/issues/5))
+* Quelles menaces sont envisageables ? ([Discussion Menaces - Issue 4](https://github.com/swiss/e-collecting/issues/4))
+* Les collections en cours doivent-elles être présentées et, si oui, comment ? ([Présentation des récoltes en cours - Issue 3](https://github.com/swiss/e-collecting/issues/3))
+* À quels endroits l'équilibre politique se manifeste-t-il ? ([Discussion Équilibre politique - Issue 1](https://github.com/swiss/e-collecting/issues/1)). 
+* Peut-on vraiment se passer d'une option de refus concernant le processus papier ? ([Discussion Option de refus - Issue 2](https://github.com/swiss/e-collecting/issues/2)). 
 
 ## <a name="f4-0">Chronologie</a>
 
@@ -99,11 +99,11 @@ Die Bundeskanzlei informiert mit ihrem E-Collecting Newsletter regelmässig übe
 
 Zur Zeit laufen die Diskussionen zu folgenden Themen:
 
+* Was ist prioritär: Sicherheit oder raschestmöglicher Start? ([Diskussion Sicherheit und Tempo - Issue 5](https://github.com/swiss/e-collecting/issues/5))
+* Welche Bedrohungen sind denkbar? ([Diskussion Bedrohungen - Issue 4](https://github.com/swiss/e-collecting/issues/4))
+* Sollen laufende Sammlungen dargestellt werden und wenn ja wie? ([Diskussion Darstellung laufender Sammlungen - Issue 3](https://github.com/swiss/e-collecting/issues/3))
 * An welchen Orten manifestiert sich die politische Ausgewogenheit? ([Diskussion Politische-Ausgewogenheit - Issue 1](https://github.com/swiss/e-collecting/issues/1))
 * Lässt sich wirklich auf einen Opt-Out für den Papierprozess verzichten? ([Diskussion Opt-Out - Issue 2](https://github.com/swiss/e-collecting/issues/2))
-
-Eine umfassende Liste dieser und weiterer geplanter Diskussionen wird in den nächsten Tagen publiziert werden.
-
 
 ## <a name="d4-0">Timeline</a>
 
