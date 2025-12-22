@@ -4,7 +4,7 @@ _[Deutsche Version](#d-0)_
 
 ## Résumé du point de discussion n° 1 : Présentation des collections en cours – Questions relatives à la conception d’une plateforme d’E-Collecting
 
-Au cours du deuxième événement en ligne, deux points centraux ont été abordés : d’une part, l'exploitation d'une plateforme centrale d’E-Collecting par la Confédération et, d’autre part, la question d'une liste exhaustive de toutes les décisions susceptibles d'être sujettes à  un référendum.
+Au cours du deuxième événement en ligne, deux points centraux ont été abordés : d’une part, l'exploitation d'une plateforme centrale d’E-Collecting par la Confédération et, d’autre part, la question d'une liste exhaustive de toutes les décisions susceptibles d'être sujettes à un référendum.
 
 L’exploitation d’une plateforme centrale d’E-Collecting par la Confédération est saluée.
 * Si la Confédération lançait une telle plateforme, cela garantirait un mécanisme de protection, contrairement à n’importe quelle autre plateforme sur laquelle toute personne pourrait lancer seule une initiative populaire.
@@ -12,7 +12,7 @@ L’exploitation d’une plateforme centrale d’E-Collecting par la Confédéra
 * Le lancement d’une plateforme centrale est salué. A l’ère numérique, il est indispensable d’être agile et d’être capable de réagir aux changements.
 * Il semble judicieux de commencer simplement et de rester attentifs à l’évolution de ces projets, tout en étant conscients qu’il sera peut-être nécessaire de revoir et adapter le projet après quelques années.
 
-Une liste complète de toutes les décisions référendraires sur la plateforme est jugée critique.
+Une liste complète de toutes les décisions référendaires sur la plateforme est jugée critique.
 * La liste de toutes les décisions référendaires peut modifier toute la dynamique des collectes.
 * La question de savoir si toutes les décisions susceptibles de faire l'objet d'un référendum doivent être répertoriées sur la plateforme E-Collecting est rejetée. En effet, un tel lien entre la plateforme E-Collecting et toutes les décisions susceptibles d’être sujettes à un référendum peut augmenter le risque d'effondrement du système politique.
 * Si l'on souhaite obtenir une liste complète, il convient de noter qu'il n'existe pas d'interface automatique entre l’E-Collecting et le Parlement.
@@ -93,7 +93,7 @@ Coûts pour les communes en cas d’opt-out
 * En ce qui concerne le secret du vote, il convient également de noter que celui-ci n'est pas garanti dans le processus actuel, car les employés municipaux vérifient les listes de signatures et peuvent ainsi voir qu'une personne donnée s'est prononcée en faveur d'une cause politique particulière.
 
 Procédure dans le canton de Genève
-* A Genève, les listes de signatures papier et électroniques snt enregistrées dans le même système d’information.
+* A Genève, les listes de signatures papier et électroniques sont enregistrées dans le même système d’information.
 * La première signature, qu’elle soit donnée sur papier ou de manière électronique, est prise en compte, toute autre signature identique éventuelle est alors déclarée invalide.
 * Dans le canton de Genève, cela est plus facile, car il dispose d’un registre électoral centralisé.
 
@@ -124,7 +124,7 @@ La sécurité est centrale
 
 ## Zusammenfassung Diskussionspunkt 1: Darstellung laufender Sammlungen – Fragen zur Ausgestaltung einer E-Collecting Plattform
 
-Während der zweiten Online-Veranstaltung wurden zwei zentrale Punkte diskutiert: der Betrieb einer zentralen E-Collecting-Plattform durch den Bund und die Frage einer vollkständigen Auflistung aller referundumsfähiger Beschlüsse.
+Während der zweiten Online-Veranstaltung wurden zwei zentrale Punkte diskutiert: der Betrieb einer zentralen E-Collecting-Plattform durch den Bund und die Frage einer vollständigen Auflistung aller referendumsfähigen Beschlüsse.
 
 Der Betrieb einer zentralen E-Collecting Plattform durch den Bund wird begrüsst. 
 * Sollte der Bund eine solche Plattform lancieren, wäre damit ein gewisser Schutzmechanismus gewährleistet – im Gegensatz zu einer beliebigen anderen Plattform, auf der jede Person eigenständig Volksbegehren lancieren könnte.
@@ -137,7 +137,7 @@ Eine vollständige Auflistung aller referendumsfähigen Beschlüssen auf der Pla
 * Die Frage, ob alle referendumsfähigen Beschlüssen auf der E-Collecting Plattform aufgelistet werden sollen, wird verneint. Denn eine solche Verknüpfung zwischen E-Collecting-Plattform und sämtlichen referendumsfähigen Beschlüssen kann die Wahrscheinlichkeit eines politischen Systemkollaps erhöhen.
 * Im Falle, dass man eine vollständige Auflistung haben möchte, wäre zu beachten, dass nicht eine automatische Schnittstelle zwischen E-Collecting und Parlament entsteht.
 * Gruppierungen müssten gewisse Formalien erfüllen, welche rechtlich festzulegen sind, um ein Referendum auf der E-Collecting Plattform zu lancieren.
-* Die Auflistung der Initiativen wird als weniger problematisch betrachtet [als Referenden], da in diesen Fällen bereits ein Komitee gemeldet werden musste und dies auch geprüft wurde.
+* Die Auflistung der Initiativen wird als weniger problematisch betrachtet (als Referenden), da in diesen Fällen bereits ein Komitee gemeldet werden musste und dies auch geprüft wurde.
 * Die Frage nach der Reihenfolge der Auflistung der Initiativen ist dabei eine zentrale Frage. Eine umgekehrte Chronologie wird als am sinnvollsten betrachtet.
 
 Ein weiterer Teilnehmer äussert ähnliche Bedenken:
@@ -146,9 +146,9 @@ Ein weiterer Teilnehmer äussert ähnliche Bedenken:
 * Dies führt dazu, dass das Sammeln von 50'000 Unterschriften gar nicht mehr so schwer ist. Ein Beispiel der Niederlande zeigte, dass in kurzer Zeit sehr leicht die erforderliche Anzahl an Unterschriften gesammelt werden konnte und dadurch zahlreiche andere Geschäfte des Systems blockierten.
 * Die Unterschriftensammlung derart zu erleichtern wird nicht als sinnvoll erachtet. Die Unterschriftensammlung ist auch Teil der Aufgabe eines Komitees und dies soll schon noch eine gewisse Hürde darstellen. 
 
-Der Kanton StGallen beschreibt die Handhabung auf seiner kantonalen Lösung: 
+Der Kanton St.Gallen beschreibt die Handhabung auf seiner kantonalen Lösung: 
 * Im St.Galler Modell werden alle referendumsfähigen Erlasse publiziert.
-* Es kann aber nicht einfach beliebig auf die voreingerichteten Erlasse eine Unterschirft elektronisch abgegeben werden.
+* Es kann aber nicht einfach beliebig auf die voreingerichteten Erlasse eine Unterschrift elektronisch abgegeben werden.
 * Ein Komitee muss eine Sammlung lancieren und einrichten, welche dann auch vom Betreiber der Plattform freigegeben werden muss.
 
 ## Zusammenfassung Diskussionspunkt 2: Politische Werbung für Sammlungen
@@ -163,8 +163,8 @@ Umgang politische Werbung im St.Galler-Modell
 * Sobald der Zulässigkeitsbeschluss der Regierung vorliegt, kann es sein, dass die Vorlage nur unter Auflagen zugelassen wird. In diesem Fall müssen bestimmte Angaben angepasst werden, woraufhin einzelne Felder wieder freigeschaltet werden.
 * Bevor die Sammlung definitiv freigeschaltet wird, erfolgt nochmals eine Überprüfung der Inhalte. 
 
-Auf einen Kommentar im Chat, dass in St.Gallen in diesem Sinne eine Verstärktung in der Redaktion benötigt würde, führte der Vertreter des Kantons aus
-* Es handelt sich dabei um Prozesse, die die Staastkanzlei bereits ausführen muss, sie verlagern sich schlichtweg auf die E-Collecting Plattform.
+Auf einen Kommentar im Chat, dass in St.Gallen in diesem Sinne eine Verstärkung in der Redaktion benötigt würde, führte der Vertreter des Kantons aus
+* Es handelt sich dabei um Prozesse, die die Staatskanzlei bereits ausführen muss, sie verlagern sich schlichtweg auf die E-Collecting Plattform.
 * Es ist zu berücksichtigen, dass die Prozesse des physischen Unterschriftensammelns und jene des elektronischen Unterschriftensammelns nicht zu sehr auseinander laufen.
 * Gerade bei Referenden hat man heute kaum Kontrolle. Es sind die Komitees, welche gegen aussen verantworten, was sie auf ihren Unterschriftenlisten haben. Diese Verantwortung kann man nicht auf die Staatskanzleien schieben.
 * In diesem Zusammenhang ist darauf zu achten, dass das System nicht so ausgestaltet wird, dass die gesamte Verantwortung faktisch bei den Staatskanzleien liegt. 
@@ -189,9 +189,9 @@ Allgemeine Bemerkung zur Ausgewogenheit
 Überlegungen zur Überlastung des Systems
 * Man muss festhalten, dass man es schlicht nicht weiss. Es gibt keine Erfahrungswerte, da es noch nie getestet wurde.
 * Die kantonale Ebene eignet sich daher sicher zum testen. Momentan ist auch die kantonale Ebene noch weit weg von einer Überlastung des Systems.
-* Es ist nicht gegeben, dass die Möglichkeit einer elektronischen Unterzeichnung von Volksbegehren zu einer überlastung des Systems führt. 
+* Es ist nicht gegeben, dass die Möglichkeit einer elektronischen Unterzeichnung von Volksbegehren zu einer Überlastung des Systems führt.
 
-Digitialisierung bedeutet Veränderung
+Digitalisierung bedeutet Veränderung
 * Sobald ein Prozess digitalisiert wird, verändert dies das Gleichgewicht.
 * Es ist illusorisch zu glauben, dass es zu keinen Veränderungen kommen wird, sei es politisch oder wirtschaftlich.
 * Es wird festgehalten, dass es bei der Digitalisierung von Prozessen zu Ungleichgewichten kommt. Diese Veränderungen betreffen nicht nur die politischen Rechte der Bürgerinnen und Bürger, sondern beeinflussen auch die institutionellen Strukturen der Schweiz.
@@ -233,5 +233,5 @@ Lehren aus E-Voting ziehen
 * Beim E-Collecting sind wir nun in einer besseren Position, da bereits Erfahrungen durch das E-Voting gemacht werden konnten. 
 
 Sicherheit ist zentral
-* Im Zusammenhang mit der Sicherheit wird festgehalten, dass es immer wieder Datenlecks gibt. Dies ist auch eine Sorge der Stimmberechtigten. Solche Sicherheitsmängeln wären für unsere Demokartie verheerend.
+* Im Zusammenhang mit der Sicherheit wird festgehalten, dass es immer wieder Datenlecks gibt. Dies ist auch eine Sorge der Stimmberechtigten. Solche Sicherheitsmängel wären für unsere Demokratie verheerend.
 
