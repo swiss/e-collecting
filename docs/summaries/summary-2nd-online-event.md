@@ -31,6 +31,7 @@ Un autre participant exprime des préoccupations similaires :
         ◦ Il n'est toutefois pas possible de simplement apposer une signature électronique sur les décrets préétablis.
         ◦ Un comité doit lancer et mettre en place une collecte, qui doit ensuite être approuvée par l'exploitant de la plateforme.
 
+Poursuite de la discussion sur la plateforme en ligne : [Présentation des récoltes en cours - Issue 3](https://github.com/swiss/e-collecting/issues/3)
 
 ## Résumé du point de discussion n° 2 : Publicité politique pour les collectes
 
@@ -79,6 +80,8 @@ La numérisation est synonyme de changement
 * Il est constaté que la numérisation des processus entraîne des déséquilibres. Ces changements affectent non seulement les droits politiques des citoyens, mais influencent également les structures institutionnelles de la Suisse.
 * La numérisation ne doit pas entraîner de distorsions qui n'existaient pas auparavant. Au contraire, elle doit pouvoir créer une valeur ajoutée que le processus actuel, basé sur le papier, n'offre pas.
 
+Poursuite de la discussion sur la plateforme en ligne : [Équilibre politique - Issue 1](https://github.com/swiss/e-collecting/issues/1)
+
 ## Résumé du point de discussion n° 4 : Option de non-participation au processus papier
 
 Problèmes potentiels liés au secret du vote
@@ -96,6 +99,8 @@ Procédure dans le canton de Genève
 * A Genève, les listes de signatures papier et électroniques sont enregistrées dans le même système d’information.
 * La première signature, qu’elle soit donnée sur papier ou de manière électronique, est prise en compte, toute autre signature identique éventuelle est alors déclarée invalide.
 * Dans le canton de Genève, cela est plus facile, car il dispose d’un registre électoral centralisé.
+
+Poursuite de la discussion sur la plateforme en ligne : [ Est-il vraiment possible d'éviter de se retirer du processus papier? - Issue 2](https://github.com/swiss/e-collecting/issues/2)
 
 ## Résumé du point de discussion n° 5 : Sécurité et vitesse
 
@@ -117,6 +122,8 @@ Tirer les leçons du vote électronique
 
 La sécurité est centrale
 * En matière de sécurité, nous constatons que des fuites de données se produisent régulièrement. Cela préoccupe également les électeurs. De telles failles de sécurité seraient désastreuses pour notre démocratie.
+
+Poursuite de la discussion sur la plateforme en ligne : [Sécurité et vitesse - Issue 5](https://github.com/swiss/e-collecting/issues/5)
 
 **Deutsch**
 
@@ -150,6 +157,8 @@ Der Kanton St.Gallen beschreibt die Handhabung auf seiner kantonalen Lösung:
 * Im St.Galler Modell werden alle referendumsfähigen Erlasse publiziert.
 * Es kann aber nicht einfach beliebig auf die voreingerichteten Erlasse eine Unterschrift elektronisch abgegeben werden.
 * Ein Komitee muss eine Sammlung lancieren und einrichten, welche dann auch vom Betreiber der Plattform freigegeben werden muss.
+
+Fortsetzung der Diskussion auf der Online-Plattform: [Darstellung laufender Sammlungen - Issue 3](https://github.com/swiss/e-collecting/issues/3)
 
 ## Zusammenfassung Diskussionspunkt 2: Politische Werbung für Sammlungen
 
@@ -197,6 +206,8 @@ Digitalisierung bedeutet Veränderung
 * Es wird festgehalten, dass es bei der Digitalisierung von Prozessen zu Ungleichgewichten kommt. Diese Veränderungen betreffen nicht nur die politischen Rechte der Bürgerinnen und Bürger, sondern beeinflussen auch die institutionellen Strukturen der Schweiz.
 * Die Digitalisierung darf keine Verzerrungen mit sich bringen, die vorher nicht da waren. Im Gegenteil, die Digitalisierung muss einen Mehrwert schaffen können, den der aktuelle papierbasierte Prozess nicht bietet.
 
+Fortsetzung der Diskussion auf der Online-Plattform: [Politische Ausgewogenheit - Issue 1](https://github.com/swiss/e-collecting/issues/1)
+
 ## Zusammenfassung Diskussionspunkt 4: Opt-Out für Papierprozess
 
 Mögliche Problematiken mit dem Stimmgeheimnis
@@ -214,6 +225,8 @@ Vorgehensweise im Kanton Genf
 * In Genf befinden sich die Unterschriftenlisten in Papierform wie auch die Unterschriftenliste in elektronischer Form in demselben Informationssystem.
 * Es wird die erste Unterschrift, egal ob auf Papier oder elektronisch, berücksichtigt, eine mögliche weitere gleiche Unterschrift wird dann für ungültig erklärt.
 * Im Kanton Genf ist dies einfacher, weil sie über ein zentrales Stimmregister verfügen. 
+
+Fortsetzung der Diskussion auf der Online-Plattform: [Lässt sich ein Opt-Out für den Papierprozess wirklich vermeiden? - Issue 2](https://github.com/swiss/e-collecting/issues/2)
 
 ## Zusammenfassung Diskussionspunkt 5: Sicherheit und Tempo
 
@@ -235,3 +248,4 @@ Lehren aus E-Voting ziehen
 Sicherheit ist zentral
 * Im Zusammenhang mit der Sicherheit wird festgehalten, dass es immer wieder Datenlecks gibt. Dies ist auch eine Sorge der Stimmberechtigten. Solche Sicherheitsmängel wären für unsere Demokratie verheerend.
 
+Fortsetzung der Diskussion auf der Online-Plattform: [Sicherheit und Tempo - Issue 5](https://github.com/swiss/e-collecting/issues/5)
