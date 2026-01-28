@@ -95,7 +95,7 @@ Philyp Nyffenegger erklärt, dass man in Genf seit vielen Jahren über E-Collect
 
 Roland Studer, weist auf die Barrierefreiheit hin. Menschen mit Sehbehinderung könnten E-Collecting nur nutzen, wenn Plattformen zugänglich sind, was bei der aktuellen Veranstaltung nicht vollständig gewährleistet sei. Er verweist auf Estland, wo digitale Volksrechte seit über 20 Jahre inklusiv umgesetzt werden, und betont die Relevanz für die Umsetzung von Artikel 29 der UN-Behindertenrechtskonvention.
 
-Präsentation 5: «E-Collecting Now!» (Daniel Graf, Stiftungsrat Stiftung für direkte Demokratie)
+## Präsentation 5: «E-Collecting Now!» (Daniel Graf, Stiftungsrat Stiftung für direkte Demokratie)
 
 Daniel Graf betont, dass die Schweiz dringend ein E-Collecting-System benötigt, da seit dem ersten E-Voting Pilot 2003 fast 20 Jahre ohne E-Collecting vergangen sind. Er nennt drei Gründe, warum dies bisher nicht umgesetzt wurde: kein offizieller Auftrag, geringe Motivation der politischen Akteure und fehlender Druck durch die Zivilgesellschaft. 
 
