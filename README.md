@@ -32,7 +32,7 @@ La Chancellerie fédérale informe régulièrement quelles sont les nouveautés 
 
 Les discussions portent actuellement sur les thèmes suivants :
 
-* L'attribution des déclarations de soutien est-elle nécessaire ? ([Discussion L'Attribution des déclaration de soutien - Issue 6](https://github.com/swiss/e-collecting/issues/6) 
+* L'attribution des déclarations de soutien est-elle nécessaire ? ([Discussion L'Attribution des déclaration de soutien - Issue 6](https://github.com/swiss/e-collecting/issues/6)) 
 * Quelle est la priorité : la sécurité ou un démarrage aussi rapide que possible ? ([Discussion Sécurité et vitesse - Issue 5](https://github.com/swiss/e-collecting/issues/5))
 * Quelles menaces sont envisageables ? ([Discussion Menaces - Issue 4](https://github.com/swiss/e-collecting/issues/4))
 * Les collections en cours doivent-elles être présentées et, si oui, comment ? ([Présentation des récoltes en cours - Issue 3](https://github.com/swiss/e-collecting/issues/3))
@@ -100,7 +100,7 @@ Die Bundeskanzlei informiert mit ihrem E-Collecting Newsletter regelmässig übe
 
 Zur Zeit laufen die Diskussionen zu folgenden Themen:
 
-* Ist eine Zuschreibung von Unterstützungsbekundungen nötig? ([Diskussion Zuschreibung der Unterstützungsbekundungen - Issue 6](https://github.com/swiss/e-collecting/issues/6) 
+* Ist eine Zuschreibung von Unterstützungsbekundungen nötig? ([Diskussion Zuschreibung der Unterstützungsbekundungen - Issue 6](https://github.com/swiss/e-collecting/issues/6)) 
 * Was ist prioritär: Sicherheit oder raschestmöglicher Start? ([Diskussion Sicherheit und Tempo - Issue 5](https://github.com/swiss/e-collecting/issues/5))
 * Welche Bedrohungen sind denkbar? ([Diskussion Bedrohungen - Issue 4](https://github.com/swiss/e-collecting/issues/4))
 * Sollen laufende Sammlungen dargestellt werden und wenn ja wie? ([Diskussion Darstellung laufender Sammlungen - Issue 3](https://github.com/swiss/e-collecting/issues/3))
