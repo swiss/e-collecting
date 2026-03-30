@@ -1,3 +1,201 @@
+# Résumé des présentations et des discussions de la l’événement d'ouverture
+
+## Introduction : représentants de la section des droits politiques de la Chancellerie fédérale
+
+Christian Folini (modérateur du processus participatif) ouvre la manifestation consacrée au dialogue participatif sur la récolte électronique de signatures, organisée à la demande de la Chancellerie fédérale. Il avoue ouvertement son scepticisme à l'égard de ce thème. Dans le même temps, il soutient la conclusion du rapport sur le postulat, selon laquelle la récolte électronique de signatures doit être testée en pratique afin d'en évaluer les effets.
+
+Barbara Perriard (cheffe de la section des droits politiques de la Chancellerie fédérale) souhaite la bienvenue aux participants au nom du Chancelier fédéral et souligne la mission politique qui consiste à faire avancer la récolte électronique de signatures, tout en procédant avec prudence et en impliquant toutes les parties prenantes. L'accès aux initiatives populaires et aux référendums est essentiel pour la démocratie directe, c'est pourquoi il faut examiner si et comment la participation numérique est possible. Le rapport sur le postulat met en évidence les défis juridiques, politiques et techniques existants ; les conséquences politiques ne peuvent être évaluées sans essais pratiques. C'est pourquoi des tests limités doivent être effectués sur une base légale. Un accent particulier est mis sur l’importance de la sécurité, de la protection des données et de la confiance. Une discussion ouverte et critique est souhaitée.
+
+Oliver Spycher (co-responsable du projet de récolte électronique de signatures à la section des droits politiques de la Chancellerie fédérale) explique que les travaux de la Chancellerie fédérale s'appuient sur le rapport sur le postulat et les interventions parlementaires. La situation actuelle se caractérise par de nombreuses questions ouvertes et peu de réponses. Le processus participatif devrait aider à approfondir ces questions. Des thèmes tels que celui portant sur la falsification de signatures, ne font pas partie du programme de récolte électronique, car ils sont traités séparément.
+
+Bettina Hirter (co-responsable du projet de récolte électronique de signatures à la section des droits politiques de la Chancellerie fédérale) explique le processus participatif. Dans un premier temps, les idées, les besoins et les préoccupations sont recueillis. Ceux-ci sont ensuite intégrés dans le hackathon public, au cours duquel des variantes de mise en œuvre sont développées. Les résultats servent de base à une décision administrative et à la mise en œuvre ultérieure. Le dialogue doit se poursuivre pendant la mise en œuvre et la phase d'essai.
+
+## Présentation 1 : « Perspective politique du projet pilote E-Collecting » (Gerhard Andrey, conseiller national Fribourg, Les VERT-E-S)
+
+Gerhard Andrey souligne l'importance du Kickoff de la récolte électronique de signatures comme une étape potentielle dans le développement de la démocratie directe suisse. Les droits politiques ont été développés avec une prudence délibérée, mais il existe désormais une volonté politique de renouvellement, également stimulée par des motions parlementaires multipartites sur des projets pilotes liés à la récolte électronique.
+
+Il résume les principales préoccupations de ces motions parlementaires comme suit :
+
+* L'e-ID comme base : l'e-ID nationale est considérée comme le fondement central de la récolte électronique, car elle garantit que chaque signature numérique correspond à une personne ayant le droit de vote.
+* Décentralisation et protection des données : il ne doit pas y avoir de base de données centrale sur les opinions politiques. La confirmation d'une déclaration de soutien doit être décentralisée, par les communes ou, le cas échéant, par les structures cantonales. L'objectif est d'assurer le secret des signatures numériques, à l'instar du secret du vote. Les organisations de récolte ne doivent recevoir que des statistiques anonymisées.
+* Open source : les systèmes de récolte électronique doivent être transparents, vérifiables et fiables. Les logiciels publics doivent être open source.
+* Produit minimum viable : au lieu d'une solution trop complexe, il convient de mettre en œuvre un minimum fonctionnel et pragmatique. L'application destinée à la population doit être simple et de haute qualité, tandis que les communes ne doivent pas être surchargées par des exigences administratives supplémentaires.
+* Mise à l'échelle nationale : les projets pilotes doivent être limités de manière raisonnable, mais conçus de manière à pouvoir fonctionner dans toute la Suisse.
+* Le processus ouvert, transparent et inclusif lancé par la Chancellerie fédérale est évalué positivement. Des solutions efficaces pourraient voir le jour grâce à la collaboration entre la société civile, les milieux scientifiques, l'économie et les autorités.
+
+## Discussion sur la présentation 1
+
+Christian Folini souligne qu'un Minimal Viable Product (MVP) pour la récolte électronique de signatures doit répondre à des exigences élevées malgré une approche minimale, notamment en matière de disponibilité, d'intégrité, de confidentialité, d'accessibilité et de multilinguisme. Il préconise un lancement progressif pour les électeurs, tandis que les communes et les cantons devraient bénéficier de plus de temps, mais met en garde contre une sous-estimation de l'effort nécessaire.
+
+Gerhard Andrey approuve et souligne que la portée d'un MVP est négociable. L'infrastructure de confiance et la communauté e-ID existantes offrent déjà un savoir-faire considérable, qui devrait désormais être rapidement repris par les autorités. Même si la falsification de signatures ne fait pas partie du programme, il est nécessaire d'agir dans le système actuel. Il plaide en faveur de progrès rapides dans un cadre limité.
+
+Marc Wilmes s'interroge sur l'affirmation selon laquelle la récolte électronique pourrait limiter la récolte commerciale de signatures. Gerhard Andrey explique que la récolte électronique pourrait compliquer la récolte commerciale, car les organisations qui se chargent de récolter les signatures ne reçoivent pas de retour immédiat ou personnalisé sur les différentes signatures recueillies. Les confirmations doivent être anonymes et différées, ce qui empêche les mécanismes de récompense ou de « checkout » et renforce ainsi le secret des signatures.
+
+## Présentation 2 : « Revendications de la société civile » (Erik Schönenberger, directeur général de Digitale Gesellschaft)
+
+Erik Schönenberger présente le point de vue de la société civile sur la récolte électronique de signatures et tire les leçons de la nouvelle loi sur l'e-ID. La Confédération doit jouer un rôle central dans la numérisation. La protection des données et la minimisation des données doivent faire partie intégrante de l'architecture du système. Malgré le succès des processus d'e-ID, la population reste méfiante à l'égard de la numérisation, ce qui vaut également pour la récolte électronique.
+
+La récolte de signatures sur papier telle qu'elle est pratiquée aujourd'hui est coûteuse, problématique en termes de protection des données et néanmoins susceptible d'abus. La récolte électronique offre la possibilité d'améliorer ce processus. Pour cela, il faut que les avantages pour la population soient clairs et que le niveau de protection des données soit nettement plus élevé.
+
+Concrètement, les autorités ne devraient pas récolter de données permettant d'attribuer les déclarations de volonté à des personnes individuelles. Les données personnelles ne devraient être transmises aux comités qu'avec le consentement explicite des personnes concernées.
+
+Le système doit être ouvert, entièrement open source et utilisable via des interfaces ouvertes.
+
+Les signatures numériques doivent rester facultatives, les signatures papier doivent rester possibles. Un Opt-in à la récolte électronique de signatures avec Opt-out pour le papier est une mesure possible mentionnée contre les signatures multiples. L'implication précoce de la science est soulignée, ainsi que la prévention technique de la référence aux personnes et la vérifiabilité des résultats afin d'instaurer la confiance.
+
+## Discussion sur la présentation 2
+
+Christian Folini aborde la question de la vérifiabilité dans la récolte électronique. Dans la procédure papier, les comités ont une fonction de contrôle importante, car ils peuvent suivre l'état d'avancement de la récolte. En cas de numérisation complète, il y aurait un risque de perdre cette transparence et de nuire à la confiance. La question centrale est de savoir comment concilier protection des données et contrôle.
+
+Erik Schönenberger souligne que les comités doivent continuer à être informés de l'état d'avancement de leur récolte, notamment en raison des délais courts qui existent pour les référendums. La vérifiabilité doit être possible tant au niveau individuel que global, sans compliquer inutilement les procédures. La mise en œuvre concrète doit être clarifiée avec les scientifiques.
+
+Reto König souligne que la vérifiabilité et le secret du vote sont compatibles, comme le montre l'expérience du vote électronique. Le problème des signatures multiples peut également être résolu à l'aide de protocoles cryptographiques appropriés.
+
+Sebastian Fust aborde la difficulté d'empêcher les signatures multiples tant que les procédures papier et numériques coexistent. Une approche possible consiste à proposer un Opt-in pour la récolte électronique de signatures avec un Opt-out simultané pour les signatures papier. Les communes sauraient de ce fait qui signe numériquement, mais pas quelles demandes ont été soutenues.
+
+Christian Folini souligne que la synchronisation des processus numériques et papier est techniquement complexe et nécessite une discussion plus approfondie. Il renvoie au hackathon de la Chancellerie fédérale, qui doit se pencher sur ces questions.
+
+Enfin, la mise en œuvre fédérale est discutée. Erik Schönenberger estime qu'une plateforme centrale mise à disposition par la Confédération, à laquelle les cantons et les communes seraient connectés, serait judicieuse, mais souligne que cette question est encore en suspens et doit faire l'objet de discussions supplémentaires.
+
+## Présentation 3 : « Ambition participation numérique : objectifs, principes et protocoles fédéraux » (Daniel Saeuberli, président de la DIDAS Digital Identity & Data Sovereignty Association)
+
+Daniel Saeuberli s'exprime sur la participation numérique en Suisse et sur l'importance des objectifs, principes et protocoles fédéraux pour la récolte électronique de signatures. DIDAS est une association à but non lucratif qui promeut la souveraineté des données, la confiance numérique et la vérifiabilité, et qui met en réseau des acteurs de l'administration, de la science, de la société civile et de l'économie.
+
+Il souligne que la définition précoce de principes et une approche participative et itérative, comme dans le cas de l'e-ID, sont décisives pour la conception de systèmes complexes. La récolte électronique doit remplacer les processus papier, qui sont coûteux, sujets aux erreurs et peu sûrs, tout en tenant compte de la structure fédérale et de la résilience démocratique.
+
+Il est important d'intégrer toutes les parties prenantes via des protocoles afin de garantir l'intégrité des données et la protection des données. Privacy by Design et Privacy by Default sont des exigences centrales, et le système doit servir tous les citoyens en tant qu'infrastructure publique numérique.
+
+Daniel Saeuberli souligne la nécessité de développer la récolte électronique de manière durable, visionnaire et itérative, et non comme un « pansement numérique » à court terme. Une coopération ouverte et transparente avec toutes les parties prenantes est essentielle pour exploiter à long terme les opportunités offertes par les technologies numériques au service de la démocratie directe.
+
+## Discussion sur la présentation 3
+
+Stefan Ziegler demande une explication concrète de la réflexion basée sur les protocoles dans le contexte de la récolte électronique. Comment cela se traduit-il concrètement, par exemple pour les autorités ou les communes ?
+
+Daniel Saeuberli explique que la pensée basée sur les protocoles s'appuie sur l'infrastructure de confiance de l'e-ID. Grâce à des processus cryptographiques et au paradigme du portefeuille, chaque personne garde le contrôle de ses données, tandis que l'infrastructure relie entre eux des composants décentralisés et centralisés. Grâce à des APIs standardisées, les communes, les autorités ainsi que les acteurs privés peuvent collaborer en toute sécurité, garantir l'intégrité des données et rendre chaque organisation vérifiable. Cela permet une architecture décentralisée sans nécessiter de système centralisé et soutient la structure fédérale de la Suisse. Les protocoles permettent de ce fait des solutions itératives et efficaces qui créent rapidement de la valeur ajoutée tout en garantissant la confiance et la sécurité.
+
+## Présentation 4 : « Perspective économique » (Alexander Keberle, responsable Énergie, Infrastructure et Environnement chez EconomieSuisse ; Patrick Dümmler, responsable du département Politique économique et durabilité de l'Union suisse des arts et métiers)
+
+L'économie voit dans la récolte électronique de signatures une grande opportunité pour la démocratie suisse, mais souligne également les risques potentiels. La plateforme Civic est présentée comme un modèle de réussite. Elle permet la récolte de signatures pour des initiatives, des référendums et des pétitions par différents acteurs (individus, organisations, partis) et relie une société libérale, une économie innovante et une démocratie forte.
+
+Points centraux du point de vue de l'économie :
+* Préserver la démocratie : même avec la numérisation, les processus existants tels que les signatures papier doivent rester possibles afin de garantir la stabilité et le bon fonctionnement.
+* Accessibilité pour tous : la récolte électronique ne doit pas créer de fracture numérique ; tous les groupes de population doivent pouvoir y participer sans que cela ne modifie les équilibres politiques.
+* Garantir la confiance : la sécurité et la fiabilité des solutions numériques sont cruciales, car une erreur pourrait nuire à la confiance à long terme. Une démocratie vivante, mais pas trop exigeante : des essais pilotes sont nécessaires pour évaluer l'impact pratique, l'utilisation et la surcharge éventuelle. L'accompagnement scientifique et l'implication de toutes les parties prenantes sont essentiels.
+  
+Autres points :
+* Le rôle de la Confédération (plateforme centralisée ou simples protocoles) reste à définir.
+* Il est important que l'accès soit facile. Les particuliers ou les petits groupes doivent également pouvoir lancer des initiatives sans avoir à surmonter d'obstacles techniques.
+  
+Les milieux économiques plaident en faveur d'essais pilotes, d'un accompagnement scientifique et d'un développement itératif afin de tirer parti des opportunités et de minimiser les risques.
+
+## Discussion sur la présentation 4
+
+Philyp Nyffenegger explique qu'à Genève, on réfléchit depuis de nombreuses années à la récolte électronique de signatures au niveau communal. Il souligne que l'approche doit rester simple et pratique. Les récoltes de signatures sur papier fonctionnent bien aujourd'hui, mais elles sont coûteuses, c'est pourquoi la récolte électronique est judicieuse. Les citoyens sont déjà habitués à l'e-ID cantonale et à la cyberadministration, ce qui rend techniquement possible un processus numérique. Il est important que le choix entre le papier et le numérique soit maintenu et que le système soit facile à utiliser pour toutes les parties concernées. Nyffenegger met en garde contre les solutions trop complexes qui ne correspondent pas au MVP.
+
+Roland Studer souligne la question de l'accessibilité. Les personnes malvoyantes ne peuvent utiliser la récolte électronique des signatures que si les plateformes sont accessibles, ce qui n'est pas entièrement garanti dans le cadre de l'événement actuel. Il cite l'exemple de l'Estonie, où les droits populaires numériques sont mis en œuvre de manière inclusive depuis plus de 20 ans, et souligne la pertinence de la mise en œuvre de l'article 29 de la Convention des Nations unies relative aux droits des personnes handicapées.
+
+## Présentation 5 : « E-Collecting Now ! » (Daniel Graf, membre du conseil de fondation de la Fondation pour la démocratie directe)
+
+Daniel Graf souligne que la Suisse a un besoin urgent d'un système de récolte électronique de signatures, car près de 20 ans se sont écoulés sans récolte électronique depuis le premier projet pilote de vote électronique en 2003. Il cite trois raisons pour lesquelles cela n'a pas encore été mis en œuvre : absence de mandat officiel, faible motivation des acteurs politiques et manque de pression de la part de la société civile.
+
+Daniel Graf explique que la récolte de signatures sur papier devient de plus en plus problématique, fastidieuse et coûteuse. Les prix du marché pour les signatures ont augmenté de près de 400 % au cours des dix dernières années, et les plateformes numériques fonctionnent parfois de manière insuffisante. Les jeunes et les personnes à mobilité réduite, en particulier, rencontrent des difficultés, ce qui conduit à leur exclusion du processus démocratique. Il reprend ainsi la déclaration de Roland Studer sur l'accessibilité : la démocratie analogique exclut de nombreuses personnes, tandis que les technologies modernes permettent des solutions inclusives.
+
+La récolte électronique est considérée comme une nécessité urgente pour les raisons suivantes:
+* Regagner la confiance dans le processus démocratique, qui a été perdue en raison de fraudes ou d'obstacles importants
+* Rendre la démocratie directe indépendante du portefeuille, car sinon les récolteurs de signatures commerciaux continueront à dominer le marché.
+* Garantir l'accessibilité afin que les personnes handicapées puissent également participer.
+  
+Il souligne la possibilité technique de mettre rapidement en œuvre la récolte électronique de signatures, car l'infrastructure de l'e-ID est déjà en place. Il plaide en faveur d'un démarrage rapide afin de rendre la démocratie en Suisse moderne, inclusive et efficace, et met en garde contre le fait que toute nouvelle hésitation perpétuera le cercle vicieux actuel de l'exclusion et de l'augmentation des coûts.
+
+## Discussion sur la présentation 5
+
+Christian Folini explique que l'e-ID est une mise en œuvre possible, mais pas obligatoire, pour la récolte électronique de signatures. Si le référendum du 28 septembre n'aboutit pas, la récolte électronique devra être réalisée via une autre variante technique. Le dialogue participatif doit d'ores et déjà examiner différentes options.
+
+Daniel Graf souligne que le Parlement soutient un essai de récolte électronique. Il considère cela comme un fait acquis, mais reste ouvert à d'autres solutions ne recourant pas à l'e-ID.
+
+Felix Huber s'interroge sur le secret du vote dans le cadre de la récolte électronique. Christian Folini souligne que celui-ci n'est que partiellement garanti dans le processus papier et que la loi ne contient pas encore de dispositions claires à ce sujet. Oliver Spycher ajoute qu'il existe des solutions techniques pour l'espace numérique, dont la faisabilité et le caractère raisonnable doivent être examinés.
+
+Alexander Keberle évoque la réticence croissante à récolter des signatures dans la rue. Deniel Graf explique que les petits comités ont particulièrement du mal à mobiliser des récolteurs bénévoles et que la perte de confiance suite à des cas de fraude aggrave le problème. Les records enregistrés pendant la pandémie de Covid sont très coûteux et difficiles à reproduire à long terme.
+
+Oliver Spycher souligne ensuite que le niveau d'ambition en matière de protection du secret du vote est élevé, mais qu'aucune décision n'a encore été prise quant à la mise en œuvre concrète. Le hackathon doit fournir des solutions tangibles dont la faisabilité et les coûts seront évalués.
+
+## Présentation 6 : « Démonstration de la plateforme d'e-collecting du canton de Saint-Gall » (Benedikt van Spyk, secrétaire d'État du canton de Saint-Gall)
+
+Benedikt van Spyk explique que le canton de Saint-Gall travaille sur la réolte électronique de signatures depuis 2018, à la suite d'une motion parlementaire et de la nouvelle loi sur les droits politiques.
+
+Le système repose sur quatre éléments :
+* Bases juridiques
+* Identification via AGOV ou, plus tard, e-ID
+* Plateforme cantonale de récolte électronique pour les signatures anonymisées avec comparaison au registre électoral permanent, qui est alimenté quotidiennement par tous les registres communaux
+* La plateforme est conçue comme un MVP, elle garantit l'anonymat, une identification claire, évite les doubles signatures et permet l'utilisation parallèle du processus physique
+  
+## Jonathan Schuster, d'Abraxas, présente le prototype (portail citoyen et portail gouvernemental).
+
+Le système devrait être opérationnel au début de l'année prochaine. Les expériences en matière d'acceptation, d'utilisation et de comportement des utilisateurs seront recueillies et les conclusions seront partagées en vue d'une éventuelle solution fédérale.
+
+## Discussion sur la présentation 6
+
+Philipp Locher exprime ses réserves quant à l'implication de la science dans la récolte électronique de signatures. Il fait référence à des expériences négatives antérieures avec le vote électronique et souligne que la confiance de la population et la sécurité sont prioritaires. Locher critique le fait qu'il en savait trop peu sur le système jusqu'à présent et demande que les scientifiques soient impliqués à un stade précoce afin de pouvoir évaluer de manière approfondie la technologie, la protection des données et la vie privée, en particulier pour les données sensibles telles que les numéros AVS.
+
+Benedikt van Spyk répond que le système est accessible au public dans le cadre d'une procédure de bug bounty et que le projet pilote fait l'objet d'un suivi scientifique, tant sur le plan technique que sur celui de l'utilisation. L'architecture a été développée avec des experts afin de garantir la confidentialité et la conservation des données. La première version n'est pas encore parfaite, mais elle constitue une base solide pour les essais pilotes.
+
+## Présentation 7 : « User Driven E-Collecting : une approche participative pour la démocratie numérique » (Sandro Scalco, fondateur du Digital Democracy Hub Suisse)
+
+Le Digital Democracy Hub Suisse s'occupe du développement pratique, politique et scientifique de la récolte électronique de signatures et mène, depuis 2020, des projets pilotes, notamment sans barrières et avec l'e-ID cantonale. Son travail comprend des projets pratiques, des conseils aux autorités ainsi que la recherche et l'enseignement.
+
+Le point de départ est le constat que les droits politiques n'ont guère évolué depuis plus de 150 ans, tandis que les récents cas de fraude aux signatures ont montré à quel point le système papier est vulnérable. La récolte électronique est donc considérée comme un instrument central pour renforcer la confiance et la sécurité de la démocratie directe.
+
+L'objectif est de permettre aux citoyens de soutenir des initiatives et des référendums de manière sécurisée, sans barrières et aussi bien en ligne que dans la rue. Cela doit se faire en collaboration avec les communes, les cantons et la Confédération, sur la base de la nouvelle infrastructure d'identification électronique publique. Au lieu d'une solution complète immédiate, le hub adopte une approche progressive.
+
+Un projet pilote suisse est présenté, dans le cadre duquel les électeurs sélectionnent une initiative et s'identifient à l'aide de l'e-ID fédérale. Seules les données nécessaires aujourd'hui sont transmises, avec, en option, une confirmation numérique dans le portefeuille. Le projet pilote montre pour la première fois un processus de récolte électronique continu et sécurisé, lequel sert de base à une solution d'avenir décentralisée, économe en données et développée de manière participative.
+
+## Discussion sur la présentation 7
+
+Sebastian Fust demande comment la connexion des communes doit fonctionner concrètement. Sandro Scalco explique qu'il existe déjà des solutions à cet effet. Il est prévu de mettre en place une architecture de connexion à plusieurs niveaux, qui s'adapte au degré de numérisation des communes. Une solution simple consisterait à permettre aux communes de recevoir des courriels signés électroniquement conformément à ZertES, ce qui éviterait d'avoir à vérifier les signatures manuscrites. Des interfaces standardisées sont également prévues. Il souligne qu'il ne s'agit là que d'une première étape intermédiaire. La solution actuelle n'est pas encore entièrement adaptée aux flux de travail actuels des communes et doit être perfectionnée, notamment dans le sens d'une solution décentralisée plus économe en données et mieux intégrée.
+
+## Présentation 8 : « La perspective des campagnes » Marc Wilmes, propriétaire de M.R. Wilmes Kampagnen und Beglaubigungen
+
+Pour les comités, la réussite de la récolte électronique de signatures, qu'elle soit papier ou numérique, est avant tout une question de préparation et de contrôle. Il est essentiel qu'ils puissent retracer les sources et les partenaires à l'origine des signatures. Sans cette transparence, il est difficile de soutenir activement la récolte électronique.
+
+La récolte électronique nécessite également une mobilisation active et des éléments de Call-to-Action clairs, par exemple via les propres plateformes de campagne ou dans la rue à l'aide d'outils numériques. La récolte électronique doit donc non seulement enregistrer les signatures, mais aussi fournir aux comités des informations sur leur origine.
+
+Une condition minimale est un code d'origine par signature (sans référence à la personne), en particulier lors de la récolte électronique dans l'espace public. Ce n'est qu'avec de telles possibilités de contrôle que la récolte électronique de signatures a des chances réalistes d'être acceptée, car seules quelques organisations peuvent mobiliser exclusivement par voie numérique.
+
+## Discussion sur la présentation 8
+
+Felix Huber note que le processus de récolte électronique est techniquement simple du point de vue des citoyens ; la véritable difficulté réside dans la prévention des signatures multiples tout en préservant l'anonymat complet. Les systèmes électroniques comportent le risque d'évaluations et de bases de données sur les opinions. Un fonctionnement parallèle totalement anonyme de la récolte électronique et papier est difficilement réalisable sur le plan cryptographique, car il nécessite une répartition problématique de la confiance. Le niveau d'ambition des autorités compétentes est donc déterminant.
+
+Benedikt van Spyk explique le modèle de Saint-Gall. Le système n'enregistre pas « qui a signé quoi ». La vérification s'effectue à l'aide d'identifiants de registre cryptés, qui servent uniquement à contrôler le droit de vote ; les numéros AVS ou les données de soutien ne sont pas enregistrés. Les doubles signatures ne sont détectées que lors de la comparaison avec les signatures physiques, ce qui est de toute façon nécessaire pour les communes. Les identifiants de registre utilisés sont supprimés une fois le processus terminé. Il souligne que certaines données sont nécessaires pour éviter les conflits et que des solutions cryptographiques plus poussées seraient très complexes et dépasseraient le cadre d'un MVP.
+Van Spyk compare cette évolution au vote électronique et souligne en outre que, contrairement aux votations, la récolte électronique de signatures constitue un obstacle à l'accès dont les effets sur les droits politiques doivent être observés avec attention. Enfin, il précise que malgré la centralisation du registre électoral cantonal, aucune donnée relative au soutien/ aux déclarations de soutien n'y est enregistrée ; celles-ci restent traitées au niveau des communes.
+
+## Présentation 9 : « La récolte électronique de signatures – partie intégrante d'une tendance mondiale » (Philippe Page, cofondateur de la Human Colossus Foundation)
+
+Philippe Page souligne l'urgence de mettre en place la récolte électronique de signature dès maintenant, car les technologies numériques progressent rapidement et touchent aux droits politiques fondamentaux. Sa fondation Human Colossus développe des outils open source afin de créer des espaces numériques démocratiques et fiables. Le problème central est la perte de confiance des citoyens : alors que la signature manuscrite était depuis longtemps une évidence, la signature numérique suscite des incertitudes quant au contrôle et à la sécurité de l'expression de sa propre volonté politique. La vérification est le facteur central pour instaurer la confiance, tant dans le monde analogique que numérique. La récolte électronique implique différents acteurs (citoyens, communes, comités, cantons, Confédération) dont les différents besoins en matière de vérification doivent être pris en compte de manière progressive et itérative. Les solutions doivent être accessibles à tous et inclure à la fois des processus numériques et physiques. Des technologies garantissant l'authenticité, l'intégrité et la gouvernance existent déjà dans le monde entier dans le cadre de l'infrastructure publique numérique. La Suisse devrait concevoir cette infrastructure de manière fédéraliste et fondée sur des valeurs afin de préserver sa souveraineté numérique. Ne pas agir signifie perdre cette souveraineté, c'est pourquoi une action immédiate et active est nécessaire.
+
+## Discussion sur la présentation 9
+
+Christian Folini s'interroge sur la confiance accordée à la récolte électronique de signatures, en particulier compte tenu du scepticisme général à l'égard des processus numériques.
+
+Philippe Page explique que la confiance dans les processus numériques dépend de la simplicité et du contrôle. Le projet pilote vise à permettre aux citoyens de signer en toute sécurité lors de la récolte dans la rue, sans exclure la possibilité d'une signature physique. Il est important que les utilisateurs puissent choisir différentes méthodes d'identification afin d'instaurer la confiance.
+
+Valérie Vulliez Boget précise qu'aucune récolte sur tablette ou en ligne n'est prévue à Genève. L'authentification s'effectue de manière forte et sécurisée via la plateforme, comme pour le processus papier. Elle souligne les avantages de la récolte électronique (gratuit pour les comités, récolte sécurisée, pas besoin de faire appel à des sociétés de récolte externes) et le fait que la récolte électronique est globalement plus fiable que le papier.
+
+Philippe Page ajoute que la solution sur tablette n'est qu'un projet pilote pour un problème spécifique. Elle ne vise pas à remplacer le système genevois, mais montre que différents projets pilotes sont nécessaires, car les processus démocratiques exigent des formes de participation variées.
+
+## Présentation 10 : « Le projet GemeindeConnect de l'Association des communes comme exemple de processus de développement participatif basé sur l'open source » (Claudia Kratochvil-Hametner, directrice de l'Association des communes suisses)
+
+Claudia Kratochvil-Hametner a présenté le projet Gemeinde Connect de l'Association des communes suisses, qui est mis en œuvre en collaboration avec MyniGmeind et d'autres partenaires. L'objectif est d'aider les communes à mettre en place et à développer des services numériques, à créer des normes et à proposer des procédures administratives efficaces, sans rupture de média et conviviales pour les citoyens. Le projet comprend le soutien organisationnel des coopérations, l'accompagnement technique par le biais de bonnes pratiques et de modèles de procédure, ainsi que la mise en place technique de solutions open source conformes aux normes industrielles.
+
+Gemeinde Connect est rendu accessible à tous afin de favoriser la transparence, la confiance et le développement commun. Des projets pilotes à Soleure et Fribourg testent les services, dont les expériences sont également mises à la disposition d'autres régions. À long terme, le projet vise à renforcer la souveraineté numérique des communes, à simplifier les processus administratifs et à servir de base à d'autres initiatives numériques, telles que la récolte électronique de signatures.
+
+## Discussion sur la présentation 10
+
+Christian Folini a interrogé les communes sur leur position vis-à-vis de la récolte électronique. Claudia Kratochvil-Hametner a répondu qu'il n'existait pas d'enquête exhaustive, mais que des entretiens individuels avec les membres du comité directeur étaient en cours. D'une manière générale, l'association des communes voit un potentiel dans la récolte électronique, en particulier en lien avec l'e-ID, mais il n'existe pas encore de position officielle de l'association.
+
+## Conclusion
+
+Christian Folini : La discussion a principalement porté sur la vérifiabilité, la protection des données et la prévention des doubles signatures. 136 personnes issues de l'administration, de la politique, de la société civile, des fournisseurs de systèmes et des organisations de campagne ont participé. Parmi les participants, on comptait une majorité d’hommes et des Suisses alémaniques. L'objectif est d'instaurer un dialogue large et ouvert, qui inclut également des contributions scientifiques. Des voix critiques se sont fait entendre, mais il n'y a pas eu de rejet fondamental. Le processus se poursuivra, entre autres, avec un hackathon fin octobre/début novembre, au cours duquel des équipes devront développer des solutions sur des thèmes tels que l'accessibilité, la cryptographie et l'intégration des processus papier et numériques. Un « Call for Problems » permettra de recueillir les questions ouvertes de la communauté. Enfin, la participation a été saluée, les résultats ont été documentés et les participants ont été invités à continuer de s'impliquer.
+
 # Zusammenfassung der Präsentationen und Diskussionen der Eröffnungsveranstaltung
 
 ## Einführung: Vertretungen der Sektion Politische Rechte der Bundeskanzlei
