@@ -1,4 +1,4 @@
-_[Deutsche Version](#Deutsch)_
+_[Deutsche Version](#deutsch)_
 
 # Résumé des présentations et des discussions de la l’événement d'ouverture
 
