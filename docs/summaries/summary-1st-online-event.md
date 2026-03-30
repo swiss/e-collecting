@@ -1,3 +1,5 @@
+_[Deutsche Version](#Deutsch)_
+
 # Résumé des présentations et des discussions de la l’événement d'ouverture
 
 ## Introduction : représentants de la section des droits politiques de la Chancellerie fédérale
@@ -195,6 +197,8 @@ Christian Folini a interrogé les communes sur leur position vis-à-vis de la r�
 ## Conclusion
 
 Christian Folini : La discussion a principalement porté sur la vérifiabilité, la protection des données et la prévention des doubles signatures. 136 personnes issues de l'administration, de la politique, de la société civile, des fournisseurs de systèmes et des organisations de campagne ont participé. Parmi les participants, on comptait une majorité d’hommes et des Suisses alémaniques. L'objectif est d'instaurer un dialogue large et ouvert, qui inclut également des contributions scientifiques. Des voix critiques se sont fait entendre, mais il n'y a pas eu de rejet fondamental. Le processus se poursuivra, entre autres, avec un hackathon fin octobre/début novembre, au cours duquel des équipes devront développer des solutions sur des thèmes tels que l'accessibilité, la cryptographie et l'intégration des processus papier et numériques. Un « Call for Problems » permettra de recueillir les questions ouvertes de la communauté. Enfin, la participation a été saluée, les résultats ont été documentés et les participants ont été invités à continuer de s'impliquer.
+
+**Deutsch**
 
 # Zusammenfassung der Präsentationen und Diskussionen der Eröffnungsveranstaltung
 
