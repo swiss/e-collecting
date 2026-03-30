@@ -2,8 +2,6 @@ _[Deutsche Version](#d-0)_
 
 # <a name="f-0">Résumé des présentations et des discussions de la l’événement d'ouverture</a>
 
-# Résumé des présentations et des discussions de la l’événement d'ouverture
-
 ## Introduction : représentants de la section des droits politiques de la Chancellerie fédérale
 
 Christian Folini (modérateur du processus participatif) ouvre la manifestation consacrée au dialogue participatif sur la récolte électronique de signatures, organisée à la demande de la Chancellerie fédérale. Il avoue ouvertement son scepticisme à l'égard de ce thème. Dans le même temps, il soutient la conclusion du rapport sur le postulat, selon laquelle la récolte électronique de signatures doit être testée en pratique afin d'en évaluer les effets.
@@ -203,8 +201,6 @@ Christian Folini : La discussion a principalement porté sur la vérifiabilité,
 **Deutsch**
 
 # <a name="d-0">Zusammenfassung der Präsentationen und Diskussionen der Eröffnungsveranstaltung</a>
-
-# Zusammenfassung der Präsentationen und Diskussionen der Eröffnungsveranstaltung
 
 ## Einführung: Vertretungen der Sektion Politische Rechte der Bundeskanzlei
 
