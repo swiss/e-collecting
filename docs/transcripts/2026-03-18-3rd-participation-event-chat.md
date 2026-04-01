@@ -124,7 +124,8 @@ Es wird vermischt mit dem Bereich aus Team 3/6/etc wo ein System die Gemeinde be
 In welchem Prozessschritt wird die Kontrolle der digitalen und physischen Unterschriften auf Gemeindeebene näher diskutiert? Für mich ist immer noch sehr offen, wie die Doppelunterzeichnung digital/physisch abgeglichen werden soll. 
 
 ### <a name="11-51">Huber, Felix, 11:51</a>
-> aber am Hackathon gab es Beispiele von Papierprozessen. Gemeinden und BK haben aber im Rahmen des Unterschriftenbschiss ein Interesse an der Digitalisierung der Bögen zur Analyse der Handschrift.  
+> aber am Hackathon gab es Beispiele von Papierprozessen. Gemeinden und BK haben aber im Rahmen des Unterschriftenbschiss ein Interesse an der Digitalisierung der Bögen zur Analyse der Handschrift.
+
 -> das ist die secret agenda. Da wird das Geschäft überladen mit Partikularinteressen
 
 ### <a name="-">Schnelle Natalie, 11:51</a>
@@ -135,6 +136,7 @@ Parameter 1 war Teil des Leitfadens des Hackathons, grundsätzlich fliessen bei 
 
 ### <a name="11-55">Sandro Scalco, 11:55</a>
 > aber am Hackathon gab es Beispiele von Papierprozessen. Gemeinden und BK haben aber im Rahmen des Unterschriftenbschiss ein Interesse an der Digitalisierung der Bögen zur Analyse der Handschrift. -> das ist die secret agenda. Da wird das Geschäft überladen mit Partikularinteressen
+
 Ich denke eher, dass hier etwas vermischt wird. Die Variante kam im Bezug des Hackathons auf, wo solche Möglichkeiten von Projektteams besprochen wurden.
 
 ### <a name="11-56">Schnelle Natalie, 11:56</a>
@@ -166,6 +168,7 @@ Vielen Dank auch für das tolle Schlusswort:
 
 ### <a name="12-13">Huber, Felix, 12:13</a>
 > Aber natürlich
+
 Danke für die klaren Worte. Ich frage mich was das für den partizipativen Prozess bedeutet.
  
 Ich habe den Leitfaden erneut gesichtet und finde spontan kein Hinweis auf die 'Digitalisierung papierbasierter Unterschriften'. Ein Prozessschritt der E-Collecting nicht dienlich ist und nicht zur Datensparsamkeit beiträgt. Sondern es verfolgt ein Ziel um den physischen Prozess sicherer zu machen um Unterschriften mit AI (ich beziehe mich auf die MM vor einigen Wochen) zu scannen und Betrug zu erkennen. 
