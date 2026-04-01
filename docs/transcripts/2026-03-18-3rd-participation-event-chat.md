@@ -1,4 +1,4 @@
-#  E-Collecting 3ème séance en-ligne / 3. Online Veranstaltung 
+#  E-Collecting 3e séance en-ligne / 3. Online Veranstaltung 
 * 18.12.2025, 09:00
 * Transcript du chat / Transkription des Chats
 
