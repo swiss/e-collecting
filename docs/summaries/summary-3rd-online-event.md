@@ -6,56 +6,48 @@ _[Deutsche Version](#d-0)_
 
 * Examiné au Conseil des États le 12 mars 2026
 * Trois propositions d'amendement de la Commission des institutions politiques ont été adoptées :
-        * Essais de récolte électronique limités localement
-        * Priorité à la minimisation des données et à l'ouverture du code source
-        * Certification décentralisée du droit de vote
+  * Essais de récolte électronique limités localement
+  * Priorité à la minimisation des données et à l'ouverture du code source
+  * Certification décentralisée du droit de vote
 * Renvoi au Conseil national → Examen prévu lors de la session d'été de juin 2026
 
 ## Christian Folini : Congrès d’hiver de DigiGes les 20 et 21 février
 
 * Trois événements consacrés à l'E-Collecting (en ligne sur https://winterkongress.ch/2026)
-        * Sandro Scalco : Point sur l'E-Collecting (intérêt croissant) :
-https://media.ccc.de/v/dgwk2026-56513-e-collecting-zwischen-hac
-        * Table ronde (Thomas Knellwolf, Rahel Estermann, Daniel Graf, Patricia Schader):
-https://media.ccc.de/v/dgwk2026-56524-direkte-demokratie-digita
-        * Florian Moser: «E-Collecting: Aber sicher!” (du point de vue cryptographique) :
-https://media.ccc.de/v/dgwk2026-56535-e-collecting-aber-sicher
+
+* Sandro Scalco : Point sur l'E-Collecting (intérêt croissant) : https://media.ccc.de/v/dgwk2026-56513-e-collecting-zwischen-hac
+* Table ronde (Thomas Knellwolf, Rahel Estermann, Daniel Graf, Patricia Schader): https://media.ccc.de/v/dgwk2026-56524-direkte-demokratie-digita
+* Florian Moser: «E-Collecting: Aber sicher!” (du point de vue cryptographique) : https://media.ccc.de/v/dgwk2026-56535-e-collecting-aber-sicher
 
 ## Beat Kuoni (Chancellerie fédérale) : Présentation « Le secret du vote »
 
 * Le secret du vote a pour but de protéger la libre expression de la volonté
-* Fortement protégé lors des élections et des votations ; historiquement moins bien protégé lors des récoltes de
-signatures, mais toujours présent
-* Retour sur l'histoire : Conseil fédéral de 1882 → consultation publique des listes de signatures possible ; dans les
-années 1950/1960, la nécessité d'une protection a été reconnue → inscrit dans la loi depuis les années 1960 (pas de
-consultation à la Chancellerie fédérale et destruction ultérieure des listes de signatures)
+* Fortement protégé lors des élections et des votations ; historiquement moins bien protégé lors des récoltes de signatures, mais toujours présent
+* Retour sur l'histoire : Conseil fédéral de 1882 → consultation publique des listes de signatures possible ; dans les années 1950/1960, la nécessité d'une protection a été reconnue → inscrit dans la loi depuis les années 1960 (pas de consultation à la Chancellerie fédérale et destruction ultérieure des listes de signatures)
 * Situation juridique actuelle : art. 64/71 P-Cst., art. 19 O-Cst.
-* Nouveauté dans le projet (art. 84a, al. 3, P-Cst.) : obligation explicite que la conception technique préserve le
-secret du vote, ainsi que la minimisation des données et l’ouverture du code source
+* Nouveauté dans le projet (art. 84a, al. 3, P-Cst.) : obligation explicite que la conception technique préserve le secret du vote, ainsi que la minimisation des données et l’ouverture du code source
 * La collecte électronique offre un potentiel de protection plus forte que le processus analogique
 
 **Discussion**
 
-* Daniel Graf : Dans le débat parlementaire, la problématique du respect du secret du vote est plutôt perçue comme
-relevant de la responsabilité des acteurs tiers (comités, collecteurs) et moins de celle des instances étatiques
+* Daniel Graf : Dans le débat parlementaire, la problématique du respect du secret du vote est plutôt perçue comme relevant de la responsabilité des acteurs tiers (comités, collecteurs) et moins de celle des instances étatiques
 * Felix Huber : Remarque sur les implications possibles du principe de minimisation des données pour les métadonnées
-* Samy : Question concernant une éventuelle comparaison générale avec les systèmes européens\ Réponse du modérateur :
-Nous prenons note de cette question
+* Samy : Question concernant une éventuelle comparaison générale avec les systèmes européens\ Réponse du modérateur : Nous prenons note de cette question
 
 ## Christian Folini, modérateur : Bilan du dialogue écrit – Partie 1
 
 Résumé des différents arguments avancés lors du dialogue écrit, sans hiérarchisation.
+
 * Bilan de la discussion 1 : Équilibre politique
 * Bilan de la discussion 2 : Est-il vraiment possible d’éviter de se retirer du processus papier ?
 * Bilan de la discussion 6 : Attribution des déclarations de soutien
 
-Voir FIXME.
+Voir [Synthèse des différents arguments et positions issus du dialogue en ligne jusqu'à la mi-mars 2026](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#r%C3%A9sum%C3%A9-des-arguments-de-la-premi%C3%A8re-phase-du-dialogue-en-ligne-au-17-mars-2026)
 
 
 ## Flavia Caroni (Politologue) : Présentation « Importance de l’attribution »
 
-Référence à sa thèse non encore publiée : « Cent mille signatures valides : une analyse qualitative de la récolte de
-signatures pour les initiatives populaires en Suisse et de ses facteurs de réussite »
+Référence à sa thèse non encore publiée : « Cent mille signatures valides : une analyse qualitative de la récolte de signatures pour les initiatives populaires en Suisse et de ses facteurs de réussite »
 
 **Situation actuelle**
 
@@ -80,12 +72,10 @@ signatures pour les initiatives populaires en Suisse et de ses facteurs de réus
 
 Résumé des différents arguments avancés lors du dialogue écrit, sans hiérarchisation.
 * Bilan de la discussion 3 : présentation des récoltes en cours ?
-* Bilan de la discussion 4 : menaces ? \ Question : Eva Christemov : comment instaurer la confiance ? \ Oliver Spycher
-(Chancellerie fédérale) : instaurer la transparence et communiquer les risques
-* Bilan de la discussion 5 : sécurité et vitesse \ Remarque : Felix Huber : le secret de la participation mérite d'être
-discuté : une signature ne correspond pas automatiquement à une opinion politique.
+* Bilan de la discussion 4 : menaces ? \ Question : Eva Christemov : comment instaurer la confiance ? \ Oliver Spycher (Chancellerie fédérale) : instaurer la transparence et communiquer les risques
+* Bilan de la discussion 5 : sécurité et vitesse \ Remarque : Felix Huber : le secret de la participation mérite d'être discuté : une signature ne correspond pas automatiquement à une opinion politique.
 
-Voir FIXME.
+Voir [Synthèse des différents arguments et positions issus du dialogue en ligne jusqu'à la mi-mars 2026](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#r%C3%A9sum%C3%A9-des-arguments-de-la-premi%C3%A8re-phase-du-dialogue-en-ligne-au-17-mars-2026)
 
 ## Natalie Schnelle (Chancellerie fédérale): Présentation du concept « Boîte morphologique »
 
@@ -93,20 +83,15 @@ Voir FIXME.
 * Décompose la récolte électronique de signatures en dimensions conceptuelles (appelées « paramètres ») et en valeurs
 * La combinaison des valeurs donne lieu à différentes variantes de solution
 * Exemples : les paramètres et leurs manifestations possibles
-        * Numérisation des signatures sur papier : pas de numérisation, numérisation et destruction, numérisation et
-restitution aux comités, numérisation et restitution au comité ainsi qu’à la ChF
-        * Présentation des initiatives en cours : liste centrale, liens de récoltes uniquement
-        * Arguments sur la plateforme : arguments des comités, pas d'arguments mais des liens vers les pages de
-campagne, pas d'arguments
-        * Attribution des déclarations de soutien : attribution visible pour les comités, attribution publique,
-possibilité de lancer des récoltes supplémentaires, pas d'attribution
+  * Numérisation des signatures sur papier : pas de numérisation, numérisation et destruction, numérisation et restitution aux comités, numérisation et restitution au comité ainsi qu’à la ChF
+  * Présentation des initiatives en cours : liste centrale, liens de récoltes uniquement
+  * Arguments sur la plateforme : arguments des comités, pas d'arguments mais des liens vers les pages de campagne, pas d'arguments
+  * Attribution des déclarations de soutien : attribution visible pour les comités, attribution publique, possibilité de lancer des récoltes supplémentaires, pas d'attribution
 
 **Discussion**
 
-Question : Felix Huber : Les paramètres de la numérisation des signatures sur papier n’occupaient pas une place
-prépondérante dans les prototypes du hackathon et n’ont pas encore fait l’objet d’un débat public. Pourquoi ce sujet
-est-il désormais imposé par la Chancellerie fédérale ? Oliver Spycher : Ce thème faisait déjà partie des discussions
-lors du hackathon et plusieurs équipes ont proposé une approche de numérisation.
+Question : Felix Huber : Les paramètres de la numérisation des signatures sur papier n’occupaient pas une place prépondérante dans les prototypes du hackathon et n’ont pas encore fait l’objet d’un débat public. Pourquoi ce sujet est-il désormais imposé par la Chancellerie fédérale ? \
+Oliver Spycher : Ce thème faisait déjà partie des discussions lors du hackathon et plusieurs équipes ont proposé une approche de numérisation.
 
 ### Daniela Ramp (Fondation Risiko-Dialog)/ Responsable de projet Digitalbarometer) : Présentation « Digital Gap –
 Conclusions du Baromètre Numérique 2024 »
@@ -115,9 +100,9 @@ Conclusions du Baromètre Numérique 2024 »
 étant des facteurs de risque)
 * La participation numérique comporte des aspects politiques, économiques, sociaux et culturels
 * Recommandations concernant l'e-collecting :
-        * « Digital First » plutôt que « Digital Only » (préserver le caractère facultatif)
-        * Plateforme inclusive, accessible et facile à utiliser (conception universelle)
-        * Impliquer dès le début les personnes peu familiarisées avec le numérique dans le développement et les tests
+  * « Digital First » plutôt que « Digital Only » (préserver le caractère facultatif)
+  * Plateforme inclusive, accessible et facile à utiliser (conception universelle)
+  * Impliquer dès le début les personnes peu familiarisées avec le numérique dans le développement et les tests
 
 **Discussion**
 
@@ -130,8 +115,7 @@ corrélé au fossé numérique
 * Le dialogue écrit se poursuit (d'autres dossiers suivront)
 * Hackathon GovTech à la Chancellerie fédérale fin mai (E-Collecting n'y participe pas)
 * Toutes les présentations et tous les résumés seront publiés sur la plateforme de dialogue (GitHub) et par newsletter
-* Appel : n'hésitez pas à nous faire part de vos commentaires sur les bilans et la boîte morphologique par courriel ou
-via la plateforme
+* Appel : n'hésitez pas à nous faire part de vos commentaires sur les bilans et la boîte morphologique par courriel ou via la plateforme
 
 
 
@@ -180,7 +164,7 @@ Zusammenfassung der Breite der im schriftlichen Dialog vorgebrachten Argumente, 
 * Bilanz Diskussion 2: Lässt sich ein Opt-Out für den Papierprozess wirklich vermeiden? 
 * Bilanz Diskussion 6: Zuschreibung der Unterstützungsbekundungen
 
-Siehe FIXME.
+Siehe [Zusammenfassung der verschiedenen Argumente und Positionen des Online-Dialogs bis Mitte März 2026 (2026-04-08)](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#zusammenfassung-argumente-der-ersten-phase-des-online-dialogs-stand-17-m%C3%A4rz-2026)
 
 ## Flavia Caroni (Politikwissenschaftlerin): Präsentation «Stellenwert der Zuschreibung»
 
@@ -215,7 +199,7 @@ Zusammenfassung der Breite der im schriftlichen Dialog vorgebrachten Argumente, 
 * Bilanz Diskussion 5: Sicherheit und Tempo \\
   Hinweis: Felix Huber: Partizipationsgeheimnis diskussionswürdig: Unterschrift entspricht nicht automatisch politischer Einstellung.
 
-Siehe FIXME.
+Siehe [Zusammenfassung der verschiedenen Argumente und Positionen des Online-Dialogs bis Mitte März 2026 (2026-04-08)](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#zusammenfassung-argumente-der-ersten-phase-des-online-dialogs-stand-17-m%C3%A4rz-2026)
 
 ## Natalie Schnelle (Bundeskanzlei): Vorstellung Konzept «Morphologischer Kasten» 
 
