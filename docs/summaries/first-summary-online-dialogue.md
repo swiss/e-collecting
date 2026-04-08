@@ -3,7 +3,7 @@ _[Deutsche Version](#d-0)_
 # <a name="f-0">Résumé des arguments de la première phase du dialogue en ligne (au 17 mars 2026)</a>
 
 
-## Discussion : équilibre politique
+## Discussion 1 : équilibre politique
 
 [Lien vers la discussion](https://github.com/swiss/e-collecting/issues/1)
 
@@ -20,7 +20,7 @@ Participation au 17 mars : 19 contributions de 10 personnes
 * Les effets concrets ne sont pas prévisibles, nous devons nous préparer à devoir réajuster le mécanisme
 
 
-## Discussion : Est-il vraiment possible d'éviter de se retirer du processus papier ?
+## Discussion 2 : Est-il vraiment possible d'éviter de se retirer du processus papier ?
 
 [Lien vers la discussion](https://github.com/swiss/e-collecting/issues/2)
 
@@ -38,7 +38,7 @@ Participation au 17 mars : 23 contributions de 10 personnes
 * Une discussion plus approfondie n'a de sens que si le cadre est préalablement défini (voir le vote électronique : l’OVotE)
 * Si le secret du vote (= secret de la participation) est considéré comme primordial, alors le protocole LH15 proposé par l'équipe 6 du hackathon / BFH devrait (et pourrait) être adapté
 
-## Discussion : présentation des récoltes en cours ?
+## Discussion 3 : présentation des récoltes en cours ?
 
 [Lien vers la discussion](https://github.com/swiss/e-collecting/issues/3)
 
@@ -63,7 +63,7 @@ Participation au 17 mars : 15 contributions de 10 personnes
 * Il faut une distinction claire par rapport aux sites de campagne, sur la plateforme étatique les signatures devraient uniquement être recueillies.
 * Un nouveau listing n'est pas nécessaire : la Confédération doit jouer le rôle d'arbitre et non devenir un joueur
 
-## Discussion : menaces
+## Discussion 4 : menaces
 
 [Lien vers la discussion](https://github.com/swiss/e-collecting/issues/4)
 
@@ -97,7 +97,7 @@ Participation au 17 mars : 12 contributions de 8 personnes
 * Des vagues de décisions émotionnelles liées à la désinformation sont envisageables et le problème est ici plus important que dans le cadre du processus papier
 * La collecte de signatures est un processus qui risque de disparaître avec la numérisation - Il faut trouver une solution de remplacement adéquate
 
-## Discussion : sécurité et vitesse ?
+## Discussion 5 : sécurité et vitesse ?
 
 [Lien vers la discussion](https://github.com/swiss/e-collecting/issues/5)
 
@@ -122,7 +122,7 @@ Participation au 17 mars : 19 contributions de 12 personnes
 
 
 
-## Discussion : attribution des déclarations de soutien
+## Discussion 6 : attribution des déclarations de soutien
 
 [Lien vers la discussion](https://github.com/swiss/e-collecting/issues/6)
 
