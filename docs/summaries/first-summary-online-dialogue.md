@@ -7,7 +7,7 @@ _[Deutsche Version](#d-0)_
 
 [Lien vers la discussion](https://github.com/swiss/e-collecting/issues/1)
 
-Participation au 25 février : 18 contributions de 9 personnes
+Participation au 17 mars : 19 contributions de 10 personnes
 
 * Le statu quo n'est pas non plus équilibré Mieux : égalité de traitement des comités
 * Favoriser le canal numérique peut conduire à ce que des référendums aboutissent sans que personne ne mène ensuite de campagne pour la votation.
@@ -24,7 +24,7 @@ Participation au 25 février : 18 contributions de 9 personnes
 
 [Lien vers la discussion](https://github.com/swiss/e-collecting/issues/2)
 
-Participation au 25 février : 22 contributions de 10 personnes
+Participation au 17 mars : 23 contributions de 10 personnes
 
 * L'opt-out contribuerait à lutter contre la falsification des signatures
 * L'opt-out permettrait d'améliorer la sécurité du système
@@ -42,7 +42,7 @@ Participation au 25 février : 22 contributions de 10 personnes
 
 [Lien vers la discussion](https://github.com/swiss/e-collecting/issues/3)
 
-Participation au 25 février : 13 contributions de 8 personnes
+Participation au 17 mars : 15 contributions de 10 personnes
 
 ### Propositions EN FAVEUR du listing
 
@@ -67,7 +67,7 @@ Participation au 25 février : 13 contributions de 8 personnes
 
 [Lien vers la discussion](https://github.com/swiss/e-collecting/issues/4)
 
-Participation au 25 février : 11 contributions de 7 personnes
+Participation au 17 mars : 12 contributions de 8 personnes
 
 ### Menaces pesant sur le système de récolte électronique
 
@@ -89,6 +89,7 @@ Participation au 25 février : 11 contributions de 7 personnes
 * Les menaces concrètes ne pourront être discutées que lorsque les hypothèses de sécurité auront été publiées
 
 ## Discussion : Menaces pour le système politique liées à la récolte électronique
+
 * Surcharge du système politique due à un nombre excessif d'initiatives populaires et de référendums
 * La récolte électronique doit être mise en œuvre de manière à ce que les promesses puissent être tenues sans accroître les risques
 
@@ -100,7 +101,7 @@ Participation au 25 février : 11 contributions de 7 personnes
 
 [Lien vers la discussion](https://github.com/swiss/e-collecting/issues/5)
 
-Participation au 25 février : 18 contributions de 11 personnes
+Participation au 17 mars : 19 contributions de 12 personnes
 
 * La délivrance d'un reçu contribue à la sécurité et à la confiance
 * Des garanties de sécurité insuffisantes entraînent des revers – seules des garanties de sécurité élevées sont durables ; voir le vote électronique
@@ -125,7 +126,7 @@ Participation au 25 février : 18 contributions de 11 personnes
 
 [Lien vers la discussion](https://github.com/swiss/e-collecting/issues/6)
 
-Participation au 25 février : 5 contributions de 4 personnes
+Participation au 17 mars : 7 contributions de 5 personnes
 
 * Utile, mais pas indispensable
 * L'identification des individus ne doit pas être possible
@@ -135,7 +136,7 @@ Participation au 25 février : 5 contributions de 4 personnes
 * Choisir le niveau de détail de l'attribution de manière à ce que l'anonymat soit encore suffisant
 * L'attribution des manifestations de soutien offre un potentiel de vérification de la plausibilité lorsque des schémas suspects apparaissent
 * L'attribution des signatures offre également la possibilité d'améliorer la transparence vis-à-vis des signataires
-* Le secret du vote prime sur les intérêts des organisations de récolte – renonciation à l'attribution systématique, éventuellement attribution a posteriori et volontaire
+* La divulgation de l'identité des donateurs aux organismes de collecte doit être remise en question. Il devrait tout au plus être possible, a posteriori, de communiquer volontairement ses données à un organisme de collecte. (Ce point a été reformulé à la suite de la 3e réunion du dialogue participatif, après qu'une remarque a été formulée.)
 
 # <a name="d-0">Zusammenfassung Argumente der ersten Phase des Online Dialogs (Stand 17. März 2026)</a>
 
@@ -269,4 +270,4 @@ Beteiligung: 7 Beiträge von 5 Personen, Stand 17.3.2026
 * Detailgrad der Zuschreibung so wählen, dass die Anonymität noch ausreicht
 * Bei der Zuschreibung der Unterstützungsbekundungen ergibt sich Plausibilisierungspotential, wenn auffällige Muster sichtbar werden
 * Zuschreibung von Unterschriften bietet auch die Möglichkeit, die Transparenz gegenüber den Unterschreibenden zu verbessern
-* Stimmgeheimnis hat Vorrang vor den Interessen von Sammelorganisationen - Verzicht auf systematische Zuweisung, allenfalls nachträgliche, freiwillige Zuweisung
+* Die Offenlegung der Identität der Unterstützenden gegenüber den Sammelorganisationen ist zu hinterfragen. Es soll allenfalls nachträglich möglich sein, seine Daten freiwillig gegenüber einer Sammelorganisation offenzulegen. (Dieser Punkt wurde im Nachgang zur 3. Veranstaltung des partizipativen Dialogs nach einem Hinweis neu formuliert.) 
