@@ -88,7 +88,7 @@ Participation au 17 mars : 12 contributions de 8 personnes
 * L'e-collecting ne peut gagner la confiance que si la sécurité est supérieure à celle du processus papier
 * Les menaces concrètes ne pourront être discutées que lorsque les hypothèses de sécurité auront été publiées
 
-## Discussion : Menaces pour le système politique liées à la récolte électronique
+### Menaces pour le système politique liées à la récolte électronique
 
 * Surcharge du système politique due à un nombre excessif d'initiatives populaires et de référendums
 * La récolte électronique doit être mise en œuvre de manière à ce que les promesses puissent être tenues sans accroître les risques
