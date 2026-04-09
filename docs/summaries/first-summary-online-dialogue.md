@@ -14,7 +14,7 @@ Participation au 17 mars : 19 contributions de 10 personnes
 * Si cela entraîne une surcharge, il suffit « simplement » d'augmenter le quorum.
 * Souhait de disposer de jeux de données standardisés pour les initiatives populaires et les référendums : Nous avons pris contact avec eCH
 * Proposition : obstacle artificiel, tel qu'un processus d'approbation à plusieurs niveaux, pour prévenir la surcharge
-* Dans le cas d'un système numérique, il faudrait une confirmation de la manifestation de volonté : le mieux est d'y réfléchir à l'aube
+* Dans le cas d'un système numérique, il faudrait une confirmation de la manifestation de volonté : il faut se donner le temps d'y réfléchir 
 * La surcharge numérique comme problème fondamental de la numérisation selon les milieux scientifiques
 * Tout nouveau mécanisme porte atteinte à l'équilibre politique, c'est pourquoi la plus grande prudence s'impose
 * Les effets concrets ne sont pas prévisibles, nous devons nous préparer à devoir réajuster le mécanisme
