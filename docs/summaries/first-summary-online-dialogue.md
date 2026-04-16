@@ -136,7 +136,7 @@ Participation au 17 mars : 7 contributions de 5 personnes
 * Choisir le niveau de détail de l'attribution de manière à ce que l'anonymat soit encore suffisant
 * L'attribution des manifestations de soutien offre un potentiel de vérification de la plausibilité lorsque des schémas suspects apparaissent
 * L'attribution des signatures offre également la possibilité d'améliorer la transparence vis-à-vis des signataires
-* La divulgation de l'identité des donateurs aux organismes de collecte doit être remise en question. Il devrait tout au plus être possible, a posteriori, de communiquer volontairement ses données à un organisme de collecte. (Ce point a été reformulé à la suite de la 3e réunion du dialogue participatif, après qu'une remarque a été formulée.)
+* Sur le canal numérique, l'identité des signataires ne doit pas être divulguée aux organisations de collecte sans leur consentement explicite. Une telle divulgation est contraire au principe de minimisation des données inscrit par le Parlement dans la loi sur la protection des données (LDP) ainsi qu'au respect du secret des signatures (art. 84a, al. 3).(Ce point a été reformulé à la suite de la 3e réunion du dialogue participatif, après qu'une remarque a été formulée.)
 
 # <a name="d-0">Zusammenfassung Argumente der ersten Phase des Online Dialogs (Stand 17. März 2026)</a>
 
@@ -270,4 +270,4 @@ Beteiligung: 7 Beiträge von 5 Personen, Stand 17.3.2026
 * Detailgrad der Zuschreibung so wählen, dass die Anonymität noch ausreicht
 * Bei der Zuschreibung der Unterstützungsbekundungen ergibt sich Plausibilisierungspotential, wenn auffällige Muster sichtbar werden
 * Zuschreibung von Unterschriften bietet auch die Möglichkeit, die Transparenz gegenüber den Unterschreibenden zu verbessern
-* Die Offenlegung der Identität der Unterstützenden gegenüber den Sammelorganisationen ist zu hinterfragen. Es soll allenfalls nachträglich möglich sein, seine Daten freiwillig gegenüber einer Sammelorganisation offenzulegen. (Dieser Punkt wurde im Nachgang zur 3. Veranstaltung des partizipativen Dialogs nach einem Hinweis neu formuliert.) 
+* Auf dem digitalen Kanal darf die Identität der Unterstützenden gegenüber Sammelorganisationen nicht offengelegt werden, ohne dass die Personen ausdrücklich zustimmen. Eine Offenlegung steht im Widerspruch zum vom Parlament im BPR verankerten Grundsatz der Datensparsamkeit sowie zur Wahrung des Unterschriftengeheimnisses (Art. 84a Abs. 3). (Dieser Punkt wurde im Nachgang zur 3. Veranstaltung des partizipativen Dialogs nach einem Hinweis neu formuliert.) 
