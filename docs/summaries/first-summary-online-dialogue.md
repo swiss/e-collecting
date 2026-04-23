@@ -269,7 +269,6 @@ Beteiligung: 19 Beiträge von 12 Personen, Stand 17.3.2026
 * Angesichts der aktuellen Vertrauenskrise muss Tempo priorisiert werden – E-Collecting muss nicht perfekte, aber bessere Sicherheit als der heutige Weg bieten
 * Key Management kann für Bürgerinnen und Bürger zum Problem werden (Hinweis Prof. Burkhard Stiller, UZH)
 
-
 ## Diskussion 6: Zuschreibung der Unterstützungsbekundungen
 
 [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/6)
