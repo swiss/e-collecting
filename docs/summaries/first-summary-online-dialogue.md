@@ -155,7 +155,7 @@ Beteiligung: 19 Beiträge von 10 Personen, Stand 17.3.2026
 * Digitale Überforderung als Grundproblem der Digitalisierung gemäss Wissenschaft
 * Jeder neue Mechanismus greift in die politische Ausgewogenheit ein, deshalb ist höchste Vorsicht geboten
 * Die genauen Effekte sind nicht voraussagbar, wir müssen uns aber darauf einstellen, dass wir am Mechanismus nachjustieren müssten
-* Wissenschaftlich (Braun Binder 2014) ist keine „Initiativenflut" durch E-Collecting belegt; eine präventive Quorenerhöhung ist zudem rechtlich problematisch
+* Wissenschaftlich (Braun Binder 2014) ist keine „Initiativenflut" durch E-Collecting zu erwarten; weiter ist eine präventive Quorenerhöhung problematisch
 * Die E-Collecting-Plattform darf nicht zur Werbeplattform werden
 
 
@@ -196,12 +196,9 @@ Beteiligung: 15 Beiträge von 10 Personen, Stand 17.3.2026
 * Grundwerte der Demokratie sind Partizipation, Gleichheit, Freiheiten und Wettbewerb. Auflistung fördert mindestens zwei dieser Anliegen
 * Mobiltelefone limitieren Platz für Darstellung. Bevorzugung von “älteste Sammlungen zuerst”
 * Jede Dynamisierung einer Auflistung bedeutet eine Hürde für Sehbehinderte und ist deshalb abzulehnen
-* Die Forderung nach zentraler Darstellung hat historische Wurzeln (Postulat Andreas Gross, 1999)
+* Die Forderung nach zentraler Darstellung hat historische Wurzeln (Postulat 99.3321, Andreas Gross, 1999)
 * Klare funktionale Trennung: proaktive Benachrichtigungen gehören zur Digitalisierung des Bundesblatts, die Begleitung politischer Geschäfte zu parlament.ch
-* Die Sorge einer „Blockierung des parlamentarischen Prozesses" verkennt den Policy Cycle: bei Referenden ist die parlamentarische Arbeit abgeschlossen, bei Initiativen ist die Behandlung ordentlicher Bestandteil des Prozesses
 * Vergleiche mit ausländischen Systemen sind mit Vorsicht zu geniessen – die Schweiz sollte eigene Lösungen entwickeln
-* Gleich lange Spiesse für beide Kanäle: Aufschaltung auf der Plattform erst, wenn das Begehren der Bundeskanzlei bekannt ist
-
 
 ### Stellungsbezüge CONTRA Auflistung
 
@@ -236,10 +233,7 @@ Beteiligung: 12 Beiträge von 8 Personen, Stand 17.3.2026
 * Desinformation
 * E-Collecting kann nur Vertrauen gewinnen, wenn die Sicherheit höher ist als beim Papierprozess
 * Konkrete Bedrohungen können erst diskutiert werden, wenn Sicherheitsannahmen publiziert sind
-* Die Schweizer E-ID mit Device Binding bietet einen strukturellen Vorteil – die physische Komponente erschwert skalierte Angriffe massiv
-* Abhängigkeit von ausländischer Cloud-Infrastruktur (Azure, Google Cloud, AWS) vs. souveräner Lösung verdient mehr Aufmerksamkeit – gemäss Digitalbarometer 2025 sehen 53 % der 26–34-Jährigen Big-Tech-Abhängigkeiten und 56 % ausländische Systeme kritisch
-* Verifizierbarkeit bei Wahrung des Stimmgeheimnisses ist mit dem Protokoll LH15 (BFH/EPFL, Hackathon-Team 6) technisch möglich
-
+* Abhängigkeit von ausländischer Cloud-Infrastruktur (Azure, Google Cloud, AWS) vs. souveräner Lösung verdient mehr Aufmerksamkeit
 
 ### Bedrohungen für politisches System durch E-Collecting
 
@@ -273,7 +267,7 @@ Beteiligung: 19 Beiträge von 12 Personen, Stand 17.3.2026
 * Geopolitische Zeitenwende: Sicherheit erhält mehr Gewicht
 * Es braucht Zeit für den Dialog, für das Messen der Argumente und für das Finden von tragfähigen Lösungen
 * Angesichts der aktuellen Vertrauenskrise muss Tempo priorisiert werden – E-Collecting muss nicht perfekte, aber bessere Sicherheit als der heutige Weg bieten
-* Key Management kann für Bürger:innen zum Problem werden (Hinweis Prof. Burkhard Stiller, UZH); die E-ID mit Device Binding kann diese Komplexität reduzieren
+* Key Management kann für Bürgerinnen und Bürger zum Problem werden (Hinweis Prof. Burkhard Stiller, UZH)
 
 
 ## Diskussion 6: Zuschreibung der Unterstützungsbekundungen
