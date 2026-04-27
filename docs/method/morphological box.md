@@ -9,3 +9,6 @@ Pour chaque paramètre, plusieurs caractéristiques possibles sont définies. El
 La sélection d’une caractéristique pour chaque paramètre donne lieu à une variante de mise en œuvre. À l’étape suivante, plusieurs variantes de mise en œuvre sont comparées entre elles afin d’évaluer leurs avantages et leurs inconvénients.
 
 L’ensemble des paramètres et de leurs caractéristiques respectives est représenté dans une matrice – la boîte morphologique.
+
+![Description](docs/images/boîte morphologique.png)  
+
