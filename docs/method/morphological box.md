@@ -42,4 +42,4 @@ Die Entwicklung von Bewertungskriterien kann dabei helfen, eine Vorselektion von
 
 Die Methode des morphologischen Kastens wurde gewählt, um die mehrschichtige Entscheidungsfindung mit Bezug auf die Ausgestaltung von E-Collecting strukturiert und transparent vorzubereiten. Es werden nicht nur naheliegende Optionen betrachtet, sondern auch Ausprägungen, die den gesamten möglichen Lösungsraum aufspannen. Entscheidungen sind nachvollziehbar, weil klar ist, welche Parameter zugrunde liegen. 
 
-[^2] Morphologische Analyse (Kreativitätstechnik). (o. D.). In Wikipedia. Abgerufen am 27. März 2026, von https://de.wikipedia.org/wiki/Morphologische_Analyse_(Kreativit%C3%A4tstechnik) 
+[^2]: Morphologische Analyse (Kreativitätstechnik). (o. D.). In Wikipedia. Abgerufen am 27. März 2026, von https://de.wikipedia.org/wiki/Morphologische_Analyse_(Kreativit%C3%A4tstechnik) 
