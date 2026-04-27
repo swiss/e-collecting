@@ -15,9 +15,9 @@ L’ensemble des paramètres et de leurs caractéristiques respectives est repr�
   <img src="../images/variantes-de-mise-en-oeuvre.png" width="450" />
 </p>
 
+L'élaboration de critères d'évaluation peut aider à présélectionner les caractéristiques appropriées et à comparer systématiquement les différentes combinaisons. Parmi les critères typiques, on peut citer par exemple la faisabilité (technique, organisationnelle, légale) ou les coûts et les ressources nécessaires.
 
-
-
+La méthode de la boîte morphologique a été choisie afin de préparer de manière structurée et transparente le processus décisionnel complexe concernant la conception de la récolte électronique de signatures. Elle permet d’examiner non seulement les options évidentes, mais aussi les caractéristiques qui couvrent l’ensemble des solutions possibles. Les décisions sont traçables, car les paramètres sous-jacents sont clairement identifiés.
 
   
 
