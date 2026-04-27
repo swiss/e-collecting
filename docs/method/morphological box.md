@@ -1,6 +1,6 @@
 ## Introduction à la boîte morphologique
 
-La boîte morphologique est une méthode d'analyse systématique de problématiques complexes qui peut notamment être utilisée pour la prise de décision concernant différentes variantes de mise en œuvre (cf. Zwicky 19691). Elle a été développée par Fritz Zwicky, un astrophysicien suisse, et est aujourd'hui utilisé dans le domaine du management, les projets d'innovation et les projets publics.
+La boîte morphologique est une méthode d'analyse systématique de problématiques complexes qui peut notamment être utilisée pour la prise de décision concernant différentes variantes de mise en œuvre (cf. Zwicky 1969[^1]). Elle a été développée par Fritz Zwicky, un astrophysicien suisse, et est aujourd'hui utilisé dans le domaine du management, les projets d'innovation et les projets publics.
 
 Au départ, les bases de la prise de décision sont décomposées en paramètres centraux. Ces paramètres représentent des dimensions fondamentales de conception. Dans la mesure du possible, les paramètres doivent pouvoir être traités indépendamment les uns des autres.
 
@@ -19,5 +19,5 @@ L'élaboration de critères d'évaluation peut aider à présélectionner les ca
 
 La méthode de la boîte morphologique a été choisie afin de préparer de manière structurée et transparente le processus décisionnel complexe concernant la conception de la récolte électronique de signatures. Elle permet d’examiner non seulement les options évidentes, mais aussi les caractéristiques qui couvrent l’ensemble des solutions possibles. Les décisions sont traçables, car les paramètres sous-jacents sont clairement identifiés.
 
-  
+[^morpho]:Analyse morphologique (technique de créativité). (s. d.). Dans Wikipédia. Consulté le 27 mars 2026, à l'adresse https://de.wikipedia.org/wiki/Morphologische_Analyse_(Kreativit%C3%A4tstechnik)   
 
