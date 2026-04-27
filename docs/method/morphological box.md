@@ -10,6 +10,6 @@ La sélection d’une caractéristique pour chaque paramètre donne lieu à une 
 
 L’ensemble des paramètres et de leurs caractéristiques respectives est représenté dans une matrice – la boîte morphologique.
 
-![Description](docs/images/boîte-morphologique.png) 
+!(docs/images/boîte-morphologique.png) 
   
 
