@@ -23,7 +23,7 @@ La méthode de la boîte morphologique a été choisie afin de préparer de mani
 
 ## Einführung Morphologischer Kasten
 
-Der morphologische Kasten ist eine Methode zur systematischen Analyse komplexer Problemstellungen und kann namentlich für die Entscheidfindung von Umsetzungsvarianten genutzt werden (vgl. Zwicky 1969 [^2]). Sie wurde von Fritz Zwicky, einem Schweizer Astrophysiker, entwickelt und wird heute im Management, bei Innovationsprojekten und öffentlichen Vorhaben eingesetzt.
+Der morphologische Kasten ist eine Methode zur systematischen Analyse komplexer Problemstellungen und kann namentlich für die Entscheidfindung von Umsetzungsvarianten genutzt werden (vgl. Zwicky 1969[^2]). Sie wurde von Fritz Zwicky, einem Schweizer Astrophysiker, entwickelt und wird heute im Management, bei Innovationsprojekten und öffentlichen Vorhaben eingesetzt.
 
 Zu Beginn werden die Grundlagen für die Entscheidfindung in zentrale Parameter zerlegt. Diese Parameter stellen grundlegende Gestaltungsdimensionen dar. Parameter sollten möglichst voneinander unabhängig behandelt werden können.
 
