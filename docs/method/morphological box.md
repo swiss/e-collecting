@@ -23,7 +23,7 @@ La méthode de la boîte morphologique a été choisie afin de préparer de mani
 
 ## Einführung Morphologischer Kasten
 
-Der morphologische Kasten ist eine Methode zur systematischen Analyse komplexer Problemstellungen und kann namentlich für die Entscheidfindung von Umsetzungsvarianten genutzt werden (vgl. Zwicky 1969 ). Sie wurde von Fritz Zwicky, einem Schweizer Astrophysiker, entwickelt und wird heute im Management, bei Innovationsprojekten und öffentlichen Vorhaben eingesetzt.
+Der morphologische Kasten ist eine Methode zur systematischen Analyse komplexer Problemstellungen und kann namentlich für die Entscheidfindung von Umsetzungsvarianten genutzt werden (vgl. Zwicky 1969 [^2]). Sie wurde von Fritz Zwicky, einem Schweizer Astrophysiker, entwickelt und wird heute im Management, bei Innovationsprojekten und öffentlichen Vorhaben eingesetzt.
 
 Zu Beginn werden die Grundlagen für die Entscheidfindung in zentrale Parameter zerlegt. Diese Parameter stellen grundlegende Gestaltungsdimensionen dar. Parameter sollten möglichst voneinander unabhängig behandelt werden können.
 
@@ -33,4 +33,13 @@ Durch die Auswahl einer Ausprägung pro Parameter entsteht eine Umsetzungsvarian
 
 Die Gesamtheit der Parameter und ihrer jeweiligen Ausprägungen wird in einer Matrix – dem morphologischen Kasten – dargestellt. 
 
+<p float="left">
+  <img src="../images/Morphologischer-Kasten.png" width="450" />
+  <img src="../images/Umsetzungsvarianten.png" width="450" />
+</p>
 
+Die Entwicklung von Bewertungskriterien kann dabei helfen, eine Vorselektion von geeigneten Ausprägungen zu treffen und die verschiedenen Kombinationen systematisch zu vergleichen. Typische Kriterien können beispielsweise die Umsetzbarkeit (technisch, organisatorisch, rechtlich) oder die Kosten bzw. der Ressourcenbedarf sein. 
+
+Die Methode des morphologischen Kastens wurde gewählt, um die mehrschichtige Entscheidungsfindung mit Bezug auf die Ausgestaltung von E-Collecting strukturiert und transparent vorzubereiten. Es werden nicht nur naheliegende Optionen betrachtet, sondern auch Ausprägungen, die den gesamten möglichen Lösungsraum aufspannen. Entscheidungen sind nachvollziehbar, weil klar ist, welche Parameter zugrunde liegen. 
+
+ [^2] Morphologische Analyse (Kreativitätstechnik). (o. D.). In Wikipedia. Abgerufen am 27. März 2026, von https://de.wikipedia.org/wiki/Morphologische_Analyse_(Kreativit%C3%A4tstechnik) 
