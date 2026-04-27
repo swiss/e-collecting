@@ -11,8 +11,8 @@ La sélection d’une caractéristique pour chaque paramètre donne lieu à une 
 L’ensemble des paramètres et de leurs caractéristiques respectives est représenté dans une matrice – la boîte morphologique.
 
 <p float="left">
-  <img src="../images/boîte-morphologique.png" width="300" />
-  <img src="../images/variantes-de-mise-en-oeuvre.png" width="300" />
+  <img src="../images/boîte-morphologique.png" width="450" />
+  <img src="../images/variantes-de-mise-en-oeuvre.png" width="450" />
 </p>
 
 
