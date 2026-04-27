@@ -23,7 +23,7 @@ La méthode de la boîte morphologique a été choisie afin de préparer de mani
 
 [^1]: Analyse morphologique (technique de créativité). (s. d.). Dans Wikipédia. Consulté le 27 mars 2026, à l'adresse https://de.wikipedia.org/wiki/Morphologische_Analyse_(Kreativit%C3%A4tstechnik)   
 
-# <a name="d-0" ## Einführung Morphologischer Kasten
+# <a name="d-0"## Einführung Morphologischer Kasten
 
 Der morphologische Kasten ist eine Methode zur systematischen Analyse komplexer Problemstellungen und kann namentlich für die Entscheidfindung von Umsetzungsvarianten genutzt werden (vgl. Zwicky 1969[^2]). Sie wurde von Fritz Zwicky, einem Schweizer Astrophysiker, entwickelt und wird heute im Management, bei Innovationsprojekten und öffentlichen Vorhaben eingesetzt.
 
