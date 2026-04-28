@@ -36,8 +36,8 @@ Durch die Auswahl einer Ausprägung pro Parameter entsteht eine Umsetzungsvarian
 Die Gesamtheit der Parameter und ihrer jeweiligen Ausprägungen wird in einer Matrix – dem morphologischen Kasten – dargestellt. 
 
 <p float="left">
-  <img src="../images/Morphologischer-Kasten.png" height="300" />
-  <img src="../images/Umsetzungsvarianten.png" height="300" />
+  <img src="../images/Morphologischer-Kasten.png" width="45%">
+  <img src="../images/Umsetzungsvarianten.png" width="45%">
 </p>
 
 Die Entwicklung von Bewertungskriterien kann dabei helfen, eine Vorselektion von geeigneten Ausprägungen zu treffen und die verschiedenen Kombinationen systematisch zu vergleichen. Typische Kriterien können beispielsweise die Umsetzbarkeit (technisch, organisatorisch, rechtlich) oder die Kosten bzw. der Ressourcenbedarf sein. 
