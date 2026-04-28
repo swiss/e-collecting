@@ -13,8 +13,8 @@ La sélection d’une caractéristique pour chaque paramètre donne lieu à une 
 L’ensemble des paramètres et de leurs caractéristiques respectives est représenté dans une matrice – la boîte morphologique.
 
 <p float="left">
-  <img src="../images/boîte-morphologique.png" width="450" />
-  <img src="../images/variantes-de-mise-en-oeuvre.png" width="450" />
+  <img src="../images/Boîte-morphologique.png" width="45%">
+  <img src="../images/variantes-de-mise-en-oeuvre.png" width="45%">
 </p>
 
 L'élaboration de critères d'évaluation peut aider à présélectionner les caractéristiques appropriées et à comparer systématiquement les différentes combinaisons. Parmi les critères typiques, on peut citer par exemple la faisabilité (technique, organisationnelle, légale) ou les coûts et les ressources nécessaires.
