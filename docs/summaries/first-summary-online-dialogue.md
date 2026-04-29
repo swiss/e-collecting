@@ -159,7 +159,7 @@ Beteiligung: 19 Beiträge von 10 Personen, Stand 17.3.2026
 * Status Quo ist auch nicht ausgewogen. Besser: Gleichbehandlung der Komitees
 * Bevorteilung des digitalen Kanals kann dazu führen, dass Referenden zu Stande kommen, ohne dass jemand danach den Abstimmungskampf führen wird
 * Wenn es zu Überlastung führt, dann «einfach» Quorum erhöhen
-* Wunsch nach standardisierten Datensätzen zu Volkbegehren Wir haben mit eCH Kontakt hergestellt
+* Wunsch nach standardisierten Datensätzen zu Volkbegehren. Wir haben mit eCH Kontakt hergestellt
 * Vorschlag: Künstliche Hürde wie z.B. mehrstufige Zustimmung, um Überlastung vorzubeugen
 * Bei einem digitalen System sollte es eine Bestätigung der Willensbekundung geben: Am Besten einmal drüber schlafen
 * Digitale Überforderung als Grundproblem der Digitalisierung gemäss Wissenschaft
