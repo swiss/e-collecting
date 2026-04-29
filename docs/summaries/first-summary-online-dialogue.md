@@ -155,6 +155,9 @@ Beteiligung: 19 Beiträge von 10 Personen, Stand 17.3.2026
 * Digitale Überforderung als Grundproblem der Digitalisierung gemäss Wissenschaft
 * Jeder neue Mechanismus greift in die politische Ausgewogenheit ein, deshalb ist höchste Vorsicht geboten
 * Die genauen Effekte sind nicht voraussagbar, wir müssen uns aber darauf einstellen, dass wir am Mechanismus nachjustieren müssten
+* Wissenschaftlich (Braun Binder 2014) ist keine „Initiativenflut" durch E-Collecting zu erwarten; weiter ist eine präventive Quorenerhöhung problematisch
+* Die E-Collecting-Plattform darf nicht zur Werbeplattform werden
+
 
 ## Diskussion 2: Lässt sich ein Opt-Out für den Papierprozess wirklich vermeiden?
 
@@ -172,6 +175,10 @@ Beteiligung: 23 Beiträge von 10 Personen, Stand 17.3.2026
 * Opt-Out bringt nur dann einen Vorteil, wenn wir unehrliche Gemeinden annehmen
 * Weitere Diskussion nur dann sinnvoll, wenn vorher das Setting definiert wird (Siehe E-Voting: der VEleS)
 * Wenn das Stimmgeheimnis (=Partizipationsgeheimnis) hoch gewertet wird, dann müsste (und könnte) das vom Hackathon Team 6 / BFH vorgeschlagene Protokoll LH15 angepasst werden
+* Opt-In könnte konkret als Registrierung bei der Gemeinde (analog E-Voting) ausgestaltet werden, später automatisiert via Portal – generell oder pro Begehren
+* Quoren und starres Opt-Out sind schwer vereinbar: bei erreichter Limite wäre kein Wechsel auf Papier mehr möglich
+* Einschränkungen des digitalen Kanals im Versuchsbetrieb liefern keine belastbaren Erkenntnisse
+
 
 ## Diskussion 3: Darstellung laufender Sammlungen?
 
@@ -189,6 +196,9 @@ Beteiligung: 15 Beiträge von 10 Personen, Stand 17.3.2026
 * Grundwerte der Demokratie sind Partizipation, Gleichheit, Freiheiten und Wettbewerb. Auflistung fördert mindestens zwei dieser Anliegen
 * Mobiltelefone limitieren Platz für Darstellung. Bevorzugung von “älteste Sammlungen zuerst”
 * Jede Dynamisierung einer Auflistung bedeutet eine Hürde für Sehbehinderte und ist deshalb abzulehnen
+* Die Forderung nach zentraler Darstellung hat historische Wurzeln (Postulat 99.3321, Andreas Gross, 1999)
+* Klare funktionale Trennung: proaktive Benachrichtigungen gehören zur Digitalisierung des Bundesblatts, die Begleitung politischer Geschäfte zu parlament.ch
+* Vergleiche mit ausländischen Systemen sind mit Vorsicht zu geniessen – die Schweiz sollte eigene Lösungen entwickeln
 
 ### Stellungsbezüge CONTRA Auflistung
 
@@ -223,6 +233,7 @@ Beteiligung: 12 Beiträge von 8 Personen, Stand 17.3.2026
 * Desinformation
 * E-Collecting kann nur Vertrauen gewinnen, wenn die Sicherheit höher ist als beim Papierprozess
 * Konkrete Bedrohungen können erst diskutiert werden, wenn Sicherheitsannahmen publiziert sind
+* Abhängigkeit von ausländischer Cloud-Infrastruktur (Azure, Google Cloud, AWS) vs. souveräner Lösung verdient mehr Aufmerksamkeit
 
 ### Bedrohungen für politisches System durch E-Collecting
 
@@ -255,6 +266,8 @@ Beteiligung: 19 Beiträge von 12 Personen, Stand 17.3.2026
 * Das postulierte Teilnahmegeheimnis ist ein neues, zusätzliches Thema, das bis dato keine Rolle spielte
 * Geopolitische Zeitenwende: Sicherheit erhält mehr Gewicht
 * Es braucht Zeit für den Dialog, für das Messen der Argumente und für das Finden von tragfähigen Lösungen
+* Angesichts der aktuellen Vertrauenskrise muss Tempo priorisiert werden – E-Collecting muss nicht perfekte, aber bessere Sicherheit als der heutige Weg bieten
+* Key Management kann für Bürgerinnen und Bürger zum Problem werden (Hinweis Prof. Burkhard Stiller, UZH)
 
 ## Diskussion 6: Zuschreibung der Unterstützungsbekundungen
 
