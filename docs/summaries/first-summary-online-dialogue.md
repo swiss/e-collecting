@@ -2,7 +2,6 @@ _[Deutsche Version](#d-0)_
 
 # <a name="f-0">Résumé des arguments de la première phase du dialogue en ligne (au 17 mars 2026)</a>
 
-
 ## Discussion 1 : équilibre politique
 
 [Lien vers la discussion](https://github.com/swiss/e-collecting/issues/1)
@@ -18,7 +17,8 @@ Participation au 17 mars : 19 contributions de 10 personnes
 * La surcharge numérique comme problème fondamental de la numérisation selon les milieux scientifiques
 * Tout nouveau mécanisme porte atteinte à l'équilibre politique, c'est pourquoi la plus grande prudence s'impose
 * Les effets concrets ne sont pas prévisibles, nous devons nous préparer à devoir réajuster le mécanisme
-
+* D'un point de vue scientifique (Braun Binder 2014), il ne faut pas s'attendre à un « déferlement d'initiatives » lié à la collecte électronique ; par ailleurs, une augmentation préventive du quorum pose problème
+* La plateforme de la collecte électronique ne doit pas devenir une plateforme publicitaire
 
 ## Discussion 2 : Est-il vraiment possible d'éviter de se retirer du processus papier ?
 
@@ -32,11 +32,13 @@ Participation au 17 mars : 23 contributions de 10 personnes
 * L'opt-out pourrait devenir un sujet en cas de nouvelle extension du scandale des signatures
 * Un système d'adhésion volontaire (général ou pour une demande spécifique) pourrait également être une option
 * La déduplication complète doit être effectuée par la commune, l'opt-out n'apporte aucune valeur ajoutée dans ce cas
-* L'opt-out doit être rejeté, car il oblige tous les comités à soutenir l'ecollecting déjà en phase d'essai
+* L'opt-out doit être rejeté, car il oblige tous les comités à soutenir l'e-collecting déjà en phase d'essai
 * L'opt-out n'apporte un avantage que si nous partons de l’hypothèse de communes malhonnêtes
-
 * Une discussion plus approfondie n'a de sens que si le cadre est préalablement défini (voir le vote électronique : l’OVotE)
 * Si le secret du vote (= secret de la participation) est considéré comme primordial, alors le protocole LH15 proposé par l'équipe 6 du hackathon / BFH devrait (et pourrait) être adapté
+* Concrètement, l'opt-in pourrait prendre la forme d'une inscription auprès de la commune (à l'instar du vote électronique), puis être automatisé via un portail – de manière générale ou pour chaque initiative
+* Les quorums et l'opt-out rigide sont difficilement compatibles : une fois la limite atteinte, il ne serait plus possible de passer au papier
+* Les restrictions imposées au canal numérique pendant la phase d'essai ne permettent pas de tirer des conclusions fiables
 
 ## Discussion 3 : présentation des récoltes en cours ?
 
@@ -54,6 +56,9 @@ Participation au 17 mars : 15 contributions de 10 personnes
 * Les valeurs fondamentales de la démocratie sont la participation, l'égalité, les libertés et la concurrence. Le listing répond à au moins deux de ces principes
 * Les téléphones portables limitent l'espace d'affichage. Privilégier « les récoltes les plus anciennes en premier »
 * Toute mise en mouvement d'une liste constitue un obstacle pour les personnes malvoyantes et doit donc être rejetée
+* La demande d'une présentation centralisée a des racines historiques (postulat 99.3321, Andreas Gross, 1999)
+* Une séparation fonctionnelle claire : les notifications proactives s'inscrivent dans le cadre de la numérisation de la Feuille fédérale, tandis que le suivi des objets politiques relève du site parlement.ch
+* Il convient de considérer avec prudence les comparaisons avec les systèmes étrangers : la Suisse devrait développer ses propres solutions
 
 ### Propositions CONTRE le listing
 
@@ -72,7 +77,7 @@ Participation au 17 mars : 12 contributions de 8 personnes
 ### Menaces pesant sur le système de récolte électronique
 
 * Attaques par déni de service (DoS) lors de phases critiques
-* Ingénierie sociale en dehors de la plateforme à l'aide des thèmes liés à l’ecollecting, usurpation d'identité
+* Ingénierie sociale en dehors de la plateforme à l'aide des thèmes liés à l’e-collecting, usurpation d'identité
 * Menace interne comme menace pour les données
 * Attaque de la chaîne d'approvisionnement (Supply Chain) comme menace pour les données
 * Représentation des acteurs et des vecteurs d'attaque dans une matrice pourrait faciliter la discussion
@@ -87,12 +92,12 @@ Participation au 17 mars : 12 contributions de 8 personnes
 * Désinformation
 * L'e-collecting ne peut gagner la confiance que si la sécurité est supérieure à celle du processus papier
 * Les menaces concrètes ne pourront être discutées que lorsque les hypothèses de sécurité auront été publiées
+* La question de la dépendance vis-à-vis des infrastructures cloud étrangères (Azure, Google Cloud, AWS) par rapport à une solution souveraine mérite une plus grande attention
 
 ### Menaces pour le système politique liées à la récolte électronique
 
 * Surcharge du système politique due à un nombre excessif d'initiatives populaires et de référendums
 * La récolte électronique doit être mise en œuvre de manière à ce que les promesses puissent être tenues sans accroître les risques
-
 * Le dialogue souffre de l'e-collecting ; cela devrait être compensé
 * Des vagues de décisions émotionnelles liées à la désinformation sont envisageables et le problème est ici plus important que dans le cadre du processus papier
 * La collecte de signatures est un processus qui risque de disparaître avec la numérisation - Il faut trouver une solution de remplacement adéquate
@@ -119,8 +124,13 @@ Participation au 17 mars : 19 contributions de 12 personnes
 * Le secret de participation invoqué est un nouveau sujet, qui n'avait jusqu'à présent joué aucun rôle
 * Tournant géopolitique : la sécurité prend davantage d'importance
 * Il faut du temps pour dialoguer, pour examiner les arguments et pour trouver des solutions viables
-
-
+* Compte tenu de la crise de confiance actuelle, il faut privilégier la rapidité : l'é-collecting ne doit pas nécessairement offrir une sécurité parfaite, mais une sécurité supérieure à celle des méthodes actuelles
+* Le key management peut poser problème aux citoyens (remarque du professeur Burkhard Stiller, UZH)
+* La collecte de signatures sur papier n'est pas accessible à tous. La collecte électronique apporte ici une amélioration dont nous avons besoin au plus vite.
+* Dans notre quotidien numérique, la collecte de signatures sur papier constitue un obstacle croissant à la participation politique, en particulier pour les jeunes adultes. L'e-collecting peut réduire ces obstacles.
+* E-Collecting offre une alternative à la signature sur papier, à laquelle tout le monde ne fait plus confiance en raison de préoccupations liées à la protection des données et de risques d'abus. C'est pourquoi l'e-collecting devrait être disponible très prochainement.
+* Pour que ce système soit accepté et utilisé dans le cadre d'une phase d'essai, il suffit de mettre en place des mesures de sécurité nettement plus efficaces et une meilleure protection des données que celles offertes par la collecte de signatures sur papier.
+* Une exploitation à titre expérimental devrait démarrer d'ici deux ans.
 
 ## Discussion 6 : attribution des déclarations de soutien
 
@@ -158,7 +168,6 @@ Beteiligung: 19 Beiträge von 10 Personen, Stand 17.3.2026
 * Wissenschaftlich (Braun Binder 2014) ist keine „Initiativenflut" durch E-Collecting zu erwarten; weiter ist eine präventive Quorenerhöhung problematisch
 * Die E-Collecting-Plattform darf nicht zur Werbeplattform werden
 
-
 ## Diskussion 2: Lässt sich ein Opt-Out für den Papierprozess wirklich vermeiden?
 
 [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/2)
@@ -178,7 +187,6 @@ Beteiligung: 23 Beiträge von 10 Personen, Stand 17.3.2026
 * Opt-In könnte konkret als Registrierung bei der Gemeinde (analog E-Voting) ausgestaltet werden, später automatisiert via Portal – generell oder pro Begehren
 * Quoren und starres Opt-Out sind schwer vereinbar: bei erreichter Limite wäre kein Wechsel auf Papier mehr möglich
 * Einschränkungen des digitalen Kanals im Versuchsbetrieb liefern keine belastbaren Erkenntnisse
-
 
 ## Diskussion 3: Darstellung laufender Sammlungen?
 
@@ -212,7 +220,6 @@ Beteiligung: 15 Beiträge von 10 Personen, Stand 17.3.2026
 
 [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/4)
 
-
 Beteiligung: 12 Beiträge von 8 Personen, Stand 17.3.2026
 
 ### Bedrohungen für E-Collecting System
@@ -242,7 +249,6 @@ Beteiligung: 12 Beiträge von 8 Personen, Stand 17.3.2026
 * Der Dialog leidet durch E-Collecting; das sollte kompensiert werden
 * Affektive Entscheidungswellen im Zusammenhang mit Desinformation sind denkbar und das Problem ist hier grösser als beim Papierprozess
 * Sammeln von Unterschriften ist ein Dialog, der durch Digitalisierung womöglich wegfällt - Ein tauglicher Ersatz ist nötig
-
 
 ## Diskussion 5: Sicherheit und Tempo
 
