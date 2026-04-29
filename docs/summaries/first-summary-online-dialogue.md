@@ -256,9 +256,9 @@ Beteiligung: 19 Beiträge von 12 Personen, Stand 17.3.2026
 * Geopolitische Zeitenwende: Sicherheit erhält mehr Gewicht
 * Es braucht Zeit für den Dialog, für das Messen der Argumente und für das Finden von tragfähigen Lösungen
 * Das Sammeln von Unterschriften auf Papier ist nicht barrierefrei. E-Collecting bringt hier eine Verbesserung, die wir möglichst rasch benötigen.
-* Das Sammeln von Unterschriften auf Papier wird zunehmend zur Hürde, da die Digitalisierung der Gesellschaft insgesamt zunimmt. E-Collecting bringt hier eine Verbesserung, die wir möglichst rasch benötigen.
-* E-Collecting bietet einen alternativen Kanal zum Unterschreiben auf Papier, dem nicht mehr alle vertrauen. E-Collecting sollte deshalb rasch ermöglicht werden.
-* Für einen Versuchsbetrieb reicht es, gegenüber dem Sammeln von Unterschriften auf Papier deutlich bessere Sicherheit und höheren Datenschutz zu implementieren.
+* Das Sammeln von Unterschriften auf Papier ist im digitalen Alltag eine wachsende Hürde für die politische Teilnahme – besonders für junge Erwachsene. E-Collecting kann diese Hürden wieder senken.
+* E-Collecting bietet einen alternativen Kanal zum Unterschreiben auf Papier, dem wegen Datenschutzbedenken und möglichem Missbrauch nicht mehr alle vertrauen. Deshalb sollte E-Collecting bald nutzbar sein.
+* Für Akzeptanz und Nutzung im Versuchsbetrieb reicht es, gegenüber dem Sammeln von Unterschriften auf Papier deutlich bessere Sicherheit und höheren Datenschutz zu implementieren.
 * Ein Versuchsbetrieb sollte innerhalb von 2 Jahren starten.
 
 ## Diskussion 6: Zuschreibung der Unterstützungsbekundungen
