@@ -10,4 +10,5 @@ Diese Frage wurde im partizipativen Dialog bereits erörtert.
 * [Zusammenfassung der Argumente](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#diskussion-3-darstellung-laufender-sammlungen)
 * [Diskussion](https://github.com/swiss/e-collecting/issues/3)
 
+![Parameter 2](../images/parameter-2.png)
 
