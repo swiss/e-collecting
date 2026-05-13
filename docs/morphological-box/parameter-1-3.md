@@ -1,4 +1,10 @@
-## Parameter 1.3: Behandlung der Papier-Unterschriften nach allfälliger Erfassung
+_[Deutsche Version](#d-0)_
+
+## Boîte morphologique : Paramètre 1.3 - Traitement des signatures sur papier après leur saisie éventuelle
+
+La traduction en français sera disponible le lundi 18 mai 2026.
+
+## <a name="d-0"> Morphologischer Kasten: Parameter 1.3 - Behandlung der Papier-Unterschriften nach allfälliger Erfassung
 
 Geht man davon aus, dass papierbasierte Unterstützungsbekundungen in einem E-Collecting-System zumindest teilweise erfasst werden, stellt sich im Anschluss die Frage, wie mit den physischen Unterschriftenbögen im weiteren Prozess umzugehen ist. 
 
