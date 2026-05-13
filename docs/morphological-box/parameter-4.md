@@ -8,7 +8,7 @@ Die konkrete technische Ausgestaltung der Zuordnung bleibt dabei für den Moment
 
 Bei der konkreten Umsetzung wäre das Prinzip der Datensparsamkeit zu berücksichtigen. Bestimmte technische Lösungen zur Zuordnung könnten im Extremfall dazu führen, dass ein Komitee pro stimmberechtigte Person eine eigenständige Sammlung registriert und einen direkten Link mit dem Ziel versendet, zu verfolgen, welche stimmberechtigte Person ein Volksbegehren unterstützt.  
 
-Sind die Ausprägungen aus Ihrer Sicht vollständig dargestellt? Welche Vor- und Nachteile lassen sich bei der Auswahl jeder Ausprägung antizipieren?
+Sind die Ausprägungen aus Ihrer Sicht vollständig dargestellt? Welche Vor- und Nachteile lassen sich bei der Auswahl jeder Ausprägung antizipieren? Die Diskussion dazu findet [hier](https://github.com/swiss/e-collecting/issues/17) statt.
 
 Diese Frage wurde im partizipativen Dialog bereits erörtert:
 * [Zusammenfassung der Argumente](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#diskussion-6-zuschreibung-der-unterst%C3%BCtzungsbekundungen)
