@@ -1,4 +1,10 @@
-## Parameter 1.2: Digitale Verarbeitung der papierbasierten Unterschrift im E-Collecting-System
+_[Deutsche Version](#d-0)_
+
+## Boîte morphologique : Paramètre 1.2 - Traitement numérique des signatures sur papier dans le système E-Collecting
+
+La traduction en français sera disponible le lundi 18 mai 2026.
+
+## <a name="d-0"> Morphologischer Kasten: Parameter 1.2 - Digitale Verarbeitung der papierbasierten Unterschrift im E-Collecting-System
 
 Neben der Erfassung der papierbasierten Unterschriften durch Gemeindemitarbeiter im E-Collecting System stellt sich die Frage, wie die daraus entnommenen Daten genutzt werden sollen. 
 
