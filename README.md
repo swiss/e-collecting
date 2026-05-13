@@ -41,9 +41,9 @@ Au cours de la première phase du dialogue en ligne, nous avons abordé six ques
 
 ## <a name="f4-0">Chronologie</a>
 
-![Représentation graphique de la chronologie avec les étapes suivantes : événement d'ouverture, hackathon, 2e événement en ligne, bilan du dialogue écrit, poursuite du processus participatif et décision du chancelier fédéral sur les variantes](docs/timeline/Chronologie.png)
+![Représentation graphique de la chronologie avec les étapes suivantes : représentation graphique du calendrier avec les étapes suivantes : 3e manifestation en ligne, publication des paramètres, 4e manifestation en ligne, publication du paramètre architecture de base, 5e manifestation en ligne, fin des la discussion sur les paramètres, poursuite du processus participatif et décision du chancelier fédéral sur les variantes](docs/timeline/timeline-fr-2026-05-13.png)
 
-_Description de l'image : représentation graphique du calendrier avec les étapes suivantes : événement d'ouverture, hackathon, 2e événement en ligne, bilan du dialogue écrit, poursuite du processus participatif et décision du chancelier fédéral sur les variantes_
+_Description de l'image : représentation graphique du calendrier avec les étapes suivantes : 3e manifestation en ligne, publication des paramètres, 4e manifestation en ligne, publication du paramètre architecture de base, 5e manifestation en ligne, fin des la discussion sur les paramètres, poursuite du processus participatif et décision du chancelier fédéral sur les variantes_
 
 
 ## <a name="f5-0">Documentation</a>
@@ -109,7 +109,7 @@ In einer ersten Phase des Online-Dialogs haben wir sechs Fragen diskutiert. Die 
 
 ![Grafische Darstellung der Timeline mit den Stationen 3. Online-Veranstaltung, Publikation Parameter, 4. Online-Veranstaltung, Publikation des Parameters Grundarchitektur, 5. Online-Veranstaltung, Ende der Diskussion zu Parametern, weiterer partizipativer Prozess und Variantenentscheid Bundeskanzler](docs/timeline/timeline-de-2026-05-13.png)
 
-_Bildbeschreibung: Grafische Darstellung der Timeline mit den Stationen Eröffnungsevent, Hackathon, 2. Online-Veranstaltung, Bilanz schriftlicher Dialog, weiterer partizipativer Prozess und Variantenentscheid Bundeskanzler_
+_Bildbeschreibung: Grafische Darstellung der Timeline mit den Stationen 3. Online-Veranstaltung, Publikation Parameter, 4. Online-Veranstaltung, Publikation des Parameters Grundarchitektur, 5. Online-Veranstaltung, Ende der Diskussion zu Parametern, weiterer partizipativer Prozess und Variantenentscheid Bundeskanzler_
 
 ## <a name="d5-0">Dokumente</a>
 
