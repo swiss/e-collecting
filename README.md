@@ -34,9 +34,15 @@ Au cours de la première phase du dialogue en ligne, nous avons abordé six ques
 
 [Synthèse des différents arguments et positions issus du dialogue en ligne jusqu'à la mi-mars 2026](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#r%C3%A9sum%C3%A9-des-arguments-de-la-premi%C3%A8re-phase-du-dialogue-en-ligne-au-17-mars-2026)
 
+Dans le cadre de la deuxième phase actuellement en cours, nous examinons différents paramètres de l'e-collecting à l'aide d'une méthode appelée [« boîte morphologique »](https://github.com/swiss/e-collecting/blob/main/docs/method/morphological-box.md) :
 
-
-
+* [1.1 - Saisie des signatures sur papier dans le système E-Collecting](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-1-1.md)
+* [1.2 - Traitement numérique des signatures sur papier dans le système E-Collecting](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-1-2.md)
+* [1.3 - Traitement des signatures sur papier après leur saisie éventuelle](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-1-3.md)
+* [2 - Présentation des requêtes populaires en cours](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-2.md)
+* [3 - Possibilité d'ajouter des arguments dans le système E-Collecting](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-3.md)
+* [4 - Attribution des déclarations de soutien](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-4.md)
+* [5 - Affichage du nombre de signatures recueillies à ce jour](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-5.md)
 
 
 ## <a name="f4-0">Chronologie</a>
@@ -104,6 +110,16 @@ Die Bundeskanzlei informiert mit ihrem E-Collecting Newsletter regelmässig übe
 In einer ersten Phase des Online-Dialogs haben wir sechs Fragen diskutiert. Die verschiedenen Argumente und Positionen haben wir Mitte März 2026 gesammelt und zusammengefasst. 
 
 [Zusammenfassung der verschiedenen Argumente und Positionen des Online-Dialogs bis Mitte März 2026](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#zusammenfassung-argumente-der-ersten-phase-des-online-dialogs-stand-17-m%C3%A4rz-2026)
+
+In der zur Zeit laufenden zweiten Phase diskutieren wir anhand einer ["Morphologischer Kasten"](https://github.com/swiss/e-collecting/blob/main/docs/method/morphological-box.md#d-0) genannten Methode verschiedene Parameter von E-Collecting:
+
+* [1.1 - Erfassung papierbasierter Unterschriften im E-Collecting-System](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-1-1.md)
+* [1.2 - Digitale Verarbeitung der papierbasierten Unterschrift im E-Collecting](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-1-2.md)
+* [1.3 - Behandlung der Papier-Unterschriften nach allfälliger Erfassung](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-1-3.md)
+* [2 - Darstellung laufender Volksbegehren](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-2.md)
+* [3 - Möglichkeit Argumente im E-Collecting System zu platzieren](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-3.md)
+* [4 - Zuordnung von Unterstützungsbekundungen](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-4.md)
+* [5 - Anzeige der Anzahl bisher gesammelter Unterschriften](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-5.md)
 
 ## <a name="d4-0">Timeline</a>
 
