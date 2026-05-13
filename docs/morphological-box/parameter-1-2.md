@@ -4,3 +4,6 @@ Neben der Erfassung der papierbasierten Unterschriften durch Gemeindemitarbeiter
 
 Es bestehen Abhängigkeiten zu [Parameter 1.1](parameter-1-1.md)
 
+![Parameter 1.2](../images/Parameter-1.2.png)
+
+
