@@ -1,4 +1,10 @@
-## Parameter 4: Zuordnung von Unterstützungsbekundungen
+_[Deutsche Version](#d-0)_
+
+## Boîte morphologique : Paramètre 4 - Attribution des déclarations de soutien
+
+La traduction en français sera disponible le lundi 18 mai 2026.
+
+## <a name="d-0"> Morphologischer Kasten: Parameter 4 - Zuordnung von Unterstützungsbekundungen
 
 Initiativ- und Referendumskomitees, Sammelorganisationen und Sammlungsunternehmen können heute die Anzahl ihrer erzielten Unterschriften rückverfolgen. Gibt es bei Referenden mehrere Referendumskomitees, so wirkt sich die Anzahl ihrer oder der in ihrem Namen gesammelten Unterschriften auf den für sie eingeräumten Platz in den Erläuterungen des Bundesrates aus. Sowohl für Initiativkomitees als auch für Referendumskomitees ist diese Transparenz aus weiteren Gründen relevant: Sie ermöglicht nachzuvollziehen, welche untergeordneten Sammelorganisationen welchen Beitrag zur Unterschriftensammlung geleistet haben und in welchem Umfang sie gegebenenfalls entschädigt werden müssen.
 
