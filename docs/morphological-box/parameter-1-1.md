@@ -8,7 +8,7 @@ Je nach Ausgestaltung kann die digitale Erfassung papierbasierter Unterstützung
 
 Sind die möglichen Ausprägungen dieses Parameters aus Ihrer Sicht vollständig dargestellt? Welche Vor- und Nachteile ergeben sich aus den einzelnen Ausprägungen?
 
-Es bestehen Abhängigkeiten zu [Parameter 1.2](parameter-1-2.md) und [Parameter 1.3](parameter-1-3.md)
+Es bestehen Abhängigkeiten zu [Parameter 1.2](parameter-1-2.md) und [Parameter 1.3](parameter-1-3.md).
 
 ![Parameter 1.1](../images/Parameter-1.1.png)
 
