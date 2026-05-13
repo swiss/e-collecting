@@ -6,3 +6,6 @@ Dabei lassen sich unterschiedliche Ausprägungen unterscheiden: von einer strikt
 
 Sind die möglichen Ausprägungen dieses Parameters aus Ihrer Sicht vollständig dargestellt? Welche Vor- und Nachteile ergeben sich aus den einzelnen Ausprägungen?
 
+![Parameter 3](../images/parameter-3.png)
+
+
