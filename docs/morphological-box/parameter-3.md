@@ -1,4 +1,10 @@
-## Parameter 3: Möglichkeit, Argumente im E-Collecting System zu platzieren
+_[Deutsche Version](#d-0)_
+
+## Boîte morphologique : Paramètre 3 - Possibilité d'ajouter des arguments dans le système E-Collecting
+
+La traduction en français sera disponible le lundi 18 mai 2026.
+
+## <a name="d-0"> Morphologischer Kasten: Parameter 3 - Möglichkeit, Argumente im E-Collecting System zu platzieren
 
 Die Papierbögen dürfen Argumente für die Unterstützung eines Volksbegehrens enthalten, wobei die Grenzen der Formvorschriften nicht überschritten werden dürfen. Dadurch ist sichergestellt, dass die Stimmberechtigten ihre Unterstützungsbekundung in Kenntnis der für sie relevanten Informationen abgeben. Mit der Einführung eines E-Collecting-Systems stellt sich die Frage, ob und in welcher Form vergleichbare Möglichkeiten der inhaltlichen Information und Argumentation auch digital vorgesehen werden sollen.
 
