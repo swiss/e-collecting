@@ -8,3 +8,6 @@ Je nach Ausgestaltung kann die digitale Erfassung papierbasierter Unterstützung
 
 Sind die möglichen Ausprägungen dieses Parameters aus Ihrer Sicht vollständig dargestellt? Welche Vor- und Nachteile ergeben sich aus den einzelnen Ausprägungen?
 
+![Parameter 1.1](../images/Parameter-1.1.png)
+
+
