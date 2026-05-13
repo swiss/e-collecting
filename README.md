@@ -30,18 +30,14 @@ La Chancellerie fédérale informe régulièrement quelles sont les nouveautés 
 
 ## <a name="f2-0">Actualités- 🗨️ Les discussions en cours 🗨️</a>
 
-Au cours de la première phase du dialogue en ligne, nous avons abordé six questions. Nous avons rassemblé et synthétisé les différents arguments et points de vue à la mi-mars 2026. Nous vous invitons à nous signaler toute erreur ou omission dans ce travail.
+Au cours de la première phase du dialogue en ligne, nous avons abordé six questions. Nous avons rassemblé et synthétisé les différents arguments et points de vue à la mi-mars 2026.
 
 [Synthèse des différents arguments et positions issus du dialogue en ligne jusqu'à la mi-mars 2026](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#r%C3%A9sum%C3%A9-des-arguments-de-la-premi%C3%A8re-phase-du-dialogue-en-ligne-au-17-mars-2026)
 
-La liste des discussions :
 
-* À quels endroits l'équilibre politique se manifeste-t-il ? ([Discussion Équilibre politique - Issue 1](https://github.com/swiss/e-collecting/issues/1) / [Synthèse](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#discussion-1--%C3%A9quilibre-politique)) 
-* Peut-on vraiment se passer d'une option de refus concernant le processus papier ? ([Discussion Option de refus - Issue 2](https://github.com/swiss/e-collecting/issues/2) / [Synthèse](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#discussion-2--est-il-vraiment-possible-d%C3%A9viter-de-se-retirer-du-processus-papier-))
-* Les collections en cours doivent-elles être présentées et, si oui, comment ? ([Présentation des récoltes en cours - Issue 3](https://github.com/swiss/e-collecting/issues/3) / [Synthèse](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#discussion-3--pr%C3%A9sentation-des-r%C3%A9coltes-en-cours-))
-* Quelles menaces sont envisageables ? ([Discussion Menaces - Issue 4](https://github.com/swiss/e-collecting/issues/4) / [Synthèse](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#discussion-4--menaces))
-* Quelle est la priorité : la sécurité ou un démarrage aussi rapide que possible ? ([Discussion Sécurité et vitesse - Issue 5](https://github.com/swiss/e-collecting/issues/5) / [Synthèse](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#discussion-5--s%C3%A9curit%C3%A9-et-vitesse-))
-* L'attribution des déclarations de soutien est-elle nécessaire ? ([Discussion L'Attribution des déclaration de soutien - Issue 6](https://github.com/swiss/e-collecting/issues/6) / [Synthèse](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#discussion-6--attribution-des-d%C3%A9clarations-de-soutien)) 
+
+
+
 
 ## <a name="f4-0">Chronologie</a>
 
@@ -105,16 +101,9 @@ Die Bundeskanzlei informiert mit ihrem E-Collecting Newsletter regelmässig übe
 
 ## <a name="d2-0">Aktuell</a> - 🗨️ Laufende Diskussionen 🗨️
 
-In einer ersten Phase des Online-Dialogs haben wir sechs Fragen diskutiert. Die verschiedenen Argumente und Positionen haben wir Mitte März 2026 gesammelt und zusammengefasst. Wir begrüssen Hinweise auf Fehler und Versäumnisse bei dieser Arbeit.
+In einer ersten Phase des Online-Dialogs haben wir sechs Fragen diskutiert. Die verschiedenen Argumente und Positionen haben wir Mitte März 2026 gesammelt und zusammengefasst. 
 
 [Zusammenfassung der verschiedenen Argumente und Positionen des Online-Dialogs bis Mitte März 2026](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#zusammenfassung-argumente-der-ersten-phase-des-online-dialogs-stand-17-m%C3%A4rz-2026)
-
-* An welchen Orten manifestiert sich die politische Ausgewogenheit? ([Diskussion Politische-Ausgewogenheit - Issue 1](https://github.com/swiss/e-collecting/issues/1) / [Zusammenfassung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#diskussion-1-politische-ausgewogenheit))
-* Lässt sich wirklich auf einen Opt-Out für den Papierprozess verzichten? ([Diskussion Opt-Out - Issue 2](https://github.com/swiss/e-collecting/issues/2) / [Zusammenfassung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#diskussion-2-l%C3%A4sst-sich-ein-opt-out-f%C3%BCr-den-papierprozess-wirklich-vermeiden))
-* Sollen laufende Sammlungen dargestellt werden und wenn ja wie? ([Diskussion Darstellung laufender Sammlungen - Issue 3](https://github.com/swiss/e-collecting/issues/3) / [Zusammenfassung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#diskussion-3-darstellung-laufender-sammlungen))
-* Welche Bedrohungen sind denkbar? ([Diskussion Bedrohungen - Issue 4](https://github.com/swiss/e-collecting/issues/4) / [Zusammenfassung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#diskussion-4-bedrohungen))
-* Was ist prioritär: Sicherheit oder raschestmöglicher Start? ([Diskussion Sicherheit und Tempo - Issue 5](https://github.com/swiss/e-collecting/issues/5) / [Zusammenfassung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#diskussion-5-sicherheit-und-tempo))
-* Ist eine Zuschreibung von Unterstützungsbekundungen nötig? ([Diskussion Zuschreibung der Unterstützungsbekundungen - Issue 6](https://github.com/swiss/e-collecting/issues/6) / [Zusammenfassung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#diskussion-6-zuschreibung-der-unterst%C3%BCtzungsbekundungen)) 
 
 ## <a name="d4-0">Timeline</a>
 
