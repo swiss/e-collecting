@@ -107,7 +107,7 @@ In einer ersten Phase des Online-Dialogs haben wir sechs Fragen diskutiert. Die 
 
 ## <a name="d4-0">Timeline</a>
 
-![Grafische Darstellung der Timeline mit den Stationen Eröffnungsevent, Hackathon, 2. Online-Veranstaltung, Bilanz schriftlicher Dialog, weiterer partizipativer Prozess und Variantenentscheid Bundeskanzler](docs/timeline/timeline.png)
+![Grafische Darstellung der Timeline mit den Stationen 3. Online-Veranstaltung, Publikation Parameter, 4. Online-Veranstaltung, Publikation des Parameters Grundarchitektur, 5. Online-Veranstaltung, Ende der Diskussion zu Parametern, weiterer partizipativer Prozess und Variantenentscheid Bundeskanzler](docs/timeline/timeline-de-2026-05-13.png)
 
 _Bildbeschreibung: Grafische Darstellung der Timeline mit den Stationen Eröffnungsevent, Hackathon, 2. Online-Veranstaltung, Bilanz schriftlicher Dialog, weiterer partizipativer Prozess und Variantenentscheid Bundeskanzler_
 
