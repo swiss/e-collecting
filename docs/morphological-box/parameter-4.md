@@ -11,5 +11,8 @@ Bei der konkreten Umsetzung wäre das Prinzip der Datensparsamkeit zu berücksic
 Sind die Ausprägungen aus Ihrer Sicht vollständig dargestellt? Welche Vor- und Nachteile lassen sich bei der Auswahl jeder Ausprägung antizipieren?
 
 Diese Frage wurde im partizipativen Dialog bereits erörtert:
-* [Zusammenfassung der Argumente] (https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#diskussion-6-zuschreibung-der-unterst%C3%BCtzungsbekundungen)
-* [Diskussion] (https://github.com/swiss/e-collecting/issues/6) 
+* [Zusammenfassung der Argumente](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#diskussion-6-zuschreibung-der-unterst%C3%BCtzungsbekundungen)
+* [Diskussion](https://github.com/swiss/e-collecting/issues/6)
+
+![Parameter 4](../images/parameter-4.png)
+
