@@ -7,3 +7,6 @@ Die Papierbögen können wie bisher an die Komitees zurückgegeben werden, welch
 Sind die Ausprägungen aus Ihrer Sicht vollständig dargestellt? Welche Vor- und Nachteile lassen sich bei der Auswahl ein jeder antizipieren?
 
 Es bestehen Abhängigkeiten zu [Parameter 1.1](parameter-1-1.md) und [Parameter 1.2](parameter-1-2.md)
+
+![Parameter 1.3](../images/parameter-1-3.png)
+
