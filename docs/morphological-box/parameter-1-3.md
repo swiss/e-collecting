@@ -1,4 +1,4 @@
-## Parameter 1.3 Behandlung der Papier-Unterschriften nach allfälliger Erfassung
+## Parameter 1.3: Behandlung der Papier-Unterschriften nach allfälliger Erfassung
 
 Geht man davon aus, dass papierbasierte Unterstützungsbekundungen in einem E-Collecting-System zumindest teilweise erfasst werden, stellt sich im Anschluss die Frage, wie mit den physischen Unterschriftenbögen im weiteren Prozess umzugehen ist. 
 
