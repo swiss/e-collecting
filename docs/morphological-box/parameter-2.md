@@ -7,7 +7,7 @@ Im Kontext eines E-Collecting-Systems lassen sich unterschiedliche mögliche Aus
 Sind die möglichen Ausprägungen dieses Parameters aus Ihrer Sicht vollständig dargestellt? Welche möglichen Auswirkungen hätte die Auswahl einer der möglichen Ausprägungen?
 
 Diese Frage wurde im partizipativen Dialog bereits erörtert.
-•	[Zusammenfassung der Argumente](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#diskussion-3-darstellung-laufender-sammlungen)
-•	[Diskussion](https://github.com/swiss/e-collecting/issues/3)
+* [Zusammenfassung der Argumente](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#diskussion-3-darstellung-laufender-sammlungen)
+* [Diskussion](https://github.com/swiss/e-collecting/issues/3)
 
 
