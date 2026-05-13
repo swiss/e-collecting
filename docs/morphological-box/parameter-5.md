@@ -1,4 +1,10 @@
-## Parameter 5: Anzeige der Anzahl bisher gesammelter Unterschriften
+_[Deutsche Version](#d-0)_
+
+## Boîte morphologique : Paramètre 5 - Affichage du nombre de signatures recueillies à ce jour
+
+La traduction en français sera disponible le lundi 18 mai 2026.
+
+## <a name="d-0"> Morphologischer Kasten: Parameter 5 - Anzeige der Anzahl bisher gesammelter Unterschriften
 
 Initiativ- und Referendumskomitees haben heute einen Überblick darüber, wie viele Unterschriften sie zu einem bestimmten Zeitpunkt während der Sammeldauer erreicht haben. Die Öffentlichkeit erhält diese Informationen nur durch Aussagen der Komitees. Mit der Einführung eines E-Collecting-Systems stellt sich die Frage, ob und in welcher Form der aktuelle Stand der Unterschriftensammlung sichtbar gemacht werden soll.
 
