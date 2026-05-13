@@ -1,4 +1,4 @@
-## Parameter 2 Darstellung laufender Volksbegehren
+## Parameter 2: Darstellung laufender Volksbegehren
 
 Heute werden die Volksinitiativen und Referenden im Sammelstadium bzw. mit laufender Frist in Form von zwei Listen auf der Website der Bundeskanzlei publiziert ([Hängige Volksinitiativen](https://www.bk.admin.ch/ch/d/pore/vi/vis_1_3_1_1.html), [Vorlagen mit laufender Referendumsfrist](https://www.bk.admin.ch/ch/d/pore/rf/ref_1_3_2_1.html)). Es sind aber vor allem die Komitees, die während der Mobilisierung von Unterstützungsbekundungen auf ihre Volksbegehren aufmerksam machen.
 
