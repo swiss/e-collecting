@@ -6,7 +6,7 @@ Les comités d’initiative et référendaires ont aujourd’hui une vue d’ens
 
 L'affichage du nombre de signatures recueillies peut prendre différentes formes : cela va de l'absence totale d'affichage à une présentation publique des signatures recueillies à ce jour, en passant par des formules dans lesquelles ces informations ne sont accessibles qu'aux comités eux-mêmes. Cela suppose que les déclarations de soutien sur papier soient saisies numériquement dans le système de récolte électronique après leur certification par les communes ([paramètre 1.1](docs/morphological-box/parameter-1-1.md)) et que, lors d'un affichage, l'origine d'une déclaration de soutien – numérique ou sur papier – soit indiquée.
 
-Les différentes valeurs possibles de ce paramètre sont-elles, selon vous, toutes présentées ? Quelles seraient les conséquences possibles du choix de l'une de ces valeurs ?
+Les différentes valeurs possibles de ce paramètre sont-elles, selon vous, toutes présentées ? Quelles seraient les conséquences possibles du choix de l'une de ces valeurs ? La discussion à ce sujet a lieu [ici](https://github.com/swiss/e-collecting/issues/18).
 
 ![Paramètre 5](../images/Paramètre-5.png) 
 
