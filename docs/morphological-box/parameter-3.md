@@ -6,7 +6,7 @@ Les formulaires papier peuvent contenir des arguments en faveur d’une initiati
 
 On peut distinguer différentes variantes : d’une plateforme strictement neutre, sans arguments ni contenus supplémentaires, à des configurations de plateforme sans contenu propre, mais avec des liens vers les sites de campagne externes des comités, jusqu’à une solution avec insertion directe d’arguments dans le système de récolte électronique. Si l’on opte pour la possibilité d’insérer des arguments, il faudrait, dans une prochaine étape, clarifier les exigences formelles. 
 
-Les différentes variantes possibles de ce paramètre sont-elles, selon vous, présentées de manière exhaustive ? Quels sont les avantages et les inconvénients de chacune de ces variantes ?
+Les différentes variantes possibles de ce paramètre sont-elles, selon vous, présentées de manière exhaustive ? Quels sont les avantages et les inconvénients de chacune de ces variantes ? **La discussion à ce sujet a lieu [ici](https://github.com/swiss/e-collecting/issues/16).**
 
 ![Paramètre 3](../images/Paramètre-3.png) 
 
@@ -16,7 +16,7 @@ Die Papierbögen dürfen Argumente für die Unterstützung eines Volksbegehrens 
 
 Dabei lassen sich unterschiedliche Ausprägungen unterscheiden: von einer strikt neutralen Plattform ohne Argumente oder zusätzliche Inhalte, über Plattform-Ausgestaltungen ohne eigene Inhalte, jedoch mit Verlinkungen auf externe Kampagnenseiten der Komitees, bis hin zu einer Lösung mit direkter Platzierung von Argumenten im E-Collecting-System. Sollte man sich für die Möglichkeit entscheiden, Argumente zu platzieren, müssten in einem nächsten Schritt die Formanforderungen geklärt werden. 
 
-Sind die möglichen Ausprägungen dieses Parameters aus Ihrer Sicht vollständig dargestellt? Welche Vor- und Nachteile ergeben sich aus den einzelnen Ausprägungen? Die Diskussion dazu findet [hier](https://github.com/swiss/e-collecting/issues/16) statt.
+Sind die möglichen Ausprägungen dieses Parameters aus Ihrer Sicht vollständig dargestellt? Welche Vor- und Nachteile ergeben sich aus den einzelnen Ausprägungen? **Die Diskussion dazu findet [hier](https://github.com/swiss/e-collecting/issues/16) statt.**
 
 ![Parameter 3](../images/parameter-3.png)
 
