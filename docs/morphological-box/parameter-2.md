@@ -9,8 +9,8 @@ Dans le contexte d’un système de récolte électronique, on peut envisager di
 Les différentes options possibles pour ce paramètre sont-elles, selon vous, présentées de manière exhaustive ? Quelles seraient les conséquences possibles du choix de l'une de ces options ?
 
 Cette question a déjà été abordée dans le cadre du dialogue participatif.
-•	[Résumé des arguments](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#discussion-3--pr%C3%A9sentation-des-r%C3%A9coltes-en-cours-)  
-•	[Discussion](https://github.com/swiss/e-collecting/issues/3)  
+*	[Résumé des arguments](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#discussion-3--pr%C3%A9sentation-des-r%C3%A9coltes-en-cours-)  
+*	[Discussion](https://github.com/swiss/e-collecting/issues/3)  
 
 ![Paramètre 2](../images/Paramètre-2.png) 
 
