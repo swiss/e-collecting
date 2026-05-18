@@ -2,7 +2,15 @@ _[Deutsche Version](#d-0)_
 
 ## Boîte morphologique : Paramètre 1.3 - Traitement des signatures sur papier après leur saisie éventuelle
 
-La traduction en français sera disponible le lundi 18 mai 2026.
+Si l'on part du principe que les déclarations de soutien sur papier sont saisies, au moins en partie, dans un système de récolte électronique, la question se pose ensuite de savoir comment traiter les feuilles de signatures physiques dans la suite du processus. 
+
+Les feuilles papier peuvent être renvoyées comme auparavant aux comités, qui les remettent ensuite à la Chancellerie fédérale dans le cadre des processus existants pour le décompte. Une autre variante est également envisageable, dans laquelle les feuilles papier sont également restituées aux comités, mais sans dépôt physique ultérieur auprès de la Chancellerie fédérale, car les informations nécessaires concernant les déclarations de soutien sur papier sont consultables sous forme numérique dans le système de récolte électronique. Une autre solution consiste à laisser les feuilles papier aux communes une fois la saisie effectuée, où elles seront détruites à l’expiration d’un délai.
+
+Les différentes options sont-elles, selon vous, présentées de manière exhaustive ? Quels avantages et inconvénients peut-on anticiper pour chacune d'entre elles ?
+
+Il existe des interdépendances avec le [paramètre 1.1](parameter-1-1.md) et le [paramètre 1.2.](parameter-1-2.md).
+
+![Paramètre 1.3](docs/images/Paramètre-1.3.png)
 
 ## <a name="d-0"> Morphologischer Kasten: Parameter 1.3 - Behandlung der Papier-Unterschriften nach allfälliger Erfassung
 
