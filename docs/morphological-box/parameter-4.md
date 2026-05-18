@@ -10,7 +10,7 @@ La conception technique concrète de l'attribution reste pour l'instant ouverte.
 
 Lors de la mise en œuvre concrète, il faudrait tenir compte du principe de minimisation des données. Dans des cas extrêmes, certaines solutions techniques d’attribution pourraient conduire un comité à enregistrer une récolte distincte pour chaque électeur et à envoyer un lien direct dans le but de suivre quels électeurs soutiennent telle initiative populaire ou tel référendum.  
 
-Les différentes options sont-elles, selon vous, présentées de manière exhaustive ? Quels avantages et inconvénients peut-on anticiper pour chacune d’elles ?
+Les différentes options sont-elles, selon vous, présentées de manière exhaustive ? Quels avantages et inconvénients peut-on anticiper pour chacune d’elles ? La discussion à ce sujet a lieu [ici](https://github.com/swiss/e-collecting/issues/17).
 
 Cette question a déjà été abordée lors du dialogue participatif :
 *	[Résumé des arguments](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#discussion-6--attribution-des-d%C3%A9clarations-de-soutien)  
