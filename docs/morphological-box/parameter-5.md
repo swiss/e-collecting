@@ -2,7 +2,13 @@ _[Deutsche Version](#d-0)_
 
 ## Boîte morphologique : Paramètre 5 - Affichage du nombre de signatures recueillies à ce jour
 
-La traduction en français sera disponible le lundi 18 mai 2026.
+Les comités d’initiative et référendaires ont aujourd’hui une vue d’ensemble du nombre de signatures qu’ils ont recueillies à un moment donné pendant la période de récolte. Le public ne reçoit ces informations que par le biais des déclarations des comités. Avec l’introduction d’un système de récolte électronique, la question se pose de savoir si et sous quelle forme l’état actuel de la récolte de signatures doit être rendu public.
+
+L'affichage du nombre de signatures recueillies peut prendre différentes formes : cela va de l'absence totale d'affichage à une présentation publique des signatures recueillies à ce jour, en passant par des formules dans lesquelles ces informations ne sont accessibles qu'aux comités eux-mêmes. Cela suppose que les déclarations de soutien sur papier soient saisies numériquement dans le système de récolte électronique après leur certification par les communes (paramètre 1.1) et que, lors d'un affichage, l'origine d'une déclaration de soutien – numérique ou sur papier – soit indiquée.
+
+Les différentes valeurs possibles de ce paramètre sont-elles, selon vous, toutes présentées ? Quelles seraient les conséquences possibles du choix de l'une de ces valeurs ?
+
+![Paramètre 5](../images/Paramètre-5.png) 
 
 ## <a name="d-0"> Morphologischer Kasten: Parameter 5 - Anzeige der Anzahl bisher gesammelter Unterschriften
 
