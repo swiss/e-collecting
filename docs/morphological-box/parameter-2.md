@@ -6,7 +6,7 @@ Aujourd’hui, les initiatives populaires et les référendums en cours de réco
 
 Dans le contexte d’un système de récolte électronique, on peut envisager différentes formes de présentation des initiatives populaires et des référendums : d’une solution sans aperçu centralisé, dans laquelle l’accès se fait exclusivement par des liens directs vers les différentes récoltes de signatures, en passant par des modèles avec un lien vers les récoltes de signatures sur le site web de la Chancellerie fédérale (le cas échéant avec une présentation différenciée des initiatives et des référendums), jusqu’à une liste complète de toutes les initiatives populaires et référendums dont la période de collecte est en cours, qui sont directement soumis aux électeurs sur l’interface utilisateur de l’E-Collecting afin qu’ils les soutiennent. 
 
-Les différentes options possibles pour ce paramètre sont-elles, selon vous, présentées de manière exhaustive ? Quelles seraient les conséquences possibles du choix de l'une de ces options ?
+Les différentes options possibles pour ce paramètre sont-elles, selon vous, présentées de manière exhaustive ? Quelles seraient les conséquences possibles du choix de l'une de ces options ? **La discussion à ce sujet a lieu [ici](https://github.com/swiss/e-collecting/issues/15).**
 
 Cette question a déjà été abordée dans le cadre du dialogue participatif.
 *	[Résumé des arguments](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#discussion-3--pr%C3%A9sentation-des-r%C3%A9coltes-en-cours-)  
