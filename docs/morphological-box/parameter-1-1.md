@@ -2,7 +2,15 @@ _[Deutsche Version](#d-0)_
 
 ## Boîte morphologique : Paramètre 1.1 - Saisie des signatures sur papier dans le système E-Collecting
 
-La traduction en français sera disponible le lundi 18 mai 2026.
+Si, à l’avenir, une partie des signatures pour les initiatives populaires fédérales et les référendums au niveau fédéral, est déposée par voie électronique, la question se pose de savoir comment intégrer les canaux numériques et papier pour la vérification et le dépouillement des signatures, notamment afin d’éviter les doubles signatures. L'intégration des signatures sur papier dans un système de récolte électronique peut se faire à différents niveaux, allant d'une séparation complète des canaux à une saisie numérique des déclarations de soutien reçues par la commune. 
+
+Si l’on renonce à la mise à disposition numérique des déclarations de soutien d’origine papier pour le dépouillement, il faut tout de même vérifier si la personne qui a apporté sa déclaration de soutien sur papier a déjà apporté une déclaration de soutien numérique via le système de récolte électronique.
+
+Selon la configuration, la saisie numérique des déclarations de soutien sur papier peut couvrir différents niveaux de détail des données – allant d’un simple enregistrement de la réception à une représentation minimale dans le système en passant par la reprise complète de toutes les informations. L’étendue concrète de la saisie des données n’est pas encore représentée en tant que paramètre, car elle dépend fortement de l’intégration choisie entre le canal papier et le canal numérique.   
+
+Les valeurs possibles de ce paramètre sont-elles, selon vous, présentées de manière exhaustive ? Quels sont les avantages et les inconvénients de chacune de ces valeurs ?
+
+![Paramètre 1.1](../images/Paramètre-1.1.png)
 
 ## <a name="d-0"> Morphologischer Kasten: Parameter 1.1 - Erfassung papierbasierter Unterschriften im E-Collecting-System durch die Gemeinde
 
