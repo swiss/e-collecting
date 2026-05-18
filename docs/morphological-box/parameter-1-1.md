@@ -8,7 +8,7 @@ Si l’on renonce à la mise à disposition numérique des déclarations de sout
 
 Selon la configuration, la saisie numérique des déclarations de soutien sur papier peut couvrir différents niveaux de détail des données – allant d’un simple enregistrement de la réception à une représentation minimale dans le système en passant par la reprise complète de toutes les informations. L’étendue concrète de la saisie des données n’est pas encore représentée en tant que paramètre, car elle dépend fortement de l’intégration choisie entre le canal papier et le canal numérique.   
 
-Les valeurs possibles de ce paramètre sont-elles, selon vous, présentées de manière exhaustive ? Quels sont les avantages et les inconvénients de chacune de ces valeurs ?
+Les valeurs possibles de ce paramètre sont-elles, selon vous, présentées de manière exhaustive ? Quels sont les avantages et les inconvénients de chacune de ces valeurs ? **La discussion à ce sujet a lieu [ici](https://github.com/swiss/e-collecting/issues/12).**
 
 ![Paramètre 1.1](../images/Paramètre-1.1.png)
 
@@ -20,7 +20,7 @@ Verzichtet man auf die digitale Bereitstellung von Unterstützungsbekundungen pa
 
 Je nach Ausgestaltung kann die digitale Erfassung papierbasierter Unterstützungsbekundungen unterschiedliche Datentiefen umfassen - von einer blossen Registrierung des Eingangs über eine minimale systemseitige Repräsentation bis zur vollständigen Übernahme aller Angaben. Der konkrete Umfang der Datenerfassung wird noch nicht als Parameter abgebildet, da er stark von der gewählten Integration des papierbasierten und digitalen Kanals abhängt.  
 
-Sind die möglichen Ausprägungen dieses Parameters aus Ihrer Sicht vollständig dargestellt? Welche Vor- und Nachteile ergeben sich aus den einzelnen Ausprägungen? Die Diskussion dazu findet [hier](https://github.com/swiss/e-collecting/issues/12) statt.
+Sind die möglichen Ausprägungen dieses Parameters aus Ihrer Sicht vollständig dargestellt? Welche Vor- und Nachteile ergeben sich aus den einzelnen Ausprägungen? **Die Diskussion dazu findet [hier](https://github.com/swiss/e-collecting/issues/12) statt.**
 
 Es bestehen Abhängigkeiten zu [Parameter 1.2](parameter-1-2.md) und [Parameter 1.3](parameter-1-3.md).
 
