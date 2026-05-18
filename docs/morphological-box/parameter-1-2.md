@@ -2,7 +2,11 @@ _[Deutsche Version](#d-0)_
 
 ## Boîte morphologique : Paramètre 1.2 - Traitement numérique des signatures sur papier dans le système E-Collecting
 
-La traduction en français sera disponible le lundi 18 mai 2026.
+Outre la saisie des signatures sur papier par les employés de la commune dans le système de récolte électronique, la question se pose de savoir comment les données ainsi extraites doivent être utilisées. Servent-elles uniquement à compter toutes les déclarations de soutien reçues ou sont-elles utilisées pour éviter les doubles signatures sur différents canaux ?   
+
+Il existe des liens avec le [paramètre 1.1](parameter-1-1.md) et le [paramètre 1.3](parameter-1-3.md).
+
+![Paramètre 1.2.](../images/Paramètre-1.2.png) 
 
 ## <a name="d-0"> Morphologischer Kasten: Parameter 1.2 - Digitale Verarbeitung der papierbasierten Unterschrift im E-Collecting-System
 
