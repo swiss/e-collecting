@@ -18,7 +18,7 @@ Wird in Zukunft ein Teil der Unterschriften für Volksbegehren auf elektronische
 
 Verzichtet man auf die digitale Bereitstellung von Unterstützungsbekundungen papiernen Ursprungs für die Auszählung, muss dennoch überprüft werden, ob die Person, welche die Unterstützungsbekundung auf Papier geleistet hat, bereits eine digitale Unterstützungsbekundung via E-Collecting abgegeben hat.
 
-Je nach Ausgestaltung kann die digitale Erfassung papierbasierter Unterstützungsbekundungen unterschiedliche Datentiefen umfassen - von einer eine minimalen systemseitigen Repräsentation bis zur vollständigen Übernahme aller Angaben. Der konkrete Umfang der Datenerfassung wird noch nicht als Parameter abgebildet, da er stark von der gewählten Integration des papierbasierten und digitalen Kanals abhängt.  
+Je nach Ausgestaltung kann die digitale Erfassung papierbasierter Unterstützungsbekundungen unterschiedliche Datentiefen umfassen - von einer minimalen systemseitigen Repräsentation bis zur vollständigen Übernahme aller Angaben. Der konkrete Umfang der Datenerfassung wird noch nicht als Parameter abgebildet, da er stark von der gewählten Integration des papierbasierten und digitalen Kanals abhängt.  
 
 Sind die möglichen Ausprägungen dieses Parameters aus Ihrer Sicht vollständig dargestellt? Welche Vor- und Nachteile ergeben sich aus den einzelnen Ausprägungen? **Die Diskussion dazu findet [hier](https://github.com/swiss/e-collecting/issues/12) statt.**
 
