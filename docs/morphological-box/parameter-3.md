@@ -1,8 +1,14 @@
 _[Deutsche Version](#d-0)_
 
-## Boîte morphologique : Paramètre 3 - Possibilité d'ajouter des arguments dans le système E-Collecting
+## Boîte morphologique : Paramètre 3 - Possibilité de publier des arguments dans le système de récolte électronique de signatures
 
-La traduction en français sera disponible le lundi 18 mai 2026.
+Les formulaires papier peuvent contenir des arguments en faveur d’une initiative populaire ou d’un référendum, à condition de ne pas dépasser les limites des prescriptions formelles. Cela garantit que les électeurs remettent leurs déclarations de soutien en connaissance des informations qui les concernent. Avec l’introduction d’un système E-Collecting, la question se pose de savoir si et sous quelle forme des possibilités comparables d’information et d’argumentation doivent également être prévues au format numérique.
+
+On peut distinguer différentes variantes : d’une plateforme strictement neutre, sans arguments ni contenus supplémentaires, à des configurations de plateforme sans contenu propre, mais avec des liens vers les sites de campagne externes des comités, jusqu’à une solution avec insertion directe d’arguments dans le système de récolte électronique. Si l’on opte pour la possibilité d’insérer des arguments, il faudrait, dans une prochaine étape, clarifier les exigences formelles. 
+
+Les différentes variantes possibles de ce paramètre sont-elles, selon vous, présentées de manière exhaustive ? Quels sont les avantages et les inconvénients de chacune de ces variantes ?
+
+![Paramètre 3](../images/Paramètre-3.png) 
 
 ## <a name="d-0"> Morphologischer Kasten: Parameter 3 - Möglichkeit, Argumente im E-Collecting System zu platzieren
 
