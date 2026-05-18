@@ -10,7 +10,7 @@ Les différentes options sont-elles, selon vous, présentées de manière exhaus
 
 Il existe des interdépendances avec le [paramètre 1.1](parameter-1-1.md) et le [paramètre 1.2.](parameter-1-2.md).
 
-![Paramètre 1.3](docs/images/Paramètre-1.3.png)
+![Paramètre 1.3](../images/Paramètre-1.3.png)
 
 ## <a name="d-0"> Morphologischer Kasten: Parameter 1.3 - Behandlung der Papier-Unterschriften nach allfälliger Erfassung
 
