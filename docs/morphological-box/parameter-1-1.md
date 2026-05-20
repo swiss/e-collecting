@@ -10,8 +10,42 @@ Selon la configuration, la saisie numérique des déclarations de soutien sur pa
 
 Les valeurs possibles de ce paramètre sont-elles, selon vous, présentées de manière exhaustive ? Quels sont les avantages et les inconvénients de chacune de ces valeurs ? **La discussion à ce sujet a lieu [ici](https://github.com/swiss/e-collecting/issues/12).**
 
-![Paramètre 1.1](../images/Paramètre-1.1.png)
-
+```mermaid
+block
+  block
+    columns 4
+    t1["Paramètre"]
+    t2["Variantes"]:3
+    d["Paramètre 1.1
+      Saisi des signatures sur
+      papier dans le système de
+      récolte électronique"]
+    a1["Variante 1:
+      Pas de saisi
+      dans le système
+      E-Collecting"]
+    a2["Variante 2:
+      Saisie manuelle de la
+      déclaration papier par la
+      commune dans le système
+      E-Collecting (saisie 
+      au clavier)"]
+    a3["Variante 3:
+      Saisie semi-automatisée
+      par la commune de la
+      déclaration papier dans
+      le système E-Collecting
+      via numèrisation avec
+      reconnaissance optique
+      de caractères (OCR)"]
+    style t1 fill:#a8d5ff,stroke-width:0px
+    style t2 fill:#a8d5ff,stroke-width:0px
+    style d fill:#a8d5ff,stroke-width:0px,text-valign:top
+    style a1 fill:#cdedff,stroke-width:0px
+    style a2 fill:#cdedff,stroke-width:0px
+    style a3 fill:#cdedff,stroke-width:0px
+  end
+```
 ## <a name="d-0"> Morphologischer Kasten: Parameter 1.1 - Erfassung papierbasierter Unterschriften im E-Collecting-System durch die Gemeinde
 
 Wird in Zukunft ein Teil der Unterschriften für Volksbegehren auf elektronischem Wege abgegeben, stellt sich die Frage, wie der digitale und der papierbasierte Kanal für die Überprüfung und Auszählung von Unterschriften miteinander integriert werden, namentlich um Doppelunterschriften zu verhindern. Die Integration papierbasierter Unterschriften in ein E-Collecting-System kann in unterschiedlichem Ausmass erfolgen - von einer vollständigen Trennung der Kanäle bis hin zu einer digitalen Erfassung der bei der Gemeinde eingegangenen Unterstützungsbekundungen. 
@@ -24,4 +58,37 @@ Sind die möglichen Ausprägungen dieses Parameters aus Ihrer Sicht vollständig
 
 Es bestehen Abhängigkeiten zu [Parameter 1.2](parameter-1-2.md) und [Parameter 1.3](parameter-1-3.md).
 
-![Parameter 1.1](../images/Parameter-1.1.png)
+```mermaid
+block
+  block
+    columns 4
+    t1["Parameter"]
+    t2["Ausprägungen"]:3
+    d["Parameter 1.1
+      Erfassung papier-
+      basierter Unterschriften
+      im E-Collecting System"]
+    a1["Ausprägung 1:
+      Keine Erfassung im
+      E-Collecting System"]
+    a2["Ausprägung 2:
+      Manuelle Erfassung der
+      Papier-Bekundung durch
+      die Gemeinde im 
+      E-Collecting System"]
+    a3["Ausprägung 3:
+      Scan-basierte,
+      teilautomatisierte
+      Erfassung durch
+      Gemeinde der
+      Papier-Bekundung im
+      E-Collecting-System
+      mit Texterkennung (OCR)"]
+    style t1 fill:#a8d5ff,stroke-width:0px
+    style t2 fill:#a8d5ff,stroke-width:0px
+    style d fill:#a8d5ff,stroke-width:0px,text-valign:top
+    style a1 fill:#cdedff,stroke-width:0px
+    style a2 fill:#cdedff,stroke-width:0px
+    style a3 fill:#cdedff,stroke-width:0px
+  end
+```
