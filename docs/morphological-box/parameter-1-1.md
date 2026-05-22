@@ -30,7 +30,7 @@ block
       registre électoral local
       (afin d'éviter les
       déclarations de soutien
-      multiples"]
+      multiples)"]
     a2["Variante 2:
       Saisie manuelle de la
       déclaration papier par la
