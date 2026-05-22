@@ -25,7 +25,12 @@ block
     a1["Variante 1:
       Pas de saisi
       dans le système
-      E-Collecting"]
+      E-Collecting mais
+      uniquement dans le
+      registre électoral local
+      (afin d'éviter les
+      déclarations de soutien
+      multiples"]
     a2["Variante 2:
       Saisie manuelle de la
       déclaration papier par la
