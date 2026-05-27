@@ -2,7 +2,7 @@ _[Deutsche Version](#d-0)_
 
 ## Boîte morphologique : Paramètre 1.1 - Saisie des signatures sur papier dans le système E-Collecting
 
-Si, à l'avenir, une partie des signatures pour les initiatives populaires fédérales est recueillie par voie électronique, la question se pose de savoir comment intégrer les canaux numérique et papier pour la vérification et le dépouillement des signatures, notamment afin d'éviter les doubles signatures. La saisie des signatures sur papier dans un système de récolte électronique peut s'effectuer à différents niveaux : cela va de la non-saisie dans le système de récolte électronique à la saisie manuelle, en passant par la saisie semi-automatisée des déclarations de soutien reçues par la commune. Nous partons ici du principe qu’une éventuelle saisie dans le système de récolte électronique s’effectue via le logiciel communal ou le registre électoral de la commune.
+Si, à l'avenir, une partie des signatures pour les initiatives populaires fédérales est recueillie par voie électronique, la question se pose de savoir comment intégrer les canaux numériques et papier pour la vérification et le dépouillement des signatures, notamment afin d'éviter les doubles signatures. La saisie des signatures sur papier dans un système de récolte électronique peut s'effectuer à différents niveaux : cela va de la non-saisie dans le système de récolte électronique à la saisie manuelle, en passant par la saisie semi-automatisée des déclarations de soutien reçues par la commune. Nous partons ici du principe qu’une éventuelle saisie dans le système de récolte électronique s’effectue via le logiciel communal ou le registre électoral de la commune.
 
 Par « enregistrement », nous entendons la saisie et la conservation de la déclaration de soutien.
 
