@@ -8,7 +8,7 @@ Avec la mise en place d’un système de récolte électronique de signatures, l
 
 La conception technique concrète de l'attribution reste pour l'instant ouverte. On pourrait, par exemple, imaginer que les organisations de récolte reçoivent un lien spécifique ou un code QR permettant d'attribuer les déclarations de soutien à leur récolte respective. Si la mobilisation se fait par exemple dans la rue, la personne ayant le droit de vote pourrait accéder directement à la page de soutien spécifique à l'organisation en scannant le code QR correspondant.
 
-Lors de la mise en œuvre concrète, il faudrait tenir compte du principe de minimisation des données. Dans des cas extrêmes, certaines solutions techniques d’attribution pourraient conduire un comité à enregistrer une récolte distincte pour chaque électeur et à envoyer un lien direct dans le but de suivre quels électeurs soutiennent telle initiative populaire ou tel référendum.  
+Lors de la mise en œuvre concrète, il faudrait tenir compte du principe de minimisation des données. Dans des cas extrêmes, certaines solutions techniques d’attribution pourraient conduire un comité à enregistrer une récolte distincte pour chaque électeur et à envoyer un lien direct dans le but de suivre quelles initiatives populaires ou référendums sont soutenus et par combien d’électeurs..  
 
 Les différentes options sont-elles, selon vous, présentées de manière exhaustive ? Quels avantages et inconvénients peut-on anticiper pour chacune d’elles ? **La discussion à ce sujet a lieu [ici](https://github.com/swiss/e-collecting/issues/17).**
 
