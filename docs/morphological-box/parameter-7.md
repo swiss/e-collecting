@@ -17,7 +17,7 @@ Dennoch wird der Parameter noch einmal formell zur Diskussion gestellt.
 
 Unabhängig von der hier diskutierten Frage definiert der Gesetzgeber im Entwurf für die Teilrevision des Bundesgesetzes über die politischen Rechte weitere Einschränkungen wie etwa eine anteilsmässige Beschränkung der digitalen Unterstützungsbekundungen. Dies ist aber nicht Teil des hier behandelten Parameters. Hier geht es ausschliesslich um die Teilnahme-Voraussetzungen für die einzelnen Stimmberechtigten.
 
-Sind die möglichen Ausprägungen dieses Parameters aus Ihrer Sicht vollständig dargestellt? Welche möglichen Auswirkungen hätte die Auswahl einer der möglichen Ausprägungen? **Die Diskussion dazu findet [hier](https://github.com/swiss/e-collecting/issues/FIXME) statt.**
+Sind die möglichen Ausprägungen dieses Parameters aus Ihrer Sicht vollständig dargestellt? Welche möglichen Auswirkungen hätte die Auswahl einer der möglichen Ausprägungen? **Die Diskussion dazu findet [hier](https://github.com/swiss/e-collecting/issues/20) statt.**
 
 ```mermaid
 block

@@ -18,7 +18,7 @@ Es stellt sich die Frage, ob eine solche Bedenkzeit des E-Collecting-Systems rec
 
 Verwandt mit der hier vorliegenden Fragestellung beschränkte eine im Hackathon vorgeschlagene Variante die digitale Unterstützungsbekundung auf den persönlichen Austausch vor Ort. Eine digitale Unterschrift dürfte dabei nur dann geleistet werden, wenn ein Vertreter oder eine Vertreterin einer Kampagne in der Öffentlichkeit bei den Stimmberechtigten für die Unterstützung eines Volksbegehrens wirbt. Online-Kampagnen oder Unterstützungsbekundungen vom Sofa aus würden dadurch ausgeschlossen.
 
-Sind die möglichen Ausprägungen dieses Parameters aus Ihrer Sicht vollständig dargestellt? Welche möglichen Auswirkungen hätte die Auswahl einer der möglichen Ausprägungen? **Die Diskussion dazu findet [hier](https://github.com/swiss/e-collecting/issues/FIXME) statt.**
+Sind die möglichen Ausprägungen dieses Parameters aus Ihrer Sicht vollständig dargestellt? Welche möglichen Auswirkungen hätte die Auswahl einer der möglichen Ausprägungen? **Die Diskussion dazu findet [hier](https://github.com/swiss/e-collecting/issues/21) statt.**
 
 ```mermaid
 block

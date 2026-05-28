@@ -14,7 +14,7 @@ Eine Abklärung der Bundeskanzlei hat ergeben, dass auf Kantons- und Gemeindestu
 
 Die Nutzung des E-Collecting-Systems auf mehreren föderalen Ebenen führt also zu einer Erhöhung der Komplexität und der Kosten.
 
-Sind die möglichen Ausprägungen dieses Parameters aus Ihrer Sicht vollständig dargestellt? Welche möglichen Auswirkungen hätte die Auswahl einer der möglichen Ausprägungen? **Die Diskussion dazu findet [hier](https://github.com/swiss/e-collecting/issues/FIXME) statt.**
+Sind die möglichen Ausprägungen dieses Parameters aus Ihrer Sicht vollständig dargestellt? Welche möglichen Auswirkungen hätte die Auswahl einer der möglichen Ausprägungen? **Die Diskussion dazu findet [hier](https://github.com/swiss/e-collecting/issues/19) statt.**
 
 ```mermaid
 block
