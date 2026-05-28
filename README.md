@@ -43,7 +43,9 @@ Dans le cadre de la deuxième phase actuellement en cours, nous examinons diffé
 * [3 - Possibilité d'ajouter des arguments dans le système E-Collecting](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-3.md)
 * [4 - Attribution des déclarations de soutien](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-4.md)
 * [5 - Affichage du nombre de signatures recueillies à ce jour](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-5.md)
-
+* [6 - Utilisation du système de récolte électronique aux trois niveaux fédéraux](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-6.md)
+* [7 - Conditions administratives de participation aux essais de récolte électronique](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-7.md)
+* [8 - Garantir un délai de réflexion avant la transmission de la déclaration de soutien](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-8.md)
 
 ## <a name="f4-0">Chronologie</a>
 
@@ -120,6 +122,9 @@ In der zur Zeit laufenden zweiten Phase diskutieren wir anhand einer ["Morpholog
 * [3 - Möglichkeit Argumente im E-Collecting System zu platzieren](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-3.md)
 * [4 - Zuordnung von Unterstützungsbekundungen](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-4.md)
 * [5 - Anzeige der Anzahl bisher gesammelter Unterschriften](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-5.md)
+* [6 - Einsatz des E-Collecting-Systems auf allen drei föderalen Ebenen](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-6.md)
+* [7 - Administrative Voraussetzungen für Teilnahme an E-Collecting Versuchen](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-7.md)
+* [8 - Sicherstellung einer Bedenkzeit vor Übermittlung der Unterstützungsbekundung](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-8.md)
 
 ## <a name="d4-0">Timeline</a>
 
