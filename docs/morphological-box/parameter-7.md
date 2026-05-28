@@ -10,7 +10,7 @@ Wenn man verhindern will, dass eine stimmberechtigte Person ihre Unterstützung 
 
 Man könnte diesen Aufwand vermeiden, indem man sämtliche Stimmberechtigten dazu zwingt, sich zwischen Papier und E-Collecting zu entscheiden (= Opt-Out). Dies führt allerdings zu administrativen und rechtlichen Problemen. Diese Schwierigkeiten wurden im schriftlichen Dialog bereits diskutiert.
 
-* [Link Diskussion](github.com/swiss/e-collecting/issues/2)
+* [Link Diskussion](https://github.com/swiss/e-collecting/issues/2)
 * [Link Zusammenfassung der Diskussion](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#diskussion-2-l%C3%A4sst-sich-ein-opt-out-f%C3%BCr-den-papierprozess-wirklich-vermeiden)
 
 Dennoch wird der Parameter noch einmal formell zur Diskussion gestellt.
