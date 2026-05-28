@@ -1,8 +1,54 @@
 _[Deutsche Version](#d-0)_
 
-## Boîte morphologique : Paramètre 7 - Conditions administratives requises pour participer aux essais de récolte électronique
+## Boîte morphologique : Paramètre 7 - Conditions administratives de participation aux essais de récolte électronique
 
-A suivre
+Si l'on veut empêcher qu'un électeur apporte son soutien à la fois sur papier et par voie numérique (= double signature), cela entraîne une charge technique supplémentaire.
+
+On pourrait éviter cette charge en obligeant tous les électeurs à choisir entre le papier et l’E-Collecting (= opt-out). Cela entraîne toutefois des problèmes administratifs et juridiques. Ces difficultés ont déjà été abordées dans le cadre du dialogue écrit.
+
+* [Lien Discussion](https://github.com/swiss/e-collecting/issues/2)
+* [Lien Résumé de la discussion](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md)
+
+Ce paramètre est néanmoins soumis à nouveau formellement à la discussion.
+
+Indépendamment de la question discutée ici, le législateur définit, dans le projet de révision partielle de la loi fédérale sur les droits politiques, d’autres restrictions telles qu’une limitation proportionnelle des déclarations de soutien numériques. Cela ne fait toutefois pas partie du paramètre traité ici. Il s’agit ici exclusivement des conditions de participation pour chaque électeur.
+
+Les différentes valeurs possibles de ce paramètre sont-elles, selon vous, toutes présentées ? Quelles seraient les conséquences possibles du choix de l'une de ces valeurs ? **La discussion à ce sujet a lieu [ici](https://github.com/swiss/e-collecting/issues/20).**
+
+```mermaid
+block
+  block
+    columns 4
+    t1["Paramètre"]
+    t2["Variantes"]:3
+    d["Paramètre 7
+      Conditions administratives
+      de participation aux essais
+      de récolte électronique
+      "]
+    a1["Variante 1:
+      Inscription à l’E-Collecting,
+      avec renonciation au support 
+      papier (= opt-out).
+      "]
+    a2["Variante 2:
+      Inscription à l’E-Collecting
+      sans renonciation au support
+      papier (= opt-in).
+      "]
+    a3["Variante 3:
+      Accès automatique à 
+      l’E-Collecting sans
+      inscription préalable
+      "]
+    style t1 fill:#a8d5ff,stroke-width:0px
+    style t2 fill:#a8d5ff,stroke-width:0px
+    style d fill:#a8d5ff,stroke-width:0px,text-valign:top
+    style a1 fill:#cdedff,stroke-width:0px
+    style a2 fill:#cdedff,stroke-width:0px
+    style a3 fill:#cdedff,stroke-width:0px
+  end
+```
 
 ## <a name="d-0"> Morphologischer Kasten: Parameter 7 - Administrative Voraussetzungen für Teilnahme an E-Collecting Versuchen
 
