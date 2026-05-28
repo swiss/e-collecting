@@ -21,7 +21,7 @@ block
   block
     columns 5
     t1["Parameter"]
-    t2["Ausprägungen"]:3
+    t2["Ausprägungen"]:4
     d["Parameter 6
       Einsatz des E-Collecting-
       Systems auf allen drei 
