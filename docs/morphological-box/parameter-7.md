@@ -7,7 +7,7 @@ Si l'on veut empêcher qu'un électeur apporte son soutien à la fois sur papier
 On pourrait éviter cette charge en obligeant tous les électeurs à choisir entre le papier et l’E-Collecting (= opt-out). Cela entraîne toutefois des problèmes administratifs et juridiques. Ces difficultés ont déjà été abordées dans le cadre du dialogue écrit.
 
 * [Lien Discussion](https://github.com/swiss/e-collecting/issues/2)
-* [Lien Résumé de la discussion](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md)
+* [Lien Résumé de la discussion](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#discussion-2--est-il-vraiment-possible-d%C3%A9viter-de-se-retirer-du-processus-papier-)
 
 Ce paramètre est néanmoins soumis à nouveau formellement à la discussion.
 
@@ -29,12 +29,12 @@ block
     a1["Variante 1:
       Inscription à l’E-Collecting,
       avec renonciation au support 
-      papier (= opt-out).
+      papier (= opt-out)
       "]
     a2["Variante 2:
       Inscription à l’E-Collecting
       sans renonciation au support
-      papier (= opt-in).
+      papier (= opt-in)
       "]
     a3["Variante 3:
       Accès automatique à 

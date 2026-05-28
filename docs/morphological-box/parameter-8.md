@@ -12,7 +12,7 @@ Le processus avec délai de réflexion serait comparable au fait de remplir le f
 
 La question se pose de savoir si un tel délai de réflexion dans le système de récolte électronique serait légalement admissible et s’il n’affecterait pas l’accessibilité.
 
-En lien avec la question qui nous occupe ici, une variante proposée lors du hackathon (FIXME:Link) limitait la déclaration de soutien numérique aux échanges personnels sur place. Une signature numérique ne pourrait être apposée que si un représentant ou une représentante d’une campagne fait publiquement campagne auprès des électeurs pour obtenir leur soutien à une initiative populaire. Les campagnes en ligne ou les déclarations de soutien depuis son canapé seraient ainsi exclues.
+En lien avec la question qui nous occupe ici, une variante proposée lors du hackathon limitait la déclaration de soutien numérique aux échanges personnels sur place. Une signature numérique ne pourrait être apposée que si un représentant ou une représentante d’une campagne fait publiquement campagne auprès des électeurs pour obtenir leur soutien à une initiative populaire. Les campagnes en ligne ou les déclarations de soutien depuis son canapé seraient ainsi exclues.
 
 Les différentes valeurs possibles de ce paramètre sont-elles, selon vous, toutes présentées ? Quelles seraient les conséquences possibles du choix de l'une de ces valeurs ? **La discussion à ce sujet a lieu [ici](https://github.com/swiss/e-collecting/issues/21).**
 
