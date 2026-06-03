@@ -12,7 +12,57 @@ Cette question a déjà été abordée dans le cadre du dialogue participatif.
 *	[Résumé des arguments](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#discussion-3--pr%C3%A9sentation-des-r%C3%A9coltes-en-cours-)  
 *	[Discussion](https://github.com/swiss/e-collecting/issues/3)  
 
-![Paramètre 2](../images/Paramètre-2.png) 
+
+
+```mermaid
+block
+  block
+    columns 5
+    t1["Paramètre"]
+    t2["Variantes"]:4
+    d["Paramètre 2:
+      Présentation des 
+      initiatives populaires et 
+      référendums en cours
+      "]
+    a1["Variante 1:
+      Pas de vue d'ensemble 
+      centralisée de toutes les 
+      initiatives populaires et 
+      référendums sur l'interface
+      utilisateur d'E-Collecting,
+      accès uniquement direct à la
+      déclaration de soutien pour 
+      une initiative populaire ou
+      un référendum spécifique
+      "]
+    a2["Variante 2:
+      La liste des initiatives 
+      populaires et des référendums 
+      sur le site web de la 
+      Chancellerie fédérale 
+      contient des liens permettant
+      d'accéder à la déclaration de
+      soutien correspondante sur
+      l'interface utilisateur 
+      d'E-Collecting	
+      "]
+    a3["Variante 3:
+      Liste complète des initiatives 
+      populaires et référendums sur
+      l'interface utilisateur 
+      d'E-Collecting
+      "]
+    a4["&nbsp;"]
+    style t1 fill:#a8d5ff,stroke-width:0px
+    style t2 fill:#a8d5ff,stroke-width:0px
+    style d fill:#a8d5ff,stroke-width:0px,text-valign:top
+    style a1 fill:#cdedff,stroke-width:0px
+    style a2 fill:#cdedff,stroke-width:0px
+    style a3 fill:#cdedff,stroke-width:0px
+    style a4 fill:#cdedff,stroke-width:0px
+  end
+```
 
 ## <a name="d-0"> Morphologischer Kasten: Parameter 2 - Darstellung laufender Volksbegehren
 
@@ -26,5 +76,52 @@ Diese Frage wurde im partizipativen Dialog bereits erörtert.
 * [Zusammenfassung der Argumente](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#diskussion-3-darstellung-laufender-sammlungen)
 * [Diskussion](https://github.com/swiss/e-collecting/issues/3)
 
-![Parameter 2](../images/parameter-2.png)
+
+
+```mermaid
+block
+  block
+    columns 5
+    t1["Parameter"]
+    t2["Ausprägungen"]:4
+    d["Parameter 2:
+      Darstellung laufender
+      Volksbegehren
+      "]
+    a1["Ausprägung 1:
+      Keine zentrale Übersicht
+      aller Volksbegehren auf
+      der E-Collecting-
+      Benutzeroberfläche,
+      Zugang nur direkt zur
+      Unterstützungsbekundung
+      für ein spezifisches
+      Volksbegehren
+      "]
+    a2["Ausprägung 2:
+      Auflistung der Volks-
+      begehren auf Website der 
+      BK enthält Links mit 
+      Zugang zur jeweiligen 
+      Unterstützungsbekundung 
+      auf der E-Collecting-
+      Benutzeroberfläche
+      "]
+    a3["Ausprägung 3:
+      Vollständige Auflistung 
+      der Volksbegehren auf 
+      der E-Collecting-
+      Benutzeroberfläche
+      "]
+    a4["&nbsp;"]
+    style t1 fill:#a8d5ff,stroke-width:0px
+    style t2 fill:#a8d5ff,stroke-width:0px
+    style d fill:#a8d5ff,stroke-width:0px,text-valign:top
+    style a1 fill:#cdedff,stroke-width:0px
+    style a2 fill:#cdedff,stroke-width:0px
+    style a3 fill:#cdedff,stroke-width:0px
+    style a4 fill:#cdedff,stroke-width:0px
+    
+  end
+```
 

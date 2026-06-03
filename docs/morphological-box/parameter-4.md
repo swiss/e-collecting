@@ -16,8 +16,48 @@ Cette question a déjà été abordée lors du dialogue participatif :
 *	[Résumé des arguments](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#discussion-6--attribution-des-d%C3%A9clarations-de-soutien)  
 *	[Discussion](https://github.com/swiss/e-collecting/issues/6) 
 
-![Paramètre 4](../images/Paramètre-4.png)
 
+```mermaid
+block
+  block
+    columns 5
+    t1["Paramètre"]
+    t2["Variantes"]:4
+    d["Paramètre 4:
+      Attribution des 
+      déclarations de soutien
+      "]
+    a1["Variante 1:
+      Aucune attribution 
+      indiquant qui a récolté
+      combien de signatures
+      "]
+    a2["Variante 2:
+      Attribution du nombre 
+      de signatures par 
+      organisation de récolte.
+      Visible uniquement par
+      les organisations de
+      récoltes. (Éventuellement
+      sur une base volontaire.)
+      "]
+    a3["Variante 3:
+      Attribution du nombre de
+      signatures par organisation
+      de récolte. Accessible au
+      public. (Éventuellement
+      sur une base volontaire.)
+      "]
+    a4["&nbsp;"]
+    style t1 fill:#a8d5ff,stroke-width:0px
+    style t2 fill:#a8d5ff,stroke-width:0px
+    style d fill:#a8d5ff,stroke-width:0px,text-valign:top
+    style a1 fill:#cdedff,stroke-width:0px
+    style a2 fill:#cdedff,stroke-width:0px
+    style a3 fill:#cdedff,stroke-width:0px
+    style a4 fill:#cdedff,stroke-width:0px
+  end
+```
 ## <a name="d-0"> Morphologischer Kasten: Parameter 4 - Zuordnung von Unterstützungsbekundungen
 
 Initiativ- und Referendumskomitees, Sammelorganisationen und Sammlungsunternehmen können heute die Anzahl ihrer erzielten Unterschriften rückverfolgen. Gibt es bei Referenden mehrere Referendumskomitees, so wirkt sich die Anzahl ihrer oder der in ihrem Namen gesammelten Unterschriften auf den für sie eingeräumten Platz in den Erläuterungen des Bundesrates aus. Sowohl für Initiativkomitees als auch für Referendumskomitees ist diese Transparenz aus weiteren Gründen relevant: Sie ermöglicht nachzuvollziehen, welche untergeordneten Sammelorganisationen welchen Beitrag zur Unterschriftensammlung geleistet haben und in welchem Umfang sie gegebenenfalls entschädigt werden müssen.
@@ -34,5 +74,50 @@ Diese Frage wurde im partizipativen Dialog bereits erörtert:
 * [Zusammenfassung der Argumente](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#diskussion-6-zuschreibung-der-unterst%C3%BCtzungsbekundungen)
 * [Diskussion](https://github.com/swiss/e-collecting/issues/6)
 
-![Parameter 4](../images/parameter-4.png)
+
+
+
+```mermaid
+block
+  block
+    columns 5
+    t1["Parameter"]
+    t2["Ausprägungen"]:4
+    d["Parameter 4:
+      Zuordnung von 
+      Unterstützungsbekundungen
+      "]
+    a1["Ausprägung 1:
+      Keine Zuordnung, wer wie 
+      viele Unterschriften 
+      gesammelt hat.
+      "]
+    a2["Ausprägung 2:
+      Zuordnung der Anzahl von
+      Unterschriften pro 
+      sammelnde Organisation. 
+      Nur einsehbar für 
+      sammelnde Organisationen.
+      (Evtl. basierend auf
+      Freiwilligkeit.)
+      "]
+    a3["Ausprägung 3:
+      Zuordnung der Anzahl von
+      Unterschriften pro 
+      sammelnde Organisation. 
+      Für die Öffentlichkeit 
+      einsehbar. (Evtl. 
+      basierend auf 
+      Freiwilligkeit.)
+      "]
+    a4["&nbsp;"]
+    style t1 fill:#a8d5ff,stroke-width:0px
+    style t2 fill:#a8d5ff,stroke-width:0px
+    style d fill:#a8d5ff,stroke-width:0px,text-valign:top
+    style a1 fill:#cdedff,stroke-width:0px
+    style a2 fill:#cdedff,stroke-width:0px
+    style a3 fill:#cdedff,stroke-width:0px
+    style a4 fill:#cdedff,stroke-width:0px
+  end
+```
 

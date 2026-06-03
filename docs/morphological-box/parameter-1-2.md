@@ -18,7 +18,7 @@ block
     columns 5
     t1["Paramètre"]
     t2["Variantes"]:4
-    d["Paramètre 1.2
+    d["Paramètre 1.2:
       Traitement numérique
       de la signature sur 
       papier dans le
@@ -63,7 +63,7 @@ block
     columns 5
     t1["Parameter"]
     t2["Ausprägungen"]:4
-    d["Parameter 1.2
+    d["Parameter 1.2:
       Digitale Verarbeitung 
       der papierbasierten
       Unterschrift im 

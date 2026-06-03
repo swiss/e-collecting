@@ -15,15 +15,15 @@ Il existe des dépendances avec [Paramètre 1.2](parameter-1-2.md) et [Paramètr
 ```mermaid
 block
   block
-    columns 4
+    columns 5
     t1["Paramètre"]
-    t2["Variantes"]:3
-    d["Paramètre 1.1
-      Saisi des signatures sur
+    t2["Variantes"]:4
+    d["Paramètre 1.1:
+      Saisie des signatures sur
       papier dans le système de
       récolte électronique"]
     a1["Variante 1:
-      Pas de saisi
+      Pas de saisie
       dans le système
       E-Collecting mais
       uniquement dans le
@@ -45,12 +45,14 @@ block
       via numèrisation avec
       reconnaissance optique
       de caractères (OCR)"]
+    a4["&nbsp;"]
     style t1 fill:#a8d5ff,stroke-width:0px
     style t2 fill:#a8d5ff,stroke-width:0px
     style d fill:#a8d5ff,stroke-width:0px,text-valign:top
     style a1 fill:#cdedff,stroke-width:0px
     style a2 fill:#cdedff,stroke-width:0px
     style a3 fill:#cdedff,stroke-width:0px
+    style a4 fill:#cdedff,stroke-width:0px
   end
 ```
 ## <a name="d-0"> Morphologischer Kasten: Parameter 1.1 - Erfassung papierbasierter Unterschriften im E-Collecting-System durch die Gemeinde
@@ -73,10 +75,10 @@ Es bestehen Abhängigkeiten zu [Parameter 1.2](parameter-1-2.md) und [Parameter 
 ```mermaid
 block
   block
-    columns 4
+    columns 5
     t1["Parameter"]
-    t2["Ausprägungen"]:3
-    d["Parameter 1.1
+    t2["Ausprägungen"]:4
+    d["Parameter 1.1:
       Erfassung papier-
       basierter Unterschriften
       im E-Collecting System"]
@@ -101,11 +103,13 @@ block
       Papier-Bekundung im
       E-Collecting-System
       mit Texterkennung (OCR)"]
+    a4["&nbsp;"]
     style t1 fill:#a8d5ff,stroke-width:0px
     style t2 fill:#a8d5ff,stroke-width:0px
     style d fill:#a8d5ff,stroke-width:0px,text-valign:top
     style a1 fill:#cdedff,stroke-width:0px
     style a2 fill:#cdedff,stroke-width:0px
     style a3 fill:#cdedff,stroke-width:0px
+    style a4 fill:#cdedff,stroke-width:0px
   end
 ```
