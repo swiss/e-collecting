@@ -154,7 +154,7 @@ Die Rolle der Sammelorganisationen werden sich im digitalen Kontext verändern u
 *	Die Mündigkeit der Stimmberechtigten muss im Vordergrund stehen.
 *	Ausprägung 3 entspricht wohl nicht dem Wunsch des Parlaments.
 
-# Christian Folini (Bundeskanzlei): Résumé und nächste Schritte
+## Christian Folini (Bundeskanzlei): Résumé und nächste Schritte
 
 *	Diskussion Grundvarianten ab Anfang Juli
 *	Nächste Veranstaltung: Mittwoch, 19. August 2026
