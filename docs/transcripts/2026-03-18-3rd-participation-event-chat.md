@@ -1,5 +1,5 @@
 #  E-Collecting 3e séance en-ligne / 3. Online Veranstaltung 
-* 18.12.2025, 09:00
+* 18.03.2026, 09:00
 * Transcript du chat / Transkription des Chats
 
 ### <a name="09-03">Lorenz Gallmann, 09:03</a>
