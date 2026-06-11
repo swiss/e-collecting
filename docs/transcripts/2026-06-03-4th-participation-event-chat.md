@@ -1,3 +1,7 @@
+#  E-Collecting 4e séance en-ligne / 4. Online Veranstaltung 
+* 03.06.2026, 09:30
+* Transcript du chat / Transkription des Chats
+
 Florian Moser, 09:49
 Wie detailliert wird der Variantenentscheid? Geht dies bis auf die technische Umsetzung, oder ist dies auf der Stufe wie beim E-Voting mit der VEleS zu erwarten (die VEleS gibt nur die Anforderungen, nicht die Umsetzung, vor)?
 Sandro Scalco, 09:52
