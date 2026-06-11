@@ -15,7 +15,7 @@ _[Deutsche Version](#d0-0)_
 ## <a name="f1-0">Introduction à la plateforme</a>
 
 L'E-Collecting désigne un processus numérique allant du soutien à une initiative populaire par sa propre signature au comptage des signatures reçues.
-Pour en savoir plus, rendez-vous sur le [Site Web de la Chancellerie fédérale](https://www.bk.admin.ch/bk/fr/home/droits-politiques/e-collecting.html). 
+Pour en savoir plus, rendez-vous sur le [Site Web de la Chancellerie fédérale](https://www.bk.admin.ch/fr/recolte-electronique-de-signatures). 
 
 Le Parlement a chargé le Conseil fédéral de mener des essais dans le domaine de la collecte électronique. Il a confié la direction du projet à la Chancellerie fédérale, laquelle a lancé un processus participatif dans ce but. Elle poursuit ainsi l'objectif de recenser, de décrire et de discuter les questions importantes et les différentes variantes de mise en œuvre.
 
@@ -25,7 +25,7 @@ La plateforme est ouverte à toutes les personnes intéressées et les invite d�
 
 La présentation de la plateforme dans le navigateur diffère des normes habituelles. C'est pourquoi un [mode d'emploi](https://github.com/swiss/e-collecting/blob/main/docs/admin/github-tutorial.md) séparé est disponible.
 
-La Chancellerie fédérale informe régulièrement quelles sont les nouveautés relatives au processus participatif dans sa newsletter E-Collecting. [Inscription](https://www.bk.admin.ch/bk/fr/home/droits-politiques/e-collecting/newsletter.html) 
+La Chancellerie fédérale informe régulièrement quelles sont les nouveautés relatives au processus participatif dans sa newsletter E-Collecting. [Inscription](https://www.bk.admin.ch/fr/inscription-a-la-newsletter) 
 
 
 ## <a name="f2-0">Actualités- 🗨️ Les discussions en cours 🗨️</a>
