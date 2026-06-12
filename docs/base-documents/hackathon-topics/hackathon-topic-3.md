@@ -2,7 +2,7 @@
 
 # <a name="f-0">Hackathon Topic 3 : Attribution des attestations de soutien aux comités et aux entreprises de récolte</a>
 
-_Le texte suivant est extrait du guide du hackathon. Le guide complet est disponible [ici](https://www.bk.admin.ch/dam/bk/fr/dokumente/pore/e-collecting/E-Collecting%20Hackathon%20guide.pdf.download.pdf/E-Collecting%20Hackathon%20guide.pdf)._
+_Le texte suivant est extrait du guide du hackathon. Le guide complet est disponible [ici](https://www.bk.admin.ch/dam/fr/sd-web/pzUabspDrajt/E-Collecting%20Hackathon%20guide.pdf)._
 
 Contrairement aux initiatives populaires fédérales, il n'existe pas de comités au sens strict du 
 terme pour les référendums. En revanche, différentes organisations de récolte (également 
@@ -18,7 +18,7 @@ Quelles sont les éventuelles répercussions sur le secret du vote?
 
 # <a name="d-0">Hackathon Topic 3: Zuschreibung der Unterstützungsbekundungen an Komitees und Sammelunternehmen</a>
 
-_Der folgende Text ist dem Leitfaden zum Hackathon entnommen. Der volle Leitfaden findet sich [hier](https://www.bk.admin.ch/dam/bk/de/dokumente/pore/E-Collecting/hackathon2025/E-Collecting%20Hackathon%20Leitfaden.pdf.download.pdf/E-Collecting%20Hackathon%20Leitfaden.pdf)._
+_Der folgende Text ist dem Leitfaden zum Hackathon entnommen. Der volle Leitfaden findet sich [hier](https://www.bk.admin.ch/dam/de/sd-web/Jb6y3OQrqGpg/E-Collecting%20Hackathon%20Leitfaden.pdf)._
 
 Im Gegensatz zu eidgenössischen Volksinitiativen existieren bei Referenden keine Komitees 
 im engeren Sinn. Stattdessen können unterschiedliche Sammelorganisationen (hier 

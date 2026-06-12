@@ -2,7 +2,7 @@
 
 # <a name="f-0">Hackathon Topics</a>
 
-_Le guide complet du hackathon est disponible [ici](https://www.bk.admin.ch/dam/bk/fr/dokumente/pore/e-collecting/E-Collecting%20Hackathon%20guide.pdf.download.pdf/E-Collecting%20Hackathon%20guide.pdf)._
+_Le guide complet du hackathon est disponible [ici](https://www.bk.admin.ch/dam/fr/sd-web/pzUabspDrajt/E-Collecting%20Hackathon%20guide.pdf)._
 
 Le hackathon était consacré à plusieurs questions ou défis (appelés « topics »). Les équipes devaient apporter des réponses à toutes ces questions.
 
@@ -20,7 +20,7 @@ Le hackathon était consacré à plusieurs questions ou défis (appelés « topi
 
 # <a name="d-0">Hackathon Topics</a>
 
-_Der volle Leitfaden zum Hackathon findet sich [hier](https://www.bk.admin.ch/dam/bk/de/dokumente/pore/E-Collecting/hackathon2025/E-Collecting%20Hackathon%20Leitfaden.pdf.download.pdf/E-Collecting%20Hackathon%20Leitfaden.pdf)._
+_Der volle Leitfaden zum Hackathon findet sich [hier](https://www.bk.admin.ch/dam/de/sd-web/Jb6y3OQrqGpg/E-Collecting%20Hackathon%20Leitfaden.pdf)._
 
 Der Hackathon widmete sich mehreren Fragestellungen oder Herausforderungen (sogenannten Topics). Von den Teams wurden Antworten auf sämtliche dieser Fragestellungen erwartet.
 

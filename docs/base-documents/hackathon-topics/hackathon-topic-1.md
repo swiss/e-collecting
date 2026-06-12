@@ -2,7 +2,7 @@
 
 # <a name="f-0">Hackathon Topic 1: De la volonté de soutien à la déclaration de soutien</a>
 
-_Le texte suivant est extrait du guide du hackathon. Le guide complet est disponible [ici](https://www.bk.admin.ch/dam/bk/fr/dokumente/pore/e-collecting/E-Collecting%20Hackathon%20guide.pdf.download.pdf/E-Collecting%20Hackathon%20guide.pdf)._
+_Le texte suivant est extrait du guide du hackathon. Le guide complet est disponible [ici](https://www.bk.admin.ch/dam/fr/sd-web/pzUabspDrajt/E-Collecting%20Hackathon%20guide.pdf)._
 
 
 À quoi pourrait ressembler le parcours de l'utilisateur entre le moment où il décide d'apporter 
@@ -32,7 +32,7 @@ devraient-elles être classées afin d'éviter toute inégalité politique?
 
 # <a name="d-0">Hackathon Topic 1: Vom Unterstützungswillen zur Unterstützungsbekundung</a>
 
-_Der folgende Text ist dem Leitfaden zum Hackathon entnommen. Der volle Leitfaden findet sich [hier](https://www.bk.admin.ch/dam/bk/de/dokumente/pore/E-Collecting/hackathon2025/E-Collecting%20Hackathon%20Leitfaden.pdf.download.pdf/E-Collecting%20Hackathon%20Leitfaden.pdf)._
+_Der folgende Text ist dem Leitfaden zum Hackathon entnommen. Der volle Leitfaden findet sich [hier](https://www.bk.admin.ch/dam/de/sd-web/Jb6y3OQrqGpg/E-Collecting%20Hackathon%20Leitfaden.pdf)._
 
 Wie könnte die User-Journey vom Moment des Unterstützungswillens bis zur Abgabe der 
 Unterstützungsbekundung aussehen? Gibt es zusätzlich zu den aufgeführten Beispielen 

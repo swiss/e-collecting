@@ -2,7 +2,7 @@
 
 # <a name="f-0">Hackathon Topic 7 : Respect du secret du vote</a>
 
-_Le texte suivant est extrait du guide du hackathon. Le guide complet est disponible [ici](https://www.bk.admin.ch/dam/bk/fr/dokumente/pore/e-collecting/E-Collecting%20Hackathon%20guide.pdf.download.pdf/E-Collecting%20Hackathon%20guide.pdf)._
+_Le texte suivant est extrait du guide du hackathon. Le guide complet est disponible [ici](https://www.bk.admin.ch/dam/fr/sd-web/pzUabspDrajt/E-Collecting%20Hackathon%20guide.pdf)._
 
 Cf. chapitre 2.7 du rapport en exécution du postulat.
 
@@ -21,7 +21,7 @@ Comment protéger le secret du vote dans le cadre de la récolte électronique ?
 
 # <a name="d-0">Hackathon Topic 7: Wahrung des Stimmgeheimnisses</a>
 
-_Der folgende Text ist dem Leitfaden zum Hackathon entnommen. Der volle Leitfaden findet sich [hier](https://www.bk.admin.ch/dam/bk/de/dokumente/pore/E-Collecting/hackathon2025/E-Collecting%20Hackathon%20Leitfaden.pdf.download.pdf/E-Collecting%20Hackathon%20Leitfaden.pdf)._
+_Der folgende Text ist dem Leitfaden zum Hackathon entnommen. Der volle Leitfaden findet sich [hier](https://www.bk.admin.ch/dam/de/sd-web/Jb6y3OQrqGpg/E-Collecting%20Hackathon%20Leitfaden.pdf)._
 
 Vgl. Kapitel 2.7 Postulatsbericht.
 

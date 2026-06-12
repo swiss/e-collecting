@@ -2,7 +2,7 @@
 
 # <a name="f-0">Hackathon Topic 4 : Diffusion des arguments des comités via le logiciel de récolte électronique de signatures</a>
 
-_Le texte suivant est extrait du guide du hackathon. Le guide complet est disponible [ici](https://www.bk.admin.ch/dam/bk/fr/dokumente/pore/e-collecting/E-Collecting%20Hackathon%20guide.pdf.download.pdf/E-Collecting%20Hackathon%20guide.pdf)._
+_Le texte suivant est extrait du guide du hackathon. Le guide complet est disponible [ici](https://www.bk.admin.ch/dam/fr/sd-web/pzUabspDrajt/E-Collecting%20Hackathon%20guide.pdf)._
 
 Les formulaires papier peuvent contenir des arguments en faveur du soutien à une requête 
 populaire, sans toutefois dépasser les limites des exigences formelles. Cela garantit que les 
@@ -25,7 +25,7 @@ Il convient de prendre en considération les besoins des personnes handicapées.
 
 # <a name="d-0">Hackathon Topic 4: Unterbreitung von Argumenten der Komitees via E-Collecting</a>
 
-_Der folgende Text ist dem Leitfaden zum Hackathon entnommen. Der volle Leitfaden findet sich [hier](https://www.bk.admin.ch/dam/bk/de/dokumente/pore/E-Collecting/hackathon2025/E-Collecting%20Hackathon%20Leitfaden.pdf.download.pdf/E-Collecting%20Hackathon%20Leitfaden.pdf)._
+_Der folgende Text ist dem Leitfaden zum Hackathon entnommen. Der volle Leitfaden findet sich [hier](https://www.bk.admin.ch/dam/de/sd-web/Jb6y3OQrqGpg/E-Collecting%20Hackathon%20Leitfaden.pdf)._
 
 Die Papierbögen dürfen Argumente für die Unterstützung eines Volksbegehrens enthalten, 
 wobei die Grenzen der Formvorschriften nicht überschritten werden dürfen. Dadurch ist 
