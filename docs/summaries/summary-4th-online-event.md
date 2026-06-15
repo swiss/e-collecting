@@ -1,3 +1,167 @@
+# <a name="d-0">Résumé de la 4ème manifestation en ligne du 3 juin 2026</a>
+
+# Nouveautés 
+
+## Christian Folini (Chancellerie fédérale): Révision partielle de la « Loi fédérale sur les droits politiques » (LDP)
+
+* La révision partielle de la « Loi fédérale sur les droits politiques » (LDP) a été examinée le 12 mars 2026 par le Conseil des Etats, en tant que deuxième chambre. 
+* Il existe actuellement des divergences entre les deux chambres concernant la limitation géographique des essais de récolte électronique de signatures, le respect des principes de minimisation des données et d’ouverture du code source, ainsi que l’attestation décentralisée du droit de vote.
+* Nouvel examen au Conseil national le 4 juin 2026.
+
+
+## Christian Folini (Chancellerie fédérale): Agenda du processus participatif
+
+* Début juillet 2026 : publication de l’ensemble des paramètres du cadre morphologique, y compris les variantes de mise en œuvre.
+* 19 août 2026 : 5ème manifestation en ligne consacrée à la boîte morphologique complète et aux variantes de mise en œuvre.
+* D’ici fin septembre 2026 : échange écrit concernant la boîte morphologique, y compris les différentes options de mise en œuvre. 
+Eventuelle révision de la boîte morphologique, suivie d’une deuxième série de discussions sur les différentes options de mise en œuvre et sur la boîte morphologique.
+* A suivre : Décision relative aux variantes de la Chancellerie fédérale.
+
+## Christian Folini (Chancellerie fédérale): Baromètre digital 2026
+
+* Les résultats du Baromètre digital de cette année, publiés le 26 mai 2026, montrent que la population suisse se montre de plus en plus critique à l’égard de la numérisation.
+* Ce projet s’inscrit donc dans un contexte où la numérisation des requêtes populaires, comme la récolte électronique de signatures, suscite des critiques.
+
+## Natalie Schnelle (Chancellerie fédérale): Etat boîte morphologique
+
+*	Il s’agit d’une méthode permettant d’analyser de manière systématique des problématiques complexes.
+* L’objectif de la méthode : décomposer le problème en différents paramètres individuels.
+* Paramètres : Aspects d’une solution pouvant être configurés de différentes manières. Pour chaque paramètre, on définit les valeurs possibles. 
+* La combinaison de ces caractéristiques donne lieu à différentes variantes de solution, qui peuvent ensuite être analysées.
+
+# Discussion en groupe sur différents paramètres
+
+Les dix paramètres, y compris leurs caractéristiques, qui avaient déjà été publiés dans le cadre du dialogue écrit, ont fait l'objet de discussions approfondies au sein de six petits groupes. Chaque petit groupe a examiné trois à quatre paramètres.
+
+Le résumé suivant s'appuie sur les retours d'information formulés par les différents petits groupes lors de la séance plénière, mais aussi sur les notes écrites des animateurs de chacun des petits groupes.
+
+# Résultats des discussions de groupe
+
+# Paramètre 1.1 : Saisie des signatures sur papier dans le système E-collecting 
+
+## Groupe 2: 
+*	Les variantes 2 et 3 sont jugées pertinentes.
+* La valeur 1 pourrait éventuellement être supprimée, car il serait difficilement défendable sur le plan politique de ne pas pouvoir détecter les signatures multiples. Si la valeur 1 est conservée, cela entraînerait des répercussions sur le paramètre 1.2. Celui-ci devrait être complété par une valeur supplémentaire tenant compte du cas où aucune saisie n'est effectuée. 
+
+## Groupe 1: 
+*	Les variantes 1 et 2 ne s’excluent pas mutuellement. Cela signifie qu’il est possible de prévoir à la fois une interface manuelle et une interface lisible par machine.
+* Proposition de reformulation de l’option 3 : au lieu de « basée sur la numérisation », cette option devrait être formulée de manière neutre sur le plan technologique et de manière plus large. Cette décision relève plutôt de la compétence des communes.
+
+# Paramètre 1.2 : Traitement numérique de la signature manuscrite dans le système E-collecting
+
+## Groupe 1:
+*	Réserves quant à l’existence du paramètre.
+* Proposition de reformulation de la variante 2 : au lieu de « sur tous les canaux », il faudrait utiliser « sur tous les registres électoraux » afin d’éviter les signatures multiples en cas de déménagement des électeurs.
+
+## Groupe 2:
+*	Il manque l'option « non disponible » (c'est-à-dire qu'il n'y a pas de traitement des signatures sur papier dans le système de récolte électronique de signatures). Cette option n'est pas souhaitable d'un point de vue politique.
+
+# Paramètre 1.3 : Traitement des signatures manuscrites après leur éventuelle remise 
+
+## Groupe 1:
+*	Une fois enregistrées, les déclarations de soutien sur papier n'ont en principe plus d'importance, mais il existe toutefois des situations dans lesquelles le comité souhaite récupérer les signatures manuscrites. 
+
+## Groupe 2: 
+*	Les options sont exhaustives. On pourrait éventuellement ajouter une quatrième option, selon laquelle les communes transmettraient elles-mêmes les déclarations de soutien sur papier à la Chancellerie fédérale.
+* Dans le cas de l’option 3, il convient de prévoir que les comités soient néanmoins informés du nombre de signatures attestées par les communes.
+
+
+# Parameter 2: Darstellung laufender Volksbegehren
+
+## Gruppe 2: 
+*	Ergänzung zu Ausprägung 1: Es sollte klarer definiert werden, was unter «zentral» zu verstehen ist. Allenfalls könnte ausdrücklich festgehalten werden, dass die allfällige externe Darstellung in Listenform durch andere Organisationen und nicht durch den Bund erfolgt.
+*	Ausprägung 2 erweitert eine bestehende Plattform.
+*	Die Benutzer haben in den Ausprägungen 2 und 3 eine klare Quelle für die Liste und sind nicht auf Organisationen angewiesen.
+
+## Gruppe 3: 
+*	Ergänzung: Neben der Veröffentlichung der Listen sollte auch die Möglichkeit vorgesehen werden, über Änderungen an den Listen informiert zu werden (neue Volksbegehren).
+*	Ausprägung 1 wird kritisch beurteilt, da sie für die Komitees mit höheren Kosten verbunden ist und diese aktiv sicherstellen müssen, dass die Liste auffindbar ist. Es wird alternative Listen geben, die sich dann auf bestimmte politische Richtung konzentrieren. Vorteil: Die politische Ausgewogenheit bleibt unberührt.
+*	Ausprägung 2 bringt weniger Kosten für Komitees und besser Barrierefreiheit mit sich. Es ist weniger mit alternativen Listen zu rechnen. Allerdings wird die politische Ausgewogenheit berührt.
+*	Ausprägung 3 bringt weniger Kosten für Komitees mit sich. Die Barrierefreiheit muss speziell berücksichtigt werden und es stellen sich Fragen zur Hoheit über die Liste im System.
+*	Hinsichtlich Barrierefreiheit wäre eine zentrale Liste sinnvoller, als wenn die Informationen von den Nutzerinnen und Nutzern selbst zusammengesucht werden müssen. 
+
+# Parameter 3: Möglichkeit Argumente im E-Collecting-System zu platzieren
+
+## Gruppe 3: 
+*	Ausprägung 1 wird befürwortet. Die Darstellung von Argumenten sollte nicht Aufgabe des Bundes sein. 
+*	Bei Ausprägung 3 dürfte es schwierig sein, sich auf Inhalt und Form der Veröffentlichung zu einigen. Möglicherweise sind eine Moderation sowie Anpassungen der gesetzlichen Grundlagen erforderlich. 
+
+## Gruppe 4: 
+*	Wenn die E-Collecting Plattform nicht als Informationsplattform dienen soll, so ist die Ausprägung 1 zu favorisieren. Diese Frage müsste aber diskutiert werden.
+*	Bei Ausprägung 2 und 3 ist zu beachten, dass es insbesondere bei Referenden mehrere Komitees mit unterschiedlichen Argumenten geben kann. Dies erhöht die Komplexität dieser Ausprägungen.  
+
+# Parameter 4: Zuordnung von Unterstützungsbekundungen 
+
+## Gruppe 5: 
+*	Die Frage stellt sich, ob die Zuordnung im Kontext elektronischer Unterschriftensammlungen überhaupt noch sinnvoll bzw. zeitgemäss ist.
+Die Rolle der Sammelorganisationen werden sich im digitalen Kontext verändern und sie werden neu eine untergeordnete Rolle einnehmen.
+*	Aus technischer Sicht könnte eine Zuordnung jedoch sinnvoll sein, um nachvollziehen zu können, über welche Kanäle die Unterstützungsbekundungen eingehen. 
+*	Ausprägung 1 wird bevorzugt.
+*	Ausprägung 2 wird als nicht sinnvoll erachtet.
+*	Falls dennoch eine Zuordnung stattfinden soll, müsste die Ausprägung 3 mit voller Transparenz umgesetzt werden. 
+*	Bei Ausprägung 3 muss zwingend der Schutz des Stimmgeheimnisses mitberücksichtigt werden.
+
+## Gruppe 6: 
+*	Begriff «sammelnde Organisation» ist unklar. Das kann ein Komitee aber auch eine Organisation, welche ein Referendum ergreift, sein. Man müsste hier wahrscheinlich zwischen Initiativen und Referenden unterscheiden.
+*	Es ist auch an eine Trennung von sammelnden Gruppierungen (im Sinne von «Komitees») und bezahlten Sammelorganisationen zu denken.
+*	Ausprägung 1 würde das Business-Modell der bezahlten Sammelorganisationen herausfordern. Sie müssten sich neu finden bzw. neu erfinden. 
+*	Im Fall einer Zuordnung wäre die volle Transparenz von Ausprägung 3 zu begrüssen. 
+
+# Parameter 5: Anzeige der Anzahl bisher gesammelter Unterschriften 
+
+## Gruppe 6:
+*	Anzeige, der elektronisch gesammelten Unterschriften wird als sinnvoll erachtet. 
+*	Falls papierbasierte Unterstützungsbekundungen elektronisch erfasst werden, könnten diese eventuell auch angezeigt werden.
+*	Regelmässige Auswertungen schaffen die Grundlagen für eine kontinuierliche Beobachtung und Evaluation der staatspolitischen Auswirkungen von E-Collecting.
+*	Möglichkeit zur Ergänzung durch anonymisierte Daten (z.B. Alter, Geschlecht, etc.), was die Transparenz erhöhen würde. 
+*	Im Falle eines gesetzlich geregelten Quorum für E-Collecting, wäre die Öffentlichkeit über das Erreichen der Limiten informiert. Dies würde die Sammeldynamik beeinflussen. 
+
+## Gruppe 5: 
+*	Die volle Transparenz wird befürwortet. Die Komitees sollen die Hoheit über die Zahlen verlieren.
+*	Physische und elektronische Unterstützungsbekundungen müssten getrennt voneinander angezeigt werden.
+*	Lediglich die elektronisch gesammelten Unterschriften können zeitnah veröffentlicht werden.
+*	Der Parameter sollte als «Anzeige der Anzahl gültig anerkannter Unterschriften» formuliert werden. Dadurch bleibt offen, zu welchem Zeitpunkt die Zahl für die papierbasierten Unterschriften ausgewiesen wird. Die Veröffentlichung vorläufiger Werte könnte irreführend sein, da diese sich aufgrund der Prüfung durch die Bundeskanzlei noch ändern können. Die Formulierung «gültig anerkannte» schafft diesbezüglich Klarheit. 
+
+# Parameter 6: Einsatz des E-Collecting Systems auf allen drei föderalen Ebenen 
+
+## Gruppe 4: 
+*	Eine mögliche weitere Ausprägung 3 «plus»: Zusatz, dass alle Arten von Volksbegehren möglich sind, sich aber auf Bund, Kantone und Gemeinden beschränken.
+*	Es ist an eine schrittweise Einführung / Erweiterung zu denken.
+*	Ausprägung 4 ist mit hohem Aufwand verbunden, dürfte jedoch nur in wenigen Fällen genutzt werden. 
+
+## Gruppe 5: 
+*	Komplexitätsniveau nimmt mit jeder Ausprägung (von 1 bis 4) zu und damit auch die Kosten für eine allfällige Umsetzung. 
+*	Kantone und Gemeinden sollen Teil sein von E-Collecting.
+*	Zur Vereinfachung der Diskussion könnten die Ausprägungen 2 und 4 gestrichen werden. Ausprägung 2 benachteiligt Kantone mit Sonderregelungen, während Ausprägung 4 sehr weit gefasst ist und zu sehr hohen Aufwänden führen dürfte.
+
+# Parameter 7: Administrative Voraussetzungen für Teilnahme an E-Collecting Versuchen 
+
+## Gruppe 3
+* Hinweis: Die Gruppe interpretierte den Parameter als Bezug auf die Identifikation der stimmberechtigten Personen. In dieser Lesart befürwortet eine Mehrheit Variante 2.
+
+## Gruppe 1
+* Keine Antwort (sie hat zeitlich nicht geschafft, diesen Parameter zu diskutieren)
+
+# Parameter 8: Sicherstellung einer Bedenkzeit vor Übermittlung der Unterstützungsbekundung 
+
+## Gruppe 6: 
+*	Rechtliche Grundlagen sind fraglich und es zeigt sich eine mögliche Diskriminierung von Personen ohne heutigen Zugang aufgrund zusätzlicher Hürden. 
+*	Eher mit einer Möglichkeit eines Rückzugs der Unterstützungsbekundung arbeiten. Wenn ja, bis wann? Die könnte für die Komitees die Planungssicherheit erschweren.
+*	Zusätzliche Hürden bei der Digitalisierung wie eine zusätzliche Bedenkzeit werden als nicht sinnvoll erachtet. 
+*	Beim persönlichen Austausch (Ausprägung 3) handelt es sich nur um eine halbe Digitalisierung, die sich schwer sicherstellen lässt, da auch bei elektronischer Unterschrift ein persönlicher Austausch stattgefunden haben kann. 
+
+## Gruppe 4: 
+*	Unterstützungsbekundung soll unmittelbar übermittelt werden. Ausprägung 2 wird als alternativlos favorisiert.
+*	Die Sicherstellung einer Bedenkzeit wäre auch mit hohem Aufwand verbunden.
+*	Die Mündigkeit der Stimmberechtigten muss im Vordergrund stehen.
+*	Ausprägung 3 entspricht wohl nicht dem Wunsch des Parlaments.
+
+## Christian Folini (Bundeskanzlei): Résumé und nächste Schritte
+
+*	Diskussion Grundvarianten ab Anfang Juli
+*	Nächste Veranstaltung: Mittwoch, 19. August 2026
+
+
 # <a name="d-0">Zusammenfassung der Präsentationen und Diskussionen der 4. Online-Veranstaltung vom 03. Juni 2026</a>
 
 # Neuigkeiten 
