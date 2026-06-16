@@ -65,102 +65,100 @@ Le résumé suivant s'appuie sur les retours d'information formulés par les dif
 *	Les options sont exhaustives. On pourrait éventuellement ajouter une quatrième option, selon laquelle les communes transmettraient elles-mêmes les déclarations de soutien sur papier à la Chancellerie fédérale.
 * Dans le cas de l’option 3, il convient de prévoir que les comités soient néanmoins informés du nombre de signatures attestées par les communes.
 
+# Parameter 2: Présentation des requêtes populaires en cours
 
-# Parameter 2: Darstellung laufender Volksbegehren
+## Groupe 2: 
+*	Complément à la variante 1 : il conviendrait de définir plus clairement ce que l'on entend par « central ». Le cas échéant, on pourrait préciser expressément que la présentation externe éventuelle sous forme de liste est assurée par d'autres organisations et non par la Confédération. 
+*	La variante 2 vient compléter une plateforme existante.
+*	Dans le cas de figure 2 et 3, les utilisateurs disposent d’une source claire pour la liste et ne dépendent pas d’organisations.
 
-## Gruppe 2: 
-*	Ergänzung zu Ausprägung 1: Es sollte klarer definiert werden, was unter «zentral» zu verstehen ist. Allenfalls könnte ausdrücklich festgehalten werden, dass die allfällige externe Darstellung in Listenform durch andere Organisationen und nicht durch den Bund erfolgt.
-*	Ausprägung 2 erweitert eine bestehende Plattform.
-*	Die Benutzer haben in den Ausprägungen 2 und 3 eine klare Quelle für die Liste und sind nicht auf Organisationen angewiesen.
+## Groupe 3: 
+*	Ajout : outre la publication des listes, il faudrait également prévoir la possibilité d’être informé des modifications apportées à ces listes (nouvelles requêtes populaires).
+*	La variante 1 fait l'objet d'une évaluation critique, car elle entraîne des coûts plus élevés pour les comités, qui doivent veiller activement à ce que la liste soit accessible. Il existera d'autres listes, qui se concentreront alors sur une orientation politique spécifique. Avantage : l'équilibre politique n'est pas remis en cause. 
+*	La variante 2 entraîne une réduction des coûts pour les comités et améliore l'accessibilité. Il faut s'attendre à moins de listes alternatives. Toutefois, cela affecte l'équilibre politique.
+*	La variante 3 entraîne moins de coûts pour les comités. L'accessibilité doit faire l'objet d'une attention particulière et des questions se posent quant à la maîtrise de la liste dans le système. 
+*	En matière d'accessibilité, il serait plus judicieux de disposer d'une liste centralisée plutôt que de laisser les utilisateurs rechercher eux-mêmes ces informations.
 
-## Gruppe 3: 
-*	Ergänzung: Neben der Veröffentlichung der Listen sollte auch die Möglichkeit vorgesehen werden, über Änderungen an den Listen informiert zu werden (neue Volksbegehren).
-*	Ausprägung 1 wird kritisch beurteilt, da sie für die Komitees mit höheren Kosten verbunden ist und diese aktiv sicherstellen müssen, dass die Liste auffindbar ist. Es wird alternative Listen geben, die sich dann auf bestimmte politische Richtung konzentrieren. Vorteil: Die politische Ausgewogenheit bleibt unberührt.
-*	Ausprägung 2 bringt weniger Kosten für Komitees und besser Barrierefreiheit mit sich. Es ist weniger mit alternativen Listen zu rechnen. Allerdings wird die politische Ausgewogenheit berührt.
-*	Ausprägung 3 bringt weniger Kosten für Komitees mit sich. Die Barrierefreiheit muss speziell berücksichtigt werden und es stellen sich Fragen zur Hoheit über die Liste im System.
-*	Hinsichtlich Barrierefreiheit wäre eine zentrale Liste sinnvoller, als wenn die Informationen von den Nutzerinnen und Nutzern selbst zusammengesucht werden müssen. 
+# Paramètre 3: Possibilité d'ajouter des commentaires dans le système E-Collecting 
 
-# Parameter 3: Möglichkeit Argumente im E-Collecting-System zu platzieren
+## Groupe 3: 
+*	La variante 1 est préconisée. La présentation des arguments ne devrait pas incomber à l'État fédéral. 
+*	Dans le cas du scénario 3, il pourrait s'avérer difficile de s'entendre sur le contenu et la forme de la publication. Une médiation ainsi que des adaptations des bases légales pourraient s'avérer nécessaires.
 
-## Gruppe 3: 
-*	Ausprägung 1 wird befürwortet. Die Darstellung von Argumenten sollte nicht Aufgabe des Bundes sein. 
-*	Bei Ausprägung 3 dürfte es schwierig sein, sich auf Inhalt und Form der Veröffentlichung zu einigen. Möglicherweise sind eine Moderation sowie Anpassungen der gesetzlichen Grundlagen erforderlich. 
+## Groupe 4: 
+*	Si la plateforme E-collecting n’est pas destinée à servir de plateforme d’information, il convient de privilégier la variante 1. Cette question devrait toutefois faire l’objet d’une discussion.
+*	Dans les cas 2 et 3, il convient de noter que, notamment lors de référendums, il peut y avoir plusieurs comités avançant des arguments différents. Cela accroît la complexité de ces cas.
+ 
+# Paramètre 4 : Classification des déclarations de soutien  
 
-## Gruppe 4: 
-*	Wenn die E-Collecting Plattform nicht als Informationsplattform dienen soll, so ist die Ausprägung 1 zu favorisieren. Diese Frage müsste aber diskutiert werden.
-*	Bei Ausprägung 2 und 3 ist zu beachten, dass es insbesondere bei Referenden mehrere Komitees mit unterschiedlichen Argumenten geben kann. Dies erhöht die Komplexität dieser Ausprägungen.  
+## Groupe 5: 
+*	L’on peut se demander si cette classification a encore un sens ou si elle est d'actualité dans le contexte des récoltes de signatures électroniques.
+* Le rôle des organisations de récolte va évoluer dans le contexte numérique et celles-ci occuperont désormais une place secondaire.
+*	D’un point de vue technique, un classement pourrait toutefois s’avérer utile pour pouvoir déterminer par quels canaux les déclarations de soutien nous parviennent.
+*	La variante 1 est privilégiée.
+*	La variante 2 n’est pas jugée pertinente.
+*	Si une déclaration de soutien devait néanmoins avoir lieu, la variante 3 devrait être mise en œuvre en toute transparence. 
+*	Dans le cas de l’option 3, il est impératif de prendre en compte la protection du secret du vote.
 
-# Parameter 4: Zuordnung von Unterstützungsbekundungen 
+## Groupe 6: 
+*	La notion d’« entité organisatrice » n’est pas claire. Il peut s’agir d’un comité, mais aussi d’une organisation qui lance un référendum. Il faudrait probablement faire ici la distinction entre les initiatives et les référendums. 
+*	Il convient également d'envisager une distinction entre les groupes de récolte (au sens de « comités ») et les organismes de récolte rémunérés. 
+*	Le scénario 1 remettrait en cause le modèle économique des organismes de récolte payants. Ceux-ci devraient se réinventer.
+*	En cas d’affectation, il serait souhaitable d’assurer une transparence totale concernant la variante 3.
 
-## Gruppe 5: 
-*	Die Frage stellt sich, ob die Zuordnung im Kontext elektronischer Unterschriftensammlungen überhaupt noch sinnvoll bzw. zeitgemäss ist.
-Die Rolle der Sammelorganisationen werden sich im digitalen Kontext verändern und sie werden neu eine untergeordnete Rolle einnehmen.
-*	Aus technischer Sicht könnte eine Zuordnung jedoch sinnvoll sein, um nachvollziehen zu können, über welche Kanäle die Unterstützungsbekundungen eingehen. 
-*	Ausprägung 1 wird bevorzugt.
-*	Ausprägung 2 wird als nicht sinnvoll erachtet.
-*	Falls dennoch eine Zuordnung stattfinden soll, müsste die Ausprägung 3 mit voller Transparenz umgesetzt werden. 
-*	Bei Ausprägung 3 muss zwingend der Schutz des Stimmgeheimnisses mitberücksichtigt werden.
+# Paramètre 5: Affichage du nombre de signatures recueillies à ce jour
 
-## Gruppe 6: 
-*	Begriff «sammelnde Organisation» ist unklar. Das kann ein Komitee aber auch eine Organisation, welche ein Referendum ergreift, sein. Man müsste hier wahrscheinlich zwischen Initiativen und Referenden unterscheiden.
-*	Es ist auch an eine Trennung von sammelnden Gruppierungen (im Sinne von «Komitees») und bezahlten Sammelorganisationen zu denken.
-*	Ausprägung 1 würde das Business-Modell der bezahlten Sammelorganisationen herausfordern. Sie müssten sich neu finden bzw. neu erfinden. 
-*	Im Fall einer Zuordnung wäre die volle Transparenz von Ausprägung 3 zu begrüssen. 
+## Groupe 6:
+*	La transmission des signatures recueillies par voie électronique est jugée utile. 
+*	Si les déclarations de soutien sur papier sont saisies électroniquement, elles pourraient éventuellement être affichées.
+*	Des analyses régulières permettent d'établir les bases nécessaires à un suivi et à une évaluation continue des répercussions politiques de la récolte électronique de signatures.
+*	Possibilité d’ajouter des données anonymisées (par exemple l’âge, le sexe, etc.), ce qui renforcerait la transparence. 
+*	Si un quorum était fixé par la loi pour la récolte électronique de signatures, le public serait informé lorsque les limites seraient atteintes. Cela aurait une incidence sur la dynamique de collecte.
 
-# Parameter 5: Anzeige der Anzahl bisher gesammelter Unterschriften 
+## Groupe 5: 
+*	Une transparence totale est préconisée. Les comités doivent perdre leur souveraineté sur les chiffres.
+*	Les déclarations de soutien physiques et électroniques devraient être affichées séparément.
+*	Seules les signatures recueillies par voie électronique peuvent être publiées rapidement.
+*	Le paramètre devrait être formulé comme suit : « Affichage du nombre de signatures valablement reconnues ». Cela laisse ouverte la question du moment où le chiffre correspondant aux signatures sur papier sera indiqué. La publication de valeurs provisoires pourrait prêter à confusion, car celles-ci sont susceptibles d’évoluer à la suite de la vérification effectuée par la Chancellerie fédérale. La formulation « valablement reconnue » apporte une clarté à cet égard.
 
-## Gruppe 6:
-*	Anzeige, der elektronisch gesammelten Unterschriften wird als sinnvoll erachtet. 
-*	Falls papierbasierte Unterstützungsbekundungen elektronisch erfasst werden, könnten diese eventuell auch angezeigt werden.
-*	Regelmässige Auswertungen schaffen die Grundlagen für eine kontinuierliche Beobachtung und Evaluation der staatspolitischen Auswirkungen von E-Collecting.
-*	Möglichkeit zur Ergänzung durch anonymisierte Daten (z.B. Alter, Geschlecht, etc.), was die Transparenz erhöhen würde. 
-*	Im Falle eines gesetzlich geregelten Quorum für E-Collecting, wäre die Öffentlichkeit über das Erreichen der Limiten informiert. Dies würde die Sammeldynamik beeinflussen. 
+# Paramètre 6 : Mise en œuvre du système E-collecting aux trois niveaux fédéraux  
+ 
+## Groupe 4: 
+*	Une autre variante possible 3 « plus » : précision selon laquelle tous les types de requêtes populaires sont possibles, mais se limitent à la Confédération, aux cantons et aux communes. 
+*	Il convient d’envisager une mise en place / un déploiement progressif.
+*	La variante 4 nécessite beaucoup de travail, mais ne devrait être utilisée que dans de rares cas.
 
-## Gruppe 5: 
-*	Die volle Transparenz wird befürwortet. Die Komitees sollen die Hoheit über die Zahlen verlieren.
-*	Physische und elektronische Unterstützungsbekundungen müssten getrennt voneinander angezeigt werden.
-*	Lediglich die elektronisch gesammelten Unterschriften können zeitnah veröffentlicht werden.
-*	Der Parameter sollte als «Anzeige der Anzahl gültig anerkannter Unterschriften» formuliert werden. Dadurch bleibt offen, zu welchem Zeitpunkt die Zahl für die papierbasierten Unterschriften ausgewiesen wird. Die Veröffentlichung vorläufiger Werte könnte irreführend sein, da diese sich aufgrund der Prüfung durch die Bundeskanzlei noch ändern können. Die Formulierung «gültig anerkannte» schafft diesbezüglich Klarheit. 
+## Groupe 5: 
+*	Le niveau de complexité augmente à chaque niveau (de 1 à 4), tout comme les coûts liés à une éventuelle mise en œuvre. 
+*	Les cantons et communes doivent être partie à la récolte électronique de signatures. 
+*	Afin de simplifier la discussion, les variantes 2 et 4 pourraient être supprimées. La variante 2 pénalise les cantons bénéficiant de réglementations spéciales, tandis que la variante 4 est formulée en termes très généraux et risquerait d’entraîner des coûts très élevés.
 
-# Parameter 6: Einsatz des E-Collecting Systems auf allen drei föderalen Ebenen 
+# Paramètre 7 : Conditions administratives requises pour participer aux essais d’E-Collecting
 
-## Gruppe 4: 
-*	Eine mögliche weitere Ausprägung 3 «plus»: Zusatz, dass alle Arten von Volksbegehren möglich sind, sich aber auf Bund, Kantone und Gemeinden beschränken.
-*	Es ist an eine schrittweise Einführung / Erweiterung zu denken.
-*	Ausprägung 4 ist mit hohem Aufwand verbunden, dürfte jedoch nur in wenigen Fällen genutzt werden. 
+## Groupe 3
+* Remarque : Le groupe a interprété ce paramètre comme faisant référence à l’identification des personnes habilitées à voter. Selon cette interprétation, une majorité se prononce en faveur de la variante 2.
 
-## Gruppe 5: 
-*	Komplexitätsniveau nimmt mit jeder Ausprägung (von 1 bis 4) zu und damit auch die Kosten für eine allfällige Umsetzung. 
-*	Kantone und Gemeinden sollen Teil sein von E-Collecting.
-*	Zur Vereinfachung der Diskussion könnten die Ausprägungen 2 und 4 gestrichen werden. Ausprägung 2 benachteiligt Kantone mit Sonderregelungen, während Ausprägung 4 sehr weit gefasst ist und zu sehr hohen Aufwänden führen dürfte.
+## Groupe 1
+* Pas de réponse (elle n'a pas eu le temps d'aborder ce point)
 
-# Parameter 7: Administrative Voraussetzungen für Teilnahme an E-Collecting Versuchen 
+# Paramètre 8: Garantir un délai de réflexion avant l’envoi de la déclaration de soutien
 
-## Gruppe 3
-* Hinweis: Die Gruppe interpretierte den Parameter als Bezug auf die Identifikation der stimmberechtigten Personen. In dieser Lesart befürwortet eine Mehrheit Variante 2.
+## Groupe 6: 
+*	Les fondements juridiques sont contestables et l'on constate un risque de discrimination à l'égard des personnes qui n'y ont pas accès aujourd'hui en raison d'obstacles supplémentaires.
+*	Il vaudrait mieux prévoir la possibilité de retirer sa déclaration de soutien. Si oui, jusqu'à quand ? Cela pourrait compliquer la sécurité de planification pour les comités.
+* Les obstacles supplémentaires liés à la numérisation, tels qu’un délai de réflexion supplémentaire, ne sont pas jugés pertinents. 
+*	L’échange en personne (variante 3) ne constitue qu’une demi-numérisation, difficile à garantir, car un échange en personne peut avoir eu lieu même en cas de signature électronique.
 
-## Gruppe 1
-* Keine Antwort (sie hat zeitlich nicht geschafft, diesen Parameter zu diskutieren)
+## Groupe 4: 
+*	La déclaration de soutien doit être transmise immédiatement. L'option 2 est privilégiée, car il n'existe pas d'alternative.
+*	Garantir un délai de réflexion impliquerait également des coûts importants.
+*	La responsabilité des électeurs doit être au premier plan.
+*	L'option 3 ne correspond probablement pas à la volonté du Parlement.
 
-# Parameter 8: Sicherstellung einer Bedenkzeit vor Übermittlung der Unterstützungsbekundung 
+## Christian Folini (Chancellerie fédérale): Résumé et prochaines étapes 
 
-## Gruppe 6: 
-*	Rechtliche Grundlagen sind fraglich und es zeigt sich eine mögliche Diskriminierung von Personen ohne heutigen Zugang aufgrund zusätzlicher Hürden. 
-*	Eher mit einer Möglichkeit eines Rückzugs der Unterstützungsbekundung arbeiten. Wenn ja, bis wann? Die könnte für die Komitees die Planungssicherheit erschweren.
-*	Zusätzliche Hürden bei der Digitalisierung wie eine zusätzliche Bedenkzeit werden als nicht sinnvoll erachtet. 
-*	Beim persönlichen Austausch (Ausprägung 3) handelt es sich nur um eine halbe Digitalisierung, die sich schwer sicherstellen lässt, da auch bei elektronischer Unterschrift ein persönlicher Austausch stattgefunden haben kann. 
-
-## Gruppe 4: 
-*	Unterstützungsbekundung soll unmittelbar übermittelt werden. Ausprägung 2 wird als alternativlos favorisiert.
-*	Die Sicherstellung einer Bedenkzeit wäre auch mit hohem Aufwand verbunden.
-*	Die Mündigkeit der Stimmberechtigten muss im Vordergrund stehen.
-*	Ausprägung 3 entspricht wohl nicht dem Wunsch des Parlaments.
-
-## Christian Folini (Bundeskanzlei): Résumé und nächste Schritte
-
-*	Diskussion Grundvarianten ab Anfang Juli
-*	Nächste Veranstaltung: Mittwoch, 19. August 2026
-
+*	Discussion sur les variantes de base dès début juillet
+*	Prochaine manifestation : Mercredi 19 août 2026
 
 # <a name="d-0">Zusammenfassung der Präsentationen und Diskussionen der 4. Online-Veranstaltung vom 03. Juni 2026</a>
 
