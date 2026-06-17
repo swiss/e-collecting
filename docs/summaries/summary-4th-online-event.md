@@ -1,6 +1,6 @@
 _[Deutsche Version](#d-0)_
 
-# <a name="d-0">Résumé de la 4ème manifestation en ligne du 3 juin 2026</a>
+# Résumé de la 4ème manifestation en ligne du 3 juin 2026</a>
 
 # Nouveautés 
 
