@@ -49,7 +49,7 @@ Le résumé suivant s'appuie sur les retours d'information formulés par les dif
 *	Les variantes 1 et 2 ne s’excluent pas mutuellement. Cela signifie qu’il est possible de prévoir à la fois une interface manuelle et une interface lisible par machine.
 * Proposition de reformulation de l’option 3 : au lieu de « basée sur la numérisation », cette option devrait être formulée de manière neutre sur le plan technologique et de manière plus large. Cette décision relève plutôt de la compétence des communes.
 
-# Paramètre 1.2 : Traitement numérique de la signature manuscrite dans le système E-collecting
+# <a name="f-1-2"> Paramètre 1.2 : Traitement numérique de la signature manuscrite dans le système E-collecting
 
 ## Groupe 1:
 *	Réserves quant à l’existence du paramètre.
@@ -58,7 +58,7 @@ Le résumé suivant s'appuie sur les retours d'information formulés par les dif
 ## Groupe 2:
 *	Il manque l'option « non disponible » (c'est-à-dire qu'il n'y a pas de traitement des signatures sur papier dans le système de récolte électronique de signatures). Cette option n'est pas souhaitable d'un point de vue politique.
 
-# Paramètre 1.3 : Traitement des signatures manuscrites après leur éventuelle remise 
+# <a name="f-1-3"> Paramètre 1.3 : Traitement des signatures manuscrites après leur éventuelle remise 
 
 ## Groupe 1:
 *	Une fois enregistrées, les déclarations de soutien sur papier n'ont en principe plus d'importance, mais il existe toutefois des situations dans lesquelles le comité souhaite récupérer les signatures manuscrites. 
@@ -67,7 +67,7 @@ Le résumé suivant s'appuie sur les retours d'information formulés par les dif
 *	Les options sont exhaustives. On pourrait éventuellement ajouter une quatrième option, selon laquelle les communes transmettraient elles-mêmes les déclarations de soutien sur papier à la Chancellerie fédérale.
 * Dans le cas de l’option 3, il convient de prévoir que les comités soient néanmoins informés du nombre de signatures attestées par les communes.
 
-# Parameter 2: Présentation des requêtes populaires en cours
+# <a name="f-2"> Parameter 2: Présentation des requêtes populaires en cours
 
 ## Groupe 2: 
 *	Complément à la variante 1 : il conviendrait de définir plus clairement ce que l'on entend par « central ». Le cas échéant, on pourrait préciser expressément que la présentation externe éventuelle sous forme de liste est assurée par d'autres organisations et non par la Confédération. 
@@ -81,7 +81,7 @@ Le résumé suivant s'appuie sur les retours d'information formulés par les dif
 *	La variante 3 entraîne moins de coûts pour les comités. L'accessibilité doit faire l'objet d'une attention particulière et des questions se posent quant à la maîtrise de la liste dans le système. 
 *	En matière d'accessibilité, il serait plus judicieux de disposer d'une liste centralisée plutôt que de laisser les utilisateurs rechercher eux-mêmes ces informations.
 
-# Paramètre 3: Possibilité d'ajouter des commentaires dans le système E-Collecting 
+# <a name="f-3"> Paramètre 3: Possibilité d'ajouter des commentaires dans le système E-Collecting 
 
 ## Groupe 3: 
 *	La variante 1 est préconisée. La présentation des arguments ne devrait pas incomber à l'État fédéral. 
@@ -91,7 +91,7 @@ Le résumé suivant s'appuie sur les retours d'information formulés par les dif
 *	Si la plateforme E-collecting n’est pas destinée à servir de plateforme d’information, il convient de privilégier la variante 1. Cette question devrait toutefois faire l’objet d’une discussion.
 *	Dans les cas 2 et 3, il convient de noter que, notamment lors de référendums, il peut y avoir plusieurs comités avançant des arguments différents. Cela accroît la complexité de ces cas.
  
-# Paramètre 4 : Classification des déclarations de soutien  
+# <a name="f-4"> Paramètre 4 : Classification des déclarations de soutien  
 
 ## Groupe 5: 
 *	L’on peut se demander si cette classification a encore un sens ou si elle est d'actualité dans le contexte des récoltes de signatures électroniques.
@@ -108,7 +108,7 @@ Le résumé suivant s'appuie sur les retours d'information formulés par les dif
 *	Le scénario 1 remettrait en cause le modèle économique des organismes de récolte payants. Ceux-ci devraient se réinventer.
 *	En cas d’affectation, il serait souhaitable d’assurer une transparence totale concernant la variante 3.
 
-# Paramètre 5: Affichage du nombre de signatures recueillies à ce jour
+# <a name="f-5"> Paramètre 5: Affichage du nombre de signatures recueillies à ce jour
 
 ## Groupe 6:
 *	La transmission des signatures recueillies par voie électronique est jugée utile. 
@@ -123,7 +123,7 @@ Le résumé suivant s'appuie sur les retours d'information formulés par les dif
 *	Seules les signatures recueillies par voie électronique peuvent être publiées rapidement.
 *	Le paramètre devrait être formulé comme suit : « Affichage du nombre de signatures valablement reconnues ». Cela laisse ouverte la question du moment où le chiffre correspondant aux signatures sur papier sera indiqué. La publication de valeurs provisoires pourrait prêter à confusion, car celles-ci sont susceptibles d’évoluer à la suite de la vérification effectuée par la Chancellerie fédérale. La formulation « valablement reconnue » apporte une clarté à cet égard.
 
-# Paramètre 6 : Mise en œuvre du système E-collecting aux trois niveaux fédéraux  
+# <a name="f-6"> Paramètre 6 : Mise en œuvre du système E-collecting aux trois niveaux fédéraux  
  
 ## Groupe 4: 
 *	Une autre variante possible 3 « plus » : précision selon laquelle tous les types de requêtes populaires sont possibles, mais se limitent à la Confédération, aux cantons et aux communes. 
@@ -135,7 +135,7 @@ Le résumé suivant s'appuie sur les retours d'information formulés par les dif
 *	Les cantons et communes doivent être partie à la récolte électronique de signatures. 
 *	Afin de simplifier la discussion, les variantes 2 et 4 pourraient être supprimées. La variante 2 pénalise les cantons bénéficiant de réglementations spéciales, tandis que la variante 4 est formulée en termes très généraux et risquerait d’entraîner des coûts très élevés.
 
-# Paramètre 7 : Conditions administratives requises pour participer aux essais d’E-Collecting
+# <a name="f-7"> Paramètre 7 : Conditions administratives requises pour participer aux essais d’E-Collecting
 
 ## Groupe 3
 * Remarque : Le groupe a interprété ce paramètre comme faisant référence à l’identification des personnes habilitées à voter. Selon cette interprétation, une majorité se prononce en faveur de la variante 2.
@@ -143,7 +143,7 @@ Le résumé suivant s'appuie sur les retours d'information formulés par les dif
 ## Groupe 1
 * Pas de réponse (elle n'a pas eu le temps d'aborder ce point)
 
-# Paramètre 8: Garantir un délai de réflexion avant l’envoi de la déclaration de soutien
+# <a name="f-8"> Paramètre 8: Garantir un délai de réflexion avant l’envoi de la déclaration de soutien
 
 ## Groupe 6: 
 *	Les fondements juridiques sont contestables et l'on constate un risque de discrimination à l'égard des personnes qui n'y ont pas accès aujourd'hui en raison d'obstacles supplémentaires.
@@ -200,7 +200,7 @@ Die folgende Zusammenfassung basiert auf dem Feedback der einzelnen Kleingruppen
 
 # Ergebnisse der Gruppendiskussionen
 
-# Parameter 1.1: Erfassung papier-basierter Unterschriften im E-Collecting-System 
+# <a name="d-1-1"> Parameter 1.1: Erfassung papier-basierter Unterschriften im E-Collecting-System 
 
 ## Gruppe 2: 
 *	Ausprägungen 2 & 3 werden als sinnvoll erachtet.
@@ -210,7 +210,7 @@ Die folgende Zusammenfassung basiert auf dem Feedback der einzelnen Kleingruppen
 *	Ausprägung 1 und 2 sind nicht exklusiv. Das bedeutet, dass sowohl eine manuelle als auch eine maschinenlesbare Schnittstelle vorgesehen werden können. 
 *	Vorschlag Umformulierung Ausprägung 3: Statt «scan-basierte» sollte die Ausprägung technologieneutral und breiter gefasst werden. Diese Entscheidung ist eher Sache der Gemeinden.
 
-# Parameter 1.2: Digitale Verarbeitung der papierbasierten Unterschrift im E-Collecting-System
+# <a name="d-1-2"> Parameter 1.2: Digitale Verarbeitung der papierbasierten Unterschrift im E-Collecting-System
 
 ## Gruppe1:
 *	Vorbehalte gegen die Existenz des Parameters
@@ -219,7 +219,7 @@ Die folgende Zusammenfassung basiert auf dem Feedback der einzelnen Kleingruppen
 ## Gruppe 2:
 *	Es fehlt die Ausprägung «nicht vorhanden sein» (also keine Verarbeitung der papierbasierten Unterschriften im E-Collecting System). Diese Variante ist aus politischer Sicht nicht erwünscht.
 
-# Parameter 1.3: Behandlung der Papier-Unterschriften nach allfälliger Einreichung 
+# <a name="d-1-3"> Parameter 1.3: Behandlung der Papier-Unterschriften nach allfälliger Einreichung 
 
 ## Gruppe 1:
 *	Papierbasierte Unterstützungsbekundungen sind nach der Erfassung eigentlich nicht mehr relevant, es gibt aber durchaus Situationen in denen das Komitee die Papierunterschriften zurückerhalten möchte.
@@ -228,7 +228,7 @@ Die folgende Zusammenfassung basiert auf dem Feedback der einzelnen Kleingruppen
 *	Die Ausprägungen sind vollständig. Allenfalls könnte eine vierte Ausprägung ergänzt werden, wonach die Gemeinden die papier-basierten Unterstützungsbekundungen selbst an die Bundeskanzlei weiterleiten.
 *	Bei Ausprägung 3 ist vorzusehen, dass die Komitees dennoch über die Anzahl der durch die Gemeinden bescheinigten Unterschriften informiert werden.
 
-# Parameter 2: Darstellung laufender Volksbegehren
+# <a name="d-2"> Parameter 2: Darstellung laufender Volksbegehren
 
 ## Gruppe 2: 
 *	Ergänzung zu Ausprägung 1: Es sollte klarer definiert werden, was unter «zentral» zu verstehen ist. Allenfalls könnte ausdrücklich festgehalten werden, dass die allfällige externe Darstellung in Listenform durch andere Organisationen und nicht durch den Bund erfolgt.
@@ -242,7 +242,7 @@ Die folgende Zusammenfassung basiert auf dem Feedback der einzelnen Kleingruppen
 *	Ausprägung 3 bringt weniger Kosten für Komitees mit sich. Die Barrierefreiheit muss speziell berücksichtigt werden und es stellen sich Fragen zur Hoheit über die Liste im System.
 *	Hinsichtlich Barrierefreiheit wäre eine zentrale Liste sinnvoller, als wenn die Informationen von den Nutzerinnen und Nutzern selbst zusammengesucht werden müssen. 
 
-# Parameter 3: Möglichkeit Argumente im E-Collecting-System zu platzieren
+# <a name="d-3"> Parameter 3: Möglichkeit Argumente im E-Collecting-System zu platzieren
 
 ## Gruppe 3: 
 *	Ausprägung 1 wird befürwortet. Die Darstellung von Argumenten sollte nicht Aufgabe des Bundes sein. 
@@ -252,7 +252,7 @@ Die folgende Zusammenfassung basiert auf dem Feedback der einzelnen Kleingruppen
 *	Wenn die E-Collecting Plattform nicht als Informationsplattform dienen soll, so ist die Ausprägung 1 zu favorisieren. Diese Frage müsste aber diskutiert werden.
 *	Bei Ausprägung 2 und 3 ist zu beachten, dass es insbesondere bei Referenden mehrere Komitees mit unterschiedlichen Argumenten geben kann. Dies erhöht die Komplexität dieser Ausprägungen.  
 
-# Parameter 4: Zuordnung von Unterstützungsbekundungen 
+# <a name="d-4"> Parameter 4: Zuordnung von Unterstützungsbekundungen 
 
 ## Gruppe 5: 
 *	Die Frage stellt sich, ob die Zuordnung im Kontext elektronischer Unterschriftensammlungen überhaupt noch sinnvoll bzw. zeitgemäss ist.
@@ -269,7 +269,7 @@ Die Rolle der Sammelorganisationen werden sich im digitalen Kontext verändern u
 *	Ausprägung 1 würde das Business-Modell der bezahlten Sammelorganisationen herausfordern. Sie müssten sich neu finden bzw. neu erfinden. 
 *	Im Fall einer Zuordnung wäre die volle Transparenz von Ausprägung 3 zu begrüssen. 
 
-# Parameter 5: Anzeige der Anzahl bisher gesammelter Unterschriften 
+# <a name="d-5"> Parameter 5: Anzeige der Anzahl bisher gesammelter Unterschriften 
 
 ## Gruppe 6:
 *	Anzeige, der elektronisch gesammelten Unterschriften wird als sinnvoll erachtet. 
@@ -284,7 +284,7 @@ Die Rolle der Sammelorganisationen werden sich im digitalen Kontext verändern u
 *	Lediglich die elektronisch gesammelten Unterschriften können zeitnah veröffentlicht werden.
 *	Der Parameter sollte als «Anzeige der Anzahl gültig anerkannter Unterschriften» formuliert werden. Dadurch bleibt offen, zu welchem Zeitpunkt die Zahl für die papierbasierten Unterschriften ausgewiesen wird. Die Veröffentlichung vorläufiger Werte könnte irreführend sein, da diese sich aufgrund der Prüfung durch die Bundeskanzlei noch ändern können. Die Formulierung «gültig anerkannte» schafft diesbezüglich Klarheit. 
 
-# Parameter 6: Einsatz des E-Collecting Systems auf allen drei föderalen Ebenen 
+# <a name="d-6"> Parameter 6: Einsatz des E-Collecting Systems auf allen drei föderalen Ebenen 
 
 ## Gruppe 4: 
 *	Eine mögliche weitere Ausprägung 3 «plus»: Zusatz, dass alle Arten von Volksbegehren möglich sind, sich aber auf Bund, Kantone und Gemeinden beschränken.
@@ -296,7 +296,7 @@ Die Rolle der Sammelorganisationen werden sich im digitalen Kontext verändern u
 *	Kantone und Gemeinden sollen Teil sein von E-Collecting.
 *	Zur Vereinfachung der Diskussion könnten die Ausprägungen 2 und 4 gestrichen werden. Ausprägung 2 benachteiligt Kantone mit Sonderregelungen, während Ausprägung 4 sehr weit gefasst ist und zu sehr hohen Aufwänden führen dürfte.
 
-# Parameter 7: Administrative Voraussetzungen für Teilnahme an E-Collecting Versuchen 
+# <a name="d-7"> Parameter 7: Administrative Voraussetzungen für Teilnahme an E-Collecting Versuchen 
 
 ## Gruppe 3
 * Hinweis: Die Gruppe interpretierte den Parameter als Bezug auf die Identifikation der stimmberechtigten Personen. In dieser Lesart befürwortet eine Mehrheit Variante 2.
@@ -304,7 +304,7 @@ Die Rolle der Sammelorganisationen werden sich im digitalen Kontext verändern u
 ## Gruppe 1
 * Keine Antwort (sie hat zeitlich nicht geschafft, diesen Parameter zu diskutieren)
 
-# Parameter 8: Sicherstellung einer Bedenkzeit vor Übermittlung der Unterstützungsbekundung 
+# <a name="d-8"> Parameter 8: Sicherstellung einer Bedenkzeit vor Übermittlung der Unterstützungsbekundung 
 
 ## Gruppe 6: 
 *	Rechtliche Grundlagen sind fraglich und es zeigt sich eine mögliche Diskriminierung von Personen ohne heutigen Zugang aufgrund zusätzlicher Hürden. 
