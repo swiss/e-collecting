@@ -39,7 +39,7 @@ Le résumé suivant s'appuie sur les retours d'information formulés par les dif
 
 # Résultats des discussions de groupe
 
-# Paramètre 1.1 : Saisie des signatures sur papier dans le système E-collecting 
+# <a name="f-1-1"> Paramètre 1.1 : Saisie des signatures sur papier dans le système E-collecting 
 
 ## Groupe 2: 
 *	Les variantes 2 et 3 sont jugées pertinentes.
