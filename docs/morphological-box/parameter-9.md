@@ -8,6 +8,8 @@ Les formulations sont volontairement générales. L’objectif est tout d’abor
 
 Selon vous, un système de récolte électronique devrait-il également prendre en charge les processus en amont ? La prise en charge des processus en amont pourrait contribuer à numériser de manière plus cohérente les procédures administratives liées aux requêtes populaires, à réduire les ruptures de médias et à accroître l’efficacité pour les acteurs concernés. La complexité accrue du système de récolte électronique qui en résulterait pourrait toutefois militer contre la prise en charge des procédures en amont. Cela impliquerait probablement un effort de développement supplémentaire ainsi que des coûts plus élevés.
 
+Les différentes valeurs possibles de ce paramètre sont-elles, selon vous, toutes présentées ? Quelles seraient les conséquences possibles du choix de l'une de ces valeurs ? La discussion à ce sujet a lieu ici.
+
 ```mermaid
 block
   block
