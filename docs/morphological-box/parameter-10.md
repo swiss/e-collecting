@@ -6,7 +6,7 @@ Un système de récolte électronique peut être mis à la disposition des élec
 
 La forme de mise à disposition influence notamment l’accessibilité, le déroulement de la déclaration de soutien, la facilité d’utilisation ainsi que les exigences en matière de développement, d’exploitation et de maintenance du système.
 
-Les variantes possibles de ce paramètre sont-elles, selon vous, présentées de manière exhaustive ? Quels sont les avantages et les inconvénients de chacune de ces variantes ? La discussion à ce sujet a lieu ici.
+Les variantes possibles de ce paramètre sont-elles, selon vous, présentées de manière exhaustive ? Quels sont les avantages et les inconvénients de chacune de ces variantes ? La discussion à ce sujet a lieu **[ici](https://github.com/swiss/e-collecting/issues/25).**
 
 Il existe des interdépendances avec le paramètre 11.
 
@@ -50,7 +50,7 @@ Ein E-Collecting-System kann den Stimmberechtigten in verschiedenen Formen berei
 
 Die Bereitstellungsform beeinflusst unter anderem die Zugänglichkeit, den Ablauf der Unterstützungsbekundung, die Benutzerfreundlichkeit sowie die Anforderungen an Entwicklung, Betrieb und Wartung des Systems.
 
-Sind die möglichen Ausprägungen dieses Parameters aus Ihrer Sicht vollständig dargestellt? Welche Vor- und Nachteile ergeben sich aus den einzelnen Ausprägungen? Die Diskussion dazu findet [hier](FIXME:Link) statt.
+Sind die möglichen Ausprägungen dieses Parameters aus Ihrer Sicht vollständig dargestellt? Welche Vor- und Nachteile ergeben sich aus den einzelnen Ausprägungen? **Die Diskussion dazu findet [hier](https://github.com/swiss/e-collecting/issues/25) statt.**
 
 Es bestehen Abhängigkeiten zu Parameter 11.
 
