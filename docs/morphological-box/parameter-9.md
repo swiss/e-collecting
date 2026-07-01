@@ -8,7 +8,7 @@ Les formulations sont volontairement générales. L’objectif est tout d’abor
 
 Selon vous, un système de récolte électronique devrait-il également prendre en charge les processus en amont ? La prise en charge des processus en amont pourrait contribuer à numériser de manière plus cohérente les procédures administratives liées aux requêtes populaires, à réduire les ruptures de médias et à accroître l’efficacité pour les acteurs concernés. La complexité accrue du système de récolte électronique qui en résulterait pourrait toutefois militer contre la prise en charge des procédures en amont. Cela impliquerait probablement un effort de développement supplémentaire ainsi que des coûts plus élevés.
 
-Les différentes valeurs possibles de ce paramètre sont-elles, selon vous, toutes présentées ? Quelles seraient les conséquences possibles du choix de l'une de ces valeurs ? La discussion à ce sujet a lieu ici.
+Les différentes valeurs possibles de ce paramètre sont-elles, selon vous, toutes présentées ? Quelles seraient les conséquences possibles du choix de l'une de ces valeurs ? **La discussion à ce sujet a lieu [ici](https://github.com/swiss/e-collecting/issues/24).**
 
 ```mermaid
 block
@@ -47,7 +47,7 @@ Die Ausprägungen sind bewusst allgemein gehalten. Ziel ist es, zunächst die gr
 
 Sollte ein E-Collecting-System aus Ihrer Sicht auch vorgelagerte Prozesse unterstützen?   Die Unterstützung vorgelagerter Prozesse könnte dazu beitragen, die administrativen Abläufe im Zusammenhang mit Volksbegehren durchgängiger digital abzubilden, Medienbrüche zu reduzieren und die Effizienz für die beteiligten Akteure zu erhöhen. Gegen eine Unterstützung vorgelagerter Verfahren könnte die dadurch entstehende höhere Komplexität des E-Collecting-Systems sprechen. Damit verbunden wären voraussichtlich ein zusätzlicher Entwicklungsaufwand sowie höhere Kosten.
 
-Sind die möglichen Ausprägungen dieses Parameters aus Ihrer Sicht vollständig dargestellt? Welche möglichen Auswirkungen hätte die Auswahl einer der möglichen Ausprägungen? **Die Diskussion dazu findet [hier]() statt.**
+Sind die möglichen Ausprägungen dieses Parameters aus Ihrer Sicht vollständig dargestellt? Welche möglichen Auswirkungen hätte die Auswahl einer der möglichen Ausprägungen? **Die Diskussion dazu findet [hier](https://github.com/swiss/e-collecting/issues/24) statt.**
 
 ```mermaid
 block
