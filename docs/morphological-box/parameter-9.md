@@ -15,10 +15,20 @@ block
     t1["Parameter"]
     t2["Ausprägungen"]:2
     d["Paramètre 9
-      Prise en charge des processus en amont par le système de récolte électronique de signatures"]
+      Prise en charge des
+      processus en amont par
+      le système de récolte
+      électronique de signatures"]
     a1["Variante 1:
-      Aucun processus en amont ; le système de récolte électronique n’intervient qu’au moment du lancement de la récolte de signatures"]
-    a2["Ausprägung 2: Le système de récolte électronique couvre également les processus en amont de la récolte de signatures"]
+      Aucun processus en amont ;
+      le système de récolte
+    électronique n’intervient
+    qu’au moment du lancement
+    de la récolte de signatures"]
+    a2["Ausprägung 2: Le système de récolte
+    électronique couvre également
+    les processus en amont
+    de la récolte de signatures"]
     style t1 fill:#a8d5ff,stroke-width:0px
     style t2 fill:#a8d5ff,stroke-width:0px
     style d fill:#a8d5ff,stroke-width:0px,text-valign:top
