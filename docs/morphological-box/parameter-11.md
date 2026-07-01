@@ -68,7 +68,7 @@ Denkbar wäre auch die Bereitstellung öffentlicher Hardware-Zugänge, um stimmb
 
 Das Spektrum des Parameters reicht also von einem Ansatz, der keine zusätzlichen Massnahmen über die gesetzlichen Anforderungen hinaus vorsieht, über eine besonders benutzerfreundliche und barrierefreie  Systemgestaltung bis hin zur Bereitstellung zusätzlicher öffentlicher Zugangsmöglichkeiten, beispielsweise in Form von Terminals, die von den Behörden zur Verfügung gestellt werden.
 
-Sind die möglichen Ausprägungen dieses Parameters aus Ihrer Sicht vollständig dargestellt? Welche Vor- und Nachteile ergeben sich aus den einzelnen Ausprägungen? Die Dieskussion dazu finder hier statt.
+Sind die möglichen Ausprägungen dieses Parameters aus Ihrer Sicht vollständig dargestellt? Welche Vor- und Nachteile ergeben sich aus den einzelnen Ausprägungen? Die Diskussion dazu findet [hier](FIXME:Link) statt.
 
 Es bestehen Abhängigkeiten zu Parameter 10. 
 
