@@ -8,7 +8,7 @@ Les initiatives populaires sont toujours portées par un comité d’initiative,
 
 Dans le cadre d’une récolte électronique de signatures pour une requête populaire, la question se pose donc de savoir si, en remettant la déclaration de soutien, il faut également soutenir une organisation de récolte spécifique. Dans un système de récolte électronique, il existe deux possibilités différentes pour ce paramètre : soit le soutien à la requête populaire est obligatoirement lié au soutien à une organisation de récolte, soit le soutien à une organisation de récolte est facultatif et peut être exprimé en plus du soutien à la requête populaire.
 
-Ces options sont-elles, selon vous, présentées de manière exhaustive ? Quels avantages et inconvénients peut-on anticiper pour chaque option ? La discussion à ce sujet a lieu ici.
+Ces options sont-elles, selon vous, présentées de manière exhaustive ? Quels avantages et inconvénients peut-on anticiper pour chaque option ? **La discussion à ce sujet a lieu [ici](https://github.com/swiss/e-collecting/issues/27).** 
 
 Il existe des interdépendances avec le paramètre 4. 
 
@@ -61,7 +61,7 @@ Hinter Volksinitiativen steht stets ein Initiativkomitee, welche formell die ein
 
 Im Rahmen einer elektronischen Unterschriftensammlung für ein Volksbegehren stellt sich deshalb die Frage, ob mit der Abgabe der Unterstützungsbekundung zusätzlich auch eine bestimmte Sammelorganisation unterstützt werden soll. In einem E-Collecting-System bestehen zwei unterschiedliche Gestaltungsmöglichkeiten für diesen Parameter: Entweder ist die Unterstützung des Volksbegehrens zwingend mit der Unterstützung einer Sammelorganisation verknüpft, oder die Unterstützung einer Sammelorganisation erfolgt freiwillig und kann zusätzlich zur Unterstützung des Volksbegehrens abgegeben werden.
 
-Sind die Ausprägungen aus Ihrer Sicht vollständig dargestellt? Welche Vor- und Nachteile lassen sich bei der Auswahl jeder Ausprägung antizipieren? Die Diskussion dazu findet hier statt.
+Sind die Ausprägungen aus Ihrer Sicht vollständig dargestellt? Welche Vor- und Nachteile lassen sich bei der Auswahl jeder Ausprägung antizipieren? **Die Diskussion dazu findet [hier](https://github.com/swiss/e-collecting/issues/27) statt.** 
 
 Es bestehen Abhängigkeiten zu Parameter 4. 
 
