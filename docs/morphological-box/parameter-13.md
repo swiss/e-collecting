@@ -21,31 +21,20 @@ block
     d["Paramètre 13
     Architecture de base"]
     a1["Variante 1:
-    Variante de
-    mise en œuvre 1
-    – numéro AVS
-    en clair"]
+    Numéro AVS en clair"]
     a2["Variante 2:
-    Variante de
-    mise en œuvre 2
-    – Numéro AVS
-    crypté"]
+    Numéro AVS crypté"]
     a3["Variante 3:
-    Variante de
-    mise en œuvre 3
-    – Justificatif de
+    Justificatif de
     droit de vote
     pseudonyme"]
     a4["Variante 4:
-    Variante de
-    mise en œuvre 4
-    – Pseudonyme masqué
-    / preuve à divulgation
+    Pseudonyme masqué /
+    preuve à divulgation
     nulle de connaissance"]
     a5["Variante 5:
-    Variante de
-    mise en œuvre 5
-    – Initiative populaire masquée /
+    Numéro AVS en clair /
+    initiative populaire masquée /
     dépouillement sans décryptage"]
     style t1 fill:#a8d5ff,stroke-width:0px
     style t2 fill:#a8d5ff,stroke-width:0px
@@ -79,27 +68,27 @@ block
     t2["Ausprägungen"]:5
     d["Parameter 13
     Grundarchitekture"]
-    a1["Ausprägung 1:
-    Umsetzungsvariante 1
+    a1["Ausprägung /
+    Umsetzungsvariante 1:
     Klartext-AHV-Nummer"]
-    a2["Ausprägung 2:
-    Umsetzungsvariante 2
+    a2["Ausprägung /
+    Umsetzungsvariante 2:
     Verschlüsselte
     AHV-Nummer"]
-    a3["Ausprägung 3:
-    Umsetzungsvariante 3
+    a3["Ausprägung /
+    Umsetzungsvariante 3:
     Pseudonymer
     Stimmrechtsnachweis"]
-    a4["Ausprägung 4:
-    Umsetzungsvariante 4
+    a4["Ausprägung /
+    Umsetzungsvariante 4:
     Maskiertes Pseudonym /
     Zero-Knowledge-Beweis"]
-    a5["Ausprägung 5:
-    Umsetzungsvariante 5
+    a5["Ausprägung /
+    Umsetzungsvariante 5:
     Klartext-AHV-Nummer /
-    Maskiertes Volksbegehren
-     / nur das
-    Auszählungsergebnis entschlüsseln"]
+    Maskiertes Volksbegehren /
+    nur das Auszählungsergebnis
+    entschlüsseln"]
    style t1 fill:#a8d5ff,stroke-width:0px
     style t2 fill:#a8d5ff,stroke-width:0px
     style d fill:#a8d5ff,stroke-width:0px,text-valign:top
