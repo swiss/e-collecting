@@ -84,10 +84,12 @@ block
     Klartext-AHV-Nummer"]
     a2["Ausprägung 2:
     Umsetzungsvariante 2
-    Verschlüsselte AHV-Nummer"]
+    Verschlüsselte
+    AHV-Nummer"]
     a3["Ausprägung 3:
     Umsetzungsvariante 3
-    Pseudonymer Stimmrechtsnachweis"]
+    Pseudonymer
+    Stimmrechtsnachweis"]
     a4["Ausprägung 4:
     Umsetzungsvariante 4
     Maskiertes Pseudonym /
@@ -96,7 +98,8 @@ block
     Umsetzungsvariante 5
     Klartext-AHV-Nummer /
     Maskiertes Volksbegehren
-     / nur das Auszählungsergebnis entschlüsseln"]
+     / nur das
+    Auszählungsergebnis entschlüsseln"]
    style t1 fill:#a8d5ff,stroke-width:0px
     style t2 fill:#a8d5ff,stroke-width:0px
     style d fill:#a8d5ff,stroke-width:0px,text-valign:top
