@@ -10,7 +10,7 @@ Dans les variantes de mise en œuvre 3 et 4, le droit de vote est vérifié en a
 
 La variante de mise en œuvre 5 adopte une approche différente pour atteindre le même objectif que la variante 4. Les déclarations de soutien sont transmises sous une forme illisible, mais sans utilisation d'un pseudonyme. Elles peuvent ainsi être publiées et le résultat du dépouillement peut être vérifié publiquement.
 
-La discussion sur l'architecture de base a lieu ici.
+**La discussion sur l'architecture de base a lieu [ici](https://github.com/swiss/e-collecting/issues/28).**
 
 ```mermaid
 block
@@ -69,7 +69,7 @@ In Umsetzungsvarianten 3 und 4 wird das Stimmrecht vorgelagert geprüft. Darin b
 
 Umsetzungsvariante 5 verfolgt einen anderen Ansatz, um dasselbe Ziel wie Umsetzungsvariante 4 zu erreichen. Die Unterstützungsbekundungen werden in nicht lesbarer Form übermittelt, jedoch ohne Verwendung eines Pseudonyms. Dadurch können sie veröffentlicht werden und das Ergebnis der Auszählung kann öffentlich geprüft werden.
 
-Die Diskussion über die Grundarchitektur findet hier statt.
+**Die Diskussion über die Grundarchitektur findet [hier](https://github.com/swiss/e-collecting/issues/28) statt.**
 
 ```mermaid
 block
