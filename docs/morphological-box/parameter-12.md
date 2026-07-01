@@ -44,8 +44,7 @@ block
     ont la possibilité, lors de la soumission
     de leur déclaration de soutien, de choisir
     l’organisation à laquelle ils souhaitent
-    l’attribuer) "]
-    a3["Variante 3:
+    l’attribuer)"]
     style t1 fill:#a8d5ff,stroke-width:0px
     style t2 fill:#a8d5ff,stroke-width:0px
     style d fill:#a8d5ff,stroke-width:0px,text-valign:top
