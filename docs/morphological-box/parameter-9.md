@@ -6,3 +6,17 @@ Dieser Parameter beschreibt, in welchem Umfang ein E-Collecting-System bereits v
 Die Ausprägungen sind bewusst allgemein gehalten. Ziel ist es, zunächst die grundsätzliche Frage zu klären, ob die Unterstützung für vorgelagerte Prozesse Bestandteil eines E-Collecting-Systems sein soll. Welche konkreten Prozessschritte digital unterstützt werden, und in welchem Umfang dies erfolgt, wäre zu einem späteren Zeitpunkt zu definieren.
 
 Sollte ein E-Collecting-System aus Ihrer Sicht auch vorgelagerte Prozesse unterstützen?   Die Unterstützung vorgelagerter Prozesse könnte dazu beitragen, die administrativen Abläufe im Zusammenhang mit Volksbegehren durchgängiger digital abzubilden, Medienbrüche zu reduzieren und die Effizienz für die beteiligten Akteure zu erhöhen. Gegen eine Unterstützung vorgelagerter Verfahren könnte die dadurch entstehende höhere Komplexität des E-Collecting-Systems sprechen. Damit verbunden wären voraussichtlich ein zusätzlicher Entwicklungsaufwand sowie höhere Kosten.
+
+Sind die möglichen Ausprägungen dieses Parameters aus Ihrer Sicht vollständig dargestellt? Welche möglichen Auswirkungen hätte die Auswahl einer der möglichen Ausprägungen? **Die Diskussion dazu findet [hier]() statt.**
+
+```mermaid
+block
+  block
+    columns 3
+    t1["Parameter"]
+    t2["Ausprägungen"]:2
+    d["Parameter 9
+      Unterstützung vorgelagerter Prozesse durch das E-Collecting-System"]
+    a1["Ausprägung 1:
+      Keine vorlagerten Prozesse; das E-Collecting-System tritt erst mit dem Start der Unterschriftensammlung in Erscheinung"]
+    a2["Ausprägung 2: Das E-Collecting-System deckt auch vorgelagerte Prozesse von Unterschriftensammlungen ab"] 
