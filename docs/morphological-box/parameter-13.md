@@ -21,21 +21,30 @@ block
     d["Paramètre 13
     Architecture de base"]
     a1["Variante 1:
-    Variante de mise en œuvre 1
-    – numéro AVS en clair"]
+    Variante de
+    mise en œuvre 1
+    – numéro AVS
+    en clair"]
     a2["Variante 2:
-    Variante de mise en œuvre 2
-    – Numéro AVS crypté"]
+    Variante de
+    mise en œuvre 2
+    – Numéro AVS
+    crypté"]
     a3["Variante 3:
-    Variante de mise en œuvre 3
-    – Justificatif de droit
-    de vote pseudonyme"]
+    Variante de
+    mise en œuvre 3
+    – Justificatif de
+    droit de vote
+    pseudonyme"]
     a4["Variante 4:
-    Variante de mise en œuvre 4
-    – Pseudonyme masqué / preuve à divulgation
+    Variante de
+    mise en œuvre 4
+    – Pseudonyme masqué
+    / preuve à divulgation
     nulle de connaissance"]
     a5["Variante 5:
-    Variante de mise en œuvre 5
+    Variante de
+    mise en œuvre 5
     – Initiative populaire masquée /
     dépouillement sans décryptage"]
     style t1 fill:#a8d5ff,stroke-width:0px
@@ -60,6 +69,8 @@ In Umsetzungsvarianten 3 und 4 wird das Stimmrecht vorgelagert geprüft. Darin b
 
 Umsetzungsvariante 5 verfolgt einen anderen Ansatz, um dasselbe Ziel wie Umsetzungsvariante 4 zu erreichen. Die Unterstützungsbekundungen werden in nicht lesbarer Form übermittelt, jedoch ohne Verwendung eines Pseudonyms. Dadurch können sie veröffentlicht werden und das Ergebnis der Auszählung kann öffentlich geprüft werden.
 
+Die Diskussion über die Grundarchitektur findet hier statt.
+
 ```mermaid
 block
   block
@@ -69,15 +80,22 @@ block
     d["Parameter 13
     Grundarchitekture"]
     a1["Ausprägung 1:
-    Umsetzungsvariante 1 - Klartext-AHV-Nummer"]
+    Umsetzungsvariante 1
+    Klartext-AHV-Nummer"]
     a2["Ausprägung 2:
-    Umsetzungsvariante 2 - Verschlüsselte AHV-Nummer"]
+    Umsetzungsvariante 2
+    Verschlüsselte AHV-Nummer"]
     a3["Ausprägung 3:
-    Umsetzungsvariante 3 - Pseudonymer Stimmrechtsnachweis"]
+    Umsetzungsvariante 3
+    Pseudonymer Stimmrechtsnachweis"]
     a4["Ausprägung 4:
-    Umsetzungsvariante 4 - Maskiertes Pseudonym / Zero-Knowledge-Beweis"]
+    Umsetzungsvariante 4
+    Maskiertes Pseudonym /
+    Zero-Knowledge-Beweis"]
     a5["Ausprägung 5:
-    Umsetzungsvariante 5 - Klartext-AHV-Nummer / Maskiertes Volksbegehren
+    Umsetzungsvariante 5
+    Klartext-AHV-Nummer /
+    Maskiertes Volksbegehren
      / nur das Auszählungsergebnis entschlüsseln"]
    style t1 fill:#a8d5ff,stroke-width:0px
     style t2 fill:#a8d5ff,stroke-width:0px
