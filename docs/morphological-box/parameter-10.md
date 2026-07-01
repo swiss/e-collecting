@@ -6,7 +6,7 @@ Un système de récolte électronique peut être mis à la disposition des élec
 
 La forme de mise à disposition influence notamment l’accessibilité, le déroulement de la déclaration de soutien, la facilité d’utilisation ainsi que les exigences en matière de développement, d’exploitation et de maintenance du système.
 
-Les variantes possibles de ce paramètre sont-elles, selon vous, présentées de manière exhaustive ? Quels sont les avantages et les inconvénients de chacune de ces variantes ? La discussion à ce sujet a lieu **[ici](https://github.com/swiss/e-collecting/issues/25).** 
+Les variantes possibles de ce paramètre sont-elles, selon vous, présentées de manière exhaustive ? Quels sont les avantages et les inconvénients de chacune de ces variantes ? **La discussion à ce sujet a lieu [ici](https://github.com/swiss/e-collecting/issues/25).** 
 
 Il existe des interdépendances avec le paramètre 11.
 
