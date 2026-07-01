@@ -19,4 +19,11 @@ block
       Unterstützung vorgelagerter Prozesse durch das E-Collecting-System"]
     a1["Ausprägung 1:
       Keine vorlagerten Prozesse; das E-Collecting-System tritt erst mit dem Start der Unterschriftensammlung in Erscheinung"]
-    a2["Ausprägung 2: Das E-Collecting-System deckt auch vorgelagerte Prozesse von Unterschriftensammlungen ab"] 
+    a2["Ausprägung 2: Das E-Collecting-System deckt auch vorgelagerte Prozesse von Unterschriftensammlungen ab"]
+    style t1 fill:#a8d5ff,stroke-width:0px
+    style t2 fill:#a8d5ff,stroke-width:0px
+    style d fill:#a8d5ff,stroke-width:0px,text-valign:top
+    style a1 fill:#cdedff,stroke-width:0px
+    style a2 fill:#cdedff,stroke-width:0px
+  end
+```
