@@ -25,7 +25,8 @@ block
     électronique n’intervient
     qu’au moment du lancement
     de la récolte de signatures"]
-    a2["Ausprägung 2: Le système de récolte
+    a2["Variante 2:
+    Le système de récolte
     électronique couvre également
     les processus en amont
     de la récolte de signatures"]
