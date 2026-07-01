@@ -52,6 +52,7 @@ block
     style a2 fill:#cdedff,stroke-width:0px
   end
 ```
+
 ## <a name="d-0"> Morphologischer Kasten: Parameter 11 - Massnahmen zum Ausgleich des Digital Divide
 
 Wie kann sichergestellt werden, dass möglichst viele Stimmberechtigte ein E-Collecting-System nutzen können, unabhängig von den Geräten, auf die sie Zugriff haben, oder ihren digitalen Kompetenzen und Fähigkeiten?
