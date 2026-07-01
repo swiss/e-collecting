@@ -50,7 +50,7 @@ Ein E-Collecting-System kann den Stimmberechtigten in verschiedenen Formen berei
 
 Die Bereitstellungsform beeinflusst unter anderem die Zugänglichkeit, den Ablauf der Unterstützungsbekundung, die Benutzerfreundlichkeit sowie die Anforderungen an Entwicklung, Betrieb und Wartung des Systems.
 
-Sind die möglichen Ausprägungen dieses Parameters aus Ihrer Sicht vollständig dargestellt? Welche Vor- und Nachteile ergeben sich aus den einzelnen Ausprägungen? Die Dieskussion dazu finder hier statt.
+Sind die möglichen Ausprägungen dieses Parameters aus Ihrer Sicht vollständig dargestellt? Welche Vor- und Nachteile ergeben sich aus den einzelnen Ausprägungen? Die Diskussion dazu findet [hier](FIXME:Link) statt.
 
 Es bestehen Abhängigkeiten zu Parameter 11.
 
