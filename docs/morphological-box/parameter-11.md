@@ -12,7 +12,7 @@ L’on pourrait également envisager la mise à disposition d’accès matériel
 
 L’éventail de ce paramètre s’étend donc d’une approche ne prévoyant aucune mesure supplémentaire au-delà des exigences légales, en passant par une conception du système particulièrement conviviale et accessible, jusqu’à la mise à disposition de possibilités d’accès publiques supplémentaires, par exemple sous la forme de bornes mises à disposition par les autorités.
 
-Les variantes possibles de ce paramètre sont-elles, selon vous, présentées de manière exhaustive ? Quels sont les avantages et les inconvénients de chacune de ces variantes ? **La discussion à ce sujet a lieu [ici](https://github.com/swiss/e-collecting/issues/26).**
+Les variantes possibles de ce paramètre sont-elles, selon vous, présentées de manière exhaustive ? Quels sont les avantages et les inconvénients de chacune de ces variantes ? **La discussion à ce sujet a lieu [ici](https://github.com/swiss/e-collecting/issues/26).** 
 
 Il existe des interdépendances avec le paramètre 10.
 
@@ -68,7 +68,7 @@ Denkbar wäre auch die Bereitstellung öffentlicher Hardware-Zugänge, um stimmb
 
 Das Spektrum des Parameters reicht also von einem Ansatz, der keine zusätzlichen Massnahmen über die gesetzlichen Anforderungen hinaus vorsieht, über eine besonders benutzerfreundliche und barrierefreie  Systemgestaltung bis hin zur Bereitstellung zusätzlicher öffentlicher Zugangsmöglichkeiten, beispielsweise in Form von Terminals, die von den Behörden zur Verfügung gestellt werden.
 
-Sind die möglichen Ausprägungen dieses Parameters aus Ihrer Sicht vollständig dargestellt? Welche Vor- und Nachteile ergeben sich aus den einzelnen Ausprägungen? **Die Diskussion dazu findet [hier](https://github.com/swiss/e-collecting/issues/26) statt.**
+Sind die möglichen Ausprägungen dieses Parameters aus Ihrer Sicht vollständig dargestellt? Welche Vor- und Nachteile ergeben sich aus den einzelnen Ausprägungen? **Die Diskussion dazu findet [hier](https://github.com/swiss/e-collecting/issues/26) statt.** 
 
 Es bestehen Abhängigkeiten zu Parameter 10. 
 
