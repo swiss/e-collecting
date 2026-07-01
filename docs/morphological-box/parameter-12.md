@@ -53,58 +53,57 @@ block
   end
 ```
 
-## <a name="d-0"> Morphologischer Kasten: Parameter 11 - Massnahmen zum Ausgleich des Digital Divide
+## <a name="d-0"> Morphologischer Kasten: Parameter 12 - Unterstützungslogik von Unterschriftensammlungen 
 
-Wie kann sichergestellt werden, dass möglichst viele Stimmberechtigte ein E-Collecting-System nutzen können, unabhängig von den Geräten, auf die sie Zugriff haben, oder ihren digitalen Kompetenzen und Fähigkeiten?
+[Parameter 4 «Zuordnung von Unterstützungsbekundungen»](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-4.md#-morphologischer-kasten-parameter-4---zuordnung-von-unterst%C3%BCtzungsbekundungen) geht der Frage nach, ob und in welcher Form Unterstützungsbekundungen einzelnen sammelnden Organisationen zugeordnet werden sollen. Entscheidet man sich dafür, dass die Anzahl von bescheinigten Unterschriften pro sammelnde Organisation grundsätzlich zugeordnet werden sollte, muss geklärt werden, wie die Zuordnung entstehen könnte. 
 
-Die Ausgestaltung der E-Collecting-Versuche kann unterschiedliche Massnahmen vorsehen, um digitale Hürden abzubauen und den Zugang für möglichst viele Personen zu erleichtern. Dabei können sowohl die möglichst barrierefreie Gestaltung des Systems selbst als auch die verfügbaren Zugangsmöglichkeiten - zum Beispiel private Geräte oder öffentliche Terminals - eine Rolle spielen.
+Hinter Volksinitiativen steht stets ein Initiativkomitee, welche formell die einzige verantwortliche Instanz für die Unterschriftensammlung ist. In der Praxis wird sie von weiteren sammelnden Organisationen, auf Freiwilligenbasis oder kommerziell, unterstützt. Bei Referenden können Unterschriften von mehreren Komitees unabhängig voneinander gesammelt werden. Zudem können auch Einzelpersonen eigenständig gültige Unterschriftenlisten erstellen und Unterschriften sammeln, sofern die gesetzlichen Formvorschriften eingehalten werden.
 
-Für digitale Angebote des Bundes gelten bereits verbindliche Anforderungen an die digitale Barrierefreiheit (WCAG 2.1 Level AA und eCH-0059 Accessibility Standard V3.0).  Diese sollen sicherstellen, dass digitale Anwendungen möglichst auch von Menschen mit Behinderungen oder besonderen Unterstützungsbedürfnissen genutzt werden können. Die nachfolgenden Ausprägungen unterscheiden sich darin, ob und in welchem Umfang über diese Mindestanforderungen hinaus zusätzliche Massnahmen zur Verringerung digitaler Zugangshürden vorgesehen werden.
+Im Rahmen einer elektronischen Unterschriftensammlung für ein Volksbegehren stellt sich deshalb die Frage, ob mit der Abgabe der Unterstützungsbekundung zusätzlich auch eine bestimmte Sammelorganisation unterstützt werden soll. In einem E-Collecting-System bestehen zwei unterschiedliche Gestaltungsmöglichkeiten für diesen Parameter: Entweder ist die Unterstützung des Volksbegehrens zwingend mit der Unterstützung einer Sammelorganisation verknüpft, oder die Unterstützung einer Sammelorganisation erfolgt freiwillig und kann zusätzlich zur Unterstützung des Volksbegehrens abgegeben werden.
 
-Denkbar wäre auch die Bereitstellung öffentlicher Hardware-Zugänge, um stimmberechtigten Personen, die nicht über geeignete Endgeräte verfügen, die Teilhabe an E-Collecting zu ermöglichen. Vergleichbare Ansätze werden vereinzelt in der Praxis verfolgt. Im deutschen Bundesland Hessen setzen Pilotkommunen sogenannte Bürgerterminals ein, die den Zugang zu digitalen Verwaltungsdiensten ermöglichen. In Portugal unterstützt die Europäische Union sogenannte «citizen spots», physische Anlaufstellen in Gemeinden, an denen Bürgerinnen und Bürger digitale Verwaltungsdienste an Self-Service-Terminals - allein  oder mit Unterstützung durch Gemeindemitarbeiter vor Ort - nutzen können.
+Sind die Ausprägungen aus Ihrer Sicht vollständig dargestellt? Welche Vor- und Nachteile lassen sich bei der Auswahl jeder Ausprägung antizipieren? Die Diskussion dazu findet hier statt.
 
-Das Spektrum des Parameters reicht also von einem Ansatz, der keine zusätzlichen Massnahmen über die gesetzlichen Anforderungen hinaus vorsieht, über eine besonders benutzerfreundliche und barrierefreie  Systemgestaltung bis hin zur Bereitstellung zusätzlicher öffentlicher Zugangsmöglichkeiten, beispielsweise in Form von Terminals, die von den Behörden zur Verfügung gestellt werden.
-
-Sind die möglichen Ausprägungen dieses Parameters aus Ihrer Sicht vollständig dargestellt? Welche Vor- und Nachteile ergeben sich aus den einzelnen Ausprägungen? Die Dieskussion dazu finder hier statt.
-
-Es bestehen Abhängigkeiten zu Parameter 10. 
+Es bestehen Abhängigkeiten zu Parameter 4. 
 
 ```mermaid
 block
   block
-    columns 4
+    columns 3
     t1["Parameter"]
-    t2["Ausprägungen"]:3
-    d["Parameter 11
-    Massnahmen zum Ausgleich
-    des Digital Divide"]
+    t2["Ausprägungen"]:2
+    d["Parameter 12
+    Unterstützungslogik von
+    Unterschriftensammlungen "]
     a1["Ausprägung 1:
-    Keine spezifischen Massnahmen gegen
-    Digital Divide, die über die
-    gesetzlichen Anforderungen hinausgehen;
-    Zugang erfolgt ausschliesslich über
-    bestehende private Infrastruktur "]
+    Die stimmberechtigte Person unterstützt mit
+    ihrer digitalen Unterstützungsbekundung das
+    Volksbegehren und gleichzeitig auch eine
+    spezifische Sammelorganisation (entweder
+    ist die Angabe der Sammelorganisation
+    bereits im «Sammellink» enthalten oder
+    Stimmberechtigte sind bei der Abgabe der
+    Unterstützungsbekundung aufgefordert,
+    auszuwählen, welcher Organisation sie
+    diese zuschreiben möchten)"]
     a2["Ausprägung 2:
-    Maximaler Fokus auf niederschwellige
-    Systemgestaltung: System ist für
-    möglichst einfache Nutzung optimiert
-    (Usability, Accessibility), Zugang
-    ausschliesslich über bestehende
-    privater Infrastruktur "]
-    a3["Ausprägung 3:
-    Ergänzende Zugangsmöglichkeiten: Neben
-    Einer niederschwelligen Systemgestaltung
-    werden zusätzliche Hardware-Zugänge,
-    wie z.B. Terminals , von den Behörden
-    zur Verfügung gestellt "]
+    Die stimmberechtige Person kann optional
+    mit ihrer digitalen Unterstützungsbekundung
+    gleichzeitig auch eine Sammelorganisation
+    unterstützen (entweder kann die Angabe der
+    Sammelorganisation bereits im «Sammellink»
+    enthalten sein oder Stimmberechtigte haben
+    bei der Abgabe der Unterstützungsbekundung
+    die Möglichkeit, auszuwählen, welcher
+    Organisation sie diese zuschreiben möchten)"]
     style t1 fill:#a8d5ff,stroke-width:0px
     style t2 fill:#a8d5ff,stroke-width:0px
     style d fill:#a8d5ff,stroke-width:0px,text-valign:top
     style a1 fill:#cdedff,stroke-width:0px
     style a2 fill:#cdedff,stroke-width:0px
-    style a3 fill:#cdedff,stroke-width:0px
   end
 ```
+
+
 
 
 
