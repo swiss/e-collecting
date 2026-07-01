@@ -14,8 +14,8 @@ Les différentes valeurs possibles de ce paramètre sont-elles, selon vous, tout
 block
   block
     columns 3
-    t1["Parameter"]
-    t2["Ausprägungen"]:2
+    t1["Paramètre"]
+    t2["Variantes"]:2
     d["Paramètre 9
       Prise en charge des
       processus en amont par
