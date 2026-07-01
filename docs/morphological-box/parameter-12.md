@@ -15,41 +15,42 @@ Il existe des interdépendances avec le paramètre 4.
 ```mermaid
 block
   block
-    columns 4
+    columns 3
     t1["Paramètres"]
-    t2["Variantes"]:3
-    d["Paramètre 11
-    Mesures visant
-    à réduire la
-    fracture numérique"]
+    t2["Variantes"]:2
+    d["Paramètre 12
+    Logique de soutien des
+    récoltes de signatures "]
     a1["Variante 1:
-    Aucune mesure spécifique
-    visant à lutter contre la
-    fracture numérique n'est prise
-    au-delà des exigences légales ;
-    l'accès s'effectue exclusivement
-    via les infrastructures privées existantes"]
+    Par sa déclaration de soutien numérique,
+    l’électeur soutient la requête populaire
+    et, simultanément, une organisation de
+    récolte spécifique (soit le nom de
+    l’organisation de récolte est déjà inclus
+    dans le « lien de récolte »,
+    soit les électeurs sont invités,
+    lors de la soumission de leur déclaration
+    de soutien, à choisir l’organisation
+    à laquelle ils souhaitent l’attribuer)"]
     a2["Variante 2:
-    Priorité absolue à une conception du
-    système facilitant son utilisation :
-    le système est optimisé pour une
-    utilisation aussi simple que possible
-    (ergonomie, accessibilité) ;
-    l'accès se fait exclusivement
-    via l'infrastructure privée existante"]
+    L’électeur a la possibilité,
+    s’il le souhaite, de soutenir
+    simultanément une organisation
+    de récolte par le biais de sa
+    déclaration de soutien numérique
+    (soit l’indication de l’organisation
+    de récolte est déjà incluse dans le
+    « lien de récolte », soit les électeurs
+    ont la possibilité, lors de la soumission
+    de leur déclaration de soutien, de choisir
+    l’organisation à laquelle ils souhaitent
+    l’attribuer) "]
     a3["Variante 3:
-    Moyens d'accès complémentaires :
-    outre une conception du système
-    facilitant l'accès, des moyens
-    d'accès matériels supplémentaires,
-    tels que des terminaux citoyens,
-    seront mis à disposition par les autorités "]
     style t1 fill:#a8d5ff,stroke-width:0px
     style t2 fill:#a8d5ff,stroke-width:0px
     style d fill:#a8d5ff,stroke-width:0px,text-valign:top
     style a1 fill:#cdedff,stroke-width:0px
     style a2 fill:#cdedff,stroke-width:0px
-    style a3 fill:#cdedff,stroke-width:0px
   end
 ```
 ## <a name="d-0"> Morphologischer Kasten: Parameter 11 - Massnahmen zum Ausgleich des Digital Divide
