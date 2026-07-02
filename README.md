@@ -121,7 +121,7 @@ Die Bundeskanzlei informiert mit ihrem E-Collecting Newsletter regelmässig übe
 
 ## <a name="d2-0">Aktuell</a> - 🗨️ Laufende Diskussionen 🗨️
 
-Anfang Juli 2026 hat die Bundeskanzlei die dritte und vorerst letzte Tranche von Parametern, einschliesslich des Parameters zu den Grundarchitekturen, im Rahmen des schriftlichen Dialogs publiziert. Die Parameter sind Bestandteile eines sogeannten ["Morphologischer Kasten"](https://github.com/swiss/e-collecting/blob/main/docs/method/morphological-box.md#d-0), einer Methode um komplexe technische Probleme in Einzelfragen zu unterteilen.
+Anfang Juli 2026 hat die Bundeskanzlei die dritte und vorerst letzte Tranche von Parametern, einschliesslich des Parameters zu den Grundarchitekturen, im Rahmen des schriftlichen Dialogs publiziert. Die Parameter sind Bestandteile eines sogenannten ["Morphologischer Kasten"](https://github.com/swiss/e-collecting/blob/main/docs/method/morphological-box.md#d-0), einer Methode um komplexe technische Probleme in Einzelfragen zu unterteilen.
 
 In dieser bis Ende September laufenden dritten Phase des Online-Dialogs steht nicht mehr nur die Diskussion einzelner Parameter im Vordergrund. Vielmehr soll auch beurteilt werden, ob der morphologische Kasten insgesamt eine ausgewogene Darstellung der relevanten Parameter, Ausprägungen und Argumente bietet. Darüber hinaus interessieren wir uns für Ihre Einschätzung, welche Ausprägungen Sie bei den einzelnen Parametern bevorzugen und aus welchen Gründen Sie dies tun. Schliesslich ist es auch ein Ziel, allfällige fehlende Ausprägungen oder bislang nicht berücksichtige Parameter zu identifizieren und mit einer entsprechenden Beschreibung in den morphologischen Kasten aufzunehmen.
 
