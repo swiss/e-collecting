@@ -30,11 +30,14 @@ La Chancellerie fédérale informe régulièrement quelles sont les nouveautés 
 
 ## <a name="f2-0">Actualités- 🗨️ Les discussions en cours 🗨️</a>
 
-Au cours de la première phase du dialogue en ligne, nous avons abordé six questions. Nous avons rassemblé et synthétisé les différents arguments et points de vue à la mi-mars 2026.
 
-[Synthèse des différents arguments et positions issus du dialogue en ligne jusqu'à la mi-mars 2026](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#r%C3%A9sum%C3%A9-des-arguments-de-la-premi%C3%A8re-phase-du-dialogue-en-ligne-au-17-mars-2026)
+Début juillet 2026, la Chancellerie fédérale a publié la troisième et, pour l'instant, dernière tranche de paramètres, y compris celui relatif aux architectures de base, dans le cadre du dialogue écrit. Ces paramètres font partie intégrante de ce que l’on appelle la [« boîte morphologique »](https://github.com/swiss/e-collecting/blob/main/docs/method/morphological-box.md), une méthode permettant de décomposer des problèmes techniques complexes en questions spécifiques.
 
-Dans le cadre de la deuxième phase actuellement en cours, nous examinons différents paramètres de l'e-collecting à l'aide d'une méthode appelée [« boîte morphologique »](https://github.com/swiss/e-collecting/blob/main/docs/method/morphological-box.md) :
+Au cours de cette troisième phase du dialogue en ligne, qui se poursuivra jusqu’à fin septembre, l’accent n’est plus uniquement mis sur la discussion des paramètres individuels. Il s’agit plutôt d’évaluer si la boîte morphologique offre, dans son ensemble, une présentation équilibrée des paramètres, des caractéristiques et des arguments pertinents. De plus, nous souhaitons connaître votre avis sur les caractéristiques que vous privilégiez pour chaque paramètre et les raisons qui motivent ce choix. Enfin, l’un des objectifs est également d’identifier les valeurs manquantes ou les paramètres non pris en compte jusqu’à présent, et de les intégrer à la boîte morphologique avec une description appropriée.
+
+Pour toutes ces questions, nous comptons sur votre collaboration. Nous vous invitons à participer activement, que ce soit ici sur la plateforme ou le 19 août, lorsque nous nous réunirons pour discuter à l’occasion de la 5ème manifestation en ligne. Les inscriptions sont [ouvertes](https://findmind.ch/c/3E7N-M3aP).
+
+Liste des paramètres de la boîte morphologique :
 
 * [1.1 - Saisie des signatures sur papier dans le système E-Collecting](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-1-1.md)
 * [1.2 - Traitement numérique des signatures sur papier dans le système E-Collecting](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-1-2.md)
@@ -46,6 +49,13 @@ Dans le cadre de la deuxième phase actuellement en cours, nous examinons diffé
 * [6 - Utilisation du système de récolte électronique aux trois niveaux fédéraux](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-6.md)
 * [7 - Conditions administratives de participation aux essais de récolte électronique](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-7.md)
 * [8 - Garantir un délai de réflexion avant la transmission de la déclaration de soutien](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-8.md)
+* [9 - Prise en charge des processus en amont par le système de récolte électronique de signatures](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-9.md)
+* [10 - Mode de mise à disposition de l’application de récolte électronique](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-10.md)
+* [11 - Mesures visant à réduire la fracture numérique](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-11.md)
+* [12 - Logique de soutien des récoltes de signatures ](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-12.md)
+* [13 - Architecture de base ](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-13.md)
+
+
 
 ## <a name="f4-0">Chronologie</a>
 
@@ -110,11 +120,13 @@ Die Bundeskanzlei informiert mit ihrem E-Collecting Newsletter regelmässig übe
 
 ## <a name="d2-0">Aktuell</a> - 🗨️ Laufende Diskussionen 🗨️
 
-In einer ersten Phase des Online-Dialogs haben wir sechs Fragen diskutiert. Die verschiedenen Argumente und Positionen haben wir Mitte März 2026 gesammelt und zusammengefasst. 
+Anfang Juli 2026 hat die Bundeskanzlei die dritte und vorerst letzte Tranche von Parametern, einschliesslich des Parameters zu den Grundarchitekturen, im Rahmen des schriftlichen Dialogs publiziert. Die Parameter sind Bestandteile eines sogeannten ["Morphologischer Kasten"](https://github.com/swiss/e-collecting/blob/main/docs/method/morphological-box.md#d-0), einer Methode um komplexe technische Probleme in Einzelfragen zu unterteilen.
 
-[Zusammenfassung der verschiedenen Argumente und Positionen des Online-Dialogs bis Mitte März 2026](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#zusammenfassung-argumente-der-ersten-phase-des-online-dialogs-stand-17-m%C3%A4rz-2026)
+In dieser bis Ende September laufenden dritten Phase des Online-Dialogs steht nicht mehr nur die Diskussion einzelner Parameter im Vordergrund. Vielmehr soll auch beurteilt werden, ob der morphologische Kasten insgesamt eine ausgewogene Darstellung der relevanten Parameter, Ausprägungen und Argumente bietet. Darüber hinaus interessieren wir uns für Ihre Einschätzung, welche Ausprägungen Sie bei den einzelnen Parametern bevorzugen und aus welchen Gründen Sie dies tun. Schliesslich ist es auch ein Ziel, allfällige fehlende Ausprägungen oder bislang nicht berücksichtige Parameter zu identifizieren und mit einer entsprechenden Beschreibung in den morphologischen Kasten aufzunehmen.
 
-In der zur Zeit laufenden zweiten Phase diskutieren wir anhand einer ["Morphologischer Kasten"](https://github.com/swiss/e-collecting/blob/main/docs/method/morphological-box.md#d-0) genannten Methode verschiedene Parameter von E-Collecting:
+Bei all diesen Fragen sind wir auf Ihre Mitarbeit angewiesen. Wir laden Sie ein, sich aktiv zu beteiligen. Sei es hier auf der Plattform, oder am 19. August, wenn wir uns an der 5. Online-Veranstaltung zur Diskussion treffen. Die Registrierung ist [offen](https://findmind.ch/c/3E7N-M3aP).
+
+Liste der Parameter des morphologischen Kastens:
 
 * [1.1 - Erfassung papierbasierter Unterschriften im E-Collecting-System](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-1-1.md)
 * [1.2 - Digitale Verarbeitung der papierbasierten Unterschrift im E-Collecting](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-1-2.md)
@@ -126,6 +138,12 @@ In der zur Zeit laufenden zweiten Phase diskutieren wir anhand einer ["Morpholog
 * [6 - Einsatz des E-Collecting-Systems auf allen drei föderalen Ebenen](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-6.md)
 * [7 - Administrative Voraussetzungen für Teilnahme an E-Collecting Versuchen](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-7.md)
 * [8 - Sicherstellung einer Bedenkzeit vor Übermittlung der Unterstützungsbekundung](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-8.md)
+* [9 - Unterstützung vorgelagerter Prozesse durch das E-Collecting-System](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-9.md?#d-0)
+* [10 - Bereitstellungsform der E-Collecting Anwendung](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-10.md?#d-0)
+* [11 - Massnahmen zum Ausgleich des Digital Divide](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-11.md?#d-0)
+* [12 - Unterstützungslogik von Unterschriftensammlungen](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-12.md?#d-0)
+* [13 - Grundarchitektur](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-13.md?#d-0)
+
 
 ## <a name="d4-0">Timeline</a>
 
