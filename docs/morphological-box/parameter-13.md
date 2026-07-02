@@ -12,6 +12,9 @@ La variante de mise en œuvre 5 adopte une approche différente pour atteindre l
 
 **La discussion sur l'architecture de base a lieu [ici](https://github.com/swiss/e-collecting/issues/28).**
 
+Lien: Le document séparé sur l'architecture de base est en cours de traduction. Nous le publierons dès que possible. Pour l'instant, seule une [version allemande](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-13-base-architecture-working-document-DE.pdf) est disponible.
+
+
 ```mermaid
 block
   block
@@ -50,7 +53,7 @@ block
 
 ## <a name="d-0"> Morphologischer Kasten: Parameter 13 - Grundarchitektur
 
-Der Parameter «Grundarchitektur» hat aufgrund seiner Komplexität und seiner Bedeutung für die finanziellen und personellen Aufwände, die Sicherheit, den zeitlichen Fortschritt bei der Vorbereitung der Versuche und damit für den politischen Rückhalt der Versuche per se eine besondere Bedeutung. Deshalb wird er im in einem gesonderten Arbeitspapier behandelt. Die fünf Ausprägungen wurden auf der Grundlage des Hackathons und der darauf basierenden Gespräche im Rahmen des partizipativen Prozesses definiert. Vorschläge aus dem Hackathon, die nicht die Grundarchitektur beschlagen, werden in anderen Zusammenhängen mit Blick auf die konkrete Umsetzung aufgenommen.
+Der Parameter «Grundarchitektur» hat aufgrund seiner Komplexität und seiner Bedeutung für die finanziellen und personellen Aufwände, die Sicherheit, den zeitlichen Fortschritt bei der Vorbereitung der Versuche und damit für den politischen Rückhalt der Versuche per se eine besondere Bedeutung. Deshalb wird er im in einem [gesonderten Arbeitspapier](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-13-base-architecture-working-document-DE.pdf) behandelt. Die fünf Ausprägungen wurden auf der Grundlage des Hackathons und der darauf basierenden Gespräche im Rahmen des partizipativen Prozesses definiert. Vorschläge aus dem Hackathon, die nicht die Grundarchitektur beschlagen, werden in anderen Zusammenhängen mit Blick auf die konkrete Umsetzung aufgenommen.
 
 In Umsetzungsvarianten 1 und 2 wird das Stimmrecht gestützt auf persönliche Informationen bescheinigt, die mit der Unterstützungsbekundung mitgeschickt werden (z.B. AHV-Nummer). Der Ablauf orientiert sich damit am aktuellen, papierbasierten Prozess. In Variante 1 erhält das E-Collecting-System die Informationen über die Identität in lesbarer Form und leitet sie ans Stimmregister zur Bescheinigung weiter. In Variante 2 erhält das E-Collecting-System die Informationen über die Identität in verschlüsselter, nichtlesbarer Form. Erst das Stimmregister kann diese Informationen entschlüsseln. 
 
@@ -59,6 +62,8 @@ In Umsetzungsvarianten 3 und 4 wird das Stimmrecht vorgelagert geprüft. Darin b
 Umsetzungsvariante 5 verfolgt einen anderen Ansatz, um dasselbe Ziel wie Umsetzungsvariante 4 zu erreichen. Die Unterstützungsbekundungen werden in nicht lesbarer Form übermittelt, jedoch ohne Verwendung eines Pseudonyms. Dadurch können sie veröffentlicht werden und das Ergebnis der Auszählung kann öffentlich geprüft werden.
 
 **Die Diskussion über die Grundarchitektur findet [hier](https://github.com/swiss/e-collecting/issues/28) statt.**
+
+Link: [Arbeitspapier Grundarchitektur](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-13-base-architecture-working-document-DE.pdf)
 
 ```mermaid
 block
