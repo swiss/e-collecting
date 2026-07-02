@@ -55,7 +55,7 @@ Liste des paramètres de la boîte morphologique :
 * [12 - Logique de soutien des récoltes de signatures ](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-12.md)
 * [13 - Architecture de base ](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-13.md)
 
-Le paramètre 13 de l'architecture de base est accompagné d'un document séparé. Ce document est encore en cours de traduction. Nous le publierons dès que possible. Pour l'instant, seule une [version allemande](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-13-base-architecture-working-document-DE.pdf) est disponible.
+Le paramètre 13 de l'architecture de base est accompagné d'un document séparé. Ce document est encore en cours de traduction. Nous le publierons dès que possible. Pour l'instant, seule une [version allemande](https://github.com/swiss/e-collecting/raw/refs/heads/main/docs/morphological-box/parameter-13-base-architecture-working-document-DE.pdf) est disponible.
 
 
 ## <a name="f4-0">Chronologie</a>
@@ -145,7 +145,7 @@ Liste der Parameter des morphologischen Kastens:
 * [12 - Unterstützungslogik von Unterschriftensammlungen](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-12.md?#d-0)
 * [13 - Grundarchitektur](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-13.md?#d-0)
 
-Der Parameter 13 zur Grundarchitektur wird von einem [separaten Dokument](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-13-base-architecture-working-document-DE.pdf) begleitet.
+Der Parameter 13 zur Grundarchitektur wird von einem [separaten Dokument](https://github.com/swiss/e-collecting/raw/refs/heads/main/docs/morphological-box/parameter-13-base-architecture-working-document-DE.pdf) begleitet.
 
 
 ## <a name="d4-0">Timeline</a>
