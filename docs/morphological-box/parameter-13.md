@@ -12,7 +12,7 @@ La variante de mise en œuvre 5 adopte une approche différente pour atteindre l
 
 **La discussion sur l'architecture de base a lieu [ici](https://github.com/swiss/e-collecting/issues/28).**
 
-Lien: Le document séparé sur l'architecture de base est en cours de traduction. Nous le publierons dès que possible. Pour l'instant, seule une [version allemande](https://github.com/swiss/e-collecting/raw/refs/heads/main/docs/morphological-box/parameter-13-base-architecture-working-document-DE.pdf) est disponible.
+Lien: [Document de travail](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/Document%20de%20travail%20param%C3%A8tre%20architecture%20de%20base%20version%201.0.pdf)
 
 
 ```mermaid
