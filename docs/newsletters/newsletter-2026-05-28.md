@@ -22,7 +22,7 @@ Afin de faire avancer l’élaboration systématique des variantes de solution, 
 paramètres supplémentaires au dialogue écrit en ligne. Ceux-ci couvrent des aspects administratifs et
 procéduraux importants :
 
-  * [Paramètre 6: Utilisation du système de récolte électronique de signatures aux trois niveaux fédéraux.](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-6.md).
+  * [Paramètre 6: Utilisation du système de récolte électronique de signatures aux trois niveaux fédéraux.](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-6.md#bo%C3%AEte-morphologique--param%C3%A8tre-6---utilisation-du-syst%C3%A8me-de-r%C3%A9colte-%C3%A9lectronique-aux-trois-niveaux-f%C3%A9d%C3%A9raux).
   * [Paramètre 7: Conditions administratives pour la participation aux essais de récolte électronique de signatures.](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-7.md#bo%C3%AEte-morphologique--param%C3%A8tre-7---conditions-administratives-de-participation-aux-essais-de-r%C3%A9colte-%C3%A9lectronique).
   * [Paramètre 8: Garantie d’un délai de réflexion avant la transmission de la déclaration de soutien.](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-8.md#bo%C3%AEte-morphologique--param%C3%A8tre-8---garantir-un-d%C3%A9lai-de-r%C3%A9flexion-avant-la-transmission-de-la-d%C3%A9claration-de-soutien).
 
