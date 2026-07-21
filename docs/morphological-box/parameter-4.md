@@ -16,6 +16,8 @@ Cette question a déjà été abordée lors du dialogue participatif :
 *	[Résumé des arguments](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#discussion-6--attribution-des-d%C3%A9clarations-de-soutien)  
 *	[Discussion](https://github.com/swiss/e-collecting/issues/6) 
 
+Il existe des interdépendances avec le paramètre 12.
+
 
 ```mermaid
 block
@@ -75,8 +77,7 @@ Diese Frage wurde im partizipativen Dialog bereits erörtert:
 * [Zusammenfassung der Argumente](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#diskussion-6-zuschreibung-der-unterst%C3%BCtzungsbekundungen)
 * [Diskussion](https://github.com/swiss/e-collecting/issues/6)
 
-
-
+Es bestehen Abhängigkeiten zu Parameter 12.
 
 ```mermaid
 block
