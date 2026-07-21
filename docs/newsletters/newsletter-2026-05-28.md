@@ -22,9 +22,9 @@ Afin de faire avancer l’élaboration systématique des variantes de solution, 
 paramètres supplémentaires au dialogue écrit en ligne. Ceux-ci couvrent des aspects administratifs et
 procéduraux importants :
 
-  * [Paramètre 6: Utilisation du système de récolte électronique de signatures aux trois niveaux fédéraux.](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-6.md)
-  * [Paramètre 7: Conditions administratives pour la participation aux essais de récolte électronique de signatures.](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-7.md)
-  * [Paramètre 8: Garantie d’un délai de réflexion avant la transmission de la déclaration de soutien.](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-8.md).
+  * [Paramètre 6: Utilisation du système de récolte électronique de signatures aux trois niveaux fédéraux.](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-6.md).
+  * [Paramètre 7: Conditions administratives pour la participation aux essais de récolte électronique de signatures.](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-7.md#bo%C3%AEte-morphologique--param%C3%A8tre-7---conditions-administratives-de-participation-aux-essais-de-r%C3%A9colte-%C3%A9lectronique).
+  * [Paramètre 8: Garantie d’un délai de réflexion avant la transmission de la déclaration de soutien.](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-8.md#bo%C3%AEte-morphologique--param%C3%A8tre-8---garantir-un-d%C3%A9lai-de-r%C3%A9flexion-avant-la-transmission-de-la-d%C3%A9claration-de-soutien).
 
 Nous vous invitons à partager vos réflexions, commentaires et remarques critiques sur notre plateforme ou
 à les présenter lors de l’événement participatif. Vos contributions sont précieuses et nous permettent de
@@ -58,15 +58,9 @@ Um die systematische Erarbeitung der Lösungsvarianten voranzutreiben, haben wir
 Online-Dialog um drei weitere Parameter ergänzt. Diese decken wichtige administrative und prozedurale
 Aspekte ab:
 
-  *   Parameter 6: Einsatz des E-Collecting-Systems auf allen drei föderalen
-Ebenen<https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-6.md#d-0>.
-  *   Parameter 7: Administrative Voraussetzungen für die Teilnahme an
-E-Collecting-Versuchen<https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-7
-.md#-morphologischer-kasten-parameter-7---administrative-voraussetzungen-f%C3%BCr-teilnahme-an-e-collecti
-ng-versuchen>.
-  *   Parameter 8: Sicherstellung einer Bedenkzeit vor der Übermittlung der
-Unterstützungsbekundung<https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-
-8.md#d-0>.
+* [Parameter 6: Einsatz des E-Collecting-Systems auf allen drei föderalen Ebenen](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-6.md#d-0).
+* [Parameter 7: Administrative Voraussetzungen für die Teilnahme an E-Collecting-Versuchen](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-7.md#-morphologischer-kasten-parameter-7---administrative-voraussetzungen-f%C3%BCr-teilnahme-an-e-collecting-versuchen).
+* [Parameter 8: Sicherstellung einer Bedenkzeit vor der Übermittlung der Unterstützungsbekundung](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-8.md#d-0).
 
 Wir laden Sie ein, Ihre Überlegungen, Kommentare und kritischen Anmerkungen auf unserer Plattform
 einzubringen oder dann in der partizipativen Veranstaltung vorzutragen. Ihre Beiträge sind wertvoll, um
