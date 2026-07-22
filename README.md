@@ -55,7 +55,7 @@ Liste des paramètres de la boîte morphologique :
 * [12 - Logique de soutien des récoltes de signatures ](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-12.md)
 * [13 - Architecture de base ](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-13.md)
 
-Le paramètre 13 de l'architecture de base est accompagné d'un [document séparé](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-13-base-architecture-working-document-FR.pdf).
+Le paramètre 13 de l'architecture de base est accompagné d'un [document séparé](https://github.com/swiss/e-collecting/raw/refs/heads/main/docs/morphological-box/parameter-13-base-architecture-working-document-FR.pdf).
 
 ## <a name="f4-0">Chronologie</a>
 
