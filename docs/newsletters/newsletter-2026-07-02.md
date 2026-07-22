@@ -90,7 +90,7 @@ als Parameter und diskutieren dann sogenannte Ausprägungen als mögliche Lösun
 Beispiel ein Auto vorstellen, dann stellt sich die Frage nach dem Parameter “Antrieb”. Als grobe
 “Ausprägungen” kommen “fossiler Motor”, “hybrider Motor” oder “Elektromotor” in Frage.
 
-https://github.com/swiss/e-collecting/blob/main/docs/method/morphological-box.md
+https://github.com/swiss/e-collecting/blob/main/docs/method/morphological-box.md?#d-0
 
 ### Was sind Umsetzungsvarianten?
 
@@ -148,7 +148,7 @@ La description détaillée de ces variantes dépasse le cadre de la boîte morph
 donc décrites et analysées dans un document séparé.
 
 Lien : [Introduction au paramètre de l’architecture de base sur la plateforme de discussion](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-13.md)
-Lien : [Documentation complète des architectures de base possibles (variantes) dans un PDF séparé](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-13-base-architecture-working-document-DE.pdf) [Il s'agit de la version allemande ; la version française sera publiée dès que possible.]
+Lien : [Documentation complète des architectures de base possibles (variantes) dans un PDF séparé](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-13-base-architecture-working-document-FR.pdf)
 
 ## 5e événement en ligne
 
