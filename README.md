@@ -15,7 +15,7 @@ _[Deutsche Version](#d0-0)_
 ## <a name="f1-0">Introduction à la plateforme</a>
 
 L'E-Collecting désigne un processus numérique allant du soutien à une initiative populaire par sa propre signature au comptage des signatures reçues.
-Pour en savoir plus, rendez-vous sur le [Site Web de la Chancellerie fédérale](https://www.bk.admin.ch/fr/recolte-electronique-de-signatures). 
+Pour en savoir plus, rendez-vous sur le [Site Web de la Chancellerie fédérale](https://www.bk.admin.ch/fr/recolte-electronique-de-signatures).
 
 Le Parlement a chargé le Conseil fédéral de mener des essais dans le domaine de la collecte électronique. Il a confié la direction du projet à la Chancellerie fédérale, laquelle a lancé un processus participatif dans ce but. Elle poursuit ainsi l'objectif de recenser, de décrire et de discuter les questions importantes et les différentes variantes de mise en œuvre.
 
@@ -25,7 +25,7 @@ La plateforme est ouverte à toutes les personnes intéressées et les invite d�
 
 La présentation de la plateforme dans le navigateur diffère des normes habituelles. C'est pourquoi un [mode d'emploi](https://github.com/swiss/e-collecting/blob/main/docs/admin/github-tutorial.md) séparé est disponible.
 
-La Chancellerie fédérale informe régulièrement quelles sont les nouveautés relatives au processus participatif dans sa newsletter E-Collecting. [Inscription](https://www.bk.admin.ch/fr/inscription-a-la-newsletter) 
+La Chancellerie fédérale informe régulièrement quelles sont les nouveautés relatives au processus participatif dans sa newsletter E-Collecting. [Inscription](https://www.bk.admin.ch/fr/inscription-a-la-newsletter)
 
 
 ## <a name="f2-0">Actualités- 🗨️ Les discussions en cours 🗨️</a>
@@ -55,8 +55,7 @@ Liste des paramètres de la boîte morphologique :
 * [12 - Logique de soutien des récoltes de signatures ](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-12.md)
 * [13 - Architecture de base ](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-13.md)
 
-Le paramètre 13 de l'architecture de base est accompagné d'un [document séparé](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/Document%20de%20travail%20param%C3%A8tre%20architecture%20de%20base%20version%201.0.pdf). 
-
+Le paramètre 13 de l'architecture de base est accompagné d'un [document séparé](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-13-base-architecture-working-document-FR.pdf).
 
 ## <a name="f4-0">Chronologie</a>
 
@@ -71,14 +70,14 @@ _Description de l'image : représentation graphique du calendrier avec les étap
 
 * Rapport de postulat E-Collecting  (2024-11-20): [PDF](https://www.newsd.admin.ch/newsd/message/attachments/90667.pdf)
 * Révision partielle de la loi fédérale sur les droits politiques avec nouvelle norme expérimentale relative à la récolte électronique (30 avril 2025): [Site web](https://www.news.admin.ch/fr/newnsb/oAsAOWHCOpvBMZavKcq_e)
-* Événement inaugural du processus participatif (27 août 2025): [Video](https://www.youtube.com/watch?v=WGUTi2jSaYw) / [Diapositives](https://www.bk.admin.ch/fr/processus-participatif) / [Résumé des discussions](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-1st-online-event.md) / [Transcript IA](https://github.com/swiss/e-collecting/blob/main/docs/transcripts/2025-08-27-1st-participation-event-ai-transcript.md) 
+* Événement inaugural du processus participatif (27 août 2025): [Video](https://www.youtube.com/watch?v=WGUTi2jSaYw) / [Diapositives](https://www.bk.admin.ch/fr/processus-participatif) / [Résumé des discussions](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-1st-online-event.md) / [Transcript IA](https://github.com/swiss/e-collecting/blob/main/docs/transcripts/2025-08-27-1st-participation-event-ai-transcript.md)
 * Guide pour participer au hackathon E-Collecting (23/10/2025): [Guide](https://www.bk.admin.ch/fr/processus-participatif) / [Liste des "topics" du hackathon](https://github.com/swiss/e-collecting/blob/main/docs/base-documents/hackathon-topics.md)
 * Hackathon E-Collecting avec plusieurs solutions (31/10/2025-01/11/2025): [Site web](https://www.github.com/swiss/e-collecting-hackathon)
 * 2e événement en ligne du processus participatif (2025-12-10): [Diapositives](https://www.bk.admin.ch/fr/processus-participatif) / [Registration Youtube](https://www.youtube.com/watch?v=UJGfUZ5F4yY) / [Résumé des discussions](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-2nd-online-event.md) / [Chat](https://github.com/swiss/e-collecting/blob/main/docs/transcripts/2025-12-10-2nd-participation-event-chat.md) / [Transcription IA](https://github.com/swiss/e-collecting/blob/main/docs/transcripts/2025-12-10-2nd-participation-event-ai-transcript.md)
-* 3e événement en ligne du processus participatif (2026-03-18): [Diapositives](https://www.bk.admin.ch/fr/processus-participatif) / [Registration Youtube](https://www.youtube.com/watch?v=YKNFh9aYdtk) / [Résumé des discussions](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-3rd-online-event.md) / [Chat](https://github.com/swiss/e-collecting/blob/main/docs/transcripts/2026-03-18-3rd-participation-event-chat.md) / [Transcription IA](https://github.com/swiss/e-collecting/blob/main/docs/transcripts/2026-03-18-3rd-participation-event-ai-transcript.md)  
-*	[Synthèse des différents arguments et positions issus du dialogue en ligne jusqu'à la mi-mars 2026 (08/04/2026)](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#r%C3%A9sum%C3%A9-des-arguments-de-la-premi%C3%A8re-phase-du-dialogue-en-ligne-au-17-mars-2026)
-*	[Introduction à la boîte morphologique](https://github.com/swiss/e-collecting/blob/main/docs/method/morphological-box.md)
-*	4e événement en ligne du processus participatif (2026-06-03): [Diapositives](https://www.bk.admin.ch/fr/processus-participatif) / [Registration Youtube](https://www.youtube.com/watch?v=JadSq1rMi4g) / [Résumé des discussions](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md) / [Chat](https://github.com/swiss/e-collecting/blob/main/docs/transcripts/2026-06-03-4th-participation-event-chat.md) / [Transcription IA](https://github.com/swiss/e-collecting/blob/main/docs/transcripts/2026-06-03-4th-participation-event-ai-transcript.md)   
+* 3e événement en ligne du processus participatif (2026-03-18): [Diapositives](https://www.bk.admin.ch/fr/processus-participatif) / [Registration Youtube](https://www.youtube.com/watch?v=YKNFh9aYdtk) / [Résumé des discussions](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-3rd-online-event.md) / [Chat](https://github.com/swiss/e-collecting/blob/main/docs/transcripts/2026-03-18-3rd-participation-event-chat.md) / [Transcription IA](https://github.com/swiss/e-collecting/blob/main/docs/transcripts/2026-03-18-3rd-participation-event-ai-transcript.md)
+* [Synthèse des différents arguments et positions issus du dialogue en ligne jusqu'à la mi-mars 2026 (08/04/2026)](https://github.com/swiss/e-collecting/blob/main/docs/summaries/first-summary-online-dialogue.md#r%C3%A9sum%C3%A9-des-arguments-de-la-premi%C3%A8re-phase-du-dialogue-en-ligne-au-17-mars-2026)
+* [Introduction à la boîte morphologique](https://github.com/swiss/e-collecting/blob/main/docs/method/morphological-box.md)
+* 4e événement en ligne du processus participatif (2026-06-03): [Diapositives](https://www.bk.admin.ch/fr/processus-participatif) / [Registration Youtube](https://www.youtube.com/watch?v=JadSq1rMi4g) / [Résumé des discussions](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md) / [Chat](https://github.com/swiss/e-collecting/blob/main/docs/transcripts/2026-06-03-4th-participation-event-chat.md) / [Transcription IA](https://github.com/swiss/e-collecting/blob/main/docs/transcripts/2026-06-03-4th-participation-event-ai-transcript.md)
 
 ### <a name="f5-2">Autres documents sur l’E-Collecting</a>
 
@@ -104,7 +103,7 @@ E-Collecting bezeichnet ein digitales Verfahren, das von der Unterstützung eine
 
 Mehr dazu auf der [Webseite der Bundeskanzlei](https://www.bk.admin.ch/bk/de/home/politische-rechte/e-collecting.html).
 
-Das Parlament hat den Bundesrat mit Versuchen mit E-Collecting beauftragt. Er hat die Federführung der 
+Das Parlament hat den Bundesrat mit Versuchen mit E-Collecting beauftragt. Er hat die Federführung der
 Bundeskanzlei übertragen. Sie hat dazu einen partizipativen Prozess lanciert. Damit verfolgt sie das Ziel,
 die wichtigen Fragen und die verschiedenen Umsetzungsvarianten zu erheben, zu beschreiben und zu besprechen.
 
