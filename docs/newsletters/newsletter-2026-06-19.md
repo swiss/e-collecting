@@ -175,7 +175,7 @@ als Parameter und diskutieren dann sogenannte Ausprägungen als mögliche Lösun
 Beispiel ein Auto vorstellen, dann stellt sich die Frage nach dem Parameter “Antrieb”. Als grobe
 “Ausprägungen” kommen “fossiler Motor”, “hybrider Motor” oder “Elektromotor” in Frage.
 
-https://github.com/swiss/e-collecting/blob/main/docs/method/morphological-box.md
+https://github.com/swiss/e-collecting/blob/main/docs/method/morphological-box.md?#d-0
 
 ### Was sind Umsetzungsvarianten?
 
