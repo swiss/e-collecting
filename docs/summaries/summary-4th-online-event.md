@@ -152,7 +152,7 @@ Le résumé suivant s'appuie sur les retours d'information formulés par les dif
 *	L’échange en personne (variante 3) ne constitue qu’une demi-numérisation, difficile à garantir, car un échange en personne peut avoir eu lieu même en cas de signature électronique.
 
 ## Groupe 4: 
-*	La déclaration de soutien doit être transmise immédiatement. L'option 2 est privilégiée, car il n'existe pas d'alternative.
+*	La déclaration de soutien doit être transmise immédiatement. L'option 1 est privilégiée, car il n'existe pas d'alternative.
 *	Garantir un délai de réflexion impliquerait également des coûts importants.
 *	La responsabilité des électeurs doit être au premier plan.
 *	L'option 3 ne correspond probablement pas à la volonté du Parlement.
@@ -313,7 +313,7 @@ Die Rolle der Sammelorganisationen werden sich im digitalen Kontext verändern u
 *	Beim persönlichen Austausch (Ausprägung 3) handelt es sich nur um eine halbe Digitalisierung, die sich schwer sicherstellen lässt, da auch bei elektronischer Unterschrift ein persönlicher Austausch stattgefunden haben kann. 
 
 ## Gruppe 4: 
-*	Unterstützungsbekundung soll unmittelbar übermittelt werden. Ausprägung 2 wird als alternativlos favorisiert.
+*	Unterstützungsbekundung soll unmittelbar übermittelt werden. Ausprägung 1 wird als alternativlos favorisiert.
 *	Die Sicherstellung einer Bedenkzeit wäre auch mit hohem Aufwand verbunden.
 *	Die Mündigkeit der Stimmberechtigten muss im Vordergrund stehen.
 *	Ausprägung 3 entspricht wohl nicht dem Wunsch des Parlaments.
