@@ -15,36 +15,53 @@ Il existe des interdépendances avec le paramètre 4.
 ```mermaid
 block
   block
-    columns 3
+    columns 4
     t1["Paramètres"]
-    t2["Variantes"]:2
+    t2["Variantes"]:3
     d["Paramètre 12
     Logique de soutien des
     récoltes de signatures "]
     a1["Variante 1:
-    Par sa déclaration de soutien numérique,
-    l’électeur soutient la requête populaire
-    et, simultanément, une organisation de
-    récolte spécifique (soit le nom de
-    l’organisation de récolte est déjà inclus
-    dans le « lien de récolte »,
-    soit les électeurs sont invités,
-    lors de la soumission de leur déclaration
-    de soutien, à choisir l’organisation
-    à laquelle ils souhaitent l’attribuer)"]
+    Par sa déclaration de soutien
+    numérique, l’électeur soutient
+    la requête populaire et,
+    simultanément, une 
+    organisation de récolte
+    spécifique (soit le nom de
+    l’organisation de récolte 
+    est déjà inclus dans le 
+    « lien de récolte », soit
+    les électeurs sont invités,
+    lors de la soumission de 
+    leur déclaration de soutien,
+    à choisir l’organisation
+    à laquelle ils souhaitent
+    l’attribuer)"]
     a2["Variante 2:
     L’électeur a la possibilité,
-    s’il le souhaite, de soutenir
-    simultanément une organisation
-    de récolte par le biais de sa
-    déclaration de soutien numérique
-    (soit l’indication de l’organisation
-    de récolte est déjà incluse dans le
-    « lien de récolte », soit les électeurs
-    ont la possibilité, lors de la soumission
-    de leur déclaration de soutien, de choisir
-    l’organisation à laquelle ils souhaitent
-    l’attribuer)"]
+    s’il le souhaite, de 
+    soutenir simultanément une
+    organisation de récolte par
+    le biais de sa déclaration
+    de soutien numérique (soit
+    l’indication de l’organisation
+    de récolte est déjà incluse
+    dans le « lien de récolte »,
+    soit les électeurs ont la
+    possibilité, lors de la 
+    soumission de leur déclaration
+    de soutien, de choisir 
+    l’organisation à laquelle 
+    ils souhaitent l’attribuer)"]
+    a3["Variante 3:
+    Les déclarations de soutien 
+    numériques ne sont attribuées
+    à aucune organisation de
+    récolte. Le système 
+    E-Collecting ne prévoit
+    aucune possibilité
+    d'attribution.
+    "]
     style t1 fill:#a8d5ff,stroke-width:0px
     style t2 fill:#a8d5ff,stroke-width:0px
     style d fill:#a8d5ff,stroke-width:0px,text-valign:top
@@ -68,33 +85,53 @@ Es bestehen Abhängigkeiten zu Parameter 4.
 ```mermaid
 block
   block
-    columns 3
+    columns 4
     t1["Parameter"]
-    t2["Ausprägungen"]:2
+    t2["Ausprägungen"]:3
     d["Parameter 12
     Unterstützungslogik von
     Unterschriftensammlungen "]
     a1["Ausprägung 1:
-    Die stimmberechtigte Person unterstützt mit
-    ihrer digitalen Unterstützungsbekundung das
-    Volksbegehren und gleichzeitig auch eine
-    spezifische Sammelorganisation (entweder
-    ist die Angabe der Sammelorganisation
-    bereits im «Sammellink» enthalten oder
-    Stimmberechtigte sind bei der Abgabe der
-    Unterstützungsbekundung aufgefordert,
-    auszuwählen, welcher Organisation sie
-    diese zuschreiben möchten)"]
+    Die stimmberechtigte Person
+    unterstützt mit ihrer
+    digitalen Unterstützungs-
+    bekundung das Volksbegehren
+    und gleichzeitig auch eine
+    spezifische Sammelorganisa-
+    tion (entweder ist die
+    Angabe der Sammelorganisation
+    bereits im «Sammellink» ent-
+    halten oder Stimmberechtigte
+    sind bei der Abgabe der Unter-
+    stützungsbekundung aufgefor-
+    dert, auszuwählen, welcher
+    Organisation sie diese zu-
+    schreiben möchten)"]
     a2["Ausprägung 2:
-    Die stimmberechtige Person kann optional
-    mit ihrer digitalen Unterstützungsbekundung
-    gleichzeitig auch eine Sammelorganisation
-    unterstützen (entweder kann die Angabe der
-    Sammelorganisation bereits im «Sammellink»
-    enthalten sein oder Stimmberechtigte haben
-    bei der Abgabe der Unterstützungsbekundung
-    die Möglichkeit, auszuwählen, welcher
-    Organisation sie diese zuschreiben möchten)"]
+    Die stimmberechtige Person
+    kann optional mit ihrer
+    digitalen Unterstützungs-
+    bekundung gleichzeitig
+    auch eine Sammelorganisa-
+    tion unterstützen (ent-
+    weder kann die Angabe der
+    Sammelorganisation bereits
+    im «Sammellink» enthalten
+    sein oder Stimmberechtigte 
+    haben bei der Abgabe der
+    Unterstützungsbekundung
+    die Möglichkeit, auszuwäh-
+    len, welcher Organisation
+    sie diese zuschreiben
+    möchten)"]
+    a3["Ausprägung 3:
+    Digitale Unterstützungs-
+    bekundungen werden keiner
+    Sammelorganisation zuge-
+    ordnet. Das E-Collecting
+    System unterstützt keine
+    Möglichkeit einer Zu-
+    ordnung."]
     style t1 fill:#a8d5ff,stroke-width:0px
     style t2 fill:#a8d5ff,stroke-width:0px
     style d fill:#a8d5ff,stroke-width:0px,text-valign:top
