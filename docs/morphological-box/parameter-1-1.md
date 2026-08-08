@@ -25,12 +25,15 @@ block
     a1["Variante 1:
       Pas de saisie
       dans le système
-      E-Collecting mais
+      E-Collecting, mais
       uniquement dans le
-      registre électoral local
-      (afin d'éviter les
-      déclarations de soutien
-      multiples)"]
+      système correspondant
+      du service chargé de
+      la tenue du registre
+      électoral (afin 
+      d'éviter les 
+      déclarations de 
+      soutien multiples)."]
     a2["Variante 2:
       Saisie manuelle de la
       déclaration papier par la
@@ -83,12 +86,13 @@ block
       basierter Unterschriften
       im E-Collecting System"]
     a1["Ausprägung 1:
-      Keine Erfassung im
-      E-Collecting System, sondern
-      nur im lokalen Stimmregister
-      (zur Verhinderung von
-      mehrfachen Unterstützungs-
-      bekundungen"]
+      Keine Erfassung im E-Collecting
+      System, sondern nur im ent-
+      sprechenden System der 
+      stimmregisterführenden Stelle
+      (zur Verhinderung von mehr-
+      fachen Unterstützungs-
+      bekundungen)"]
     a2["Ausprägung 2:
       Manuelle Erfassung der
       Papier-Bekundung durch
