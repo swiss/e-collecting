@@ -33,7 +33,14 @@ block
       des doubles signatures
       sur les différents
       canaux"]
-    a3["&nbsp;"]
+    a3["Variante 3:
+      Vérification et, le
+      cas échéant, blocage
+      des doubles signatures
+      entre les différents
+      canaux et entre les
+      différents registres
+      électoraux."]
     a4["&nbsp;"]
     style t1 fill:#a8d5ff,stroke-width:0px
     style t2 fill:#a8d5ff,stroke-width:0px
@@ -78,7 +85,13 @@ block
       nenfalls Blockierung
       kanalübergreifender
       Doppelunterzeichnung"]
-    a3["&nbsp;"]
+    a3["Ausprägung 3:
+      Prüfung und gegebenen-
+      falls Blockierung
+      kanalübergreifender
+      und stimmregister-
+      übergreifender
+      Doppelunterzeichnungen."]
     a4["&nbsp;"]
     style t1 fill:#a8d5ff,stroke-width:0px
     style t2 fill:#a8d5ff,stroke-width:0px
