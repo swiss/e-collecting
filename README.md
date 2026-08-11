@@ -25,7 +25,7 @@ La plateforme est ouverte à toutes les personnes intéressées et les invite d�
 
 La présentation de la plateforme dans le navigateur diffère des normes habituelles. C'est pourquoi un [mode d'emploi](https://github.com/swiss/e-collecting/blob/main/docs/admin/github-tutorial.md) séparé est disponible.
 
-La Chancellerie fédérale informe régulièrement quelles sont les nouveautés relatives au processus participatif dans sa newsletter E-Collecting. [Inscription](https://www.bk.admin.ch/fr/inscription-a-la-newsletter)
+La Chancellerie fédérale informe régulièrement quelles sont les nouveautés relatives au processus participatif dans sa newsletter E-Collecting. [Inscription](https://www.bk.admin.ch/fr/inscription-a-la-newsletter) / [Archive](https://github.com/swiss/e-collecting/tree/main/docs/newsletters)
 
 
 ## <a name="f2-0">Actualités- 🗨️ Les discussions en cours 🗨️</a>
@@ -83,6 +83,7 @@ _Description de l'image : représentation graphique du calendrier avec les étap
 
 Une liste complète des documents est disponible dans un fichier séparé. [Liste](docs/admin/document-list.md).
 
+Consultez les archives du newsletter E-Collecting [ici](https://github.com/swiss/e-collecting/tree/main/docs/newsletters).
 
 
 # <a name="d0-0">Deutsch: E-Collecting-Plattform</a>
@@ -172,3 +173,4 @@ _Bildbeschreibung: Grafische Darstellung der Timeline mit den Stationen 3. Onlin
 
 Ein umfassenderess Verzeichnis mit Dokumenten findet sich auf einer separaten [Liste](docs/admin/document-list.md).
 
+Die regelmässig publizierten Newsletter archivieren [hier](https://github.com/swiss/e-collecting/tree/main/docs/newsletters).
