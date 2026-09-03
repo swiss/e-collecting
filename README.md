@@ -35,7 +35,9 @@ Début juillet 2026, la Chancellerie fédérale a publié la troisième et, pour
 
 Au cours de cette troisième phase du dialogue en ligne, qui se poursuivra jusqu’à fin septembre, l’accent n’est plus uniquement mis sur la discussion des paramètres individuels. Il s’agit plutôt d’évaluer si la boîte morphologique offre, dans son ensemble, une présentation équilibrée des paramètres, des caractéristiques et des arguments pertinents. De plus, nous souhaitons connaître votre avis sur les caractéristiques que vous privilégiez pour chaque paramètre et les raisons qui motivent ce choix. Enfin, l’un des objectifs est également d’identifier les valeurs manquantes ou les paramètres non pris en compte jusqu’à présent, et de les intégrer à la boîte morphologique avec une description appropriée. Cela constituera un élément essentiel des bases sur lesquelles s'appuiera la Chancellerie fédérale pour choisir la variante de mise en oeuvre concernant l'organisation des essais de récolte électronique.
 
-Pour toutes ces questions, nous comptons sur votre collaboration. Nous vous invitons à participer activement, que ce soit ici sur la plateforme ou le 19 août, lorsque nous nous réunirons pour discuter à l’occasion de la 5ème manifestation en ligne. Les inscriptions sont [ouvertes](https://findmind.ch/c/3E7N-M3aP).
+Pour toutes ces questions, nous comptons sur votre collaboration. Nous vous invitons à participer activement.
+
+Le 6 octobre, nous ferons un bilan des discussions lors de la 6e événement en ligne. Les inscriptions sont [ouvertes](https://findmind.ch/c/PU3s-EZgp).
 
 Liste des paramètres de la boîte morphologique :
 
@@ -127,7 +129,9 @@ Anfang Juli 2026 hat die Bundeskanzlei die dritte und vorerst letzte Tranche von
 
 In dieser bis Ende September laufenden dritten Phase des Online-Dialogs steht nicht mehr nur die Diskussion einzelner Parameter im Vordergrund. Vielmehr soll auch beurteilt werden, ob der morphologische Kasten insgesamt eine ausgewogene Darstellung der relevanten Parameter, Ausprägungen und Argumente bietet. Darüber hinaus interessieren wir uns für Ihre Einschätzung, welche Ausprägungen Sie bei den einzelnen Parametern bevorzugen und aus welchen Gründen Sie dies tun. Schliesslich ist es auch ein Ziel, allfällige fehlende Ausprägungen oder bislang nicht berücksichtige Parameter zu identifizieren und mit einer entsprechenden Beschreibung in den morphologischen Kasten aufzunehmen. Dies wird einen wichtiger Bestandteil der Grundlagen für den Variantenentscheid der Bundeskanzlei über die Ausgestaltung der Versuche mit E-Collecting bilden.
 
-Bei all diesen Fragen sind wir auf Ihre Mitarbeit angewiesen. Wir laden Sie ein, sich aktiv zu beteiligen. Sei es hier auf der Plattform, oder am 19. August, wenn wir uns an der 5. Online-Veranstaltung zur Diskussion treffen. Die Registrierung ist [offen](https://findmind.ch/c/3E7N-M3aP).
+Bei all diesen Fragen sind wir auf Ihre Mitarbeit angewiesen. Wir laden Sie ein, sich aktiv zu beteiligen. 
+
+Am 6. Oktober werden wir an der 6. Online-Veranstaltung eine Bilanz der Diskussionen ziehen. Die Registrierung ist [offen](https://findmind.ch/c/PU3s-EZgp).
 
 Liste der Parameter des morphologischen Kastens:
 
