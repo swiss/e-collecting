@@ -22,4 +22,3 @@
 - 4 und 5, es braucht sicherlich einen Ansatz, der auf Krypto aufbaut
 - 4 & 5, weil am besten fundiert und wahrscheinlich 'Handstände' realisierbar.
 - Kurz: UV3 mit eID ist die richtige Richtung, aber sie wird nicht pseudonymfrei. Das Pseudonym wandert von der Gemeinde auf einen client-seitigen Nullifier aus der eID.
-- 

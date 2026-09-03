@@ -18,4 +18,3 @@
 - Bei den Gemeinsamkeiten fehlt der klare Hinweis, dass das Teilnahmegeheimnis auch bei allen Varianten (richtig?) gegenüber dem Initiativkomitee gilt. Sodann ist (wie mündlich erwähnt wurde) die Basis E-ID klarer hervozuheben,  haben doch hier eine starke demokratische Legitimation. 
 - Offene Frage: Was wird höher gewichtet: Absolutes Stimmgeheimnis oder Verhinderung von Mehrfachunterzeichnung?
 - Kosten, Dauer Umsetzung, Versuchstauglichkeit (kann das System nur teilweise oder nur zeitlich begrenzt für einen Pilot eingesetzt, System kann ausgebaut/verbessert werden)
-- 
