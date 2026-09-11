@@ -17,7 +17,7 @@ _[Deutsche Version](#d0-0)_
 L'E-Collecting désigne un processus numérique allant du soutien à une initiative populaire par sa propre signature au comptage des signatures reçues.
 Pour en savoir plus, rendez-vous sur le [Site Web de la Chancellerie fédérale](https://www.bk.admin.ch/fr/recolte-electronique-de-signatures).
 
-Le Parlement a chargé le Conseil fédéral de mener des essais dans le domaine de la collecte électronique. Il a confié la direction du projet à la Chancellerie fédérale, laquelle a lancé un processus participatif dans ce but. Elle poursuit ainsi l'objectif de recenser, de décrire et de discuter les questions importantes et les différentes variantes de mise en œuvre.
+Le Parlement a chargé le Conseil fédéral de mener des essais dans le domaine de la récolte électronique. Il a confié la direction du projet à la Chancellerie fédérale, laquelle a lancé un processus participatif dans ce but. Elle poursuit ainsi l'objectif de recenser, de décrire et de discuter les questions importantes et les différentes variantes de mise en œuvre.
 
 La plateforme E-Collecting sert à discuter des essais menés sur le E-Collecting et des différentes variantes possibles de mise en œuvre.
 
