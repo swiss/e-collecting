@@ -40,9 +40,19 @@ Relevante Ergebnisobjekte:
 
 Das zentrale E-Collecting-System ist die führende Instanz für die Verhinderung von Doppelunterstützungen.
 
-Unabhängig davon, ob eine Unterstützungsbekundung digital oder auf Papier erfolgt, wird zentral entschieden, ob für ein bestimmtes Volksbegehren bereits eine Unterstützungsbekundung derselben stimmberechtigten Person registriert wurde. Im digitalen Kanal erfolgt dies unmittelbar, kanalübergreifend (Papier ↔ digital) über einen datenschutzfreundlichen Abgleich (siehe Abschnitt 5).
+Unabhängig davon, ob eine Unterstützungsbekundung digital oder auf Papier erfolgt, wird zentral entschieden, ob für ein bestimmtes Volksbegehren bereits eine Unterstützungsbekundung derselben stimmberechtigten Person registriert wurde. Im digitalen Kanal erfolgt dies unmittelbar, kanalübergreifend (Papier ↔ digital) über einen datenschutzfreundlichen Abgleich (siehe Abschnitt 6).
 
 Dadurch entfällt die Notwendigkeit für Gemeinden, gegenseitig oder gegenüber dem digitalen Kanal Abfragen durchzuführen.
+
+Der Vorschlag ist aus drei Schichten aufgebaut, die sich unabhängig voneinander festlegen lassen:
+
+| Schicht | Festlegung in diesem Vorschlag | Im Arbeitspapier verortet bei |
+| --- | --- | --- |
+| Berechtigung | eStimmrechtsausweis der Gemeinde, für alle bereitgestellt, einmal verwendbare Nachweise (Abschnitt 5) | nahe UV3 |
+| Casting | ballot-spezifisch, nicht über Volksbegehren korrelierbar; Verfahren offen (Abschnitt 6) | UV4, UV5 |
+| Auszählung | Ergebnis unabhängig nachrechenbar, Schlüsselgewalt nicht bei einer einzelnen Stelle | UV4, UV5 |
+
+Dass sich diese Festlegungen frei kombinieren lassen, ist selbst ein Befund zum Zuschnitt von Parameter 13: die fünf Umsetzungsvarianten bündeln Entscheidungen, die getrennt getroffen werden können.
 
 ### 4. Datenschutz und Datensparsamkeit
 
@@ -63,9 +73,57 @@ Das System soll lediglich entscheiden können:
 
 – ohne weitere Informationen offenzulegen.
 
-Wie ein solches datensparsames, ballot-spezifisches Merkmal konkret realisiert werden kann, wird in Abschnitt 5 eingeordnet; es stützt sich auf bestehende wissenschaftliche Arbeiten und ist vor einer Umsetzung eingehend zu prüfen.
+Wie ein solches datensparsames, ballot-spezifisches Merkmal konkret realisiert werden kann, wird in Abschnitt 6 eingeordnet; es stützt sich auf bestehende wissenschaftliche Arbeiten und ist vor einer Umsetzung eingehend zu prüfen.
 
-### 5. Multiballot-Casting und Collision Detection
+### 5. Berechtigungsschicht: eStimmrechtsausweis
+
+Die Stimmrechtsbescheinigung erfolgt über einen **eStimmrechtsausweis**, den die Gemeinde über die Vertrauensinfrastruktur des Bundes ausstellt. Der Nachweis stammt aus dem Stimmregister und nicht aus der E-ID selbst, da die E-ID weder Bürgerrecht noch politische Gemeinde führt.
+
+Ausstellung und Unterstützung sind zwei getrennte Vorgänge, die nichts voneinander wissen.
+
+**Vorgang 1 — Ausstellung.** Bereitstellung durch die Gemeinde, unabhängig von jeder Sammlung.
+
+```mermaid
+sequenceDiagram
+    autonumber
+    participant P as Stimmberechtigte Person
+    participant G as Gemeinde / Stimmregister
+    participant W as Wallet
+
+    G->>G: stellt Nachweise für alle Stimmberechtigten bereit
+    P->>G: Bezug in Selbstbedienung, jederzeit
+    G->>W: Bündel einmal verwendbarer Nachweise
+```
+
+**Vorgang 2 — Unterstützen.** Beliebig später, für jedes Volksbegehren erneut. Die Gemeinde ist nicht beteiligt.
+
+```mermaid
+sequenceDiagram
+    autonumber
+    participant P as Stimmberechtigte Person
+    participant W as Wallet
+    participant E as E-Collecting-System
+
+    P->>E: möchte ein bestimmtes Volksbegehren unterstützen
+    E->>W: Präsentationsanfrage (OpenID4VP)
+    P->>W: Freigabe
+    W->>E: Präsentation, einmal verwendbarer Nachweis
+    E->>E: Nachweis prüfen, Unterstützung registrieren
+    E-->>P: Bestätigung
+```
+
+Beide Diagramme sind vereinfacht. Nicht dargestellt sind die Identifikation der Person beim Bezug, das Zusammenspiel von Browser und Wallet auf einem oder zwei Geräten, die Prüfung von Aussteller und Widerrufsstatus durch die Betriebsstelle, der Papierkanal sowie die Verfahren für Registrierung und Auszählung.
+
+Eigenschaften dieser Schicht:
+
+- **Dezentrale Bescheinigung durch die Konstruktion.** Art. 84a Abs. 4 nBPR ist unabhängig davon erfüllt, wie sich die Betriebsstelle verhält.
+- **Die Gemeinde handelt in eigener Zuständigkeit.** Sie bescheinigt durch einen eigenen Akt, statt auf Anfrage einer zentralen Stelle Daten zu liefern.
+- **Bereitstellung statt Bestellung.** Die Nachweise liegen für alle Stimmberechtigten bereit und werden in Selbstbedienung bezogen, wie der physische Stimmrechtsausweis, den ebenfalls niemand anfordern muss. Ein Bestellvorgang wäre eine Hürde und zugleich ein Signal an die Gemeinde über die Teilnahmeabsicht.
+- **Keine Gemeindeschnittstelle im Unterzeichnungsmoment.** Der Nachweis liegt bereits vor. Massgeblich ist die Gültigkeit im Präsentationszeitpunkt, wie heute die Bescheinigung im Zeitpunkt der Bescheinigung gilt. Geräteverlust und Wegzug führen zu einem neuen Nachweis.
+
+Offen ist die Unverkettbarkeit: mehrere Präsentationen dürfen für die prüfende Stelle nicht als derselben Person zugehörig erkennbar sein. Ein Bündel einmal verwendeter Nachweise (batch issuance nach OpenID4VCI) löst das ohne BBS+ oder ZK-Prädikate. Der heutige SD-JWT-Stack der Vertrauensinfrastruktur trägt das noch nicht; es ist angekündigt.
+
+### 6. Multiballot-Casting und Collision Detection
 
 Das System unterstützt Multiballot-Casting: eine Person kann mehrere unterschiedliche Volksbegehren unterstützen, pro Volksbegehren aber nur einmal. Die Erkennung einer Doppelunterstützung erfolgt **ballot-spezifisch** – über ein pro Volksbegehren unterschiedliches, nicht über verschiedene Volksbegehren korrelierbares Merkmal. Privatsphäre über parallele Sammlungen hinweg wird zusätzlich dadurch begünstigt, dass zu jedem Zeitpunkt viele Sammlungen parallel laufen.
 
@@ -75,10 +133,11 @@ Für die konkrete Realisierung dieses Mechanismus – sowohl für die Collision 
 
 - **[MultiBallot](https://arxiv.org/abs/2605.19312)** (Moser & Louistisserand) – ein verifizierbares, datenschutzfreundliches E-Collecting-Verfahren für den Schweizer Kontext;
 - die **[Hackathon-Lösung von Team 6](https://github.com/swiss/e-collecting-hackathon-team6)** – erweitert ein bestehendes, peer-reviewtes e-Voting-Protokoll (LH15) auf hybrides E-Collecting (Papier + digital).
+- **SilentSign** (Moser mit der BFH, vorgestellt am 8. September 2026 in [#8](https://github.com/swiss/e-collecting/issues/8#issuecomment-5579364443)) – eine Erweiterung von MultiBallot, bei der Anonymizers zusätzliche Ballots einliefern. Das Ergebnis bleibt unverändert, Teilnahmen werden verschleiert. Adressiert die Schwäche bei kleinen Gemeinden und wenig aktiven Sammlungen, setzt dafür aber einen anonymen Kanal voraus.
 
 Diese Ansätze sind **nicht Gegenstand dieses Vorschlags**; sie zeigen die Machbarkeit und sind vor einer Umsetzung **wissenschaftlich eingehend zu prüfen** sowie an den E-Collecting-Kontext anzupassen.
 
-### 6. Systemrollen
+### 7. Systemrollen
 
 **Stimmberechtigte Person**
 - unterstützt ein Volksbegehren digital,
@@ -112,7 +171,7 @@ Diese Ansätze sind **nicht Gegenstand dieses Vorschlags**; sie zeigen die Machb
 - stellt aggregierte Sammelstände über die API bereit,
 - trennt operative Zählung vom amtlichen Endresultat.
 
-### 7. Schnittstellen
+### 8. Schnittstellen
 
 Die Plattform stellt **genau eine Benutzeroberfläche** bereit: das **Webportal** für Gemeinden ohne eigenes Fachsystem. Alle übrigen Funktionen – Einlieferung, Quittierung und der **Abruf aggregierter Sammelstände** – laufen über die **API**. Ein eigenes Sammelstand-Dashboard gibt es nicht; die aggregierten Zahlen werden maschinenlesbar über die API bereitgestellt und können von berechtigten Stellen (z. B. Komitees, Behörden) abgerufen und dort dargestellt werden.
 
@@ -133,7 +192,7 @@ Die Plattform stellt **genau eine Benutzeroberfläche** bereit: das **Webportal*
 
 ## Teil B – Architektur
 
-### 8. Systemkontext (C4 / Kontextdiagramm)
+### 9. Systemkontext (C4 / Kontextdiagramm)
 
 ```mermaid
 flowchart LR
@@ -177,7 +236,7 @@ flowchart LR
 
 ## Teil C – Prozesse
 
-### 9. Prozess 1: Digitale Unterstützungsbekundung
+### 10. Prozess 1: Digitale Unterstützungsbekundung
 
 Die Person ruft ein spezifisches Volksbegehren über einen **Direktlink** auf (es gibt keine zentrale Übersicht, siehe Parameter 2), authentisiert sich über die vorgesehene elektronische Identität und gibt die Unterstützung ab. Das System prüft atomar auf Doppelunterstützung. Es ist **keine Bedenkzeit** vorgesehen; die Unterstützung wird unmittelbar wirksam.
 
@@ -194,7 +253,7 @@ flowchart TD
     H --> I
 ```
 
-### 10. Prozess 2: Papierunterstützung erfassen
+### 11. Prozess 2: Papierunterstützung erfassen
 
 Das Komitee reicht Papierbögen bei der Gemeinde ein. Die Gemeinde prüft gemäss geltendem Recht und liefert die bestätigten Unterstützungen via Webportal oder API ein (**Fire-and-Forget**). Das zentrale System führt intern die datensparsame Collision Detection durch. Die Gemeinde stellt dem Komitee eine Quittung über die Anzahl bearbeiteter Unterstützungen aus und lagert die Papierbögen für ein allfälliges Audit ein.
 
@@ -221,7 +280,7 @@ flowchart TD
 
 **Aufbewahrung der Papierunterlagen:** Die physischen Unterstützungsbögen verbleiben bei der Gemeinde und werden gemäss gesetzlichen Vorgaben für ein allfälliges Audit aufbewahrt; nach Ablauf der Aufbewahrungsfrist werden sie vernichtet. Das zentrale System ersetzt nicht die Aufbewahrung der Originalunterlagen; diese dienen während der Aufbewahrungsfrist als Nachweisgrundlage für Audits oder amtliche Prüfungen.
 
-### 11. Prozess 3: Audit durch Bundeskanzlei
+### 12. Prozess 3: Audit durch Bundeskanzlei
 
 Die Bundeskanzlei kann Stichproben anfordern, Vor-Ort-Kontrollen durchführen und die Übereinstimmung zwischen gemeldeten und vorhandenen Papierunterstützungen prüfen. Werden Papierunterstützungen nachträglich als ungültig beurteilt, werden diese bei der amtlichen Feststellung vom im E-Collecting-System ausgewiesenen Sammelstand abgezogen.
 
@@ -245,13 +304,17 @@ Hinweistext, der die ausgewiesenen Zahlen begleitet:
 
 > Der ausgewiesene Sammelstand ist vorläufig. Nach Audit und Prüfung durch die Bundeskanzlei kann die Anzahl der amtlich bestätigten Unterstützungsbekundungen abweichen.
 
+Der Sammelstand wird **periodisch fortgeschrieben und veröffentlicht** (Tagesende), nicht laufend. Die Differenz zwischen zwei Veröffentlichungen gibt so kein enges Zeitfenster preis, das sich mit anderen Beobachtungen korrelieren liesse. Verlangt das gewählte Verfahren für jede Veröffentlichung eine Auswertung unter Beteiligung mehrerer Stellen, ist ein Tagesrhythmus betrieblich tragbar, ein Live-Betrieb nicht.
+
+Für kleine Sammlungen bleibt die Differenz aussagekräftig. Deshalb eine **Mindestzahl je Veröffentlichung**: unterschreitet der Zuwachs die Schwelle, wird er der nächsten Veröffentlichung zugeschlagen. Das entspricht dem in [#35](https://github.com/swiss/e-collecting/issues/35) vorgeschlagenen Parameter N-20 (Aggregation von Transparenzdaten mit Schwellenwert).
+
 ---
 
 ## Teil D – Abbildung auf den Morphologischen Kasten
 
 Dieser Abschnitt zeigt, **wie der oben beschriebene Vorschlag auf die einzelnen Parameter abbildet**. Für jeden Parameter wird eine Ausprägung gewählt. Wo der Vorschlag über die bisher dokumentierten Ausprägungen hinausgeht, ist dies mit ⚠ als **Divergenz / ergänzende Ausprägung** gekennzeichnet.
 
-### 12. Übersicht
+### 13. Übersicht
 
 | Parameter | Gewählte Ausprägung | Begründung (Kurz) | Diskussion |
 |-----------|---------------------|-------------------|------------|
@@ -265,8 +328,13 @@ Dieser Abschnitt zeigt, **wie der oben beschriebene Vorschlag auf die einzelnen 
 | [6 Föderale Ebenen](../morphological-box/parameter-6.md) | **Zielbild: Ausprägung 4** (alle Ebenen + weitere Begehrensformen); **Versuchsbetrieb: Ausprägung 1** (Bundesebene) | Prinzipiell keine föderale Beschränkung nötig; Race-Conditions (z. B. Wegzug) via Zero-Knowledge-Proofs lösbar | [#19](https://github.com/swiss/e-collecting/issues/19) |
 | [7 Administrative Voraussetzungen](../morphological-box/parameter-7.md) | **Ausprägung 3** – Automatischer Zugang ohne Anmeldung; **keine administrativen Voraussetzungen** | Zentrale Collision Detection macht ein Opt-Out überflüssig | [#20](https://github.com/swiss/e-collecting/issues/20) |
 | [8 Bedenkzeit](../morphological-box/parameter-8.md) | **Ausprägung 1** – Sofortige Übermittlung | Vorschlag sieht sofortige Wirksamkeit vor | [#21](https://github.com/swiss/e-collecting/issues/21) |
+| [9 Vorgelagerte Prozesse](../morphological-box/parameter-9.md) | **Ausprägung 1** – keine Unterstützung vorgelagerter Prozesse | Vorprüfung bleibt ausserhalb des Systems | [#24](https://github.com/swiss/e-collecting/issues/24) |
+| [10 Bereitstellungsform](../morphological-box/parameter-10.md) | **Ausprägung 1** – Browser; Wallet nur für den Nachweis | keine eigene E-Collecting-App; stützt die vorgeschlagene Abspaltung eines Parameters «Berechtigungsnachweis» | [#25](https://github.com/swiss/e-collecting/issues/25) |
+| [11 Digital Divide](../morphological-box/parameter-11.md) | **Ausprägung 2** – WCAG- und eCH-0059-konforme Web-Lösung | Papier bleibt Rückfallkanal; öffentliche Terminals hängen von Parameter 13 ab | [#26](https://github.com/swiss/e-collecting/issues/26) |
+| [12 Unterstützungslogik](../morphological-box/parameter-12.md) | **Ausprägung 3** – keine Zuschreibung | konsistent mit Abschnitt 4 | [#27](https://github.com/swiss/e-collecting/issues/27) |
+| [13 Grundarchitektur](../morphological-box/parameter-13.md) | **⚠ eigene Kombination**, nicht in UV1–UV5 enthalten | Schichtenmodell in Abschnitt 3 | [#28](https://github.com/swiss/e-collecting/issues/28) |
 
-### 13. Begründung je Parameter
+### 14. Begründung je Parameter
 
 #### Parameter 1.1 – Erfassung papierbasierter Unterschriften → ⚠ neue, kombinierte Ausprägung
 
@@ -275,7 +343,7 @@ Auch hier weicht der Vorschlag bewusst ab: Die Gemeinde erfasst bestätigte Papi
 
 #### Parameter 1.2 – Digitale Verarbeitung → Ausprägung 2
 
-Die übermittelten Daten dienen nicht nur der Zählung, sondern der **Prüfung und gegebenenfalls Blockierung kanalübergreifender Doppelunterzeichnungen**. Dies ist das Herzstück der Variante. Übermittelt wird nur das für die Doppelprüfung nötige, nicht über Volksbegehren korrelierbare Merkmal – ohne Offenlegung von Identitäten (siehe Abschnitt 5).
+Die übermittelten Daten dienen nicht nur der Zählung, sondern der **Prüfung und gegebenenfalls Blockierung kanalübergreifender Doppelunterzeichnungen**. Dies ist das Herzstück der Variante. Übermittelt wird nur das für die Doppelprüfung nötige, nicht über Volksbegehren korrelierbare Merkmal – ohne Offenlegung von Identitäten (siehe Abschnitt 6).
 
 #### Parameter 1.3 – Behandlung der Papier-Unterschriften → Ausprägung 3 (präzisiert)
 
@@ -322,10 +390,49 @@ Der Vorschlag sieht **keine Bedenkzeit** vor: Die Unterstützungsbekundung wird 
 
 ---
 
+#### Parameter 9 – Vorgelagerte Prozesse → Ausprägung 1
+
+Die Vorprüfung nach Art. 69 BPR bleibt ausserhalb des E-Collecting-Systems. Der Vorschlag sieht keinen Anlass, sie in den Versuchsbetrieb aufzunehmen.
+
+#### Parameter 10 – Bereitstellungsform → Ausprägung 1
+
+Zugang über den Browser. Eine eigene E-Collecting-App ist nicht vorgesehen; die Wallet wird nur für den Berechtigungsnachweis benötigt (Abschnitt 5). Der Vorschlag stützt damit die in [#25](https://github.com/swiss/e-collecting/issues/25) angeregte Abspaltung eines eigenen Parameters «Berechtigungsnachweis»: Bereitstellungsform und Nachweisform lassen sich hier nachweislich getrennt entscheiden.
+
+#### Parameter 11 – Digital Divide → Ausprägung 2
+
+Eine WCAG- und eCH-0059-konforme Web-Lösung. Der Papierkanal bleibt als Rückfall erhalten. Öffentliche Terminals (Ausprägung 3) sind nicht ausgeschlossen, ihre Machbarkeit hängt aber davon ab, wo die Berechtigungsschicht Geheimnisse ablegt – also von Parameter 13.
+
+#### Parameter 12 – Unterstützungslogik → Ausprägung 3
+
+Keine Zuschreibung. Jede zusätzliche Zuordnung erhöht die Rückführbarkeit und steht im Widerspruch zur Datensparsamkeit nach Abschnitt 4.
+
+#### Parameter 13 – Grundarchitektur → eigene Kombination
+
+Der Vorschlag lässt sich keiner der fünf Umsetzungsvarianten zuordnen. Er kombiniert eine Berechtigungsschicht nahe UV3 mit Eigenschaften, die das Arbeitspapier bei UV4 und UV5 verortet (Schichtenmodell in Abschnitt 3). Dass diese Kombination möglich ist, spricht für einen anderen Zuschnitt des Parameters: Zeitpunkt der Stimmrechtsprüfung, Identitätsmodell, kryptografisches Verfahren und öffentliche Nachprüfbarkeit sind unabhängig voneinander festlegbar.
+
+Zur Frage der Zuständigkeitsverteilung siehe Abschnitt 15.
+
 ## Teil E – Abschluss
 
-### 14. Architekturprinzipien
+### 15. Zuständigkeiten und Nachweisbarkeit
 
+Die Human Colossus Foundation hat in [#28](https://github.com/swiss/e-collecting/issues/28#issuecomment-5505562330) ein Kriterium vorgeschlagen, das die Vergleichskriterien U1–U11 nicht abbilden: Beruht der Entscheid über das Zustandekommen nach der Umstellung noch auf den Arbeiten mehrerer voneinander unabhängiger Stellen, oder auf dem Datenbestand einer einzigen? Der Vorschlag beantwortet das wie folgt.
+
+- **Gemeinde:** bescheinigt aktiv durch Ausstellung des eStimmrechtsausweises, in eigener Zuständigkeit (Abschnitt 5). Sie liefert keine Daten auf Anfrage.
+- **Bundeskanzlei:** Auszählung und Zustandekommensverfügung bleiben bei ihr (Art. 71 und 72 BPR). Die Betriebsstelle betreibt das System; sie entscheidet nicht.
+- **Auszählung:** das Ergebnis muss unabhängig nachrechenbar sein, und die Schlüsselgewalt darf nicht bei einer einzelnen Stelle liegen. Andernfalls wäre das Teilnahmegeheimnis gegenüber dieser Stelle nicht gewahrt.
+
+**Was nachgewiesen wird.** Dass eine Unterstützung *korrekt erfasst* wurde, soll die Person selbst feststellen können, aber inhaltsblind: der Nachweis belegt, dass eine gültige Unterstützung aufgenommen wurde, nicht welches Volksbegehren. Dass die erfassten Unterstützungen *korrekt gezählt* werden, wird universell nachgewiesen und nicht durch eine personenbezogene Quittung. Eine Bestätigung darf gegenüber Dritten nicht beweisen, welches Volksbegehren unterstützt wurde, sonst taugt sie zur Nötigung.
+
+**Schutz gegen stilles Verwerfen.** Die universelle Nachrechenbarkeit deckt die Strecke Board → Sammelstand ab, nicht die Strecke Übermittlung → Board. Ohne zusätzliche Vorkehrung könnte die Betriebsstelle eine Bekundung entgegennehmen, bestätigen und verwerfen. Erforderlich sind ein Inklusionsbeweis gegen eine nur anfügbare Datenstruktur, Nachweisbarkeit der Anfüge-Konsistenz und mehrere unabhängige Stellen, die die veröffentlichten Zustände gegenzeichnen. Ohne Gegenzeichnung bliebe die Möglichkeit, verschiedenen Beteiligten verschiedene Datenbestände zu zeigen.
+
+**Zielkonflikt, der zu entscheiden ist.** Ein Inklusionsbeweis gegen einen nach Volksbegehren getrennten Datenbestand gibt preis, um welches es geht. Ein gemeinsamer Bestand mit ununterscheidbaren Einträgen erhält die Blindheit, verlangt für die Zählung je Volksbegehren aber eine Auswertung unter Beteiligung mehrerer Stellen. Beides zugleich ist nicht zu haben.
+
+Offen bleiben die Rechtsstellung der Betriebsstelle und die Frage, welche Stellen Schlüsselträger sind. Komitees kommen dafür nicht in Betracht: private, ad hoc konstituierte Vereinigungen ohne institutionellen Fortbestand und ohne Schlüsselinfrastruktur, deren Mitwirkung an der Entschlüsselung sich aus keiner Norm herleiten liesse.
+
+### 16. Architekturprinzipien
+
+- Dezentrale Stimmrechtsbescheinigung über einen von der Gemeinde bereitgestellten eStimmrechtsausweis
 - Zentrale Verhinderung von Doppelunterstützungen
 - Datensparsame, ballot-spezifische Collision Detection
 - Multiballot-Casting ohne kanalübergreifende Personenoffenlegung
@@ -341,17 +448,20 @@ Der Vorschlag sieht **keine Bedenkzeit** vor: Die Unterstützungsbekundung wird 
 - Trennung zwischen operativem Sammelstand und amtlichem Endresultat
 - Sofortige Wirksamkeit digitaler Unterstützungsbekundungen ohne Bedenkzeit
 - Auditierbarkeit über bei Gemeinden aufbewahrte Papierbögen
+- Periodische statt laufender Veröffentlichung des Sammelstands, mit Mindestzahl je Veröffentlichung
+- Anforderungen statt Verfahren bei Casting und Auszählung: unabhängige Nachrechenbarkeit, verteilte Schlüsselgewalt
 
-### 15. Risiken
+### 17. Risiken
 
-Fokus: Risiken, die sich aus dieser Variante ergeben (insbesondere aus Fire-and-Forget und dem operativen Sammelstand). Die zentralen Gegenmassnahmen sind das **Audit durch die Bundeskanzlei** (Abschnitt 11), die bei den Gemeinden **aufbewahrten Originalbögen** (Parameter 1.3) und die **Quittung an Komitees** (Abschnitt 10).
+Fokus: Risiken, die sich aus dieser Variante ergeben (insbesondere aus Fire-and-Forget und dem operativen Sammelstand). Die zentralen Gegenmassnahmen sind das **Audit durch die Bundeskanzlei** (Abschnitt 12), die bei den Gemeinden **aufbewahrten Originalbögen** (Parameter 1.3) und die **Quittung an Komitees** (Abschnitt 11).
 
 | # | Risiko | Auswirkung | Gegenmassnahme / Restrisiko |
 | --- | --- | --- | --- |
 | R1 | **Erfassung ohne Papiervorlage** – eine in der Gemeinde erfassende Person legt (vorsätzlich oder versehentlich) Papierunterstützungen an, zu denen kein physischer Bogen existiert. Fire-and-Forget liefert keine unmittelbare Gegenprüfung. | Aufblähung des operativen Sammelstands; nicht belegte Unterstützungen fliessen vorerst in die Zählung ein. | Audit der BK (Stichprobe/Vor-Ort) gleicht gemeldete gegen physisch vorhandene Bögen ab → Differenzen werden vom amtlichen Resultat abgezogen; aufbewahrte Originalbögen als Nachweis; Quittung an Komitee als Quervergleich; Protokollierung je erfassendem Konto; Plausibilitäts-/Anomalieüberwachung der Erfassungsmengen je Gemeinde; organisatorisches Vier-Augen-Prinzip. **Restrisiko:** operativer (vorläufiger) Sammelstand bis zum Audit manipulierbar – durch «vorläufig»-Ausweisung entschärft. |
-| R2 | **Verfügbarkeit & Integrität der zentralen Plattform** – die zentrale Komponente ist Single Point of Failure und Angriffsziel. | Ausfall der Sammlung; Manipulationsversuche. | Öffentliche Verifizierbarkeit des gewählten Verfahrens (Abschnitt 5); Betriebs- und Sicherheitskonzept; Redundanz und Lastfestigkeit. |
+| R3 | **Batch Issuance nicht verfügbar** – die Vertrauensinfrastruktur unterstützt zum Zeitpunkt des Versuchsbetriebs keine Ausstellung einmal verwendbarer Nachweise. | Präsentationen werden für die prüfende Stelle verkettbar; die Unverkettbarkeit der Berechtigungsschicht entfällt. | Vorrat einmal verwendbarer Nachweise aus einer früheren Ausstellung. **Restrisiko:** Abhängigkeit von der E-ID-Roadmap, ausserhalb der Projektkontrolle. |
+| R2 | **Verfügbarkeit & Integrität der zentralen Plattform** – die zentrale Komponente ist Single Point of Failure und Angriffsziel. | Ausfall der Sammlung; Manipulationsversuche. | Öffentliche Verifizierbarkeit des gewählten Verfahrens (Abschnitt 6); Betriebs- und Sicherheitskonzept; Redundanz und Lastfestigkeit. |
 
-### 16. Offene Punkte
+### 18. Offene Punkte
 
 - wissenschaftliche Prüfung und Auswahl des konkreten Verfahrens für Collision Detection und Multiballot-Casting (vgl. [MultiBallot](https://arxiv.org/abs/2605.19312), [Hackathon Team 6](https://github.com/swiss/e-collecting-hackathon-team6))
 - kanalübergreifender Abgleich: Zeitpunkt (laufend vs. periodisch) und Sicherstellung, dass Gemeinden keine personenbezogenen Treffer erfahren (Fire-and-Forget)
@@ -365,3 +475,9 @@ Fokus: Risiken, die sich aus dieser Variante ergeben (insbesondere aus Fire-and-
 - Rollen- und Berechtigungskonzept für Webportal und API
 - Auditumfang und Auditfrequenz
 - Protokollierung und Nachvollziehbarkeit ohne unnötige Personendatenhaltung
+- Verfügbarkeit von batch issuance in der Vertrauensinfrastruktur; Dimensionierung des Nachweisbündels über eine Sammelfrist
+- Rechtsgrundlage für die Ausstellung eines eStimmrechtsausweises durch die Gemeinde
+- Verwahrung der Schlüssel, falls die gewählte Konstruktion welche erfordert: welche Stellen, welches Schwellenverhältnis, Verhalten bei Verlust eines Anteils
+- Rechtsstellung der Betriebsstelle (Bundesamt, gemeinsames Organ Bund–Kantone oder beaufsichtigte Betreiberin)
+- Entscheid über den Zielkonflikt zwischen anliegen-blindem Inklusionsbeweis und auswertungsfreier Zählung je Volksbegehren
+- Takt und Mindestzahl je Veröffentlichung des Sammelstands
