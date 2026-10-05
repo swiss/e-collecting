@@ -105,7 +105,7 @@ Aus den Diskussionen lässt sich keine eindeutige Tendenz zu einer bestimmten Au
 
 ## Parameter 2: Darstellung laufender Volksbegehren
 
-[Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-2.md) 
+[Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-2.md)
 [Link auf Diskussion Parameter 2](https://github.com/swiss/e-collecting/issues/15)
 [Link auf Diskussion Issue 3](https://github.com/swiss/e-collecting/issues/3)
 
