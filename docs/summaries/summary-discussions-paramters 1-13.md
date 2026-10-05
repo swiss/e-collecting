@@ -105,16 +105,13 @@ Aus den Diskussionen lässt sich keine eindeutige Tendenz zu einer bestimmten Au
 
 ## Parameter 2: Darstellung laufender Volksbegehren
 
-[Parameterbeschreibung](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-2.md)
+- [Parameterbeschreibung](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-2.md)
+- [Diskussion Parameter 2](https://github.com/swiss/e-collecting/issues/15)
+- [Diskussion Issue 3](https://github.com/swiss/e-collecting/issues/3)
  
-[Link auf Diskussion Parameter 2](https://github.com/swiss/e-collecting/issues/15)
- 
-[Link auf Diskussion Issue 3](https://github.com/swiss/e-collecting/issues/3)
- 
-Beteiligung Parameter-Diskussion: 4 Beiträge von 4 Personen, Stand 25.09.2026
- 
-Beteiligung Online-Diskussion Issue 3: 15 Beiträge von 10 Personen, Stand 17.03.2026
-
+- Beteiligung Parameter-Diskussion: 4 Beiträge von 4 Personen, Stand 25.09.2026
+- Beteiligung Online-Diskussion Issue 3: 15 Beiträge von 10 Personen, Stand 17.03.2026
+  
 ### Vollständigkeit der Ausprägungen
 Alle drei Ausprägungen wurden im Dialog diskutiert.
  
