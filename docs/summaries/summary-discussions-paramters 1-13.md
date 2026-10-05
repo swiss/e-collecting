@@ -145,7 +145,7 @@ Aus den Diskussionen lässt sich keine eindeutige Tendenz zu einer bestimmten Au
 
 ## Parameter 3: Möglichkeit Argumente im E-Collecting-System zu platzieren
 
-[Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-3.md) 
+[Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-3.md)<br> 
 [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/16)
 
 Beteiligung Parameter-Diskussion: 6 Beiträge von 5 Personen, Stand 25.09.2026
@@ -182,7 +182,7 @@ Es zeigt sich eine Tendenz zu Ausprägung 1 und Ausprägung 2. Eine klare Bevorz
 
 ## Parameter 4: Zuordnung von Unterstützungsbekundungen
 
-[Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-4.md) 
+[Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-4.md)<br>
 [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/17)
 
 Beteiligung Parameter-Diskussion: 7 Beiträge von 7 Personen, Stand 25.09.2026
@@ -218,7 +218,7 @@ In der Diskussion sprechen sich mehrere Teilnehmende grundsätzlich für eine Zu
 
 ## Parameter 5: Anzeige der Anzahl bisher gesammelter Unterschriften
 
-[Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-5.md) 
+[Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-5.md)<br>
 [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/18)
 
 Beteiligung Parameter-Diskussion: 8 Beiträge von 7 Personen, Stand 25.09.2026
@@ -257,7 +257,7 @@ Aus der Diskussion lässt sich keine eindeutige Tendenz zu einer bestimmten Ausp
 
 ## Parameter 6: Einsatz des E-Collecting-Systems auf allen drei föderalen Ebenen
 
-[Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-6.md) 
+[Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-6.md)<br>
 [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/19)
 
 Beteiligung Parameter-Diskussion: 4 Beiträge von 4 Personen, Stand 25.09.2026
@@ -289,7 +289,7 @@ In mehreren Beiträgen wird eine Konzeption des E-Collecting-Systems befürworte
 
 ## Parameter 7: Administrative Voraussetzungen für Teilnahmean E-Collecting Versuchen
 
-[Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-7.md) 
+[Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-7.md)<br>
 [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/20)
 
 Beteiligung Parameter-Diskussion: 3 Beiträge von 3 Personen, Stand 25.09.2026
@@ -317,7 +317,7 @@ Mehrheitlich wird ein Opt-Out für den Zugang zu E-Collecting abgelehnt.
 
 ## Parameter 8: Sicherstellung einer Bedenkzeit vor Übermittlung der Unterstützungsbekundung
 
-[Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-8.md) 
+[Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-8.md)<br>
 [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/21)
 
 Beteiligung Parameter-Diskussion: 4 Beiträge von 4 Personen, Stand 25.09.2026
@@ -353,7 +353,7 @@ Es zeigt sich eine klare Tendenz zu Ausprägung 1.
 
 ## Parameter 9: Unterstützung vorgelagerter Prozesse durch das E-Collecting-System
 
-[Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-9.md) 
+[Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-9.md)<br>
 [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/24)
 
 Beteiligung Parameter-Diskussion: 7 Beiträge von 5 Personen, Stand 25.09.2026
@@ -380,7 +380,7 @@ Aus der Diskussion lässt sich eine Tendenz zu Ausprägung 1 ableiten.
 
 ## Parameter 10: Bereitstellungsform der E-Collecting Anwendung
 
-[Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-10.md) 
+[Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-10.md)<br> 
 [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/25)
 
 Beteiligung Parameter-Diskussion: 6 Beiträge von 5 Personen, Stand 25.09.2026
@@ -417,7 +417,7 @@ Aus der Diskussion lässt sich keine eindeutige Tendenz zu einer einzelnen Auspr
 
 ## Parameter 11: Massnahmen zum Ausgleich des Digital Divide
 
-[Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-11.md) 
+[Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-11.md)<br> 
 [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/26)
 
 Beteiligung Parameter-Diskussion: 5 Beiträge von 5 Personen, Stand 28.09.2026
@@ -454,7 +454,7 @@ Aus der Diskussion lässt sich keine eindeutige Tendenz zu einer einzelnen Auspr
 
 ## Parameter 12: Massnahmen zum Ausgleich des Digital Divide
 
-[Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-12.md) 
+[Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-12.md)<br> 
 [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/27)
 
 Beteiligung Parameter-Diskussion: 5 Beiträge von 5 Personen, Stand 28.09.2026
