@@ -425,43 +425,6 @@ Beteiligung: 5 Beiträge von 5 Personen, Stand 28.09.2026
 ### Vollständigkeit der Ausprägungen
 Alle drei Ausprägungen wurden im Dialog diskutiert.
  
-- Dabei wurde darauf hingewiesen, dass die geeignete Bereitstellungsform von der gewählten Grundarchitektur abhängt, insbesondere von der Frage, ob kryptografische Secrets auf dem Gerät der stimmberechtigten Person verwaltet werden müssen.
-- Zudem wurde angeregt, die Bereitstellungsform von der Authentifizierung zu trennen.
- 
-### Tendenz der Diskussion
-Aus der Diskussion lässt sich keine eindeutige Tendenz zu einer einzelnen Ausprägung ableiten.
- 
-- Mehrere Argumente sprechen für eine browserbasierte Lösung bzw. für Ausprägung 1 oder 2.
-- Im Zusammenhang mit dem Versuchsbetrieb und der Nutzung der swiyu-Wallet wird auch eine reine App-Lösung (Ausprägung 3) als mögliche Variante genannt.
-- Die Diskussion zeigt, dass die Wahl der Bereitstellungsform eng mit architektonischen und sicherheitstechnischen Entscheidungen verknüpft ist.
- 
-### Argumente für Ausprägung 1
-- Eine vollständig webbasierte Lösung kann Zugangshürden reduzieren.
-- Vermeidung zusätzlicher Abhängigkeiten von App-Stores, Betriebssystemen und Geräteherstellern.
-- Grundsätzlich geringerer Entwicklungs-, Betriebs- und Wartungsaufwand als bei einer zusätzlichen eigenen App.
-- Gutes Verhältnis zwischen Zugänglichkeit, technischer Einfachheit und Betriebsaufwand.
- 
-### Argumente für Ausprägung 2
-- Ermöglicht unterschiedliche Zugangsmöglichkeiten.
-- Kann insbesondere die Teilhabe von Personen mit unterschiedlichen technischen Voraussetzungen unterstützen.
-- Eine Nutzung ohne Smartphone soll grundsätzlich ermöglicht werden.
-- Diese Funktion muss jedoch nicht zwingend bereits zu Beginn des Pilotbetriebs verfügbar sein.
-- Dem zusätzlichen Zugangskanal stehen höhere Entwicklungs-, Betriebs- und Wartungsaufwände gegenüber.
- 
-### Argumente für Ausprägung 3
-- Im Zusammenhang mit dem parlamentarischen Auftrag und der neuen E-ID wurde darauf hingewiesen, dass der Versuchsbetrieb auf die Smartphone-basierte Nutzung der swiyu-/E-ID-Infrastruktur ausgerichtet sein könnte.
-- Kann je nach gewählter Grundarchitektur technisch erforderlich werden, wenn kryptografische Secrets lokal auf dem Gerät verwaltet werden müssen.
-
-## Parameter 12: Massnahmen zum Ausgleich des Digital Divide
-
-[Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-12.md)<br> 
-[Link auf Diskussion](https://github.com/swiss/e-collecting/issues/27)
-
-Beteiligungn: 5 Beiträge von 5 Personen, Stand 28.09.2026
-
-### Vollständigkeit der Ausprägungen
-Alle drei Ausprägungen wurden im Dialog diskutiert.
- 
 - Insbesondere wurde die Abgrenzung zwischen Ausprägung 1 und 2 präzisiert.
 - Ausprägung 2 soll sich durch weitergehende Anforderungen an Usability und Accessibility über die gesetzlichen Mindestanforderungen hinaus auszeichnen und wurde entsprechend angepasst.
  
@@ -480,9 +443,41 @@ Die Diskussion konzentriert sich auf Ausprägung 1 und 2.
 - Das System soll dadurch möglichst einfach und zugänglich nutzbar sein.
 - Die Notwendigkeit, auf den Papierkanal auszuweichen, kann reduziert werden.
  
-### Gegenargumente zu Ausprägung 3
+### Gegenargumente Ausprägung 3
 - Gemeinsam genutzte Terminals können je nach Grundarchitektur insbesondere bei Identifikation, Authentisierung, kryptografischen Nachweisen und Vertraulichkeit erheblichen Zusatzaufwand verursachen.
 - Je nach technischer Ausgestaltung könnten solche Terminals möglicherweise nicht sicher betrieben werden.
+
+## Parameter 12: Massnahmen zum Ausgleich des Digital Divide
+
+[Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-12.md)<br> 
+[Link auf Diskussion](https://github.com/swiss/e-collecting/issues/27)
+
+Beteiligungn: 5 Beiträge von 5 Personen, Stand 28.09.2026
+
+### Vollständigkeit der Ausprägungen
+Alle drei Ausprägungen wurden im Dialog diskutiert.
+
+- Die ursprünglichen zwei Ausprägungen wurden um eine dritte Ausprägung ergänzt, bei der digitale Unterstützungsbekundungen keiner Sammelorganisation zugeordnet werden.
+- Die Ergänzung von Ausprägung 3 trägt dem in der Diskussion geäusserten Anliegen Rechnung, auch eine konsequent datensparsame Lösung ohne Zuordnung zu einer Sammelorganisation abzubilden.
+
+### Tendenz der Diskussion
+Es besteht eine Tendenz gegen eine obligatorische Zuordnung zu einer Sammelorganisation.
+
+- Mehrere Beiträge sprechen sich für eine freiwillige Zuordnung (Ausprägung 2) oder für einen vollständigen Verzicht auf eine Zuordnung (Ausprägung 3) aus.
+- Ausprägung 1 wurde nicht ausdrücklich unterstützt.
+ 
+### Argumente für Ausprägungen 2 und 3
+- Unterschriftengeheimnis, Datensparsamkeit
+ 
+### Argumente für Ausprägung 2
+- Eine freiwillige Zuordnung ermöglicht die Abbildung der bestehenden Sammellogik.
+- Die Person soll über die Zuordnung informiert werden und diese ablehnen oder ändern können.
+ 
+### Argumente für Ausprägung 3
+- Keine Zuordnung von Unterstützungsbekundungen zu Sammelorganisationen und damit möglichst geringe Speicherung von Informationen über politische Unterstützung.
+
+### Diskussion zu Datenschutz
+- Eine teilnehmende Person regt an, die Verbindung zwischen Person und Sammelorganisation soll frühzeitig zu trennen bzw. zu löschen, um eine unnötige Speicherung und politische Profilbildung zu vermeiden.
 
 ## Parameter 13: Grundarchitektur
 
