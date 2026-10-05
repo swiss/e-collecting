@@ -56,6 +56,7 @@ Liste des paramètres de la boîte morphologique :
 * [11 - Mesures visant à réduire la fracture numérique](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-11.md)
 * [12 - Logique de soutien des récoltes de signatures ](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-12.md)
 * [13 - Architecture de base ](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-13.md)
+* [14 - Niveau fédéral responsable de l’exploitation](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-14.md)
 
 Le paramètre 13 de l'architecture de base est accompagné d'un [document séparé](https://github.com/swiss/e-collecting/raw/refs/heads/main/docs/morphological-box/parameter-13-base-architecture-working-document-FR.pdf).
 
@@ -150,6 +151,7 @@ Liste der Parameter des morphologischen Kastens:
 * [11 - Massnahmen zum Ausgleich des Digital Divide](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-11.md?#d-0)
 * [12 - Unterstützungslogik von Unterschriftensammlungen](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-12.md?#d-0)
 * [13 - Grundarchitektur](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-13.md?#d-0)
+* [14 - Für die Betriebsstelle zuständige föderale Ebene](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-14.md?#d-0)
 
 Der Parameter 13 zur Grundarchitektur wird von einem [separaten Dokument](https://github.com/swiss/e-collecting/raw/refs/heads/main/docs/morphological-box/parameter-13-base-architecture-working-document-DE.pdf) begleitet.
 
