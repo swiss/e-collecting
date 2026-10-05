@@ -1,4 +1,4 @@
-<a name="d-0">Zusammenfassung Diskussion Morphologischer Kasten Parameter 1.1-13 (Stand 1. Oktober 2026)</a>
+# <a name="d-0">Zusammenfassung Diskussion Morphologischer Kasten Parameter 1.1-13 (Stand 1. Oktober 2026)</a>
 
 ## Parameter 1.1: Erfassung papierbasierter Unterschriften im E-Collecting-System durch die Gemeinde
 [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-1-1.md)  
