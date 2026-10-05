@@ -148,7 +148,7 @@ Aus den Diskussionen lässt sich keine eindeutige Tendenz zu einer bestimmten Au
 [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-3.md)<br> 
 [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/16)
 
-Beteiligung Parameter-Diskussion: 6 Beiträge von 5 Personen, Stand 25.09.2026
+Beteiligung: 6 Beiträge von 5 Personen, Stand 25.09.2026
 
 ### Vollständigkeit der Ausprägungen
 Alle drei Ausprägungen wurden im Dialog diskutiert.
@@ -185,7 +185,7 @@ Es zeigt sich eine Tendenz zu Ausprägung 1 und Ausprägung 2. Eine klare Bevorz
 [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-4.md)<br>
 [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/17)
 
-Beteiligung Parameter-Diskussion: 7 Beiträge von 7 Personen, Stand 25.09.2026
+Beteiligung: 7 Beiträge von 7 Personen, Stand 25.09.2026
 
 ### Vollständigkeit der Ausprägungen
 Alle drei Ausprägungen wurden im Dialog diskutiert.
@@ -221,7 +221,7 @@ In der Diskussion sprechen sich mehrere Teilnehmende grundsätzlich für eine Zu
 [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-5.md)<br>
 [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/18)
 
-Beteiligung Parameter-Diskussion: 8 Beiträge von 7 Personen, Stand 25.09.2026
+Beteiligung: 8 Beiträge von 7 Personen, Stand 25.09.2026
 
 ### Vollständigkeit der Ausprägungen
 Alle drei Ausprägungen wurden im Dialog diskutiert.
@@ -260,7 +260,7 @@ Aus der Diskussion lässt sich keine eindeutige Tendenz zu einer bestimmten Ausp
 [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-6.md)<br>
 [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/19)
 
-Beteiligung Parameter-Diskussion: 4 Beiträge von 4 Personen, Stand 25.09.2026
+Beteiligung: 4 Beiträge von 4 Personen, Stand 25.09.2026
 
 ### Vollständigkeit der Ausprägungen
 Alle vier Ausprägungen wurden im Dialog diskutiert.
@@ -292,7 +292,7 @@ In mehreren Beiträgen wird eine Konzeption des E-Collecting-Systems befürworte
 [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-7.md)<br>
 [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/20)
 
-Beteiligung Parameter-Diskussion: 3 Beiträge von 3 Personen, Stand 25.09.2026
+Beteiligung: 3 Beiträge von 3 Personen, Stand 25.09.2026
 
 ### Vollständigkeit der Ausprägungen
 Es wurden hauptsächlich Ausprägung 1 und Ausprägung 3 im Dialog diskutiert.
@@ -320,7 +320,7 @@ Mehrheitlich wird ein Opt-Out für den Zugang zu E-Collecting abgelehnt.
 [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-8.md)<br>
 [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/21)
 
-Beteiligung Parameter-Diskussion: 4 Beiträge von 4 Personen, Stand 25.09.2026
+Beteiligung: 4 Beiträge von 4 Personen, Stand 25.09.2026
 
 ### Vollständigkeit der Ausprägungen
 Alle drei Ausprägungen wurden im Dialog diskutiert.
@@ -356,7 +356,7 @@ Es zeigt sich eine klare Tendenz zu Ausprägung 1.
 [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-9.md)<br>
 [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/24)
 
-Beteiligung Parameter-Diskussion: 7 Beiträge von 5 Personen, Stand 25.09.2026
+Beteiligung: 7 Beiträge von 5 Personen, Stand 25.09.2026
 
 ### Vollständigkeit der Ausprägungen
 Beide Ausprägungen wurden im Dialog diskutiert.
@@ -383,7 +383,7 @@ Aus der Diskussion lässt sich eine Tendenz zu Ausprägung 1 ableiten.
 [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-10.md)<br> 
 [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/25)
 
-Beteiligung Parameter-Diskussion: 6 Beiträge von 5 Personen, Stand 25.09.2026
+Beteiligung: 6 Beiträge von 5 Personen, Stand 25.09.2026
 
 ### Vollständigkeit der Ausprägungen
 Alle drei Ausprägungen wurden im Dialog diskutiert.
@@ -420,7 +420,7 @@ Aus der Diskussion lässt sich keine eindeutige Tendenz zu einer einzelnen Auspr
 [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-11.md)<br> 
 [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/26)
 
-Beteiligung Parameter-Diskussion: 5 Beiträge von 5 Personen, Stand 28.09.2026
+Beteiligung: 5 Beiträge von 5 Personen, Stand 28.09.2026
 
 ### Vollständigkeit der Ausprägungen
 Alle drei Ausprägungen wurden im Dialog diskutiert.
@@ -457,7 +457,7 @@ Aus der Diskussion lässt sich keine eindeutige Tendenz zu einer einzelnen Auspr
 [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-12.md)<br> 
 [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/27)
 
-Beteiligung Parameter-Diskussion: 5 Beiträge von 5 Personen, Stand 28.09.2026
+Beteiligungn: 5 Beiträge von 5 Personen, Stand 28.09.2026
 
 ### Vollständigkeit der Ausprägungen
 Alle drei Ausprägungen wurden im Dialog diskutiert.
@@ -489,7 +489,7 @@ Die Diskussion konzentriert sich auf Ausprägung 1 und 2.
 [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-13.md) 
 [Link auf Diskussion Parameter 2](https://github.com/swiss/e-collecting/issues/28)
 
-Beteiligung Parameter-Diskussion: 18 Beiträge von 8 Personen; inklusive 2 eingegangener Papier, Stand 01.10.2026
+Beteiligung: 18 Beiträge von 8 Personen; inklusive 2 eingegangener Papier, Stand 01.10.2026
 
 ### Vollständigkeit der Ausprägungen 
 Alle fünf Umsetzungsvarianten wurden im Dialog diskutiert.
@@ -504,7 +504,6 @@ Aus der Diskussion lässt sich keine eindeutige Präferenz für eine einzelne Um
 - UV4 und UV5 werden von einzelnen Teilnehmenden als langfristige Zielarchitekturen betrachtet.
  
 ### UV1
- 
 #### Pro-Argumente
 - Wird als einfache Lösung bezeichnet, die auf dem St. Galler System aufbauen kann.
 - Wird als gute Balance zwischen Stimmgeheimnis, Verhinderung von Mehrfachunterzeichnungen, Aufwand für Gemeinden, Kosten, Sicherheit und Projektdauer eingeschätzt.
@@ -515,7 +514,6 @@ Aus der Diskussion lässt sich keine eindeutige Präferenz für eine einzelne Um
 - UV1 sollte aufgrund möglicher rechtlicher Konflikte eher als Referenz-Ausgangspunkt und nicht als gleichwertige Zielvariante betrachtet werden.
  
 ### UV2
- 
 #### Pro-Argumente
 - Mehrere Beiträge beurteilen die Variante als schnell und einfach umsetzbar.
 - Nutzung bestehender Prozesse und Stimmregister.
@@ -526,7 +524,6 @@ Aus der Diskussion lässt sich keine eindeutige Präferenz für eine einzelne Um
 - Die Schlüsselverteilung wird als entscheidender Faktor für den tatsächlichen Datenschutzgewinn hervorgehoben.
  
 ### UV1 und UV2
- 
 #### Pro-Argumente
 - Werden als weniger komplex als die weiteren Varianten beschrieben.
 - Erfüllen aus Sicht einzelner Teilnehmender die grundlegenden Anforderungen an E-Collecting.
@@ -541,7 +538,6 @@ Aus der Diskussion lässt sich keine eindeutige Präferenz für eine einzelne Um
 - Die Bezeichnung als «am papierbasierten Prozess orientiert» wird als irreführend kritisiert, da die digitalen Varianten andere Vertrauens- und Nachvollziehbarkeitsmodelle aufweisen.
  
 ### UV3
- 
 #### Pro-Argumente
 - Möglichkeit der Anbindung der E-ID wird positiv hervorgehoben.
 - Verifiable Credentials werden als Vorteil angesehen, da sie gegenüber der Betriebsstelle anonym bleiben.
@@ -556,14 +552,12 @@ Aus der Diskussion lässt sich keine eindeutige Präferenz für eine einzelne Um
 - Zusätzliche organisatorische Infrastruktur ohne aus Sicht einzelner Teilnehmender entsprechend hohen Datenschutzgewinn.
  
 ### UV4
- 
 #### Pro-Argumente
 - Der Zero-Knowledge-Ansatz ermöglicht individuelle Verifizierbarkeit und verteiltes Vertrauen.
 - Aufwand und Komplexität könnten geringer ausfallen als im Arbeitspapier dargestellt.
 - Mit KLM26 könnte ein vergleichbares Trust Model ohne Gemeinde-Pseudonyme erreicht werden.
  
 ### UV5
- 
 #### Pro-Argumente
 - Wird von mehreren Teilnehmenden als innovativ bezeichnet.
 - Wird die höchste Sicherheit zugeschrieben.
@@ -576,7 +570,6 @@ Aus der Diskussion lässt sich keine eindeutige Präferenz für eine einzelne Um
 - Zusätzlicher zentraler Personenbezug sowie Prozess- und Audit-Eigenschaften sollten präziser beschrieben werden.
  
 ### UV3 bis UV5
- 
 #### Pro-Argumente
 - Mehrfach wird auf ein stärkeres Datenschutzmodell als bei UV1 und UV2 hingewiesen.
 - Das Teilnahmegeheimnis wird als wesentlicher Mehrwert hervorgehoben.
