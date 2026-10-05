@@ -486,7 +486,7 @@ Die Diskussion konzentriert sich auf Ausprägung 1 und 2.
 
 ## Parameter 13: Grundarchitektur
 
-[Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-13.md) 
+[Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-13.md)<br> 
 [Link auf Diskussion Parameter 2](https://github.com/swiss/e-collecting/issues/28)
 
 Beteiligung: 18 Beiträge von 8 Personen; inklusive 2 eingegangener Papier, Stand 01.10.2026
