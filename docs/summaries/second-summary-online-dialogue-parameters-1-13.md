@@ -447,7 +447,7 @@ Die Diskussion konzentriert sich auf Ausprägung 1 und 2.
 - Gemeinsam genutzte Terminals können je nach Grundarchitektur insbesondere bei Identifikation, Authentisierung, kryptografischen Nachweisen und Vertraulichkeit erheblichen Zusatzaufwand verursachen.
 - Je nach technischer Ausgestaltung könnten solche Terminals möglicherweise nicht sicher betrieben werden.
 
-## Parameter 12: Massnahmen zum Ausgleich des Digital Divide
+## Parameter 12: Unterstützungslogik von Unterschriftensammlungen
 
 [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-12.md)<br> 
 [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/27)
