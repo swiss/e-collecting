@@ -73,4 +73,4 @@ Das wurde definitiv ignoriert
 
 ### Daniel Graf SDD, 12:12
 
-Ich würde mir wünschen, dass der partizipative Prozess evalutiert wird, um Learnings fürs nächste Jahr mitgenommen werden.git
+Ich würde mir wünschen, dass der partizipative Prozess evalutiert wird, um Learnings fürs nächste Jahr mitgenommen werden.
