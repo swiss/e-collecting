@@ -86,7 +86,7 @@ _Description de l'image : représentation graphique du calendrier avec les étap
 * 6e événement en ligne du processus participatif (2026-10-06): 
 [Diapositives](https://www.bk.admin.ch/dam/fr/sd-web/hKqPK3eSku7v/20261006%20-%20Pr%C3%A9sentation%206%C3%A8me%20%C3%A9v%C3%A9nement%20en%20ligne.pdf)
 / 
-[Registration Youtube](FIXME) 
+[Registration Youtube](https://youtu.be/KnucD02ntEU) 
 / 
 [Résumé des discussions](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-6th-online-event.md)
 / 
@@ -190,7 +190,7 @@ _Bildbeschreibung: Grafische Darstellung der Timeline mit den Stationen 3. Onlin
 * [Zusammenfassung der verschiedenen Argumente und Positionen zum morphologischen Kasten Parameter 1-13 (2026-10-05)](https://github.com/swiss/e-collecting/blob/main/docs/summaries/second-summary-online-dialogue-parameters-1-13.md?#d-0)
 * 6\. Online-Veranstaltung des partizipativen Prozesses (2026-10-06): 
 [Slides](https://www.bk.admin.ch/dam/de/sd-web/YeWrY9s3U1CU/20261006%20-%20Pr%C3%A4sentation%20Sechste%20Online-Veranstaltung.pdf)
-/ [Youtube Aufzeichnung](FIXME)
+/ [Youtube Aufzeichnung](https://youtu.be/KnucD02ntEU)
 / [Zusammenfassung der Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-6th-online-event.md?#d-0)
 / [Chat](https://github.com/swiss/e-collecting/blob/main/docs/transcripts/2026-10-06-6th-participation-event-chat.md)
 / [KI Transkript](https://github.com/swiss/e-collecting/blob/main/docs/transcripts/2026-10-06-6th-participation-event-ai-transcript.md)
