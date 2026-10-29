@@ -3,6 +3,7 @@
 ## Parameter 1.1: Erfassung papierbasierter Unterschriften im E-Collecting-System durch die Gemeinde
 [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-1-1.md)  
 [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/12)
+[Ergebnisse der Gruppendiskussionen 4. Online-Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-parameter-11-erfassung-papier-basierter-unterschriften-im-e-collecting-system) 
 
 Beteiligung: 8 Beiträge von 6 Personen, Stand 25.09.2026
 
@@ -30,6 +31,7 @@ Sie schlugen zudem eine Trennung zwischen Erfassung und Prüfung auf Mehrfachunt
 ## Parameter 1.2: Digitale Verarbeitung der papierbasierten Unterschrift im E-Collecting-System
 [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-1-2.md)  
 [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/13)
+[Ergebnisse der Gruppendiskussionen 4. Online-Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-parameter-12-digitale-verarbeitung-der-papierbasierten-unterschrift-im-e-collecting-system) 
 
 Beteiligung: 10 Beiträge von 5 Personen, Stand 25.09.2026
 
@@ -67,6 +69,7 @@ Aus den Diskussionen lässt sich keine eindeutige Tendenz zu einer bestimmten Au
 
 [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-1-3.md)  
 [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/14)
+[Ergebnisse der Gruppendiskussionen 4. Online-Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-parameter-13-behandlung-der-papier-unterschriften-nach-allf%C3%A4lliger-einreichung)
 
 Beteiligung: 6 Beiträge von 5 Personen, Stand 25.09.2026
 
@@ -108,6 +111,7 @@ Aus den Diskussionen lässt sich keine eindeutige Tendenz zu einer bestimmten Au
 [Parameterbeschreibung](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-2.md)<br>
 [Link auf Diskussion Parameter 2](https://github.com/swiss/e-collecting/issues/15)<br>
 [Link auf Diskussion Issue 3](https://github.com/swiss/e-collecting/issues/3)<br>
+[Ergebnisse der Gruppendiskussionen 4. Online-Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-parameter-2-darstellung-laufender-volksbegehren)<br>
 <br>
 Beteiligung Parameter-Diskussion: 4 Beiträge von 4 Personen, Stand 25.09.2026<br>
 Beteiligung Online-Diskussion Issue 3: 15 Beiträge von 10 Personen, Stand 17.03.2026
@@ -147,6 +151,7 @@ Aus den Diskussionen lässt sich keine eindeutige Tendenz zu einer bestimmten Au
 
 [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-3.md)<br> 
 [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/16)
+[Ergebnisse der Gruppendiskussionen 4. Online-Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-parameter-3-m%C3%B6glichkeit-argumente-im-e-collecting-system-zu-platzieren) 
 
 Beteiligung: 6 Beiträge von 5 Personen, Stand 25.09.2026
 
@@ -184,6 +189,7 @@ Es zeigt sich eine Tendenz zu Ausprägung 1 und Ausprägung 2. Eine klare Bevorz
 
 [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-4.md)<br>
 [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/17)
+[Ergebnisse der Gruppendiskussionen 4. Online-Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-parameter-4-zuordnung-von-unterst%C3%BCtzungsbekundungen)
 
 Beteiligung: 7 Beiträge von 7 Personen, Stand 25.09.2026
 
@@ -220,6 +226,7 @@ In der Diskussion sprechen sich mehrere Teilnehmende grundsätzlich für eine Zu
 
 [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-5.md)<br>
 [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/18)
+[Ergebnisse der Gruppendiskussionen 4. Online-Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-parameter-5-anzeige-der-anzahl-bisher-gesammelter-unterschriften)
 
 Beteiligung: 8 Beiträge von 7 Personen, Stand 25.09.2026
 
@@ -259,6 +266,7 @@ Aus der Diskussion lässt sich keine eindeutige Tendenz zu einer bestimmten Ausp
 
 [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-6.md)<br>
 [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/19)
+[Ergebnisse der Gruppendiskussionen 4. Online-Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-parameter-6-einsatz-des-e-collecting-systems-auf-allen-drei-f%C3%B6deralen-ebenen)
 
 Beteiligung: 4 Beiträge von 4 Personen, Stand 25.09.2026
 
@@ -291,6 +299,7 @@ In mehreren Beiträgen wird eine Konzeption des E-Collecting-Systems befürworte
 
 [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-7.md)<br>
 [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/20)
+[Ergebnisse der Gruppendiskussionen 4. Online-Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-parameter-7-administrative-voraussetzungen-f%C3%BCr-teilnahme-an-e-collecting-versuchen)
 
 Beteiligung: 3 Beiträge von 3 Personen, Stand 25.09.2026
 
@@ -319,6 +328,7 @@ Mehrheitlich wird ein Opt-Out für den Zugang zu E-Collecting abgelehnt.
 
 [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-8.md)<br>
 [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/21)
+[Ergebnisse der Gruppendiskussionen 4. Online-Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-parameter-8-sicherstellung-einer-bedenkzeit-vor-%C3%BCbermittlung-der-unterst%C3%BCtzungsbekundung)
 
 Beteiligung: 4 Beiträge von 4 Personen, Stand 25.09.2026
 
