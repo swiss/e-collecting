@@ -2,7 +2,7 @@
 
 ## Parameter 1.1: Erfassung papierbasierter Unterschriften im E-Collecting-System durch die Gemeinde
 [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-1-1.md)  
-[Link auf Diskussion](https://github.com/swiss/e-collecting/issues/12)
+[Link auf Diskussion](https://github.com/swiss/e-collecting/issues/12)<br>
 [Ergebnisse der Gruppendiskussionen 4. Online-Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-parameter-11-erfassung-papier-basierter-unterschriften-im-e-collecting-system) 
 
 Beteiligung: 8 Beiträge von 6 Personen, Stand 25.09.2026
@@ -30,7 +30,7 @@ Sie schlugen zudem eine Trennung zwischen Erfassung und Prüfung auf Mehrfachunt
 
 ## Parameter 1.2: Digitale Verarbeitung der papierbasierten Unterschrift im E-Collecting-System
 [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-1-2.md)  
-[Link auf Diskussion](https://github.com/swiss/e-collecting/issues/13)
+[Link auf Diskussion](https://github.com/swiss/e-collecting/issues/13)<br>
 [Ergebnisse der Gruppendiskussionen 4. Online-Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-parameter-12-digitale-verarbeitung-der-papierbasierten-unterschrift-im-e-collecting-system) 
 
 Beteiligung: 10 Beiträge von 5 Personen, Stand 25.09.2026
@@ -68,7 +68,7 @@ Aus den Diskussionen lässt sich keine eindeutige Tendenz zu einer bestimmten Au
 ## Parameter 1.3: Behandlung der Papier-Unterschriften nach allfälliger Erfassung
 
 [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-1-3.md)  
-[Link auf Diskussion](https://github.com/swiss/e-collecting/issues/14)
+[Link auf Diskussion](https://github.com/swiss/e-collecting/issues/14)<br>
 [Ergebnisse der Gruppendiskussionen 4. Online-Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-parameter-13-behandlung-der-papier-unterschriften-nach-allf%C3%A4lliger-einreichung)
 
 Beteiligung: 6 Beiträge von 5 Personen, Stand 25.09.2026
@@ -150,7 +150,7 @@ Aus den Diskussionen lässt sich keine eindeutige Tendenz zu einer bestimmten Au
 ## Parameter 3: Möglichkeit Argumente im E-Collecting-System zu platzieren
 
 [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-3.md)<br> 
-[Link auf Diskussion](https://github.com/swiss/e-collecting/issues/16)
+[Link auf Diskussion](https://github.com/swiss/e-collecting/issues/16)<br>
 [Ergebnisse der Gruppendiskussionen 4. Online-Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-parameter-3-m%C3%B6glichkeit-argumente-im-e-collecting-system-zu-platzieren) 
 
 Beteiligung: 6 Beiträge von 5 Personen, Stand 25.09.2026
@@ -188,7 +188,7 @@ Es zeigt sich eine Tendenz zu Ausprägung 1 und Ausprägung 2. Eine klare Bevorz
 ## Parameter 4: Zuordnung von Unterstützungsbekundungen
 
 [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-4.md)<br>
-[Link auf Diskussion](https://github.com/swiss/e-collecting/issues/17)
+[Link auf Diskussion](https://github.com/swiss/e-collecting/issues/17)<br>
 [Ergebnisse der Gruppendiskussionen 4. Online-Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-parameter-4-zuordnung-von-unterst%C3%BCtzungsbekundungen)
 
 Beteiligung: 7 Beiträge von 7 Personen, Stand 25.09.2026
@@ -225,7 +225,7 @@ In der Diskussion sprechen sich mehrere Teilnehmende grundsätzlich für eine Zu
 ## Parameter 5: Anzeige der Anzahl bisher gesammelter Unterschriften
 
 [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-5.md)<br>
-[Link auf Diskussion](https://github.com/swiss/e-collecting/issues/18)
+[Link auf Diskussion](https://github.com/swiss/e-collecting/issues/18)<br>
 [Ergebnisse der Gruppendiskussionen 4. Online-Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-parameter-5-anzeige-der-anzahl-bisher-gesammelter-unterschriften)
 
 Beteiligung: 8 Beiträge von 7 Personen, Stand 25.09.2026
@@ -265,7 +265,7 @@ Aus der Diskussion lässt sich keine eindeutige Tendenz zu einer bestimmten Ausp
 ## Parameter 6: Einsatz des E-Collecting-Systems auf allen drei föderalen Ebenen
 
 [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-6.md)<br>
-[Link auf Diskussion](https://github.com/swiss/e-collecting/issues/19)
+[Link auf Diskussion](https://github.com/swiss/e-collecting/issues/19)<br>
 [Ergebnisse der Gruppendiskussionen 4. Online-Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-parameter-6-einsatz-des-e-collecting-systems-auf-allen-drei-f%C3%B6deralen-ebenen)
 
 Beteiligung: 4 Beiträge von 4 Personen, Stand 25.09.2026
@@ -298,7 +298,7 @@ In mehreren Beiträgen wird eine Konzeption des E-Collecting-Systems befürworte
 ## Parameter 7: Administrative Voraussetzungen für Teilnahmean E-Collecting Versuchen
 
 [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-7.md)<br>
-[Link auf Diskussion](https://github.com/swiss/e-collecting/issues/20)
+[Link auf Diskussion](https://github.com/swiss/e-collecting/issues/20)<br>
 [Ergebnisse der Gruppendiskussionen 4. Online-Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-parameter-7-administrative-voraussetzungen-f%C3%BCr-teilnahme-an-e-collecting-versuchen)
 
 Beteiligung: 3 Beiträge von 3 Personen, Stand 25.09.2026
@@ -327,7 +327,7 @@ Mehrheitlich wird ein Opt-Out für den Zugang zu E-Collecting abgelehnt.
 ## Parameter 8: Sicherstellung einer Bedenkzeit vor Übermittlung der Unterstützungsbekundung
 
 [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-8.md)<br>
-[Link auf Diskussion](https://github.com/swiss/e-collecting/issues/21)
+[Link auf Diskussion](https://github.com/swiss/e-collecting/issues/21)<br>
 [Ergebnisse der Gruppendiskussionen 4. Online-Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-parameter-8-sicherstellung-einer-bedenkzeit-vor-%C3%BCbermittlung-der-unterst%C3%BCtzungsbekundung)
 
 Beteiligung: 4 Beiträge von 4 Personen, Stand 25.09.2026
