@@ -1,11 +1,11 @@
 # <a name="d-0">Zusammenfassung Diskussion Morphologischer Kasten Parameter 1.1-13 (Stand 1. Oktober 2026)</a>
 
 ## Parameter 1.1: Erfassung papierbasierter Unterschriften im E-Collecting-System durch die Gemeinde
-[Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-1-1.md)  
-[Link auf Diskussion](https://github.com/swiss/e-collecting/issues/12)<br>
-[Ergebnisse der Gruppendiskussionen 4. Online-Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-parameter-11-erfassung-papier-basierter-unterschriften-im-e-collecting-system) 
+* [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-1-1.md)  
+* [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/12)<br>
+* [Ergebnisse der Gruppendiskussionen zu diesem Parameter 4. Online-Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-parameter-11-erfassung-papier-basierter-unterschriften-im-e-collecting-system) 
 
-Beteiligung: 8 Beiträge von 6 Personen, Stand 25.09.2026
+Beteiligung an Diskussion auf Plattform: 8 Beiträge von 6 Personen, Stand 25.09.2026
 
 ### Vollständigkeit der Ausprägungen
 Alle drei Ausprägungen wurden im Dialog diskutiert. Ausprägung 1 wurde durch eine teilnehmende Person präzisiert und angepasst. Dabei wurde klargestellt, dass die Unterschrift im entsprechenden System der stimmregisterführenden Stelle erfasst wird.
@@ -29,11 +29,11 @@ Sie schlugen zudem eine Trennung zwischen Erfassung und Prüfung auf Mehrfachunt
 - Die Gemeinde erfährt dabei nicht, ob bereits eine elektronische Unterstützung vorliegt.
 
 ## Parameter 1.2: Digitale Verarbeitung der papierbasierten Unterschrift im E-Collecting-System
-[Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-1-2.md)  
-[Link auf Diskussion](https://github.com/swiss/e-collecting/issues/13)<br>
-[Ergebnisse der Gruppendiskussionen 4. Online-Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-parameter-12-digitale-verarbeitung-der-papierbasierten-unterschrift-im-e-collecting-system) 
+* [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-1-2.md)  
+* [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/13)<br>
+* [Ergebnisse der Gruppendiskussionen zu diesem Parameter 4. Online-Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-parameter-12-digitale-verarbeitung-der-papierbasierten-unterschrift-im-e-collecting-system) 
 
-Beteiligung: 10 Beiträge von 5 Personen, Stand 25.09.2026
+Beteiligung an Diskussion auf Plattform: 10 Beiträge von 5 Personen, Stand 25.09.2026
 
 ### Vollständigkeit der Ausprägungen
 In der Diskussion wurden zunächst die Ausprägungen 1 und 2 behandelt. Aufgrund von Rückmeldungen aus dem schriftlichen Dialog wurde die Ausprägung 3 ergänzt.
@@ -67,11 +67,11 @@ Aus den Diskussionen lässt sich keine eindeutige Tendenz zu einer bestimmten Au
 
 ## Parameter 1.3: Behandlung der Papier-Unterschriften nach allfälliger Erfassung
 
-[Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-1-3.md)  
-[Link auf Diskussion](https://github.com/swiss/e-collecting/issues/14)<br>
-[Ergebnisse der Gruppendiskussionen 4. Online-Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-parameter-13-behandlung-der-papier-unterschriften-nach-allf%C3%A4lliger-einreichung)
+* [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-1-3.md)  
+* [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/14)<br>
+* [Ergebnisse der Gruppendiskussionen zu diesem Parameter 4. Online-Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-parameter-13-behandlung-der-papier-unterschriften-nach-allf%C3%A4lliger-einreichung)
 
-Beteiligung: 6 Beiträge von 5 Personen, Stand 25.09.2026
+Beteiligung an Diskussion auf Plattform: 6 Beiträge von 5 Personen, Stand 25.09.2026
 
 ### Vollständigkeit der Ausprägungen
 Alle drei Ausprägungen wurden im Dialog diskutiert.
@@ -108,13 +108,15 @@ Aus den Diskussionen lässt sich keine eindeutige Tendenz zu einer bestimmten Au
 
 ## Parameter 2: Darstellung laufender Volksbegehren
 
-[Parameterbeschreibung](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-2.md)<br>
-[Link auf Diskussion Parameter 2](https://github.com/swiss/e-collecting/issues/15)<br>
-[Link auf Diskussion Issue 3](https://github.com/swiss/e-collecting/issues/3)<br>
-[Ergebnisse der Gruppendiskussionen 4. Online-Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-parameter-2-darstellung-laufender-volksbegehren)<br>
+* [Parameterbeschreibung](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-2.md)<br>
+* [Link auf Diskussion Parameter 2](https://github.com/swiss/e-collecting/issues/15)<br>
+* [Link auf Diskussion Issue 3](https://github.com/swiss/e-collecting/issues/3)<br>
+* [Ergebnisse der Gruppendiskussionen zu diesem Parameter 4. Online-Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-parameter-2-darstellung-laufender-volksbegehren)<br>
 <br>
-Beteiligung Parameter-Diskussion: 4 Beiträge von 4 Personen, Stand 25.09.2026<br>
-Beteiligung Online-Diskussion Issue 3: 15 Beiträge von 10 Personen, Stand 17.03.2026
+
+Beteiligung an Diskussion auf Plattform Issue 3: 15 Beiträge von 10 Personen, Stand 17.03.2026<br>
+Beteiligung Parameter-Diskussion in Online Veranstaltung: 4 Beiträge von 4 Personen, Stand 25.09.2026<br>
+
 
 ### Vollständigkeit der Ausprägungen
 Alle drei Ausprägungen wurden im Dialog diskutiert.
@@ -149,11 +151,11 @@ Aus den Diskussionen lässt sich keine eindeutige Tendenz zu einer bestimmten Au
 
 ## Parameter 3: Möglichkeit Argumente im E-Collecting-System zu platzieren
 
-[Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-3.md)<br> 
-[Link auf Diskussion](https://github.com/swiss/e-collecting/issues/16)<br>
-[Ergebnisse der Gruppendiskussionen 4. Online-Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-parameter-3-m%C3%B6glichkeit-argumente-im-e-collecting-system-zu-platzieren) 
+* [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-3.md)<br> 
+* [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/16)<br>
+* [Ergebnisse der Gruppendiskussionen zu diesem Parameter 4. Online-Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-parameter-3-m%C3%B6glichkeit-argumente-im-e-collecting-system-zu-platzieren) 
 
-Beteiligung: 6 Beiträge von 5 Personen, Stand 25.09.2026
+Beteiligung an Diskussion auf Plattform: 6 Beiträge von 5 Personen, Stand 25.09.2026
 
 ### Vollständigkeit der Ausprägungen
 Alle drei Ausprägungen wurden im Dialog diskutiert.
@@ -187,11 +189,11 @@ Es zeigt sich eine Tendenz zu Ausprägung 1 und Ausprägung 2. Eine klare Bevorz
 
 ## Parameter 4: Zuordnung von Unterstützungsbekundungen
 
-[Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-4.md)<br>
-[Link auf Diskussion](https://github.com/swiss/e-collecting/issues/17)<br>
-[Ergebnisse der Gruppendiskussionen 4. Online-Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-parameter-4-zuordnung-von-unterst%C3%BCtzungsbekundungen)
+* [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-4.md)<br>
+* [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/17)<br>
+* [Ergebnisse der Gruppendiskussionen zu diesem Parameter 4. Online-Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-parameter-4-zuordnung-von-unterst%C3%BCtzungsbekundungen)
 
-Beteiligung: 7 Beiträge von 7 Personen, Stand 25.09.2026
+Beteiligung an Diskussion auf Plattform: 7 Beiträge von 7 Personen, Stand 25.09.2026
 
 ### Vollständigkeit der Ausprägungen
 Alle drei Ausprägungen wurden im Dialog diskutiert.
@@ -224,11 +226,11 @@ In der Diskussion sprechen sich mehrere Teilnehmende grundsätzlich für eine Zu
 
 ## Parameter 5: Anzeige der Anzahl bisher gesammelter Unterschriften
 
-[Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-5.md)<br>
-[Link auf Diskussion](https://github.com/swiss/e-collecting/issues/18)<br>
-[Ergebnisse der Gruppendiskussionen 4. Online-Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-parameter-5-anzeige-der-anzahl-bisher-gesammelter-unterschriften)
+* [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-5.md)<br>
+* [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/18)<br>
+* [Ergebnisse der Gruppendiskussionen 4. Online-Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-parameter-5-anzeige-der-anzahl-bisher-gesammelter-unterschriften)
 
-Beteiligung: 8 Beiträge von 7 Personen, Stand 25.09.2026
+Beteiligung an Diskussion auf Plattform: 8 Beiträge von 7 Personen, Stand 25.09.2026
 
 ### Vollständigkeit der Ausprägungen
 Alle drei Ausprägungen wurden im Dialog diskutiert.
@@ -264,11 +266,11 @@ Aus der Diskussion lässt sich keine eindeutige Tendenz zu einer bestimmten Ausp
 
 ## Parameter 6: Einsatz des E-Collecting-Systems auf allen drei föderalen Ebenen
 
-[Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-6.md)<br>
-[Link auf Diskussion](https://github.com/swiss/e-collecting/issues/19)<br>
-[Ergebnisse der Gruppendiskussionen 4. Online-Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-parameter-6-einsatz-des-e-collecting-systems-auf-allen-drei-f%C3%B6deralen-ebenen)
+* [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-6.md)<br>
+* [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/19)<br>
+* [Ergebnisse der Gruppendiskussionen zu diesem Parameter 4. Online-Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-parameter-6-einsatz-des-e-collecting-systems-auf-allen-drei-f%C3%B6deralen-ebenen)
 
-Beteiligung: 4 Beiträge von 4 Personen, Stand 25.09.2026
+Beteiligung an Diskussion auf Plattform: 4 Beiträge von 4 Personen, Stand 25.09.2026
 
 ### Vollständigkeit der Ausprägungen
 Alle vier Ausprägungen wurden im Dialog diskutiert.
@@ -297,11 +299,11 @@ In mehreren Beiträgen wird eine Konzeption des E-Collecting-Systems befürworte
 
 ## Parameter 7: Administrative Voraussetzungen für Teilnahmean E-Collecting Versuchen
 
-[Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-7.md)<br>
-[Link auf Diskussion](https://github.com/swiss/e-collecting/issues/20)<br>
-[Ergebnisse der Gruppendiskussionen 4. Online-Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-parameter-7-administrative-voraussetzungen-f%C3%BCr-teilnahme-an-e-collecting-versuchen)
+* [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-7.md)<br>
+* [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/20)<br>
+* [Ergebnisse der Gruppendiskussionen zu diesem Parameter 4. Online-Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-parameter-7-administrative-voraussetzungen-f%C3%BCr-teilnahme-an-e-collecting-versuchen)
 
-Beteiligung: 3 Beiträge von 3 Personen, Stand 25.09.2026
+Beteiligung an Diskussion auf Plattform: 3 Beiträge von 3 Personen, Stand 25.09.2026
 
 ### Vollständigkeit der Ausprägungen
 Es wurden hauptsächlich Ausprägung 1 und Ausprägung 3 im Dialog diskutiert.
@@ -326,11 +328,11 @@ Mehrheitlich wird ein Opt-Out für den Zugang zu E-Collecting abgelehnt.
 
 ## Parameter 8: Sicherstellung einer Bedenkzeit vor Übermittlung der Unterstützungsbekundung
 
-[Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-8.md)<br>
-[Link auf Diskussion](https://github.com/swiss/e-collecting/issues/21)<br>
-[Ergebnisse der Gruppendiskussionen 4. Online-Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-parameter-8-sicherstellung-einer-bedenkzeit-vor-%C3%BCbermittlung-der-unterst%C3%BCtzungsbekundung)
+* [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-8.md)<br>
+* [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/21)<br>
+* [Ergebnisse der Gruppendiskussionen zu diesem Parameter 4. Online-Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-parameter-8-sicherstellung-einer-bedenkzeit-vor-%C3%BCbermittlung-der-unterst%C3%BCtzungsbekundung)
 
-Beteiligung: 4 Beiträge von 4 Personen, Stand 25.09.2026
+Beteiligung an Diskussion auf Plattform: 4 Beiträge von 4 Personen, Stand 25.09.2026
 
 ### Vollständigkeit der Ausprägungen
 Alle drei Ausprägungen wurden im Dialog diskutiert.
@@ -363,10 +365,10 @@ Es zeigt sich eine klare Tendenz zu Ausprägung 1.
 
 ## Parameter 9: Unterstützung vorgelagerter Prozesse durch das E-Collecting-System
 
-[Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-9.md)<br>
-[Link auf Diskussion](https://github.com/swiss/e-collecting/issues/24)
+* [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-9.md)<br>
+* [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/24)
 
-Beteiligung: 7 Beiträge von 5 Personen, Stand 25.09.2026
+Beteiligung an Diskussion auf Plattform: 7 Beiträge von 5 Personen, Stand 25.09.2026
 
 ### Vollständigkeit der Ausprägungen
 Beide Ausprägungen wurden im Dialog diskutiert.
@@ -390,10 +392,10 @@ Aus der Diskussion lässt sich eine Tendenz zu Ausprägung 1 ableiten.
 
 ## Parameter 10: Bereitstellungsform der E-Collecting Anwendung
 
-[Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-10.md)<br> 
-[Link auf Diskussion](https://github.com/swiss/e-collecting/issues/25)
+* [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-10.md)<br> 
+* [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/25)
 
-Beteiligung: 6 Beiträge von 5 Personen, Stand 25.09.2026
+Beteiligung an Diskussion auf Plattform: 6 Beiträge von 5 Personen, Stand 25.09.2026
 
 ### Vollständigkeit der Ausprägungen
 Alle drei Ausprägungen wurden im Dialog diskutiert.
@@ -427,10 +429,10 @@ Aus der Diskussion lässt sich keine eindeutige Tendenz zu einer einzelnen Auspr
 
 ## Parameter 11: Massnahmen zum Ausgleich des Digital Divide
 
-[Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-11.md)<br> 
-[Link auf Diskussion](https://github.com/swiss/e-collecting/issues/26)
+* [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-11.md)<br> 
+* [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/26)
 
-Beteiligung: 5 Beiträge von 5 Personen, Stand 28.09.2026
+Beteiligung an Diskussion auf Plattform: 5 Beiträge von 5 Personen, Stand 28.09.2026
 
 ### Vollständigkeit der Ausprägungen
 Alle drei Ausprägungen wurden im Dialog diskutiert.
@@ -459,10 +461,10 @@ Die Diskussion konzentriert sich auf Ausprägung 1 und 2.
 
 ## Parameter 12: Unterstützungslogik von Unterschriftensammlungen
 
-[Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-12.md)<br> 
-[Link auf Diskussion](https://github.com/swiss/e-collecting/issues/27)
+* [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-12.md)<br> 
+* [Link auf Diskussion](https://github.com/swiss/e-collecting/issues/27)
 
-Beteiligungn: 5 Beiträge von 5 Personen, Stand 28.09.2026
+Beteiligung an Diskussion auf Plattform: 5 Beiträge von 5 Personen, Stand 28.09.2026
 
 ### Vollständigkeit der Ausprägungen
 Alle drei Ausprägungen wurden im Dialog diskutiert.
@@ -491,10 +493,11 @@ Es besteht eine Tendenz gegen eine obligatorische Zuordnung zu einer Sammelorgan
 
 ## Parameter 13: Grundarchitektur
 
-[Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-13.md)<br> 
-[Link auf Diskussion Parameter 2](https://github.com/swiss/e-collecting/issues/28)
+* [Parameterbeschreibung auf Plattform](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-13.md)<br> 
+* [Link auf Diskussion Parameter 2](https://github.com/swiss/e-collecting/issues/28)
+* [Ergebnisse der Gruppendiskussionen zu diesem Parameter 6. Online-Veranstaltung](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-6th-online-event.md#zusammenfassung-der-kleingruppendiskussionen-zur-empfehlung-der-grundarchitektur-umsetzungsvariante-3b)
 
-Beteiligung: 18 Beiträge von 8 Personen; inklusive 2 eingegangener Papier, Stand 01.10.2026
+Beteiligung an Diskussion auf Plattform: 18 Beiträge von 8 Personen; inklusive 2 eingegangener Papier, Stand 01.10.2026
 
 ### Vollständigkeit der Ausprägungen 
 Alle fünf Umsetzungsvarianten wurden im Dialog diskutiert.
@@ -543,6 +546,7 @@ Aus der Diskussion lässt sich keine eindeutige Präferenz für eine einzelne Um
 - Die Bezeichnung als «am papierbasierten Prozess orientiert» wird als irreführend kritisiert, da die digitalen Varianten andere Vertrauens- und Nachvollziehbarkeitsmodelle aufweisen.
  
 ### UV3
+
 #### Pro-Argumente
 - Möglichkeit der Anbindung der E-ID wird positiv hervorgehoben.
 - Verifiable Credentials werden als Vorteil angesehen, da sie gegenüber der Betriebsstelle anonym bleiben.
@@ -564,14 +568,14 @@ Aus der Diskussion lässt sich keine eindeutige Präferenz für eine einzelne Um
  
 ### UV5
 #### Pro-Argumente
+- Schützt das Teilnahmegeheimnis (=Stimmgeheimnis) auch dann, wenn man das Internet nicht als sicheren Kanal betrachtet.
 - Wird von mehreren Teilnehmenden als innovativ bezeichnet.
 - Wird die höchste Sicherheit zugeschrieben.
 - Verursacht aus Sicht einzelner Teilnehmender keine Mehrkosten für Gemeinden.
 - Adressiert aus Sicht einzelner Teilnehmender Risiken besonders umfassend.
  
 #### Einwände
-- Akzeptiert auch leere bzw. mehrere Stimmabgaben (Multi-Ballot).
-- Mögliche statistische Leaks werden kritisch beurteilt.
+- Mögliche statistische Leaks, die bei kleinen Auszählkreisen und wenig aktiven Sammlungsbegehren auftreten, werden kritisch beurteilt.
 - Zusätzlicher zentraler Personenbezug sowie Prozess- und Audit-Eigenschaften sollten präziser beschrieben werden.
  
 ### UV3 bis UV5
@@ -579,7 +583,6 @@ Aus der Diskussion lässt sich keine eindeutige Präferenz für eine einzelne Um
 - Mehrfach wird auf ein stärkeres Datenschutzmodell als bei UV1 und UV2 hingewiesen.
 - Das Teilnahmegeheimnis wird als wesentlicher Mehrwert hervorgehoben.
 - Ein kryptologisch fundierter Ansatz wird als notwendig angesehen.
-- UV3 wird als mögliche Übergangslösung für einen Pilotbetrieb akzeptiert.
 - Langfristig werden UV4 und UV5 von einzelnen Teilnehmenden bevorzugt, da Datenschutz und Sicherheit stärker «by design» gewährleistet werden.
  
 ### Hybrides E-Collecting
