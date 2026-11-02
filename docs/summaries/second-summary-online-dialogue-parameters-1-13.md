@@ -508,7 +508,7 @@ Aus der Diskussion lässt sich keine eindeutige Präferenz für eine einzelne Um
 - UV1 und UV2 werden als vergleichsweise einfach und zeitnah umsetzbar beschrieben.
 - Gleichzeitig werden UV1 und UV2 hinsichtlich Datensparsamkeit, Dezentralität und Datenschutz deutlich kritisiert.
 - UV3 bis UV5 werden mehrfach als datenschutzfreundlichere und stärker kryptografisch abgesicherte Ansätze bewertet.
-- UV3 wird teilweise als mögliche Übergangslösung für einen Pilotbetrieb gesehen mit späterer Ausbaumöglichkeit zu UV4 oder allenfalls UV5 gesehen. Namentlich der in der 6. Online-Veranstaltung durch die Programmleitungleitung eingebrachte Umsetzungsvariante 3b wird diese Eigenschaft zugeschrieben.
+- UV3 wird teilweise als mögliche Übergangslösung für einen Pilotbetrieb gesehen mit späterer Ausbaumöglichkeit zu UV4 oder allenfalls UV5 gesehen. Namentlich der in der 6. Online-Veranstaltung durch die Programmleitung eingebrachte Umsetzungsvariante 3b wird diese Eigenschaft zugeschrieben.
 - UV4 und UV5 werden von einzelnen Teilnehmenden als langfristige Zielarchitekturen betrachtet.
  
 ### UV1
