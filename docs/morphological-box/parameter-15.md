@@ -20,7 +20,7 @@ Schliesslich sind auch alternative Ausgestaltungen der anteilsmässigen Beschrä
 
 Für diese alternativen Ansätze wurden bisher keine konkreten Ausprägungen ausgearbeitet. Wir sind jedoch offen, sie im Rahmen des Dialogs zu diskutieren, sofern entsprechende Argumente und Vorschläge eingebracht werden.
 
-Die in diesem Parameter behandelten Fragen wurden auch in einem alternativen Parametervorschlag der Stiftung für direkte Demokratie aufgegriffen ([NEU Parameter N-24: «Quorum für den Anteil digital gesammelter Unterschriften»](https://github.com/swiss/e-collecting/issues/41). Die Bundeskanzlei hat den Vorschlag für die vorliegende Veröffentlichung angepasst und ergänzt.
+Die in diesem Parameter behandelten Fragen wurden auch in einem alternativen Parametervorschlag der Stiftung für direkte Demokratie aufgegriffen ([NEU Parameter N-24: «Quorum für den Anteil digital gesammelter Unterschriften»])(https://github.com/swiss/e-collecting/issues/41). Die Bundeskanzlei hat den Vorschlag für die vorliegende Veröffentlichung angepasst und ergänzt.
 
 
 ```mermaid
