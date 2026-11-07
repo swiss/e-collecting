@@ -54,9 +54,12 @@ Liste des paramètres de la boîte morphologique :
 * [9 - Prise en charge des processus en amont par le système de récolte électronique de signatures](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-9.md)
 * [10 - Mode de mise à disposition de l’application de récolte électronique](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-10.md)
 * [11 - Mesures visant à réduire la fracture numérique](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-11.md)
-* [12 - Logique de soutien des récoltes de signatures ](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-12.md)
-* [13 - Architecture de base ](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-13.md)
+* [12 - Logique de soutien des récoltes de signatures](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-12.md)
+* [13 - Architecture de base](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-13.md)
 * [14 - Niveau fédéral responsable de l’exploitation](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-14.md)
+* [15 - Limitation proportionnelle des signatures récoltées par voie numérique](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-15.md)
+* [16 - Retrait d’un objet soumis au vote populaire](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-16.md)
+* [17 - Émission d’une confirmation de réception de l’attestation de soutien](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-17.md)
 
 Le paramètre 13 de l'architecture de base est accompagné d'un [document séparé](https://github.com/swiss/e-collecting/raw/refs/heads/main/docs/morphological-box/parameter-13-base-architecture-working-document-FR.pdf).
 
@@ -162,6 +165,9 @@ Liste der Parameter des morphologischen Kastens:
 * [12 - Unterstützungslogik von Unterschriftensammlungen](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-12.md?#d-0)
 * [13 - Grundarchitektur](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-13.md?#d-0)
 * [14 - Für die Betriebsstelle zuständige föderale Ebene](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-14.md?#d-0)
+* [15 - Anteilsmässige Beschränkung digital gesammelter Unterschriften](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-15.md?#d-0)
+* [16 - Rückzug eines Volksbegehrens](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-16.md?#d-0)
+* [17 - Ausstellung einer Empfangsbestätigung der Untertstützungsbekundung](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-17.md?#d-0)
 
 Der Parameter 13 zur Grundarchitektur wird von einem [separaten Dokument](https://github.com/swiss/e-collecting/raw/refs/heads/main/docs/morphological-box/parameter-13-base-architecture-working-document-DE.pdf) begleitet.
 
