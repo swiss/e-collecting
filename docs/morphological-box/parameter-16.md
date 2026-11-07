@@ -15,7 +15,7 @@ Quelle que soit la variante choisie, la pratique actuelle de la Chancellerie fé
 
 Les questions abordées dans ce paramètre ont également été traitées dans une proposition alternative de paramètre (voir [NEU Parameter N-23-2 - Formeller Rückzug einer Initiative](https://github.com/swiss/e-collecting/issues/40)). La Chancellerie fédérale a adapté et complété cette proposition pour la présente publication.
 
-**La discussion sur l'architecture de base a lieu [ici](https://github.com/swiss/e-collecting/issues/FIXME).**
+**La discussion sur l'architecture de base a lieu [ici](https://github.com/swiss/e-collecting/issues/48).**
 
 
 ```mermaid
@@ -95,7 +95,7 @@ Unabhängig von der gewählten Ausprägung bleibt die bisherige Praxis der Bunde
 
 Die Fragen in diesem Parameter wurden auch in einem alternativen Parameter-Vorschlag (siehe [NEU Parameter N-23-2 - Formeller Rückzug einer Initiative](https://github.com/swiss/e-collecting/issues/40)) thematisiert. Die Bundeskanzlei hat den Vorschlag für die vorliegende Veröffentlichung angepasst und ergänzt.
 
-**Die Diskussion über die Grundarchitektur findet [hier](https://github.com/swiss/e-collecting/issues/FIXME) statt.**
+**Die Diskussion über die Grundarchitektur findet [hier](https://github.com/swiss/e-collecting/issues/48) statt.**
 
 ```mermaid
 block
