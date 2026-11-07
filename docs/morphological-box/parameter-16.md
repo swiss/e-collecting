@@ -78,7 +78,6 @@ block
     style a2 fill:#cdedff,stroke-width:0px
     style a3 fill:#cdedff,stroke-width:0px
     style a4 fill:#cdedff,stroke-width:0px
-    style a5 fill:#cdedff,stroke-width:0px
   end
 ```
 
@@ -157,6 +156,5 @@ block
     style a2 fill:#cdedff,stroke-width:0px
     style a3 fill:#cdedff,stroke-width:0px
     style a4 fill:#cdedff,stroke-width:0px
-    style a5 fill:#cdedff,stroke-width:0px
   end
 ```
