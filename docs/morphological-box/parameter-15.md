@@ -135,35 +135,43 @@ block
     Anteilsmässige Beschränkung
     digital gesammelter Unterschriften"]
     a1["Ausprägung 1:
-    Tiefer Anteil - Die Obergrenze für den
-    Anteil digital gesammelter Unterschrif-
-    ten wird auf höchstens ein Drittel der
-    für das Zustandekommen erforderlichen
-    gültigen Unterschriften festgelegt."]
+    Tiefer Anteil - Die Obergrenze
+    für den Anteil digital gesam-
+    melter Unterschriften wird auf
+    höchstens ein Drittel der für
+    das Zustandekommen erforder-
+    lichen gültigen Unterschriften
+    festgelegt."]
     a2["Ausprägung 2:
-    Tiefer Anteil - Die Obergrenze für den
-    Anteil digital gesammelter Unterschrif-
-    ten wird auf höchstens ein Drittel der
-    für das Zustandekommen erforderlichen
-    gültigen Unterschriften festgelegt.
-    Unterstützungsbekundungen von Menschen
-    mit Behinderung und von Auslandschwei-
-    zern bleiben über die Obergrenze hi-
-    naus möglich."]
+    Tiefer Anteil - Die Obergrenze
+    für den Anteil digital gesam-
+    melter Unterschriften wird auf
+    höchstens ein Drittel der für
+    das Zustandekommen erforder-
+    lichen gültigen Unterschriften
+    festgelegt. Unterstützungs-
+    bekundungen von Menschen mit
+    Behinderung und von Ausland-
+    schweizern bleiben über die
+    Obergrenze hinaus möglich."]
     a3["Ausprägung 3:
-    Mittlerer Anteil - Die Obergrenze für
-    den Anteil digital gesammelter Unter-
-    schriften wird auf mehr als ein Drit-
-    tel und höchstens zwei Drittel der 
-    für das Zustandekommen erforderlichen
-    gültigen Unterschriften festgelegt."]
+    Mittlerer Anteil - Die Ober-
+    grenze für den Anteil digital
+    gesammelter Unterschriften
+    wird auf mehr als ein Drittel
+    und höchstens zwei Drittel der 
+    für das Zustandekommen erfor-
+    derlichen gültigen Unter-
+    schriften festgelegt."]
     a4["Ausprägung 4:
-    Hoher Anteil - Die Obergrenze für den
-    Anteil digital gesammelter Unter-
-    schriften wird auf mehr als zwei 
-    Drittel, aber unter 100%, der für das
-    Zustandekommen erforderlichen gülti-
-    gen Unterschriften festgelegt."]
+    Hoher Anteil - Die Obergrenze
+    für den Anteil digital gesam-
+    melter Unterschriften wird 
+    auf mehr als zwei Drittel, 
+    aber unter 100%, der für das
+    Zustandekommen erforderlichen
+    gültigen Unterschriften fest-
+    gelegt."]
     style t1 fill:#a8d5ff,stroke-width:0px
     style t2 fill:#a8d5ff,stroke-width:0px
     style d fill:#a8d5ff,stroke-width:0px,text-valign:top
