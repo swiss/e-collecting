@@ -21,7 +21,7 @@ Aucune variante concrète n’a encore été élaborée pour ces approches alter
 
 Les questions abordées dans ce paramètre ont également été reprises dans une proposition alternative de paramètre ([NEU Parameter N-24: «Quorum für den Anteil digital gesammelter Unterschriften»](https://github.com/swiss/e-collecting/issues/41)). La Chancellerie fédérale a adapté et complété cette proposition pour la présente publication.
 
-Les différentes valeurs possibles de ce paramètre sont-elles, selon vous, toutes présentées ? Quelles seraient les conséquences possibles du choix de l'une de ces valeurs ? **La discussion à ce sujet a lieu [ici](https://github.com/swiss/e-collecting/issues/FIXME).**
+Les différentes valeurs possibles de ce paramètre sont-elles, selon vous, toutes présentées ? Quelles seraient les conséquences possibles du choix de l'une de ces valeurs ? **La discussion à ce sujet a lieu [ici](https://github.com/swiss/e-collecting/issues/47).**
 
 ```mermaid
 block
@@ -123,7 +123,7 @@ Die in diesem Parameter behandelten Fragen wurden auch in einem alternativen Par
 
 Die in diesem Parameter behandelten Fragen wurden auch in einem alternativen Parametervorschlag der Stiftung für direkte Demokratie aufgegriffen ([NEU Parameter N-24: «Quorum für den Anteil digital gesammelter Unterschriften»](https://github.com/swiss/e-collecting/issues/41)). Die Bundeskanzlei hat den Vorschlag für die vorliegende Veröffentlichung angepasst und ergänzt.
 
-Sind die möglichen Ausprägungen dieses Parameters aus Ihrer Sicht vollständig dargestellt? Welche möglichen Auswirkungen hätte die Auswahl einer der möglichen Ausprägungen? **Die Diskussion dazu findet [hier](https://github.com/swiss/e-collecting/issues/FIXME) statt.**
+Sind die möglichen Ausprägungen dieses Parameters aus Ihrer Sicht vollständig dargestellt? Welche möglichen Auswirkungen hätte die Auswahl einer der möglichen Ausprägungen? **Die Diskussion dazu findet [hier](https://github.com/swiss/e-collecting/issues/47) statt.**
 
 ```mermaid
 block
