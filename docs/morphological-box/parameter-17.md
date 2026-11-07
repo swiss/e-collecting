@@ -141,9 +141,6 @@ block
     speichert werden."]
     a3["Ausprägung /
     Umsetzungsvariante 3:
-    "]
-    a4["Ausprägung /
-    Umsetzungsvariante 4:
     Das E-Collecting-
     System stellt eine 
     elektronisch speicher-
@@ -166,6 +163,7 @@ block
     stützungsbekundung bei
     der Zählung zu über-
     prüfen."]
+    a4["&nbsp;"]
    style t1 fill:#a8d5ff,stroke-width:0px
     style t2 fill:#a8d5ff,stroke-width:0px
     style d fill:#a8d5ff,stroke-width:0px,text-valign:top
