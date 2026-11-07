@@ -2,7 +2,7 @@ _[Deutsche Version](#d-0)_
 
 ## Boîte morphologique : Paramètre 13 - Architecture de base 
 
-Le paramètre « Architecture de base » revêt une importance particulière en raison de sa complexité et de son impact sur les ressources financières et humaines, la sécurité, le calendrier de préparation des essais et, par conséquent, sur le soutien politique dont bénéficient ces essais. C'est pourquoi ce sujet est traité dans un document de travail distinct. Une première version de ce document a été publiée le 2 juillet 2026 sur la plateforme participative sous le titre « [Document de travail Architecture de base](https://github.com/swiss/e-collecting/raw/refs/heads/main/docs/morphological-box/parameter-13-base-architecture-working-document-FR.pdf) »  et a été examinée dans le cadre du processus participatif. Le présent document [Architecture de base E-Collecting](FIXME) tient compte des nouveaux enseignements acquis. En particulier, les variantes 1 et 3 ont été subdivisées respectivement en sous-variantes 1a/1b et 3a/3b.
+Le paramètre « Architecture de base » revêt une importance particulière en raison de sa complexité et de son impact sur les ressources financières et humaines, la sécurité, le calendrier de préparation des essais et, par conséquent, sur le soutien politique dont bénéficient ces essais. C'est pourquoi ce sujet est traité dans un document de travail distinct. Une première version de ce document a été publiée le 2 juillet 2026 sur la plateforme participative sous le titre « [Document de travail Architecture de base](https://github.com/swiss/e-collecting/raw/refs/heads/main/docs/morphological-box/parameter-13-base-architecture-working-document-FR.pdf) »  et a été examinée dans le cadre du processus participatif. Le présent document [Architecture de base E-Collecting](https://github.com/swiss/e-collecting/raw/refs/heads/main/docs/morphological-box/parameter-13-e-collecting-base-architecture-DE.pdf) tient compte des nouveaux enseignements acquis. En particulier, les variantes 1 et 3 ont été subdivisées respectivement en sous-variantes 1a/1b et 3a/3b.
 
 Les sept variantes ont été définies sur la base du hackathon et des discussions qui en ont découlé dans le cadre du processus participatif. Les propositions issues du hackathon qui ne concernent pas l'architecture de base seront prises en compte dans d'autres contextes en vue d'une mise en œuvre concrète de la récolte électronique de signatures.
 
@@ -18,7 +18,7 @@ Le document de travail comporte désormais une mise en perspective des sept vari
 **La discussion sur l'architecture de base a lieu [ici](https://github.com/swiss/e-collecting/issues/28).**
 
 Lien: [Document de travail](https://github.com/swiss/e-collecting/raw/refs/heads/main/docs/morphological-box/parameter-13-base-architecture-working-document-FR.pdf) (vieux) \
-Lien: [Architecture de base E-Collecting (allemand)](FIXME) (neuf)
+Lien: [Architecture de base E-Collecting (allemand)](https://github.com/swiss/e-collecting/raw/refs/heads/main/docs/morphological-box/parameter-13-e-collecting-base-architecture-DE.pdf) (neuf)
 
 ```mermaid
 block
@@ -58,7 +58,7 @@ block
 
 ## <a name="d-0"> Morphologischer Kasten: Parameter 13 - Grundarchitektur
 
-Der Parameter «Grundarchitektur» hat aufgrund seiner Komplexität und seiner Bedeutung für die finanziellen und personellen Aufwände, die Sicherheit, den zeitlichen Fortschritt bei der Vorbereitung der Versuche und damit für den politischen Rückhalt der Versuche per se eine besondere Bedeutung. Deshalb wird er im in einem gesonderten Arbeitspapier behandelt. Eine erste Version dieses Dokuments wurde unter dem Titel «[Arbeitspapier Grundarchitektur](https://github.com/swiss/e-collecting/raw/refs/heads/main/docs/morphological-box/parameter-13-base-architecture-working-document-DE.pdf)» am 2. 2026 Juli auf der E-Collecting-Partizipationsplattform veröffentlicht und im Rahmen des partizipativen Prozesses behandelt. Das vorliegende Dokument [Grundarchitektur E-Collecting](FIXME) bildet die neuen Erkenntnisse ab. Insbesondere wurden die bisherigen Varianten 1 und 3 in die Untervarianten 1a/1b beziehungsweise 3a/3b aufgeteilt.
+Der Parameter «Grundarchitektur» hat aufgrund seiner Komplexität und seiner Bedeutung für die finanziellen und personellen Aufwände, die Sicherheit, den zeitlichen Fortschritt bei der Vorbereitung der Versuche und damit für den politischen Rückhalt der Versuche per se eine besondere Bedeutung. Deshalb wird er im in einem gesonderten Arbeitspapier behandelt. Eine erste Version dieses Dokuments wurde unter dem Titel «[Arbeitspapier Grundarchitektur](https://github.com/swiss/e-collecting/raw/refs/heads/main/docs/morphological-box/parameter-13-base-architecture-working-document-DE.pdf)» am 2. 2026 Juli auf der E-Collecting-Partizipationsplattform veröffentlicht und im Rahmen des partizipativen Prozesses behandelt. Das vorliegende Dokument [Grundarchitektur E-Collecting](https://github.com/swiss/e-collecting/raw/refs/heads/main/docs/morphological-box/parameter-13-e-collecting-base-architecture-DE.pdf) bildet die neuen Erkenntnisse ab. Insbesondere wurden die bisherigen Varianten 1 und 3 in die Untervarianten 1a/1b beziehungsweise 3a/3b aufgeteilt.
 
 Die sieben Ausprägungen wurden auf der Grundlage des Hackathons und der darauf basierenden Gespräche im Rahmen des partizipativen Prozesses definiert. Vorschläge aus dem Hackathon, die nicht die Grundarchitektur beschlagen, werden in anderen Zusammenhängen mit Blick auf die konkrete Umsetzung von E-Collecting weiterverfolgt.
 
@@ -73,7 +73,7 @@ Neu enthält das Arbeitspapier eine Einordnung der sieben Umsetzungsvarianten im
 **Die Diskussion über die Grundarchitektur findet [hier](https://github.com/swiss/e-collecting/issues/28) statt.**
 
 Link: [Arbeitspapier Grundarchitektur](https://github.com/swiss/e-collecting/raw/refs/heads/main/docs/morphological-box/parameter-13-base-architecture-working-document-DE.pdf) (alt) \
-Link: [Grundarchitektur E-Collecting](FIXME) (neu) 
+Link: [Grundarchitektur E-Collecting](https://github.com/swiss/e-collecting/raw/refs/heads/main/docs/morphological-box/parameter-13-e-collecting-base-architecture-DE.pdf) (neu) 
 
 
 ```mermaid
