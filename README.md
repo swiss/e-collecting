@@ -31,15 +31,21 @@ La Chancellerie fédérale informe régulièrement quelles sont les nouveautés 
 ## <a name="f2-0">Actualités- 🗨️ Les discussions en cours 🗨️</a>
 
 
-Début juillet 2026, la Chancellerie fédérale a publié la troisième et, pour l'instant, dernière tranche de paramètres, y compris celui relatif aux architectures de base, dans le cadre du dialogue écrit. Ces paramètres font partie intégrante de ce que l’on appelle la [« boîte morphologique »](https://github.com/swiss/e-collecting/blob/main/docs/method/morphological-box.md), une méthode permettant de décomposer des problèmes techniques complexes en questions spécifiques.
+La Chancellerie fédérale a publié 15 paramètres de discussion entre mai 2025 et octobre 2026. Seuls quelques paramètres font apparaître une préférence claire pour une valeur spécifique. Les différents arguments mettent en évidence des conflits d’intérêts qui doivent être mis en balance. Les synthèses des discussions ont été publiées ici et les débats correspondants sont désormais clôturés.
 
-Au cours de cette troisième phase du dialogue en ligne, qui se poursuivra jusqu’à fin septembre, l’accent n’est plus uniquement mis sur la discussion des paramètres individuels. Il s’agit plutôt d’évaluer si la boîte morphologique offre, dans son ensemble, une présentation équilibrée des paramètres, des caractéristiques et des arguments pertinents. De plus, nous souhaitons connaître votre avis sur les caractéristiques que vous privilégiez pour chaque paramètre et les raisons qui motivent ce choix. Enfin, l’un des objectifs est également d’identifier les valeurs manquantes ou les paramètres non pris en compte jusqu’à présent, et de les intégrer à la boîte morphologique avec une description appropriée. Cela constituera un élément essentiel des bases sur lesquelles s'appuiera la Chancellerie fédérale pour choisir la variante de mise en oeuvre concernant l'organisation des essais de récolte électronique.
+En septembre, plusieurs nouveaux paramètres ont été proposés sur la plateforme de dialogue. Comme annoncé lors de la sixième manifestation en ligne, ceux-ci sont examinés et adaptés par la Chancellerie fédérale avant d’être publiés progressivement pour discussion. Nous vous invitons cordialement à participer activement aux débats en cours.
 
-Pour toutes ces questions, nous comptons sur votre collaboration. Nous vous invitons à participer activement.
+Paramètres en discussion :
 
-Le 6 octobre, nous ferons un bilan des discussions lors de la 6e événement en ligne. Les inscriptions sont [ouvertes](https://findmind.ch/c/PU3s-EZgp).
+* [13 - Architecture de base](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-13.md)
+* [14 - Niveau fédéral responsable de l’exploitation](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-14.md)
+* [15 - Limitation proportionnelle des signatures récoltées par voie numérique](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-15.md)
+* [16 - Retrait d’un objet soumis au vote populaire](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-16.md)
+* [17 - Émission d’une confirmation de réception de l’attestation de soutien](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-17.md)
 
-Liste des paramètres de la boîte morphologique :
+Le paramètre 13 de l'architecture de base est accompagné d'un [document séparé](https://github.com/swiss/e-collecting/raw/refs/heads/main/docs/morphological-box/parameter-13-base-architecture-working-document-FR.pdf).
+
+Paramètres avec discussion clôturée :
 
 * [1.1 - Saisie des signatures sur papier dans le système E-Collecting](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-1-1.md)
 * [1.2 - Traitement numérique des signatures sur papier dans le système E-Collecting](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-1-2.md)
@@ -55,20 +61,6 @@ Liste des paramètres de la boîte morphologique :
 * [10 - Mode de mise à disposition de l’application de récolte électronique](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-10.md)
 * [11 - Mesures visant à réduire la fracture numérique](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-11.md)
 * [12 - Logique de soutien des récoltes de signatures](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-12.md)
-* [13 - Architecture de base](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-13.md)
-* [14 - Niveau fédéral responsable de l’exploitation](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-14.md)
-* [15 - Limitation proportionnelle des signatures récoltées par voie numérique](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-15.md)
-* [16 - Retrait d’un objet soumis au vote populaire](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-16.md)
-* [17 - Émission d’une confirmation de réception de l’attestation de soutien](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-17.md)
-
-Le paramètre 13 de l'architecture de base est accompagné d'un [document séparé](https://github.com/swiss/e-collecting/raw/refs/heads/main/docs/morphological-box/parameter-13-base-architecture-working-document-FR.pdf).
-
-## <a name="f4-0">Chronologie</a>
-
-![Représentation graphique de la chronologie avec les étapes suivantes : représentation graphique du calendrier avec les étapes suivantes : 3e manifestation en ligne, publication des paramètres, 4e manifestation en ligne, publication du paramètre architecture de base, 5e manifestation en ligne, fin des la discussion sur les paramètres, poursuite du processus participatif et décision du chancelier fédéral sur les variantes](docs/timeline/timeline-fr-2026-05-13.png)
-
-_Description de l'image : représentation graphique du calendrier avec les étapes suivantes : 3e manifestation en ligne, publication des paramètres, 4e manifestation en ligne, publication du paramètre architecture de base, 5e manifestation en ligne, fin des la discussion sur les paramètres, poursuite du processus participatif et décision du chancelier fédéral sur les variantes_
-
 
 ## <a name="f5-0">Documentation</a>
 
@@ -139,15 +131,21 @@ Die Bundeskanzlei informiert mit ihrem E-Collecting Newsletter regelmässig übe
 
 ## <a name="d2-0">Aktuell</a> - 🗨️ Laufende Diskussionen 🗨️
 
-Anfang Juli 2026 hat die Bundeskanzlei die dritte und vorerst letzte Tranche von Parametern, einschliesslich des Parameters zu den Grundarchitekturen, im Rahmen des schriftlichen Dialogs publiziert. Die Parameter sind Bestandteile eines sogenannten ["Morphologischer Kasten"](https://github.com/swiss/e-collecting/blob/main/docs/method/morphological-box.md#d-0), einer Methode um komplexe technische Probleme in Einzelfragen zu unterteilen.
+Die Bundeskanzlei hat zwischen Mai 2025 und Oktober 2026 insgesamt 15 Parameter zur Diskussuion veröffentlicht. Nur bei wenigen Parametern ist eine eindeutige Präferenz für eine spezifische Ausprägung erkennbar. Die verschiedenen Argumente machen Interessenskonflikte transparent, die miteinander abgewogen werden müssen. Die Zusammenfassungen der Diskussionen wurden hier veröffentlicht und sind abgeschlossen.
 
-In dieser bis Ende September laufenden dritten Phase des Online-Dialogs steht nicht mehr nur die Diskussion einzelner Parameter im Vordergrund. Vielmehr soll auch beurteilt werden, ob der morphologische Kasten insgesamt eine ausgewogene Darstellung der relevanten Parameter, Ausprägungen und Argumente bietet. Darüber hinaus interessieren wir uns für Ihre Einschätzung, welche Ausprägungen Sie bei den einzelnen Parametern bevorzugen und aus welchen Gründen Sie dies tun. Schliesslich ist es auch ein Ziel, allfällige fehlende Ausprägungen oder bislang nicht berücksichtige Parameter zu identifizieren und mit einer entsprechenden Beschreibung in den morphologischen Kasten aufzunehmen. Dies wird einen wichtiger Bestandteil der Grundlagen für den Variantenentscheid der Bundeskanzlei über die Ausgestaltung der Versuche mit E-Collecting bilden.
+Im September wurden auf der Dialog-Plattform mehrere neue Parameter vorgeschlagen. Wie an der sechsten Online-Veranstaltung angekündigt, werden diese von der Bundeskanzlei gesichtet, angepasst und schrittweise zur Diskussion publiziert. Wir laden Sie herzlich sich ein, sich an den laufenden Diskussionen aktiv zu beteiligen. 
 
-Bei all diesen Fragen sind wir auf Ihre Mitarbeit angewiesen. Wir laden Sie ein, sich aktiv zu beteiligen. 
+Parameter in laufender Diskussion:
 
-Am 6. Oktober werden wir an der 6. Online-Veranstaltung eine Bilanz der Diskussionen ziehen. Die Registrierung ist [offen](https://findmind.ch/c/PU3s-EZgp).
+* [13 - Grundarchitektur](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-13.md?#d-0)
+* [14 - Für die Betriebsstelle zuständige föderale Ebene](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-14.md?#d-0)
+* [15 - Anteilsmässige Beschränkung digital gesammelter Unterschriften](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-15.md?#d-0)
+* [16 - Rückzug eines Volksbegehrens](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-16.md?#d-0)
+* [17 - Ausstellung einer Empfangsbestätigung der Untertstützungsbekundung](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-17.md?#d-0)
 
-Liste der Parameter des morphologischen Kastens:
+Der Parameter 13 zur Grundarchitektur wird von einem [separaten Dokument](https://github.com/swiss/e-collecting/raw/refs/heads/main/docs/morphological-box/parameter-13-base-architecture-working-document-DE.pdf) begleitet.
+
+Parameter mit abgeschlossener Diskussion:
 
 * [1.1 - Erfassung papierbasierter Unterschriften im E-Collecting-System](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-1-1.md)
 * [1.2 - Digitale Verarbeitung der papierbasierten Unterschrift im E-Collecting](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-1-2.md)
@@ -163,20 +161,6 @@ Liste der Parameter des morphologischen Kastens:
 * [10 - Bereitstellungsform der E-Collecting Anwendung](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-10.md?#d-0)
 * [11 - Massnahmen zum Ausgleich des Digital Divide](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-11.md?#d-0)
 * [12 - Unterstützungslogik von Unterschriftensammlungen](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-12.md?#d-0)
-* [13 - Grundarchitektur](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-13.md?#d-0)
-* [14 - Für die Betriebsstelle zuständige föderale Ebene](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-14.md?#d-0)
-* [15 - Anteilsmässige Beschränkung digital gesammelter Unterschriften](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-15.md?#d-0)
-* [16 - Rückzug eines Volksbegehrens](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-16.md?#d-0)
-* [17 - Ausstellung einer Empfangsbestätigung der Untertstützungsbekundung](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-17.md?#d-0)
-
-Der Parameter 13 zur Grundarchitektur wird von einem [separaten Dokument](https://github.com/swiss/e-collecting/raw/refs/heads/main/docs/morphological-box/parameter-13-base-architecture-working-document-DE.pdf) begleitet.
-
-
-## <a name="d4-0">Timeline</a>
-
-![Grafische Darstellung der Timeline mit den Stationen 3. Online-Veranstaltung, Publikation Parameter, 4. Online-Veranstaltung, Publikation des Parameters Grundarchitektur, 5. Online-Veranstaltung, Ende der Diskussion zu Parametern, weiterer partizipativer Prozess und Variantenentscheid Bundeskanzler](docs/timeline/timeline-de-2026-05-13.png)
-
-_Bildbeschreibung: Grafische Darstellung der Timeline mit den Stationen 3. Online-Veranstaltung, Publikation Parameter, 4. Online-Veranstaltung, Publikation des Parameters Grundarchitektur, 5. Online-Veranstaltung, Ende der Diskussion zu Parametern, weiterer partizipativer Prozess und Variantenentscheid Bundeskanzler_
 
 ## <a name="d5-0">Dokumente</a>
 
