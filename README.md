@@ -31,7 +31,7 @@ La Chancellerie fédérale informe régulièrement quelles sont les nouveautés 
 ## <a name="f2-0">Actualités- 🗨️ Les discussions en cours 🗨️</a>
 
 
-La Chancellerie fédérale a publié 15 paramètres de discussion entre mai 2025 et octobre 2026. Seuls quelques paramètres font apparaître une préférence claire pour une valeur spécifique. Les différents arguments mettent en évidence des conflits d’intérêts qui doivent être mis en balance. Les synthèses des discussions ont été publiées ici et les débats correspondants sont désormais clôturés.
+La Chancellerie fédérale a publié 15 paramètres de discussion entre mai 2025 et octobre 2026. Seuls quelques paramètres font apparaître une préférence claire pour une valeur spécifique. Les différents arguments mettent en évidence des conflits d’intérêts qui doivent être mis en balance. Les synthèses des discussions ont été publiées [ici](https://github.com/swiss/e-collecting/blob/main/docs/summaries/second-summary-online-dialogue-parameters-1-13.md) et les débats correspondants sont désormais clôturés.
 
 En septembre, plusieurs nouveaux paramètres ont été proposés sur la plateforme de dialogue. Comme annoncé lors de la sixième manifestation en ligne, ceux-ci sont examinés et adaptés par la Chancellerie fédérale avant d’être publiés progressivement pour discussion. Nous vous invitons cordialement à participer activement aux débats en cours.
 
@@ -131,7 +131,7 @@ Die Bundeskanzlei informiert mit ihrem E-Collecting Newsletter regelmässig übe
 
 ## <a name="d2-0">Aktuell</a> - 🗨️ Laufende Diskussionen 🗨️
 
-Die Bundeskanzlei hat zwischen Mai 2025 und Oktober 2026 insgesamt 15 Parameter zur Diskussuion veröffentlicht. Nur bei wenigen Parametern ist eine eindeutige Präferenz für eine spezifische Ausprägung erkennbar. Die verschiedenen Argumente machen Interessenskonflikte transparent, die miteinander abgewogen werden müssen. Die Zusammenfassungen der Diskussionen wurden hier veröffentlicht und sind abgeschlossen.
+Die Bundeskanzlei hat zwischen Mai 2025 und Oktober 2026 insgesamt 15 Parameter zur Diskussuion veröffentlicht. Nur bei wenigen Parametern ist eine eindeutige Präferenz für eine spezifische Ausprägung erkennbar. Die verschiedenen Argumente machen Interessenskonflikte transparent, die miteinander abgewogen werden müssen. Die Zusammenfassungen der Diskussionen wurden [hier](https://github.com/swiss/e-collecting/blob/main/docs/summaries/second-summary-online-dialogue-parameters-1-13.md#d-0) veröffentlicht und sind abgeschlossen.
 
 Im September wurden auf der Dialog-Plattform mehrere neue Parameter vorgeschlagen. Wie an der sechsten Online-Veranstaltung angekündigt, werden diese von der Bundeskanzlei gesichtet, angepasst und schrittweise zur Diskussion publiziert. Wir laden Sie herzlich sich ein, sich an den laufenden Diskussionen aktiv zu beteiligen. 
 
