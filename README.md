@@ -6,7 +6,6 @@ _[Deutsche Version](#d0-0)_
 
 * [Introduction à la platforme](#f1-0)
 * [Actualités- 🗨️ Les discussions en cours 🗨️](#f2-0)
-* [Chronologie](#f4-0)
 * [Documentation](#f5-0)
   * [Document du processus participatif à l’E-Collecting](#f5-1)
   * [Autres documents sur l’E-Collecting](#f5-2)
@@ -102,7 +101,6 @@ Consultez les archives du newsletter E-Collecting [ici](https://github.com/swiss
 
 * [Einführung zur Plattform](#d1-0)
 * [Aktuell - 🗨️ Laufende Diskussionen 🗨️](#d2-0)
-* [Timeline](#d4-0)
 * [Dokumente](#d5-0)
   * [Dokumente des partizipativen Prozesses E-Collecting](#d5-1)
   * [Weitere Dokumente zu E-Collecting](#d5-2)
