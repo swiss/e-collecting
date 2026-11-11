@@ -1,6 +1,6 @@
 _[Deutsche Version](#d-0)_
 
-## Boîte morphologique : Paramètre 16 - Arrêt d’un objet soumis au vote populaire
+## Boîte morphologique : Paramètre 16 - Arrêt d’une récolte de signature
 
 Conformément à la loi, les initiatives populaires sont portées par des comités d’initiative. Pendant la période de récolte, le comité peut décider de suspendre la collecte des signatures et de ne pas déposer les soutiens recueillis. Si le délai de récolte expire sans avoir été utilisé, l’initiative populaire est enregistrée dans la chronologie des initiatives populaires comme n’ayant pas abouti. Si le comité souhaite mettre fin prématurément à la période de récolte, il peut déposer les signatures déjà recueillies, même en nombre insuffisant. Le dépôt met fin à la période de récolte et la Chancellerie fédérale constate alors officiellement le non-aboutissement de l’initiative populaire.
 
@@ -15,8 +15,7 @@ Les questions abordées dans ce paramètre ont également été traitées dans u
 
 **La discussion à ce sujet a lieu [ici](https://github.com/swiss/e-collecting/issues/48).**
 
-[Edit: Le nom de ce paramètre a été modifié de "Retrait d’un objet soumis au vote populaire" à "Arrêt d’un objet soumis au vote populaire". Le texte a également été mis à jour.]
-
+[Edit: Le nom de ce paramètre a été modifié de « Retrait d’un objet soumis au vote populaire » à « Arrêt d’une récolte de signature ». Le texte a également été mis à jour.]
 
 
 ```mermaid
@@ -104,7 +103,7 @@ Die Fragen in diesem Parameter wurden auch in einem alternativen Parameter-Vorsc
 
 **Die Diskussion hiezu findet [hier](https://github.com/swiss/e-collecting/issues/48) statt.**
 
-[Edit: Der Titel dieses Parameters wurde von "Rückzug eines Volksbegehrens" zu "Abbruch eines Volksbegehrens" verändert. Der Text wurde ebenfalls nachgezogen.]
+[Edit: Der Titel dieses Parameters wurde von «Rückzug eines Volksbegehrens» zu «Abbruch der Unterschriftensammlung» verändert. Der Text wurde ebenfalls nachgezogen.]
 
 ```mermaid
 block
