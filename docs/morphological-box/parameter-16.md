@@ -1,6 +1,6 @@
 _[Deutsche Version](#d-0)_
 
-## Boîte morphologique : Paramètre 16 - Retrait d’un objet soumis au vote populaire
+## Boîte morphologique : Paramètre 16 - Arrêt d’un objet soumis au vote populaire
 
 Conformément à la loi, les initiatives populaires sont portées par des comités d’initiative. Pendant la période de récolte, le comité peut décider de suspendre la collecte des signatures et de ne pas déposer les soutiens recueillis. Si le délai de récolte expire sans avoir été utilisé, l’initiative populaire est enregistrée dans la chronologie des initiatives populaires comme n’ayant pas abouti. Si le comité souhaite mettre fin prématurément à la période de récolte, il peut déposer les signatures déjà recueillies, même en nombre insuffisant. Le dépôt met fin à la période de récolte et la Chancellerie fédérale constate alors officiellement le non-aboutissement de l’initiative populaire.
 
@@ -86,7 +86,7 @@ block
   end
 ```
 
-## <a name="d-0"> Morphologischer Kasten: Parameter 16 - Rückzug eines Volksbegehrens
+## <a name="d-0"> Morphologischer Kasten: Parameter 16 - Abbruch eines Volksbegehrens
 
 Hinter Volksinitiativen stehen gemäss Gesetz Initiativkomitees. Während der Sammelphase können diese entscheiden, die Unterschriftensammlung ruhen zu lassen und die gesammelten Unterstützungsbekundungen nicht einzureichen. Mit unbenutztem Ablauf der Sammelfrist wird die Volksinitiative in der Chronologie Volksinitiativen als «Nicht-Zustandegekommen» erfasst. Falls das Komitee die Sammelfrist vorzeitig abbrechen will, so kann es die bisher gesammelten Unterschriften einreichen (oder auch nur eine davon). Das beendet die Sammelfrist und die Bundeskanzlei stellt dann das Nicht-Zustandekommen der Volksinitiative fest.
 
