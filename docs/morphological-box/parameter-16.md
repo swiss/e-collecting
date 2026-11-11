@@ -14,7 +14,11 @@ Si des données relatives aux récoltes électroniques sont publiées (voir [Par
 Les questions abordées dans ce paramètre ont également été traitées dans une proposition alternative de paramètre (voir [NEU Parameter N-23-2 - Formeller Rückzug einer Initiative](https://github.com/swiss/e-collecting/issues/40)). La Chancellerie fédérale a adapté et complété cette proposition pour la présente publication.
 
 **La discussion à ce sujet a lieu [ici](https://github.com/swiss/e-collecting/issues/48).**
- 
+
+[Edit: Le nom de ce paramètre a été modifié de "Retrait d’un objet soumis au vote populaire" à "Arrêt d’un objet soumis au vote populaire". Le texte a également été mis à jour.]
+
+
+
 ```mermaid
 block
   block
@@ -99,6 +103,8 @@ Werden Daten zu elektronischen Sammlungen publiziert (siehe [Parameter 5 – Anz
 Die Fragen in diesem Parameter wurden auch in einem alternativen Parameter-Vorschlag (siehe [NEU Parameter N-23-2 - Formeller Rückzug einer Initiative](https://github.com/swiss/e-collecting/issues/40)) thematisiert. Die Bundeskanzlei hat den Vorschlag für die vorliegende Veröffentlichung angepasst und ergänzt.
 
 **Die Diskussion hiezu findet [hier](https://github.com/swiss/e-collecting/issues/48) statt.**
+
+[Edit: Der Titel dieses Parameters wurde von "Rückzug eines Volksbegehrens" zu "Abbruch eines Volksbegehrens" verändert. Der Text wurde ebenfalls nachgezogen.]
 
 ```mermaid
 block
