@@ -13,9 +13,8 @@ Si des données relatives aux récoltes électroniques sont publiées (voir [Par
 
 Les questions abordées dans ce paramètre ont également été traitées dans une proposition alternative de paramètre (voir [NEU Parameter N-23-2 - Formeller Rückzug einer Initiative](https://github.com/swiss/e-collecting/issues/40)). La Chancellerie fédérale a adapté et complété cette proposition pour la présente publication.
 
-**La discussion sur l'architecture de base a lieu [ici](https://github.com/swiss/e-collecting/issues/48).**
-
-
+**La discussion à ce sujet a lieu [ici](https://github.com/swiss/e-collecting/issues/48).**
+ 
 ```mermaid
 block
   block
@@ -99,7 +98,7 @@ Werden Daten zu elektronischen Sammlungen publiziert (siehe [Parameter 5 – Anz
 
 Die Fragen in diesem Parameter wurden auch in einem alternativen Parameter-Vorschlag (siehe [NEU Parameter N-23-2 - Formeller Rückzug einer Initiative](https://github.com/swiss/e-collecting/issues/40)) thematisiert. Die Bundeskanzlei hat den Vorschlag für die vorliegende Veröffentlichung angepasst und ergänzt.
 
-**Die Diskussion über die Grundarchitektur findet [hier](https://github.com/swiss/e-collecting/issues/48) statt.**
+**Die Diskussion hiezu findet [hier](https://github.com/swiss/e-collecting/issues/48) statt.**
 
 ```mermaid
 block
