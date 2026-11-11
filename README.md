@@ -39,7 +39,7 @@ Paramètres en discussion :
 * [13 - Architecture de base](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-13.md)
 * [14 - Niveau fédéral responsable de l’exploitation](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-14.md)
 * [15 - Limitation proportionnelle des signatures récoltées par voie numérique](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-15.md)
-* [16 - Arrêt d’un objet soumis au vote populaire](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-16.md)
+* [16 - Arrêt d’une récolte de signature](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-16.md)
 * [17 - Émission d’une confirmation de réception de l’attestation de soutien](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-17.md)
 
 Le paramètre 13 de l'architecture de base est accompagné d'un [document séparé](https://github.com/swiss/e-collecting/raw/refs/heads/main/docs/morphological-box/parameter-13-base-architecture-working-document-FR.pdf).
@@ -138,7 +138,7 @@ Parameter in laufender Diskussion:
 * [13 - Grundarchitektur](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-13.md?#d-0)
 * [14 - Für die Betriebsstelle zuständige föderale Ebene](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-14.md?#d-0)
 * [15 - Anteilsmässige Beschränkung digital gesammelter Unterschriften](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-15.md?#d-0)
-* [16 - Abbruch eines Volksbegehrens](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-16.md?#d-0)
+* [16 - Abbruch der Untershriftensammlung](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-16.md?#d-0)
 * [17 - Ausstellung einer Empfangsbestätigung der Untertstützungsbekundung](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-17.md?#d-0)
 
 Der Parameter 13 zur Grundarchitektur wird von einem [separaten Dokument](https://github.com/swiss/e-collecting/raw/refs/heads/main/docs/morphological-box/parameter-13-base-architecture-working-document-DE.pdf) begleitet.
