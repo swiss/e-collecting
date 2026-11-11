@@ -14,7 +14,7 @@ Il convient également de tenir compte du fait que des confirmations pourraient 
 Les questions abordées dans ce paramètre ont également été traitées dans une proposition alternative de paramètre ([NEU Parameter N-19 - Empfangsbestätigung](https://github.com/swiss/e-collecting/issues/34)). La Chancellerie fédérale a adapté et complété cette proposition pour la présente publication.
 
 
-**La discussion sur l'architecture de base a lieu [ici](https://github.com/swiss/e-collecting/issues/49).**
+**La discussion à ce sujet a lieu [ici](https://github.com/swiss/e-collecting/issues/49).**
 
 
 ```mermaid
@@ -105,7 +105,7 @@ Neben diesen Überlegungen ist zu berücksichtigen, dass Bestätigungen verwende
 
 Die Fragen in diesem Parameter wurden auch in einem alternativen Parameter-Vorschlag ([NEU Parameter N-19 - Empfangsbestätigung](https://github.com/swiss/e-collecting/issues/34)) thematisiert. Die Bundeskanzlei hat den Vorschlag für die vorliegende Veröffentlichung angepasst und ergänzt.
 
-**Die Diskussion über die Grundarchitektur findet [hier](https://github.com/swiss/e-collecting/issues/49) statt.**
+**Die Diskussion hiezu findet [hier](https://github.com/swiss/e-collecting/issues/49) statt.**
 
 
 ```mermaid
