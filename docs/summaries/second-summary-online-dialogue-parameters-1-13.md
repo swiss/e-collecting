@@ -40,6 +40,7 @@ Ils ont également proposé de séparer la saisie de la vérification des signat
  
 * [Description du paramètre sur la plateforme](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-1-2.md)
 * [Lien vers la discussion](https://github.com/swiss/e-collecting/issues/13)
+* [Résultats des discussions de groupe sur ce paramètre (4e manifestation en ligne)](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-param%C3%A8tre-12--traitement-num%C3%A9rique-de-la-signature-manuscrite-dans-le-syst%C3%A8me-e-collecting)
  
 Participation : 10 contributions de 5 personnes, état au 25.09.2026
  
@@ -79,6 +80,7 @@ Aucune tendance claire en faveur d’une variante particulière ne se dégage de
  
 * [Description du paramètre sur la plateforme](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-1-3.md)
 * [Lien vers la discussion](https://github.com/swiss/e-collecting/issues/14)
+* [Résultats des discussions de groupe sur ce paramètre (4e manifestation en ligne)](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-param%C3%A8tre-13--traitement-des-signatures-manuscrites-apr%C3%A8s-leur-%C3%A9ventuelle-remise)
  
 Participation : 6 contributions de 5 personnes, état au 25.09.2026
  
@@ -122,6 +124,7 @@ Aucune tendance claire en faveur d’une variante particulière ne ressort des d
 * [Description du paramètre sur la plateforme](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-2.md)
 * [Lien vers la discussionparamètre 2](https://github.com/swiss/e-collecting/issues/15)
 * [Lien vers la discussion issue 3](https://github.com/swiss/e-collecting/issues/3)
+* [Résultats des discussions de groupe sur ce paramètre (4e manifestation en ligne)](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-parameter-2-pr%C3%A9sentation-des-requ%C3%AAtes-populaires-en-cours)
  
 Participation à la discussion sur le paramètre : 4 contributions de 4 personnes, état au 25.09.2026 
 Participation à la discussion en ligne (Issue 3) : 15 contributions de 10 personnes, état au 17.03.2026
@@ -163,6 +166,7 @@ Aucune tendance claire en faveur d’une variante spécifique ne se dégage.
  
 * [Description du paramètre sur la plateforme](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-3.md)
 * [Lien vers la discussion](https://github.com/swiss/e-collecting/issues/16)
+* [Résultats des discussions de groupe sur ce paramètre (4e manifestation en ligne)](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-param%C3%A8tre-3-possibilit%C3%A9-dajouter-des-commentaires-dans-le-syst%C3%A8me-e-collecting)
  
 Participation : 6 contributions de 5 personnes, état au 25.09.2026
  
@@ -199,6 +203,7 @@ Une tendance apparaît en faveur des variantes 1 et 2. Aucune préférence nette
 ## Paramètre 4 : Attribution des manifestations de soutien
 * [Description du paramètre sur la plateforme](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-4.md)<br>
 * [Lien vers la discussion](https://github.com/swiss/e-collecting/issues/17)
+* [Résultats des discussions de groupe sur ce paramètre (4e manifestation en ligne)](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-param%C3%A8tre-4--classification-des-d%C3%A9clarations-de-soutien)
 
 Participation : 7 contributions de 7 personnes, état au 25.09.2026
 
@@ -235,6 +240,7 @@ attribution des manifestations de soutien aux organisations chargées de la coll
 ## Paramètre 5 : Affichage du nombre de signatures recueillies à ce jour
 * [Description du paramètre sur la plateforme](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-5.md)<br>
 * [Lien vers la discussion](https://github.com/swiss/e-collecting/issues/18)
+* [Résultats des discussions de groupe sur ce paramètre (4e manifestation en ligne)](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-param%C3%A8tre-5-affichage-du-nombre-de-signatures-recueillies-%C3%A0-ce-jour)
 
 Participation : 8 contributions de 7 personnes, état au 25.09.2026
 
@@ -275,6 +281,7 @@ particulière.
 ## Paramètre 6 : Utilisation du système d’E-Collecting aux trois niveaux fédéraux
 * [Description du paramètre sur la plateforme](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-6.md)<br>
 * [Lien vers la discussion](https://github.com/swiss/e-collecting/issues/19)
+* [Résultats des discussions de groupe sur ce paramètre (4e manifestation en ligne)](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-param%C3%A8tre-6--mise-en-%C5%93uvre-du-syst%C3%A8me-e-collecting-aux-trois-niveaux-f%C3%A9d%C3%A9raux) 
 
 Participation : 4 contributions de 4 personnes, état au 25.09.2026
 
@@ -306,6 +313,7 @@ Dans plusieurs contributions, une conception du système d’E-Collecting pouvan
 
 * [Description du paramètre sur la plateforme](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-7.md)<br>
 * [Lien vers la discussion](https://github.com/swiss/e-collecting/issues/20)
+* [Résultats des discussions de groupe sur ce paramètre (4e manifestation en ligne)](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-param%C3%A8tre-7--conditions-administratives-requises-pour-participer-aux-essais-de-collecting)
 
 Participation : 3 contributions de 3 personnes, état au 25.09.2026
 
@@ -332,6 +340,7 @@ Une majorité rejette un opt-out pour l’accès à l’E-Collecting.
 
 * [Description du paramètre sur la plateforme](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-8.md)<br>
 * [Lien vers la discussion](https://github.com/swiss/e-collecting/issues/21)
+* [Résultats des discussions de groupe sur ce paramètre (4e manifestation en ligne)](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-param%C3%A8tre-8-garantir-un-d%C3%A9lai-de-r%C3%A9flexion-avant-lenvoi-de-la-d%C3%A9claration-de-soutien)
 
 Participation : 4 contributions de 4 personnes, état au 25.09.2026
 
