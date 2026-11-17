@@ -101,7 +101,7 @@ Werden Daten zu elektronischen Sammlungen publiziert (siehe [Parameter 5 – Anz
 
 Die Fragen in diesem Parameter wurden auch in einem alternativen Parameter-Vorschlag (siehe [NEU Parameter N-23-2 - Formeller Rückzug einer Initiative](https://github.com/swiss/e-collecting/issues/40)) thematisiert. Die Bundeskanzlei hat den Vorschlag für die vorliegende Veröffentlichung angepasst und ergänzt.
 
-**Die Diskussion hiezu findet [hier](https://github.com/swiss/e-collecting/issues/48) statt.**
+**Die Diskussion findet [hier](https://github.com/swiss/e-collecting/issues/48) statt.**
 
 [Edit: Der Titel dieses Parameters wurde von «Rückzug eines Volksbegehrens» zu «Abbruch der Unterschriftensammlung» verändert. Der Text wurde ebenfalls nachgezogen.]
 
