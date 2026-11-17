@@ -6,6 +6,7 @@ _[Deutsche Version](#d-0)_
  
 * [Description du paramètre sur la plateforme](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-1-1.md)
 * [Lien vers la discussion](https://github.com/swiss/e-collecting/issues/12)
+* [Résultats des discussions de groupe sur ce paramètre (4e manifestation en ligne)](https://github.com/swiss/e-collecting/blob/main/docs/summaries/summary-4th-online-event.md#-param%C3%A8tre-11--saisie-des-signatures-sur-papier-dans-le-syst%C3%A8me-e-collecting)
  
 Participation : 8 contributions de 6 personnes, état au 25.09.2026
  
