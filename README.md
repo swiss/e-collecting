@@ -138,7 +138,7 @@ Parameter in laufender Diskussion:
 * [13 - Grundarchitektur](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-13.md?#d-0)
 * [14 - Für die Betriebsstelle zuständige föderale Ebene](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-14.md?#d-0)
 * [15 - Anteilsmässige Beschränkung digital gesammelter Unterschriften](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-15.md?#d-0)
-* [16 - Abbruch der Untershriftensammlung](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-16.md?#d-0)
+* [16 - Abbruch der Unterschriftensammlung](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-16.md?#d-0)
 * [17 - Ausstellung einer Empfangsbestätigung der Untertstützungsbekundung](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-17.md?#d-0)
 
 Der Parameter 13 zur Grundarchitektur wird von einem [separaten Dokument](https://github.com/swiss/e-collecting/raw/refs/heads/main/docs/morphological-box/parameter-13-base-architecture-working-document-DE.pdf) begleitet.
