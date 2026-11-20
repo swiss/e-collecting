@@ -34,6 +34,8 @@ La Chancellerie fédérale a publié 15 paramètres de discussion entre mai 2025
 
 En septembre, plusieurs nouveaux paramètres ont été proposés sur la plateforme de dialogue. Comme annoncé lors de la sixième manifestation en ligne, ceux-ci sont examinés et adaptés par la Chancellerie fédérale avant d’être publiés progressivement pour discussion. Nous vous invitons cordialement à participer activement aux débats en cours.
 
+**Le calendrier communiqué début octobre prévoit qu'une décision concernant la variante de base de l'architecture d'E-Collecting soit prise fin novembre. La Chancellerie fédérale estime toujours être en bonne voie pour prendre cette décision comme prévu. Elle la communiquera au cours de la première quinzaine de décembre.**
+
 Paramètres en discussion :
 
 * [13 - Architecture de base](https://github.com/swiss/e-collecting/blob/main/docs/morphological-box/parameter-13.md)
@@ -132,6 +134,8 @@ Die Bundeskanzlei informiert mit ihrem E-Collecting Newsletter regelmässig übe
 Die Bundeskanzlei hat zwischen Mai 2025 und Oktober 2026 insgesamt 15 Parameter zur Diskussuion veröffentlicht. Nur bei wenigen Parametern ist eine eindeutige Präferenz für eine spezifische Ausprägung erkennbar. Die verschiedenen Argumente machen Interessenskonflikte transparent, die miteinander abgewogen werden müssen. Die Zusammenfassungen der Diskussionen wurden [hier](https://github.com/swiss/e-collecting/blob/main/docs/summaries/second-summary-online-dialogue-parameters-1-13.md#d-0) veröffentlicht und sind abgeschlossen.
 
 Im September wurden auf der Dialog-Plattform mehrere neue Parameter vorgeschlagen. Wie an der sechsten Online-Veranstaltung angekündigt, werden diese von der Bundeskanzlei gesichtet, angepasst und schrittweise zur Diskussion publiziert. Wir laden Sie herzlich sich ein, sich an den laufenden Diskussionen aktiv zu beteiligen. 
+
+**Der Anfang Oktober kommunizierte Zeitplan sieht einen Entscheid zur E-Collecting Architekturgrundvariante Ende November vor. Die Bundeskanzlei sieht sich nach wie vor auf Kurs, diesen Entscheid wie geplant fällen zu können. Sie wird ihn in der ersten Hälfte Dezember kommunizieren.**
 
 Parameter in laufender Diskussion:
 
