@@ -18,7 +18,7 @@ Le document de travail comporte désormais une mise en perspective des sept vari
 **La discussion sur l'architecture de base a lieu [ici](https://github.com/swiss/e-collecting/issues/28).**
 
 Lien: [Document de travail](https://github.com/swiss/e-collecting/raw/refs/heads/main/docs/morphological-box/parameter-13-base-architecture-working-document-FR.pdf) (vieux) \
-Lien: [E-Collecting Architecture de base (allemand)](https://github.com/swiss/e-collecting/raw/refs/heads/main/docs/morphological-box/parameter-13-e-collecting-base-architecture-FR.pdf) (neuf)
+Lien: [E-Collecting Architecture de base](https://github.com/swiss/e-collecting/raw/refs/heads/main/docs/morphological-box/parameter-13-e-collecting-base-architecture-FR.pdf) (neuf)
 
 ```mermaid
 block
